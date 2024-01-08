@@ -1,0 +1,23 @@
+---
+layout: "layouts/base.njk"
+keywords: "Politik, Philosophie, Ideologie, Energiewende"
+---
+
+<div class="row mt-4">
+    <b>Blogbeiträge</b>
+</div>
+{% for post in collections.post | reverse %}
+<div class="card mt-1">
+    <div class="card-header">
+        <a href="{{ post.url | url }}">Blogbeitrag vom {{ post.data.date | dateIso }} von {{ post.data.author }}</a>
+    </div>
+    <div class="card-body">
+        <blockquote class="blockquote mb-0">
+            <p>{{ post.data.title }}</p>
+{% if post.data.description %}
+            <footer class="blockquote-footer">{{ post.data.description }}</footer>
+{% endif %}
+        </blockquote>
+    </div>
+</div>
+{% endfor %}

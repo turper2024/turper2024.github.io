@@ -1,0 +1,19 @@
+{
+  "title": "Turmalin Peridot",
+  "url": "https://turper2024.github.io/",
+  "description": "Blog über Dinge die das Leben bewegen.",
+  "feed": {
+    "subtitle": "Ich schreibe über Dinge die das Leben bewegen.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https://turper2024.github.io/feed/feed.xml",
+    "id": "https://turper2024.github.io/"
+  },
+  "author": {
+    "name": "Turmalin Peridot",
+    "email": "@turmalin.peridot:matrix.org"
+  },
+
+  "lang": "de",
+  "locale": "de_DE"
+}

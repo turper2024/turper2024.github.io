@@ -1,0 +1,35 @@
+{
+  "name": "turper2024.github.io",
+  "version": "1.0.0",
+  "description": "Turmalin Peridot Site",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass scss:./src/assets/css",
+    "dev": "eleventy --serve",
+    "build": "npm run sass && rm -rf _site && NODE_ENV=production npm run build_",
+    "build_": "eleventy",
+    "deploy": "npm run build && npm run deploy_",
+    "deploy_": "git subtree push --prefix _site origin gh-pages",
+    "ncu": "npm-check-updates --target minor",
+    "ncu-u": "npm-check-updates --target minor -u"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "bootstrap": "^5.3.2",
+    "eleventy-plugin-dynamic-categories": "^0.1.5",
+    "eleventy-plugin-nesting-toc": "^1.3.0",
+    "luxon": "^3.4.4",
+    "markdown-it": "^14.0.0",
+    "markdown-it-anchor": "^8.6.7",
+    "markdown-it-emoji": "^2.0.2",
+    "markdown-it-footnote": "^4.0.0",
+    "moment": "^2.30.1",
+    "npm-check-updates": "^16.14.12",
+    "require-esm-in-cjs": "^0.1.0",
+    "sass": "^1.69.7"
+  }
+}

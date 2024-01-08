@@ -1,0 +1,92 @@
+{% set absoluteUrl %}{{ page.url | url | absoluteUrl(metadata.url) }}{% endset %}
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,shrink-to-fit=no">
+
+    <title>{{ title or metadata.title }}</title>
+
+    <meta name="description" content="{{ description or metadata.description }}">
+
+{% if keywords %}
+    <meta name="keywords" content="{{ keywords or "" }}">
+{% endif %}
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="ROBOTS" content="INDEX, FOLLOW">
+
+    <meta property="og:title" content="{{ title or metadata.title }}">
+    <meta property="og:description" content="{{ description or metadata.description }}">
+{% block blockHeader %}
+    <meta property="og:type" content="website">
+{% endblock blockHeader %}
+    <meta property="og:url" content="https://turper2024.github.io{{ page.url }}">
+    <meta property="og:updated_time" content="{{ page.date | dateIso }}">
+
+    <meta itemprop="name" content="{{ title or metadata.title }}">
+    <meta itemprop="description" content="{{ description or metadata.description }}">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ title or metadata.title }}">
+    <meta name="twitter:description" content="{{ description or metadata.description }}">
+
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/rss+xml" title="{{ metadata.title }}">
+
+    <link rel="canonical" href="{{ absoluteUrl }}">
+
+    <link href="/css/custom.css" rel="stylesheet"/>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</head>
+<body style="display: flex; flex-direction: column; min-height: 100vh; overflow-y: auto; scrollbar-gutter: stable;  background-color: #ffffeb;">
+<header class="container">
+    <div class="col w-100 mb-2" style="display: inline-block; flex-wrap: wrap; max-height: 5rem;">
+        <a href="/" style="text-decoration: none">
+            <div class="d-flex flex-row" >
+                <div class="col px-2" >
+                    <img src="/android-chrome-256x256.png" style="height: 5rem; float: left;" alt="Turmalin Peridot Logo">
+                </div>
+                <div class="col px-2" style="flex-grow: 100">
+                    <h1 class="text-body" style="display: inline; text-align: center; line-height: 80px;" >Turmalin Peridot</h1>
+                </div>
+            </div>
+        </a>
+    </div>
+</header>
+{% block content %}
+<main class="container" style="flex-grow: 100;">
+{{ content | safe }}
+</main>
+{% endblock content %}
+
+<footer class="container" >
+    <div class="row">
+        <div class="d-flex w-100">
+            <a href="https://medium.com/@turmalin.peridot" target="about:blank">https://medium.com/@turmalin.peridot</a>
+            <div class="ms-auto text-right">
+                <a href="/feed/feed.xml" title="Atom Feed"><svg class="icon icon--feed" role="img" aria-hidden="true" width="24" height="24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons.svg#icon-feed"></use></svg></a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="d-flex w-100 mb-4">
+            <a href="matrix:{{ metadata.author.email }}">{{ metadata.author.email }}</a>
+            <div class="ms-auto text-right">&nbsp;</div>
+        </div>
+    </div>
+</footer>
+
+
+</body>
+</html>
