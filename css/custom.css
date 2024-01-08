@@ -11861,4 +11861,10 @@ textarea.form-control-lg {
   line-height: 1;
 }
 
+blockquote {
+  margin-left: 3rem;
+  padding-left: 8px;
+  box-shadow: rgb(36, 36, 36) 2px 0px 0px 0px inset;
+}
+
 /*# sourceMappingURL=custom.css.map */
