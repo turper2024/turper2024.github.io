@@ -4,39 +4,19 @@
         <title>Turmalin Peridot</title>
         <description>Blog über Dinge die das Leben bewegen.</description>
         <link>https://turper2024.github.io/</link>
-        <lastBuildDate>Sat, 01 Jan 2022 01:00:00 +0100</lastBuildDate>
-        <pubDate>Sat, 01 Jan 2022 01:00:00 +0100</pubDate>
+        <lastBuildDate>Sat, 21 Oct 2023 02:00:00 +0200</lastBuildDate>
+        <pubDate>Sat, 21 Oct 2023 02:00:00 +0200</pubDate>
         <language>de</language>
         <atom:link href="https://turper2024.github.io/feed/feed.xml" rel="self" type="application/rss+xml"/>
             
             <item>
-                <guid isPermaLink="true">https://turper2024.github.io/posts/my-first-blog-post/</guid>
-                <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
-                <link>https://turper2024.github.io/posts/my-first-blog-post/</link>
-                <atom:link rel="alternate" type="text/html" href="https://turper2024.github.io/posts/my-first-blog-post/"/>
-                <title>My First Blog Post</title>
-                <description>This is a description of my first blog post. It&#39;s a little short, but that&#39;s okay.</description>
-                <content:encoded><![CDATA[<a href="https://turper2024.github.io/posts/my-first-blog-post/">My First Blog Post</a>]]></content:encoded>
-            </item>
-            
-            <item>
-                <guid isPermaLink="true">https://turper2024.github.io/posts/my-third-post/</guid>
-                <pubDate>Wed, 05 May 2021 00:00:00 +0200</pubDate>
-                <link>https://turper2024.github.io/posts/my-third-post/</link>
-                <atom:link rel="alternate" type="text/html" href="https://turper2024.github.io/posts/my-third-post/"/>
-                <title>My Third Blog Post</title>
-                <description></description>
-                <content:encoded><![CDATA[<a href="https://turper2024.github.io/posts/my-third-post/">My Third Blog Post</a>]]></content:encoded>
-            </item>
-            
-            <item>
-                <guid isPermaLink="true">https://turper2024.github.io/posts/my-second-blog-post/</guid>
-                <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
-                <link>https://turper2024.github.io/posts/my-second-blog-post/</link>
-                <atom:link rel="alternate" type="text/html" href="https://turper2024.github.io/posts/my-second-blog-post/"/>
-                <title>My Second Blog Post</title>
-                <description></description>
-                <content:encoded><![CDATA[<a href="https://turper2024.github.io/posts/my-second-blog-post/">My Second Blog Post</a>]]></content:encoded>
+                <guid isPermaLink="true">https://turper2024.github.io/posts/energiewende/</guid>
+                <pubDate>Sat, 21 Oct 2023 00:00:00 +0200</pubDate>
+                <link>https://turper2024.github.io/posts/energiewende/</link>
+                <atom:link rel="alternate" type="text/html" href="https://turper2024.github.io/posts/energiewende/"/>
+                <title>Energiewende</title>
+                <description>Plan für einen Klimaschutz und eine Energiewende ohne links-ideologische Nebenziele.</description>
+                <content:encoded><![CDATA[<a href="https://turper2024.github.io/posts/energiewende/">Energiewende</a>]]></content:encoded>
             </item>
     </channel>
 </rss>
