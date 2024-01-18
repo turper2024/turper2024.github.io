@@ -30,6 +30,6 @@
     "moment": "^2.30.1",
     "npm-check-updates": "^16.14.12",
     "require-esm-in-cjs": "^0.1.0",
-    "sass": "^1.69.7"
+    "sass": "^1.70.0"
   }
 }

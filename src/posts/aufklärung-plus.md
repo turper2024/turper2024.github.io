@@ -1,0 +1,923 @@
+---
+title: "Aufklärung-Plus"
+description: "Kühle Rationalität der Aufklärung plus sinnstiftende Wärme der Kultur = Aufklärung-Plus (Enlightenment-Plus)"
+date: "2024-01-18"
+keywords: "Politik,Kultur,Gesellschaftlicher-Zusammenhalt,Toleranz,Wehrhafte-Demokratie,Ideologien"
+# mediumurl: "https://medium.com/@turmalin.peridot/energiewende-492b17ac86ea"
+categories:
+  - "politik"
+  - "kultur"
+  - "ideologien"
+---
+
+## Einleitung: Ideologien als Halluzinationen in Analogie zu [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model) (LLMs)
+
+Je intensiver ich nachdenke, desto stärker verfestigt sich meine Ansicht, dass wir in einer Ära der Gegen-Aufklärung leben. Diese Überlegung habe ich
+bereits in meinem Artikel [Leben und leben lassen](../leben-und-leben-lassen/#die-rolle-der-werte-der-aufklärung) angedeutet und möchte sie hier
+vertiefen, um möglicherweise auch Lösungsansätze anzubieten.
+
+Die Epoche der [Aufklärung](https://de.wikipedia.org/wiki/Aufkl%C3%A4rung), die Europa um das Jahr 1700 prägte und im Englischen als [Age of
+Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment) bekannt ist, war geprägt von einer Vielzahl von Ideen.  Diese Ideen zielten auf die
+Bedeutung des menschlichen Glücks ab, auf das Streben nach Wissen durch evidenzbasierte Vernunft, und beinhalteten Ideale wie
+[Naturrecht](https://de.wikipedia.org/wiki/Naturrecht), Menschenrechte, Freiheit, Fortschritt, Toleranz, Liebe zur Wahrheit, verfassungsmäßige
+Regierung, parlamentarische Demokratie, [Gewaltenteilung](https://de.wikipedia.org/wiki/Gewaltenteilung), Rechtsstaatlichkeit, die Trennung von Kirche
+und Staat, Religionsfreiheit, soziale Marktwirtschaft, technische Naturbeherrschung, Mut, Risiko, Unternehmertum und vieles mehr.
+
+Meine Wahrnehmung der aktuellen globalen Situation ist, dass sowohl externe als auch interne Kräfte den Idealen der Aufklärung feindlich
+gegenüberstehen und sich widersetzen:
+
+* Externe Gegner der Aufklärung, wie Putin, China, Islamisten, verwenden den Begriff "der Westen" als Kampfansage.
+* Interne Gegner der Aufklärung von rechts, einschließlich der typischen Rechten und der Reichsbürger, nutzen Schlagwörter wie "degeneriert" oder "dekadent".
+* Von links stellen sich die Anhänger der "Woke"-Bewegung gegen die Aufklärung, wobei ihr Kampfbegriff „der alte weiße Mann“ lautet.
+
+
+Die ursprünglichen Aufklärer hofften, dass die Vernunft die Oberhand gewinnen würde, sobald die Fesseln von Dogmen, Traditionen, Normen und Religion
+gelöst wären. Doch nach mehr als 300 Jahren müssen wir erkennen, dass diese Hoffnung naiv war. Dies zeigt sich in verschiedenen Beispielen:
+
+* Der Islam verbleibt in einer vor-aufgeklärten Phase. "Das kann man an dem entscheidenden Sonderfall Türkei sehr gut beobachten. Die laizistische Begründung des Staates und die Schriftreform durch Atatürk haben den Islam politisch durchgestrichen. Doch diese Privatisierung der Religion Islam ist gescheitert."
+* Menschen bleiben weiterhin anfällig für Ideologien (ich werde weiter unten schärfer definieren, was ich mit Ideologie meine) und Fanatismus:
+  * Nationalismus
+  * Woke-Bewegung
+  * Verschwörungstheorien
+  * Sekten
+  * Ebenso zähle ich dazu auch die privateren Formen wie Esoterik, Kräuterhexen oder "Heilung durch Kristalle".
+
+Seit einiger Zeit beschäftige ich mich mit der Vorstellung, dass das Bedürfnis nach Identität ein zentraler Aspekt des menschlichen Daseins ist.
+Viele Menschen scheinen anfällig für identitätsstiftende Ideologien zu sein, selbst wenn diese so alltäglich sind wie "Ich bin Jäger" oder "Ich bin
+Hundeführer".  Ein Leitsatz von Johann Wolfgang von Goethe hat mich in der Erziehung meiner eigenen Kinder inspiriert, um sie gegen Ideologien zu
+'immunisieren':
+
+> Zwei Dinge sollen Kinder von ihren Eltern bekommen: Wurzeln und Flügel.
+
+Dieser Leitsatz bedeutet für mich, dass wir unseren Kindern erst dann die Freiheit geben können, ihren eigenen Weg zu gehen, wenn wir ihnen tiefe Wurzeln
+mitgegeben haben. Das, so glaube ich, entspricht der Befriedigung des Identitätsbedürfnisses.  Ich habe versucht, meinen Kindern durch die
+Verbundenheit mit der Region und das Erzählen von Familiengeschichten ("Storytelling") – bis zurück zu meiner Urgroßmutter, die ich noch selbst
+kennenlernen durfte – solche Wurzeln zu geben. Aus heutiger Sicht scheint dieser Ansatz erfolgreich gewesen zu sein.
+
+Der Vortrag [Synthetic Sentience: Can Artificial Intelligence become conscious?](https://media.ccc.de/v/37c3-12167-synthetic_sentience) von [Joscha
+Bach](http://bach.ai/about.html) hat mir neue Perspektiven auf dieses Thema eröffnet.  Joscha Bach spricht über künstliche Intelligenz und
+Bewusstsein, aber ich bin schon länger der Meinung, dass wir durch die Konstruktion künstlichen Bewusstseins möglicherweise mehr über unser eigenes
+Bewusstsein lernen können als durch traditionelle analytische Methoden der Gehirnforschung oder Psychologie.  Im [Anhang](#anhang) gehe ich
+detaillierter auf Bachs Vortrag ein, aber hier im Hauptteil möchte ich einige Schlüsselaspekte hervorheben. Um diese besser zu verstehen, empfehle
+ich, den [Anhang](#anhang) zu lesen.
+
+Inzwischen ist bekannt, dass künstliche Intelligenzen anfällig sind zu 'halluzinieren' (siehe z.B. [Hallucination (artificial
+intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))). Könnte es sein, dass jede Form von Intelligenz für
+Halluzinationen anfällig ist?  Theorien wie der [Sozialkonstruktivismus](https://de.wikipedia.org/wiki/Sozialkonstruktivismus) und
+[Memes](https://de.wikipedia.org/wiki/Meme_(Kulturph%C3%A4nomen)) wie [die
+Matrix](https://de.wikipedia.org/wiki/Manosphere#Metaphorik:_Die_Philosophie_der_roten_und_der_blauen_Pille) in verschiedenen 'Epistemic Tribes'
+(Meinungsgruppen oder Echo-Kammern) weisen in diese Richtung.  Auch das [Metaverse](https://de.wikipedia.org/wiki/Metaversum), das sogar mittels
+[Virtual-Reality-Technologie](https://de.wikipedia.org/wiki/Virtuelle_Realit%C3%A4t) realisiert werden soll, scheint ein Teil dieses Trends zu sein.
+
+Zumindest in meiner Wahrnehmung war es bei all diesen Konzepten so, dass die virtuelle Realität von außen auf das Individuum projiziert wird.  Dies
+wird besonders im Metaverse deutlich, wo Virtual-Reality-Hardware wie VR-Brillen zum Einsatz kommen.  Beim Sozialkonstruktivismus entsteht diese
+Projektion durch die Einflüsse der äußeren, das Individuum umgebenden Gesellschaft.
+
+Es ist ein allgemein anerkanntes Prinzip, dass Code (ein Computerprogramm) zugleich Daten sein kann und Daten wiederum ausführbarer Computer-Code
+sein können ([code as data and data as code](https://en.wikipedia.org/wiki/Code_as_data)).  Eine klare Trennung zwischen den Begriffen "Daten" und
+"Code" existiert nicht.  Code sind Daten, die auf einer CPU ([Central Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)) "zum
+Leben erweckt" werden, während der Begriff Daten eher auf "tote Daten", wie etwa eine Excel-Liste von Namen, hindeutet. Diese Liste wird dann von einem
+Bewusstsein "konsumiert" und "genutzt".  Code hingegen ist eine "lebendige Logik", die Zustandsänderungen in der physikalischen Realität bewirkt. Dies
+wird besonders bei Computern deutlich, die über Sensoren und Aktoren (wie Roboter) mit der Welt verbunden sind, aber auch ein gewöhnlicher Desktop-PC
+verändert ständig Zustände in der physikalischen Realität, beispielsweise im RAM-Speicher oder auf der Festplatte.
+
+Bisher neigte ich dazu, Konzepte wie Sozialkonstruktivismus, Ideologie, Memes oder das Metaverse eher als "tote Daten" zu betrachten, die konsumiert
+werden.  Joscha Bach hebt jedoch in seinem Vortrag hervor, dass unsere menschlichen Gehirne ebenfalls eine Art CPU (Central Processing Unit)
+darstellen, ein Substrat, auf dem Code ausgeführt werden kann.  Er betont, dass Halluzinationen als verteilter Prozess über eine Gruppe von Menschen
+in deren Gehirnen ablaufen können.
+
+> In der Zeit der [Sumerer](https://de.wikipedia.org/wiki/Sumerer) (ca. 3. Jahrtausend v. Chr.) hatten die Menschen eine ganz andere psychologische
+> Architektur als heute. Damals koexistierten ihre persönlichen Selbst mit vielen Göttern im Kopf, und das persönliche Selbst war so schwach, dass es
+> selten dazu kam, den inneren Monolog zu nutzen, stattdessen waren es hauptsächlich die Götter, die in den Gedanken sprachen.
+
+Er identifiziert Götter, bzw. einen Gott, als verteilten Prozess, der in den Gehirnen von vielen Menschen läuft. Und er sagt weiter:
+
+> Und diese Götter wurden durch Rituale und Tempel, aber auch durch einfühlsame Resonanz und Götzenbilder zwischen den Menschen synchronisiert, und
+> die Götter waren eine Lösung, um die Gesellschaft im großen Maßstab zu organisieren.
+
+Stellen wir uns vor, diese Vermutung träfe zu. Dann wäre das Verlangen nach identitätsstiftenden Ideologien eine
+[anthropologische](https://de.wikipedia.org/wiki/Anthropologie) Konstante ([an itch that needs to be
+scratched](https://en.wiktionary.org/wiki/scratch_an_itch)) oder wie ein Erweiterungsslot in einem Computer, der belegt werden muss, damit das System
+reibungslos funktioniert.  In diesem Kontext wären Ideologien nicht bloße Ideen, die konsumiert werden, sondern eher ein Code, der im Träger (dem
+Menschen) als Teil eines umfassenden synchronisierten Prozesses aktiv wird.  Ein Mensch fällt dann nicht einfach einer Ideologie zum Opfer; vielmehr
+wird er von ihr **beseelt**[^kopfkino].<br>
+**Dieser Perspektivenwechsel verändert alles**! Und genau dieser Paradigmenwechsel und seine weitreichenden Auswirkungen auf die Aufklärung sind das
+zentrale Thema dieses Blogbeitrags.
+
+> Ich meine das nicht herabsetzend, doch ein passendes Analogon für Ideologien könnte eine Viruserkrankung sein, oder treffender ausgedrückt, eine Virussymbiose.
+>
+> Ein Virus besteht aus einem Code, in biologischer Hinsicht aus DNA. Dieser Code kann jedoch nur in einem Wirt, einem Träger, 'laufen'. Ein Teil
+> dieses Codes ist darauf ausgerichtet, kopiert und weitergegeben zu werden. Er verbreitet sich durch Kontakt unter potenziellen Trägern, jedoch nicht
+> bei allen.
+>
+> Fanatiker erfüllen in diesem Bild die Rolle eines Immunsystems, das für die Abwehr fremder Code-Fragmente zuständig ist.
+
+Ein weiterer Begriff, der aus der künstlichen Intelligenz-Forschung kommt, ist [Alignment](https://en.wikipedia.org/wiki/AI_alignment). Der Begriff
+Alignment zielt darauf ab, KI-Systeme in Richtung menschlicher Ziele, Präferenzen oder ethischer Grundsätze zu lenken. Zu diesem Thema sagt Joscha Bach:
+
+> Ich glaube nicht, dass wir aktuell richtig über das Thema Alignment nachdenken. Die Menschen sind derzeit nicht miteinander aligned. Wir wursteln uns gerade so irgendwie durch. Wir haben dieses Konzept der kollektiven Handlungsfähigkeit verloren. Ich denke, wir müssen es neu erfinden.
+
+
+### Einschub: Bug oder Feature
+
+Manchmal stelle ich Leuten die Frage, wann ihrer Meinung nach die [Steinzeit](https://de.wikipedia.org/wiki/Steinzeit) ungefähr endete.  Die meisten
+vermuten, dass das Ende der Steinzeit mehrere 10'000 Jahre in der Vergangenheit liegt. Eine Google-Suche nach "Steinzeit" liefert mir das "Enddatum:
+2000 v. Chr.".  Selbst wenn es 5'000 v. Chr. gewesen sein sollte, liegt die Steinzeit auf der evolutionären Zeitskala nicht allzu weit zurück.  Ich
+argumentiere häufig, dass sich der Mensch vielleicht in seiner Intelligenz stark weiterentwickelt hat, emotional jedoch sind wir immer noch die
+gleichen "Trottel" wie vor 5'000 Jahren.
+
+Bislang ging ich davon aus, dass diese "Überreste" aus der Steinzeit einen Defekt darstellen und dass ein voll funktionierendes
+Gehirn[^funktionierendesgehirn] eher die Ausnahme darstellt, die man bei herausragenden Denkern und Persönlichkeiten der Geschichte beobachten kann,
+aber ansonsten nur in homöopathischen Dosen in freier Wildbahn anzufinden ist.
+
+In Artikeln wie [Mensch und Schimpanse: Trennung erfolgte vor 5 bis 7 Millionen
+Jahren](https://www.spiegel.de/wissenschaft/natur/mensch-und-schimpanse-trennung-erfolgte-vor-5-bis-7-millionen-jahren-a-391361.html) liest man, dass
+sich der Mensch von seinen nächsten Verwandten, den Schimpansen, vor etwa 5 bis 7 Millionen Jahren getrennt hat.  Ich dachte bisher, die Menschheit
+benötige vielleicht weitere 2 Millionen Jahre Evolution, um ein funktionierendes Gehirn als Regelfall und nicht als Ausnahme zu etablieren.  Da wir
+diese Zeit vor unserer potenziellen Selbstauslöschung nicht haben, erschien mir Gentechnik als der vielversprechendste Weg, diesen evolutionären
+Prozess zu beschleunigen.
+
+Der Vortrag von Joscha Bach hat mich jedoch zum Umdenken gebracht und ich bin dabei meine Meinung zu ändern. Vielleicht ist dies kein Bug, sondern ein
+Feature?  Immerhin fokussiert sich Joscha Bach in seinem Vortrag auf Lösungen für eine mögliche Koexistenz zwischen biologischen Wesen und einer oder
+mehreren [Superhuman General Artificial Intelligences](https://youtu.be/Ms96Py8p8Jg?t=2253).
+
+### Ideologien = Halluzinationen
+
+#### Wissenschaft vs. Theologie
+
+Ich betrachte es als die bedeutendste Errungenschaft der Physik und der Naturwissenschaften insgesamt, das wiederholbare Experiment in den Mittelpunkt
+der Wahrheitsfindung zu stellen.  Wenn jemand behauptet, A sei korrekt, und 100'000 Personen behaupten, B sei richtig, aber das Experiment bestätigt
+A, dann hat der Einzelne recht. Wahrheit emanzipiert sich von der Mehrheit.
+
+Dieses Prinzip lässt sich in manchen Bereichen relativ einfach anwenden, wie zum Beispiel bei den Naturgesetzen der Elektrodynamik. Jeder, der möchte,
+kann das beschriebene Experiment durchführen und selbst überprüfen, ob die Ergebnisse so wie behauptet zutreffen.
+
+Schwieriger wird es in Bereichen, in denen man mit dem zu beobachtenden System nicht interagieren kann, wie in der Astronomie.
+Ich kann Sterne nicht beeinflussen, nur beobachten. Aber auch hier gibt es eine Vielzahl von Objekten, wie Sterne, deren Verhalten ich studieren kann.
+
+Eine weitere Schwierigkeit taucht bei der Erforschung komplexer Systeme auf, wie beim Wetter oder in der Biologie. [Johannes
+Kepler](https://de.wikipedia.org/wiki/Johannes_Kepler), ein bedeutender Astronom, bestimmte die Planetenbahnen und versuchte sich auch an der
+Meteorologie. Zu seiner Zeit fehlte jedoch das nötige Detailwissen und die Rechenleistung heutiger Großrechner, um in der Meteorologie erfolgreich
+sein zu können. Es gibt also Systeme, die grundsätzlich mit naturwissenschaftlichen Methoden erforscht werden können, aber ein umfassendes
+Detailwissen voraussetzt, das viele Teilleistungen auf verschiedenen Gebieten verknüpft. Hier besteht die Gefahr, dass Forscher versuchen, zu schnell
+zu große Sprünge zu machen.
+
+Die wissenschaftliche Methode bricht sehr schnell zusammen, je weiter man sich von den Naturwissenschaften entfernt.  Einer meiner Lehrer hat einmal
+überspitzt formuliert, dass eine Wissenschaft, die das Wort "Wissenschaft" oder die lateinische Endung "-logie" im Namen braucht, keine echte
+Wissenschaft sei.  Dies wird besonders bei den Geisteswissenschaften deutlich.  Ein weiteres relevantes Thema in diesem Kontext ist die
+sogenannte [Replication Crisis](https://en.wikipedia.org/wiki/Replication_crisis), die oft in Verbindung mit Psychologie und Medizin genannt wird.
+
+Erschüttert war ich in meinem Weltbild, als ich über die Geschichte von [Dan Shechtman](https://en.wikipedia.org/wiki/Dan_Shechtman) und die Entdeckung
+der [Quasikristalle](https://de.wikipedia.org/wiki/Quasikristall) hörte. Dan Shechtman erhielt für seine Arbeiten zu Quasikristallen den
+[Chemie-Nobelpreis 2011](https://www.ardalpha.de/wissen/nobelpreis/nobelpreis-chemie-2011-quasikristalle-100.html). Allerdings hat es 30 Jahre
+gedauert, um die Wissenschaftscommunity zu "überzeugen", dass Quasikristalle real sind:
+
+> "Lange Zeit hieß es 'ich allein gegen die Welt'", sagte er. "Ich war Spott ausgesetzt und man belehrte mich über die Grundlagen der Kristallographie. Der Anführer der Gegner gegen meine Erkenntnisse war der zweifache Nobelpreisträger Linus Pauling, das Idol der American Chemical Society und einer der berühmtesten Wissenschaftler der Welt. Jahrelang, bis zu seinem letzten Tag, kämpfte er gegen die Quasiperiodizität in Kristallen. Er lag falsch, und nach einer Weile genoss ich jeden Moment dieses wissenschaftlichen Streites, wohlwissend, dass er nicht Recht hatte."<br>
+> ...<br>
+> Das folgende Zitat wird Linus Pauling zugeschrieben: "So etwas wie Quasikristalle gibt es nicht, nur Quasi-Wissenschaftler."
+
+Beim Lesen von Ludwig Flecks [Entstehung und Entwicklung einer wissenschaftlichen
+Tatsache](https://www.suhrkamp.de/buch/ludwik-fleck-entstehung-und-entwicklung-einer-wissenschaftlichen-tatsache-t-9783518279120)[^ludwikfleck] aus
+dem Jahr 1935 wurde mir klar, welchen enormen Einfluss die Wissenschaftscommunity auf die Wahrheitsfindung hat.  Flecks Beispiele stammen aus dem
+vorigen Jahrhundert und beziehen sich auf das weitaus komplexere Feld der Medizin.  Ich konnte mir nicht vorstellen, dass ähnliche Phänomene auch in
+der Chemie auftreten könnten, in einem Bereich, in dem Experimente relativ unkompliziert durchführbar sind.
+
+
+Die Quintessenz lautet: Recht haben und Recht bekommen sind zwei Paar Stifel. Und das sogar in so "harten" Wissenschaften wie der Chemie. Das war es also
+mit der Emanzipation der Wahrheit von der Mehrheit[^trustthescience].
+
+Daneben gibt es Bereiche wie die [Theologie](https://de.wikipedia.org/wiki/Theologie), die sich mit
+[unentscheidbaren](https://de.wikipedia.org/wiki/Entscheidbar) Fragestellungen wie dem Leben nach dem Tod beschäftigen. Es ist beweisbar unmöglich,
+ein Experiment zu entwickeln, das solche Fragen beantworten oder widerlegen ([Falsifikation](https://de.wikipedia.org/wiki/Falsifikation)) könnte. In
+dieser Hinsicht ähnelt die Theologie den esoterischen Zweigen der axiomatischen Mathematik, wo [Axiome](https://de.wikipedia.org/wiki/Axiom) erfunden
+und dann mit Mitteln der [Logik](https://de.wikipedia.org/wiki/Formale_Logik) weiterverfolgt werden. Axiome "fallen von Himmel" und können nicht
+überprüft werden. Obwohl diese Aktivitäten einen gewissen Unterhaltungswert haben, tragen sie nicht zum tieferen Ergründen der Welt bei. Persönlich
+vermeide ich es, auch nur 1 µs über unentscheidbare Probleme nachzudenken, da es sich dabei in meinen Augen um reine Zeitverschwendung handelt.
+
+> Nebenbemerkung: Gegen den Unterhaltungswert dieser Aktivitäten ist nichts einzuwenden. Die Unterhaltung des einen ist die Zeitverschwendung des
+> anderen. Ich bin ein großer Fan von Science-Fiction oder Phantasy als Unterhaltung, würde diese Geschichten aber nicht mit der Realität verwechselt
+> haben wollen.
+
+Kommen wir nun zum Bezug zu unserem Hauptthema: Halluzinationen, für die alle Arten von Intelligenz anfällig zu sein scheinen.
+
+Es gibt Halluzinationen mit einem losen Bezug zur überprüfbaren Realität, wie zum Beispiel den Marxismus.  Diese Theorie bewegt sich zwar noch im
+Rahmen der Wissenschaft und Vernunft, macht jedoch, ähnlich wie im oben genannten Beispiel von Johannes Kepler und der Meteorologie, zu ambitionierte
+Sprünge.  Aufgrund des nur schwachen Bezugs zur Realität – vergleichbar mit einer niedrigen
+[Kopplungskonstante](https://de.wikipedia.org/wiki/Kopplungskonstante) in der Physik – kann eine solche Theorie lange Zeit Bestand haben, bevor sie
+widerlegt wird.
+
+Andere Halluzinationen kommen gänzlich ohne Bezug zur überprüfbaren Realität aus, wie etwa Religionen mit ihren Fragen nach dem Leben nach dem Tod.
+Diese Gruppe spaltet sich auf in Halluzinationen, die axiomatisch und mit Logik arbeiten (Theologie), und solche, die komplett ohne Logik auskommen
+und sich lediglich auf aneinandergereihte Assoziationen stützen (Esoterik).
+
+Mein Sammelbegriff für alle diese Formen von Halluzinationen ist **Ideologie**.
+
+#### Realität ist das, was weh tut, wenn man dagegen handelt.
+
+Ein Freund von mir sagt: "Realität ist das, was weh tut, wenn man dagegen handelt." Damit meint er, dass jeder von uns ein individuelles Modell
+unserer gemeinsamen Realität in seinem Kopf hat, eine Art [digitaler Zwilling](https://de.wikipedia.org/wiki/Digitaler_Zwilling) der Wirklichkeit
+sozusagen.
+
+Wir alle erleben die Realität durch unseren 'digitalen Zwilling' ("my perception is my reality"). Doch einige dieser digitalen Zwillinge spiegeln die
+tatsächliche Realität genauer wider als andere.  Wenn zwei Personen über eine entscheidbare Eigenschaft unserer Welt streiten, ist der einzige Weg zu
+entscheiden, welcher digitale Zwilling nun die Welt tatsächlich besser beschreibt, die praktische Überprüfung und die Probe aufs Exempel (the proof is
+in the pudding).  Entspricht das gewählte Modell der Realität, zeigt sich dies in positiven Ergebnissen. Alternativ, im Falle eines schlecht
+angepassten Modells jedoch liefert uns die Realität unmissverständliche Rückmeldungen, oft in Form eines 'schmerzhaften Feedbacks', das uns unsere
+Fehler aufzeigt.
+
+Die Güte eines Modells zeigt sich in der Genauigkeit seiner Vorhersagen. Ein effektives Modell, wie die [Newtonsche
+Mechanik](https://de.wikipedia.org/wiki/Klassische_Mechanik) zur Erklärung der Planetenbahnen, liefert verlässliche Prognosen.  Ein schlechtes Modell
+sorgt ständig für Überraschungen.  Solche Überraschungen signalisieren, dass das Modell nicht adäquat ist. Überraschungen sind ein Warnsignal dafür,
+dass man es mit einem schlechten Modell zu tun hat. Wenn einen die Welt ständig überrascht, ist das ein Signal dafür, dass das eigene Weltmodell
+korrekturbedürftig ist.
+
+Einen gewissen Bezug zu Modellen und ihren Vorhersagegüten hat auch der Spruch:
+
+> Wahnsinn bedeutet, immer wieder das Gleiche zu tun und unterschiedliche Ergebnisse zu erwarten (Insanity is doing the same thing over and over again and expecting different results).
+
+Dieser Spruch deutet darauf hin, dass unser Modell M – das nach einer Aktion A ein bestimmtes Ergebnis E prognostiziert – uns unerwartet mit einem
+anderen Ergebnis U konfrontiert und wir das nicht wahrhaben wollen, weil unser (unverdientes) Vertrauen in Modell M so tief in uns verankert ist.  In
+Fällen, wo das Modell auf Statistik basiert und lediglich Wahrscheinlichkeiten für verschiedene Ergebnisse anbietet, kann es durchaus hilfreich sein,
+mehrere Versuche zu unternehmen, um das erwartete Resultat zu erreichen.  Eine fortwährende Überraschung durch die Welt deutet jedoch darauf hin, dass
+unser Weltbild einer Überprüfung und möglicherweise einer Anpassung bedarf.
+
+Es gibt keine Ideologien (Halluzinationen), die eine starke Kopplung an die Realität haben. Wären sie stark mit der Realität verbunden, würden sie bei
+ihren Anhängern schnell zu sehr viel Schmerz führen, was wohl die meisten von ihnen zum Umdenken ihrer Ansichten bewegen würde.
+
+
+### Rationalität und Vernunft der Aufklärung
+
+Die Aufklärung geht davon aus, dass Menschen lediglich in bestimmten Halluzinationen (Ideologien) gefangen sind und durch Aufklärung daraus befreit
+werden können.  In diesem Kontext kann Aufklärung als ein Prozess verstanden werden, der durch das bloße 'Zufüttern' von Ideen für Experimente das
+Individuum befähigt, sein Modell der Realität – seinen digitalen Zwilling – zu aktualisieren.  Die Zusatzannahme wäre, dass bei einem Beweis der
+Unentscheidbarkeit mancher Theorien diese vom Individuum fortan nur noch als Unterhaltungswert betrachtet würden und damit kein Gegenstand von
+fundamentalem Streit mehr wären.
+
+Die Tatsache, dass diese Methode regelmäßig scheitert, war für mich der Ausgangspunkt für die Schlussfolgerung, dass ein funktionierendes Gehirn eine
+Ausnahmeerscheinung ist.
+
+Doch ich beginne, meine Sicht auf diese 'Halluzinationen' zu ändern und sie nicht mehr als Bug, sondern als Feature zu begreifen, die zur
+Wiederherstellung unserer kollektiven Handlungsfähigkeit (Alignment) beitragen können.  Die Rationalität und Vernunft der Aufklärung werden oft als
+kühl, unpersönlich und geistlos empfunden, während die Arbeit von Philosophen und Geisteswissenschaftlern als kulturbildend und sinnstiftend
+wahrgenommen wird.  In diesem Sinne könnten Kunst, Philosophie, Religionen und Geisteswissenschaften als Konstrukteure von Halluzinationen angesehen
+werden, die als warm, beseelt und sinnstiftend wahrgenommen werden.
+
+### Konjekturen: Kühne Mutmaßungen und riskante Vermutungen
+
+Die Wissenschaft beginnt mit kühnen Theorien über die Welt, die dann kritisch diskutiert werden. Kritik hat also den Sinn, Konjekturen, die kühnen
+Mutmaßungen und riskante Vermutungen, zu kontrollieren.
+
+In diesem Sinne ist dieser Blogbeitrag als Ansammlung von Konjekturen, kühnen Mutmaßungen und riskanten Vermutungen, zu betrachten, und ich lasse meinen
+Assoziationen freien Lauf. Ich greife die Ideen von Joscha Bach rund um das Thema des künstlichen Bewusstseins auf. Diese entwickle ich in einem
+übertragenen Kontext weiter und folge den sich entfaltenden Gedanken, um zu sehen, wohin sie mich tragen.
+
+## Eigenschaften von Ideologien
+
+### Von Individualisten und Ideologen
+
+Ich setze im Folgenden die Terminologie von Joscha Bach voraus, vor allem die Begriffe zu Multi-Self und Personal-Self.  Die Details dazu sind im
+[Anhang](#anhang) oder in Joscha Bachs [Vortrag](https://media.ccc.de/v/37c3-12167-synthetic_sentience) zu finden.
+
+Joscha Bach zieht eine Parallele zwischen dem Konzept des Multi-Self und Virtual Reality (VR), die als Simulation auf den verteilten Personal-Self
+Instanzen 'läuft'. Ein Realitätsbezug (Bezug zur gemeinsam geteilten physikalischen Welt) ist für Virtual Reality nicht erforderlich, wie man an den
+Massive Multiplayer Online Games und den antiken Sagen der Griechen und Germanen erkennen kann (wie bereits unter dem Stichwort [Hallucination
+(artificial intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)) erwähnt). Ich bezeichne diese Form der Multi-Self
+Virtual Reality einfach als 'Ideologie'. Zwei unterschiedliche Virtual Realities (Ideologien) können nicht miteinander kommunizieren, da es ihnen an
+einem Synchronisationsmechanismus mangelt. Eine Synchronisation ([Alignment](https://en.wikipedia.org/wiki/AI_alignment)) wäre nur über eine
+gemeinsame geteilte Realität möglich, aber dieser Realitätsbezug ist nicht notwendig und oft nicht gegeben oder lediglich sehr lose.
+
+Terminologie: In meiner Terminologie bezeichne ich Menschen, die eher zum Personal-Self tendieren als Individualisten oder Liberale.  Jene, die eher
+zum Multi-Self neigen, nenne ich religiös, Nationalisten, Sozialisten, Kommunisten oder als Sammelbegriff einfach Ideologen.  Ich gehe davon aus, dass
+diese Tendenzen in unterschiedlicher Ausprägung in jedem Menschen angelegt sind, wobei extreme Reinformen eher pathologische Ausnahmen als den
+Regelfall darstellen dürften.  Des Weiteren nehme ich an, dass die Fähigkeit zum Personal-Self bereits seit mehreren Tausend Jahren existiert,
+allerdings nicht in großer Zahl oder weit verbreitet.
+
+Wenn wir von einer Koevolution zwischen Hardware (Genetik) und Software (Werte, Ideen) ausgehen und wir annehmen, dass die Frage nicht [nature versus
+nurture](https://en.wikipedia.org/wiki/Nature_versus_nurture), sondern nature-and-nurture lautet, ergibt sich folgendes Bild: Bestimmte Menschen, die
+von der Gesellschaft geschätzte Werte und Ideen vertreten, könnten einen Fortpflanzungsvorteil genießen. Ihre genetische Disposition für bestimmte
+Werte und Ideen würde dann an die nächste Generation weitergegeben (siehe dazu auch [Das Reiss Profile: Die 16 Lebensmotive. Welche Werte und
+Bedürfnisse unserem Verhalten zugrunde liegen](https://www.amazon.de/Das-Reiss-Profile-Lebensmotive-Bed%C3%BCrfnisse/dp/3869360003)). Dies würde zu
+einem sich selbst verstärkenden, ineinandergreifenden Effekt (positive Rückkopplung) führen, der sich möglicherweise sogar beschleunigt.
+
+Angenommen, Europa stellt einen evolutorischen Ausnahmefall dar, der dadurch entstand, dass der Repräsentant der Kirche, der Papst, in Rom saß,
+während die Repräsentanten der Nationen – Fürsten und Könige – kleinteilig zersplittert über Europa verteilt waren.  Dies könnte zur Entwicklung
+'geteilter', verteilter Persönlichkeiten zwischen Religion und Nation geführt haben, die miteinander konkurrierten.  Es gab aber nicht nur Konkurrenz,
+sondern auch einen regen Austausch zwischen den über Europa verteilten Gelehrten und Künstlern.  Ein Treibhaus für die Evolution von kleinteiligen
+Multi-Self Nationen sozusagen.  Und im Grenzfall entspricht ein kleinteiliges Multi-Self einem Individuum, einem Personal-Self.
+
+
+An [anderer Stelle](https://www.amazon.de/alte-wei%C3%9Fe-Mann-S%C3%BCndenbock-Nation/dp/3784436536) habe ich folgende Formulierung gefunden:
+
+> Es ist ja längst eine kulturhistorische Selbstverständlichkeit geworden, davon auszugehen, dass das Abendland zwei verschiedene Wurzeln hat, nämlich
+> Athen und Jerusalem. Philhellenismus und Christentum vertrugen sich aber nicht. Da die abendländische Kultur nun ihre christliche Grundlage nicht
+> aufgeben konnte und ihr Ideal der griechischen Antike nicht aufgeben wollte, wurde sie in sich selbst kritisch. Und genau diese Selbstkritik macht
+> die westliche Kultur bis zum heutigen Tag einzigartig. Sie ist die Quelle intellektueller Exzellenz.
+
+Europa scheint jedenfalls ein evolutorischer Ausnahmefall zu sein.
+
+Angenommen, durch diese Konstellation wurde eine gesellschaftliche und individuelle Evolution auf Steroiden angestoßen, die zur ausgeprägten Entwicklung
+des Personal-Self und seiner zunehmenden Distanzierung vom Multi-Self führte.
+
+Das würde zum einen bedeuten, dass diese Evolution auch in Europa eine Mischung zwischen diesen beiden Extremen hervorgebracht hätte und wir sowohl
+für Liberale als auch für Ideologen eine Heimat, ein politisches Angebot, benötigen.
+
+Zum anderen würde das bedeuten, dass Menschen außerhalb Europas weiterhin hauptsächlich ideologischen Strömungen zugetan sind.  Dies könnte eine
+Erklärung dafür bieten, warum Integration bisher so schlecht verlief, da wir diesen Menschen kein ansprechendes Angebot, keine ansprechende Ideologie
+mehr anbieten können.
+
+Die [Aufklärer](https://de.wikipedia.org/wiki/Aufkl%C3%A4rung) waren der Ansicht, dass man Menschen nur von den Zwängen der Tradition, Religion und
+des Gewohnheitsrechts befreien müsste, um ihnen Freiheit und Selbstbestimmung zu ermöglichen.  Es ist jedoch erstaunlich, dass trotzdem weiterhin
+freiheits- und vernunftfeindliche Ideologien immer wieder sprießen.  Was wäre, wenn Menschen generell eine Art 'freien Slot' (vergleichbar mit einem
+Erweiterungsslot in einem Computer) für Ideologien (Multi Mind Self) besitzen, der gefüllt werden möchte?  Nennen wir diesen Slot *Identität* und
+ihren kleinen Bruder *Mentalität*.
+
+Dieses Multi Mind Self (be-)nutzt seine Mitglieder und weist ihnen spezifische Rollen zu, ähnlich wie ein Koordinator in einem verteilten
+(Computer-)System Aufgaben und Rollen an die Rechenknoten vergibt.  Verschiedene Multi Mind Selfs treten dann in einen evolutorischen Wettstreit und
+sind umso erfolgreicher, je effizienter sie ihre Mitglieder einsetzen.  Diese Idee wird in [Is There Anything Good About Men?: How Cultures Flourish
+by Exploiting Men](https://www.amazon.com/There-Anything-Good-About-Men/dp/019537410X) aufgegriffen.  Der Autor argumentiert, dass erfolgreiche
+Kulturen die Unterschiede zwischen Männern und Frauen nutzen, um in Konkurrenz mit anderen Kulturen zu bestehen, wobei Männer in verschiedenen
+Kulturen oft als 'entbehrlich' angesehen werden.
+
+Ein erster guter Indikator dafür, dass man es bei einer Idee mit einer Ideologie zu tun hat, ist die Präsenz von Fanatikern. Wie bereits erwähnt,
+scheinen Fanatiker die Aufgabe eines Immunsystems zu übernehmen, die für die Abwehr von fremden Ideologien zuständig sind.
+
+### Methoden: Gegenüberstellung von Aufklärung mit Ideologien
+
+Da Ideologien oft einen schwachen oder gar nicht vorhandenen Realitätsbezug aufweisen und somit nicht auf wissenschaftliche Methoden zur Definition
+von 'Wahrheit' zurückgreifen können, ist ein Vergleich der Methoden aufschlussreich.  Es folgt eine Liste von Gegenüberstellungen, die mir in den Sinn
+kommen, ohne Anspruch auf Korrektheit oder Vollständigkeit:
+
+<table border="1" class="dataframe ms-2 me-2">
+  <thead>
+    <tr style="text-align: left;">
+      <th>Aufklärung</th>
+      <th>Ideologie</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Starker Realitätsbezug</td>
+      <td>Schwacher Realitätsbezug</td>
+    </tr>
+    <tr>
+      <td>Experiment/Falsifikation</td>
+      <td>Tribunal</td>
+    </tr>
+    <tr>
+      <td>Skepsis</td>
+      <td>Glaubensbekenntnis</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">Wahr/Falsch</td>
+      <td>Gut/Böse; Freund/Feind<br>an Gesprächspartner und nicht an Inhalt geknüpft</td>
+    </tr>
+    <tr>
+      <td>Diskurs<br>Eigene individuelle Argumente</td>
+      <td>Labeln<br>Mauer aus Labeln</td>
+    </tr>
+    <tr>
+      <td>Formen sublimierter Feindschaft</td>
+      <td>Hass, Kränkung</td>
+    </tr>
+    <tr>
+      <td>widerlegt</td>
+      <td>gecancelt oder schlimmeres</td>
+    </tr>
+    <tr>
+      <td>Gewaltenteilung</td>
+      <td>Inquisition</td>
+    </tr>
+    <tr>
+      <td>Individuum</td>
+      <td>Kollektiv / Identität im Kollektiv</td>
+    </tr>
+    <tr>
+      <td>Weiß, dass man nichts weiß</td>
+      <td>Kennt die Wahrheit</td>
+    </tr>
+    <tr>
+      <td>Demut</td>
+      <td>Hochmut</td>
+    </tr>
+    <tr>
+      <td>Leistung</td>
+      <td>Ehre/Status/Stolz</td>
+    </tr>
+    <tr>
+      <td>Leistungsträger</td>
+      <td>Heilige/Helden/Märtyrer</td>
+    </tr>
+    <tr>
+      <td>Ergebnisse</td>
+      <td>Narrativ</td>
+    </tr>
+    <tr>
+      <td>Extrovertiert:<br>
+      Auf die Welt bezogene Schaffenswerte</td>
+      <td>Introvertiert:<br>
+      Ich bezogene Erlebenswerte</td>
+    </tr>
+    <tr>
+      <td>Freiheit</td>
+      <td>Gleichheit</td>
+    </tr>
+    <tr>
+      <td>Fortschritt</td>
+      <td>bewahren, bremsen, gleich machen</td>
+    </tr>
+    <tr>
+      <td>Unternehmertum</td>
+      <td>Aktivismus bis Terrorismus</td>
+    </tr>
+    <tr>
+      <td>Analysierte Realität</td>
+      <td>Konstruierte virtuelle Realität</td>
+    </tr>
+    <tr>
+      <td>Die Welt ergründen</td>
+      <td>Die Welt in Schablonen pressen</td>
+    </tr>
+    <tr>
+      <td>Objektive Berichterstattung</td>
+      <td>Haltungsjournalismus</td>
+    </tr>
+    <tr>
+      <td>Modell/Theorie: Vorhersagekraft</td>
+      <td>Modell/Theorie: Rationalisierung</td>
+    </tr>
+    <tr>
+      <td>Rationale verbale Sprache</td>
+      <td>Extralinguistic Signals / Pentland: Honest Signals</td>
+    </tr>
+    <tr>
+      <td>Autorität (Connect)</td>
+      <td><a href="https://www.ribbonfarm.com/2013/09/12/the-exercise-of-authoritah" target="about:blank">Authoritah</a> (Collect)</td>
+    </tr>
+    <tr>
+      <td>Gemeinschaft</td>
+      <td>Kollektiv</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="mt-2 mb-2">Auf einige Punkte möchte ich gesondert eingehen.</div>
+
+**Tribunal**: Der Paläoanthropologe [Rudolf Bilz](https://www.deutsche-digitale-bibliothek.de/person/gnd/116181354) hat den Menschen einmal als
+"tribunale Existenz" bezeichnet. Bei [Norbert Bolz](https://de.wikipedia.org/wiki/Norbert_Bolz) heißt es dazu in [Der alte weiße Mann: Sündenbock der
+Nation](https://www.amazon.de/alte-wei%C3%9Fe-Mann-S%C3%BCndenbock-Nation/dp/3784436536)
+
+> Auf Andersdenkende reagiert man nicht mit Widerspruch und Gegenargumenten, sondern mit Hass und Wut; man ist empört und beleidigt. Doch wer
+> moralisch entrüstet ist, kann nicht mehr denken. Stattdessen sitzt man zu Gericht. Odo Marquard hat das die Tribunalisierung unserer
+> Lebenswirklichkeit genannt. Moralistisch spaltet man die Welt in Gut und Böse. Skeptiker nennt man ... Leugner; das heißt, wer zweifelt, versündigt
+> sich an einer dogmatischen Wahrheit.
+
+**Hass und Kränkung bzw. das Gefühl, gekränkt zu sein**: Betrachtet man die [Sublimierung](https://de.wikipedia.org/wiki/Sublimierung_(Psychoanalyse))
+als zentrales Element der ([Hyper-](../leben-und-leben-lassen/#kulturessenzialismus-vs.-kosmopolitische-hyperkultur))Kultur der Aufklärung, die
+negative oder destruktive Triebe in gesellschaftlich akzeptierte, konstruktive Formen umwandelt – wie etwa die gepflegten Formen der Feindschaft wie
+den sportlichen Wettkampf, wirtschaftliche Konkurrenz oder die gepflegte Polemik in Debatten –, erkennt man, dass demokratisch der Dissens ist. Erst
+durch den Dissens entsteht Vernünftigkeit. Versöhnung gibt es nur im Streit. Aber streiten muss man lernen.  Wir befinden uns in einer Phase der
+Entsublimierung und müssen überlegen, wie wir den Rückweg zur Kultur finden. Den Weg heraus aus der Wutspirale werden wir nur einschlagen können, wenn
+es uns gelingt, Hass und Wut wieder zu sublimieren.  Das bedeutet nicht, dass aus persönlicher Feindschaft Liebe, sondern aus blindem Hass
+artikulierte Kritik wird. Dazu gehört niemanden in einer Diskussion persönlich anzugreift.
+
+> <span style="font-size: smaller;">Nebenbemerkung: Diese Entsublimierung könnte teilweise erklären, warum Tötungsdelikte unter Kindern (wie z.B. [Mädchen sollen Luise nach Streit aus Rache ermordet haben](https://www.focus.de/panorama/welt/minderjaehrige-toeten-maedchen-maedchen-sollen-luise-nach-streit-aus-rache-ermordet-haben_id_188328571.html)) zunehmen, da sie möglicherweise nicht mehr lernen, ihre negativen Triebe zu kontrollieren bzw. ein Ventil dafür über gepflegten Formen der Feindschaft zu finden.</span>
+
+Gefährlicher als Hass finde ich die Fähigkeit des Menschen, gekränkt zu sein, was eine Folge des [Narzissmus in
+uns](https://www.amazon.de/Die-Weisheit-Herzens-werden-wollen/dp/3990016776/) zu sein scheint.  Eine Kränkung kann sich tief einbrennen und jahrelang
+destruktive Energie freisetzen. Es wird vermutet, dass Putin durch den Sieg des Westens über die Sowjetunion so tief gekränkt war, dass diese Kränkung
+ihn nun antreibt, gegen den Westen und seine Werte mit allen Mitteln zu kämpfen.
+
+**Demut, Hochmut**: Aus [Die Weisheit des Herzens](https://www.amazon.de/Die-Weisheit-Herzens-werden-wollen/dp/3990016776): "Sich selbst zu sehen, wie
+es der Wirklichkeit entspricht". Das ist eine Definition des Philosophen Josef Pieper für die Demut. Der Narzissmus - auch Hochmut genannt - flieht
+die Demut wie der Teufel das Weihwasser.
+
+**Leistung, Status**: In [Das Reiss Profile: Die 16 Lebensmotive. Welche Werte und Bedürfnisse unserem Verhalten zugrunde liegen](https://www.amazon.de/Das-Reiss-Profile-Lebensmotive-Bed%C3%BCrfnisse/dp/3869360003)) heißt es auf Seite 94 in einer Fußnote: 
+
+> Menschen, die etwas geleistet haben, betrachten diejenigen, die ihren Status ihrer Familie verdanken, als Personen, die keinen großen Respekt
+> verdient haben, während die Letzteren auf die Leistungsmenschen herabblicken, weil sie arbeiten müssen, um zu wichtigen Menschen zu werden. Sie
+> rühmen sich ihrer Untätigkeit genau deswegen, weil sie hervorheben wollen, sie seien so wichtig, dass sie noch nicht einmal arbeiten müssen.
+
+Menschen meiden in der Regel Personen, die eitel erscheinen. Deshalb finden Personen mit hohem Statusbedürfnis oft Wege, Aufmerksamkeit auf ihren
+Status zu lenken, ohne dabei als Angeber zu wirken.  Ich sehe Status eng verbunden mit Narzissmus, da er oft ein Gefühl der eigenen Bedeutung und
+Überlegenheit, unabhängig von Leistung, impliziert.  Ein stolzer Mensch ist hochmütig und schaut auf andere Menschen herunter. Menschen, die auf Status
+aus sind, messen intrinsisch dem Respekt und der Ehre einen hohen Wert bei.  Dabei wird die Aufmerksamkeit, die uns zuteil wird, zu einem wichtigen
+Indikator für unseren Status: Die Leute schenken wichtigen Personen Aufmerksamkeit und nehmen unwichtige nicht zur Kenntnis.  Eine wesentliche Rolle
+für diese Sichtweise auf den Status spielt der leistungslose Stolz.  Zum Beispiel habe ich nie verstanden, wie Fußballfans stolz auf die Erfolge ihre
+Mannschaft sein können, obwohl sie keinen Beitrag zum Spielergebnis leisten. Ein Stolz auf die eigene Performance als Fangemeinschaft, für die man
+etwas geleistet hat, ist verständlich. Aber ein Stolz auf die Leistungen der Mannschaft? Auch bei Ideologien sehe ich diesen leistungslosen Stolz am
+Werk. 'Priester' einer Ideologie genießen Status, ohne konkrete Ergebnisse erzielen zu müssen; ihr Beitrag besteht im 'Glauben' und 'Verkünden'.
+
+**Honest Signals**: Alex Pentland entwickelte das Konzept der [Honest
+Signals](https://www.amazon.de/Honest-Signals-Bradford-Books-Pentland/dp/0262515121), einem zweiten Informationskanal neben der gesprochenen
+Sprache. Studien zeigen, dass nicht unbedingt derjenige Recht bekommt, der tatsächlich Recht hat, sondern derjenige, der sich mehr entsprechend dieser
+'Honest Signals' verhält, als ob er Recht (zu bekommen verdient) hätte.
+
+**Radikale Simplifizierung der Welt**: Wer in Labeln aus Gut und Böse oder Freund und Feind denkt, für den ist die Welt sehr einfach zu
+begreifen. Solche Personen neigen dazu, sich vorgefertigter Phrasen zu bedienen, wobei der Wahrheitsgehalt einer Aussage eher an den Gesprächspartner
+als an den eigentlichen Inhalt der Aussage geknüpft wird.
+
+**Authoritah**: [Authoritah](https://www.ribbonfarm.com/2013/09/12/the-exercise-of-authoritah/) ist ein Konzept, das von [Venkatesh
+Rao](https://www.ribbonfarm.com/about/), dem Hauptautor des [Ribbonfarm Blogs](https://www.ribbonfarm.com), entwickelt wurde. Es stellt das Konzept der
+Autorität als symmetrisches "Connecting" dem Konzept der Authoritah als asymmetrisches "Collecting" gegenüber.
+
+Ich betrachte Ideologie als eng verwandt oder sogar identisch mit dem Konzept des
+[Kulturessenzialismus](../leben-und-leben-lassen/#kulturessenzialismus-vs.-kosmopolitische-hyperkultur), das ich in meinem Blogbeitrag [Leben und
+leben lassen](../leben-und-leben-lassen) beschrieben habe. Sowohl Ideologie als auch Kultur(essenzialismus) werden als identitäts- und sinnstiftend
+wahrgenommen.  Im Gegensatz dazu wird die Sublimierung der Aufklärung oft als [Unbehagen in der
+Kultur](https://de.wikipedia.org/wiki/Das_Unbehagen_in_der_Kultur) erlebt.
+
+Diese Gegenüberstellung impliziert nicht, dass Menschen Ideologien nicht auch für ihre eigenen Zwecke nutzen können, etwa als Mittel zur Machtausübung
+oder zur Befriedigung ihres Narzissmus, ohne dabei von ihnen wirklich beseelt zu sein.
+
+#### Ideologien und die Mythological Lens
+
+In [Systems Leadership: Creating Positive Organisations](https://www.amazon.de/Systems-Leadership-Creating-Organisations-Organizations/dp/0566087006)
+gehen Ian MacDonald, Catherine Burke und Karl Stewart auf das Konzept der "Mythological Lens" ein:
+
+<img src="/img/aufklärung-plus-mythological-lens.png" alt="Mythological Lens" style="max-height: 400px; max-width: 100%">
+
+Sie gehen dabei von einer Gruppe von Grundwerten (Core-Values) aus, die universell als Gut angesehen werden. Lediglich die Deutung, also wie die beobachtete
+Realität auf diese Grundwerte projiziert wird, ist von Gruppe zu Gruppe unterschiedlich. Sie sagen:
+
+> Wenn eine Gruppe von Menschen eine produktive und dauerhafte Beziehung aufrechterhalten möchte, müssen die Mitglieder dieser Gruppe ein Verhalten an
+> den Tag legen, das von den anderen Gruppenmitgliedern am positiven Ende des Kontinuums der Grundwerte bewertet wird.
+
+Sie definieren:
+
+> Eine **Kultur** ist eine Gruppe von Menschen, die Mythologien teilen. Das heißt, sie teilen Annahmen über Verhaltensweisen, die positive oder negative
+> Werte aufweisen. Grundsätzlich gilt: Je mehr Mythologien die Menschen teilen, desto stärker ist die Kultur.<br>
+> ...<br>
+> **Mythologie**: Definiert als "die zugrunde liegende Annahme und aktuelle Überzeugung darüber, was positives und geschätztes Verhalten ist und welches Verhalten negativ bewertet wird".<br>
+> Das sind die "Faustregeln", die wir heuristisch gelernt haben, wie etwa 'Vertraue keinem Fremden', 'Verkäufer sind nicht ehrlich', 'Manager sind rücksichtslos'. Solche Aussagen repräsentieren nur die Spitze des Eisbergs und sind wiederum heuristisch geformt. Wir erschaffen unbewusst und bewusst Mythologien durch Geschichten über Moral, Filme, Lektionen von Familie und Freunden, Medienberichte und Beobachtung anderer. Manche Mythologien sind, ähnlich wie Eisberge, größer und einflussreicher als andere.
+
+Diese Definitionen passen sehr gut zum Konzept der Ideologie wie ich es in diesem Blogbeitrag entwickle, und erklären, wie unterschiedliche Gruppen
+denselben Sachverhalt so unterschiedlich bewerten können.  Alle Mitglieder jeder Art von Ideologie teilen gemeinsame Mythologien, die Geschichten, die
+von guten bzw. schlechten Begebenheiten handeln und so das Weltbild formen. Mythologien sind dabei eine Mischung aus Mythos (Geschichten mit
+emotionalem Inhalt) und Logos (Rationalität).
+
+
+### Vergleich verschiedener Ideologien
+
+Es folgt eine Aufzählung von Eigenschaften, die mir in den Sinn kommen, ohne Anspruch auf Korrektheit oder Vollständigkeit:
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: left;">
+      <th></th>
+      <th>Religion</th>
+      <th>Rechts</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Beispiele</th>
+      <td>Islamismus</td>
+      <td>Nazi</td>
+      <td>Woke</td>
+    </tr>
+    <tr>
+      <th>An der Spitze stehen</th>
+      <td>Priester</td>
+      <td>Führer / Parteiideologen</td>
+      <td>Horde Kinder ohne Aufsicht / Gesinnungsideologen</td>
+    </tr>
+    <tr>
+      <th>Tabu-Label</th>
+      <td>Häretiker, Ungläubiger, Hexe</td>
+      <td>Jude, Volksverräter, Schädling, Parasit</td>
+      <td>Rassist, Nazi, Frauenhasser</td>
+    </tr>
+    <tr>
+      <th>Was passiert mit gebrandmarkten Parias</th>
+      <td>Hexenverbrennung</td>
+      <td>Konzentrationslager</td>
+      <td>Canceln</td>
+    </tr>
+    <tr>
+      <th>Immunsystem: Tribunal</th>
+      <td>Inquisition / Mob</td>
+      <td>Positives Recht und Gerichte / (Lynch-)Mob</td>
+      <td>Positives Recht und Gerichte / (Lynch-)Mob</td>
+    </tr>
+    <tr>
+      <th>Status/Stellung in der Gruppe</th>
+      <td>Frömmigkeit</td>
+      <td>Frömmigkeit</td>
+      <td>Frömmigkeit</td>
+    </tr>
+    <tr>
+      <th>Wo hört der Spaß auf?</th>
+      <td>Gotteslästerung</td>
+      <td>Kritik am Führer</td>
+      <td>Kritik an den Dogmen</td>
+    </tr>
+    <tr>
+      <th>Helden</th>
+      <td>Heilige / Märtyrer</td>
+      <td>(Kriegs-)Helden</td>
+      <td>Heilige / Märtyrer</td>
+    </tr>
+    <tr>
+      <th>Stilistische Mittel bei Kritik</th>
+      <td>Opferinszenierung (Islamophob)</td>
+      <td>Opferinszenierung (Vaterlandsverräter)</td>
+      <td>Opferinszenierung (Hassrede)</td>
+    </tr>
+  </tbody>
+</table>
+
+### Die Frage der Integration aus dem Blickwinkel dieses Blogbeitrags
+
+Ich habe bereits erwähnt, dass meine hier entwickelte Theorie impliziert, dass Menschen, die außerhalb Europas sozialisiert wurden, weiterhin
+hauptsächlich ideologischen Angeboten folgen.  Dies könnte erklären, warum Integration bisher so schlecht funktioniert: Wir bieten diesen Menschen
+keine ansprechende alternative Ideologie.
+
+Hier setzt mein Konzept von '**Aufklärung-Plus**' an: Es zielt darauf ab, eine Symbiose zwischen Aufklärung und einer verträglichen Ideologie zu
+konstruieren, um Menschen mit einem Bedürfnis nach Ideologie zu erreichen und einen neuen Anknüpfungspunkt für Integration zu schaffen.
+
+Bisher scheinen mir die Diskussionen um Integration ohne klaren Plan oder Strategie zu verlaufen. Häufig hört man Phrasen wie 'Sprache ist der
+Schlüssel zur Integration', doch, soweit ich das erkennen kann, erschöpft diese Aussage bereits die gesamte Theorie zur Integration.
+
+
+## Ideologie-Mechanik: CRUD: Erzeugung, Aufrechterhaltung, Bewahrung, Transformation, Verbreitung, Bekämpfung, Verteidigung.
+
+[CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete), was für Create, Read, Update und Delete steht, bezieht sich auf den
+Lebenszyklus von Daten.  Eine Ideologie durchläuft ähnliche Phasen: Sie wird geboren, muss gepflegt und weiterentwickelt werden, verändert sich über
+die Zeit, strebt nach Verbreitung, sieht sich mit Konkurrenz von anderen Ideologien konfrontiert und verfügt über interne Verteidigungsmechanismen
+gegen äußere Angriffe.
+
+Gemäß der in diesem Beitrag entwickelten Theorie funktioniert eine Ideologie als verteilter Prozess. Daher muss es Mechanismen für die Synchronisation
+und den Austausch zwischen den verschiedenen Knoten geben.
+
+Die genaue Implementierung der verschiedenen Lebenszyklusphasen einer Ideologie ist unklar, daher präsentiere ich hier nur einige Spekulationen ([educated guess](https://de.wikipedia.org/wiki/Ansatz_(Mathematik))) und Beobachtungen:
+
+> Verteilter Prozess, Protokoll zwischen Knoten, niedrige Bitrate bzw. ähnlich wie IoT, kleine Datenpakete von Zeit zu Zeit übertragen.
+
+### Wie verbreiten sich Ideologien?
+
+Die Verbreitung von Ideologien erfolgt wahrscheinlich hauptsächlich über [Storytelling](https://en.wikipedia.org/wiki/Storytelling) und, wie bereits
+erwähnt, über Mythologien.  Mythologien sind eine Kombination aus Mythos (Geschichten mit emotionalem Inhalt) und Logos (Rationalität). Über diese
+Mythologien wird die mythologische Linse "geschliffen" und geformt.
+
+Missionare spielen hier eine Rolle, indem sie Geschichten mit emotionalen und rationalen Elementen erzählen, die gutes und schlechtes Verhalten definieren.
+
+Sobald eine Ideologie eine gewisse Durchdringung erreicht hat, könnten auch Methoden von
+[Authoritah](https://www.ribbonfarm.com/2013/09/12/the-exercise-of-authoritah) eine Rolle spielen, vor allem wenn es um die Verteilung von Ressourcen
+wie Status oder Geld geht.
+
+Andere relevante Begriffe in diesem Kontext sind [Vordenker](https://de.wikipedia.org/wiki/Vordenker_der_Aufkl%C3%A4rung), sowie negativ konnotierte
+Ausdrücke wie [Mansplaining](https://de.wikipedia.org/wiki/Mansplaining) oder betreutes Denken.
+
+### Was macht Ideologien stabil?
+
+Ein interessantes Studienobjekt ist die [jüdische Diaspora](https://de.wikipedia.org/wiki/J%C3%BCdische_Diaspora).  Trotz Jahrhunderten in feindlichen
+Umgebungen und als Minderheit hat sich die jüdische Kultur und der Glaube erhalten. Ein geschriebenes Buch wie die Bibel war sicher hilfreich, doch es
+müssen weitere Faktoren eine Rolle gespielt haben, die es ermöglicht haben, allen Widrigkeiten zu trotzen.
+
+Ein weiteres Beispiel, das mich fasziniert, ist die Entstehung und Stabilität von 'Mentalitätsflächen' wie dem [Bairischen](https://de.wikipedia.org/wiki/Bairisch).
+
+<a href="https://bar.wikipedia.org/wiki/Boarisch" target="about:blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Boarisch-mit-Flaggn.png" alt="Koatn vom Boarischn Sprochraum" style="max-height: 200px; max-width: 100%"></a>
+
+Mein gegenwärtiges mentales Modell dafür sind [ferromagnetische
+Domänen](https://de.wikipedia.org/wiki/Ferromagnetismus#Weiss-Bezirke,_Dom%C3%A4nen_und_Dom%C3%A4nenw%C3%A4nde): Große Bereiche gleicher
+Magnetisierung, getrennt durch scharfe Domänenwände. Manche dieser Domänenwände sind sogar mit freiem Auge deutlich sichtbar, wie beispielsweise die
+innerbairische Grenze zwischen dem bairischen Schwaben und Oberbayern. Auf der oberbayerischen Seite zeichnen sich die Häuser durch Blumenschmuck und
+vorgezogene Giebel aus, während auf der schwäbischen Seite die Kehrwoche und kurze Giebel vorherrschen. Sowohl der Blumenschmuck als auch die
+Kehrwoche können als eine Art unentgeltlicher Dienst an der Gemeinschaft interpretiert werden. Jedoch würde niemand in Oberbayern auf die Idee kommen,
+zum Besen zu greifen, und umgekehrt findet man in Schwaben keinen Blumenschmuck an den Häusern.
+
+Bairisch ist keine geschriebene Sprache, was bedeutet, dass es kein zugehöriges 'Buch' wie die Bibel gibt.  Diese Kulturlandschaft hat sich über
+Jahrhunderte und über nationale Ländergrenzen hinweg stabil gehalten, in einer Zeit, in der Menschen selten ihr eigenes Dorf verließen und somit wenig
+Austausch stattfand.  Daher vermute ich, dass zur Aufrechterhaltung dieser kulturellen Identität, ähnlich wie in
+[IoT](https://en.wikipedia.org/wiki/Internet_of_things) (Internet of Things) Systemen, nur kleine Datenpakete in geringer Frequenz (seltene Pings)
+notwendig sind.
+
+### Wie wehren sich Ideologien gegen andere Ideologien?
+
+Ein klarer Hinweis auf das Vorhandensein einer Ideologie ist die Präsenz von Fanatikern. Fanatiker übernehmen scheinbar die Rolle eines Immunsystems,
+das fremde Ideologien abwehrt. Sie stellen jedoch nur die sichtbarste Schicht dar.
+
+Eine weitere (Gruppen-)Methode ist die Verweigerung des Dialogs oder die Weigerung, sich mit Inhalten (sei es in Printform, Video usw.)
+auseinanderzusetzen, die von als negativ etikettierten Personen stammen (z.B. 'alter weißer Mann', rechts, woke, ...).
+
+Ich habe mich oft gefragt, warum ich das Gewand einer Nonne ([Habit](https://de.wikipedia.org/wiki/Habit)) als aggressiv und aufdringlich empfinde,
+während die orange Robe eines buddhistischen Mönchs ([Kesa](https://de.wikipedia.org/wiki/Kesa)) auf mich eher einladend wirkt.  Den buddhistischen
+Mönch sehe ich im Sinne einer kosmopolitischen [Hyperkultur](../leben-und-leben-lassen/#kulturessenzialismus-vs.-kosmopolitische-hyperkultur) als
+einen Beitrag zur Vielfalt kultureller Ausdrucksformen; als Angebot auf dem Markt der Pluralität kultureller
+Güter. [Yoga](https://de.wikipedia.org/wiki/Yoga) empfinde ich ähnlich einladend. Das Nonnengewand dagegen nehme ich als moralische Aufforderung zum
+Kirchgang wahr.  Ähnlich empfinde ich die Verschleierung von muslimischen Frauen ([Hidschab](https://de.wikipedia.org/wiki/Hidsch%C4%81b)), das
+Erscheinungsbild orthodoxer Juden, [Skinheads](https://de.wikipedia.org/wiki/Skinhead) aus der Neonazi-Szene oder den übertrieben bunten und
+freizügigen Stil der [LGBT](https://de.wikipedia.org/wiki/LGBT)-Bewegung als aggressiv und aufdringlich. Alle diese äußeren Merkmale wirken auf mich
+sowohl ausgrenzend als auch missionarisch vereinnahmend.
+
+Zweifellos existieren noch viele andere Mechanismen, die ideologische Systeme stützen.
+
+### Historischen Beispiele
+
+Als Nicht-Historiker beschränke ich mich auf einige Beispiele, die mir einfallen. Es gibt zahlreiche Fälle, in denen Menschen ihren Glauben oder ihre
+Ideologie als Individuum gewechselt haben. Jedoch finde ich für das Studium der Mechanismen hinter Ideologien als verteiltes System die skalierbaren
+Phänomene interessanter.
+
+Ein einfaches historisches Beispiel sind Kriege und Praktiken wie Zwangskonvertierungen zur Zeit der Kreuzzüge, die jedoch offene Gewalt darstellen.
+
+'Weniger' gewalttätige Methoden sind 'Umerziehungsprogramme', wobei 'weniger' in diesem Kontext relativ zu sehen ist:
+* [Roten Khmer](https://www.welt.de/geschichte/article154879556/Niemand-der-zu-uns-kam-hatte-eine-Chance.html): Umerziehungslager
+* [China unter Mao](https://www.planet-wissen.de/geschichte/diktatoren/mao_zedong_gnadenloser_machtmensch/pwiechinauntermao102.html): Kulturrevolution und Umerziehungslager
+* [Re-Education Deutschlands nach dem Zweiten Weltkrieg](https://www.deutschlandfunk.de/deutschland-re-education-alliierte-zweiter-weltkrieg-100.html)
+
+Bei der [Missionierung der Germanen](https://de.wikipedia.org/wiki/Germanenmission) machten sich einzelne Missionare (echte Gläubige) unter Lebensgefahr auf, um die freien Germanen zu bekehren.
+
+### Unterscheidung zu Propaganda und Manipulationstechniken wie Marketing oder PR (Public Relations)
+
+Obwohl es viele Arbeiten zu Propaganda und Manipulationstechniken gibt, kenne ich keine davon persönlich.  Ich vermute jedoch, dass es
+Überschneidungen gibt und dass bereits Methoden entwickelt wurden, um über Propaganda den Erweiterungsslot für Ideologien anzusprechen.  Allerdings
+gehe ich davon aus, dass die Forschung zu Propaganda und Manipulation auf dem Freud'schen Psychologiemodell basiert.  Durch die Perspektive eines
+verteilten Systems oder einer verteilten virtuellen Realität, die in den Köpfen der Menschen *läuft*, wie in diesem Blogbeitrag vorgeschlagen,
+könnten neue Erkenntnisse und Ansätze möglich sein.
+
+## Aufklärung-Plus: Eine Symbiose zwischen Aufklärung und einer verträglichen, konstruierten Alpha-Ideologie.
+
+Was folgt nun aus dem bisher Gesagten für die Prinzipien der Aufklärung?
+Die ursprüngliche Annahme, dass die Überwindung von Dogmen, Traditionen, Normen und Religion automatisch zu einer Durchsetzung der Vernunft führen würde, hat sich als naiv erwiesen.
+Die Aufklärung scheitert bei vielen Menschen, weil sie nicht überzeugen konnte, dass reine Vernunft genügt, um ein glückliches und erfülltes Leben zu führen.
+Viele empfinden die Aufklärung als kalt und geistlos und sehnen sich nach sinnstiftenden Ideologien, die ihnen ein Gefühl von Wärme und Gemeinschaft vermitteln und geeignet sind, um sich von ihnen **beseelen** zu lassen.
+Diese beseelenden Ideologien schließen sich nun zusammen, um die bedeutenden Errungenschaften der Aufklärung – wie den Wert des menschlichen Glücks, das Streben nach Wissen durch evidenzbasierte Vernunft und Ideale wie Naturrecht, Menschenrechte, Freiheit, Fortschritt, Toleranz, Wahrheitsliebe, verfassungsmäßige Regierung, parlamentarische Demokratie,
+Gewaltenteilung, Rechtsstaatlichkeit, die Trennung von Kirche und Staat, Religionsfreiheit, soziale Marktwirtschaft, technische Naturbeherrschung, Mut, Risiko und Unternehmertum – in Frage zu stellen.
+Wenn wir es ernst meinen, die Errungenschaften der Aufklärung zu bewahren, müssen wir über eine Erweiterung der Aufklärung nachdenken, die ihr eine emotionale Dimension hinzufügt.
+
+Ich kann nicht genau sagen, wie eine solche Symbiose zwischen Aufklärung und Ideologie funktionieren könnte.  Jedoch ist es entscheidend, dass die zu
+konstruierende Ideologie mit den Prinzipien der Aufklärung kompatibel ist.  Zusätzlich sollte diese Ideologie Alpha- oder
+[Apex](https://en.wikipedia.org/wiki/Apex_predator)-Eigenschaften besitzen, um neue Mitglieder in unserer Gesellschaft erfolgreich zu
+integrieren. Einige erste Anregungen für die Konstruktionsprinzipien können dem Vortrag von Joscha Bach entnommen werden, auf den ich im
+[Anhang](#anhang) näher eingehe (siehe: 'practical virtues' und 'divine virtues').
+
+[Anhang](#anhang)
+
+
+### Maßnahmen
+
+#### Glaubensbekenntnis zu den Methoden der Aufklärung als eine Art von Impressum
+
+Eine Maßnahme, die mir in Analogie zum Sieg des Christentums über die verschiedenen [heidnischen Religionen](https://de.wikipedia.org/wiki/Heidentum)
+einfällt, wäre ein Glaubensbekenntnis für die Prinzipien der Aufklärung.
+
+<blockquote>
+
+Ich glaube an den Wert des individuellen menschlichen Glücks und dessen Möglichkeit, sich frei entfalten und seine Fähigkeiten entwickeln zu
+können. Jeder Mensch hat das Recht, frei zu denken, zu reden und zu handeln, solange er nicht die Rechte anderer verletzt.<br>
+
+Ich glaube an die Notwendigkeit einer verfassungsmäßigen Regierung und einer parlamentarischen Demokratie, die die Rechte und die Stimme jedes Bürgers
+respektiert und schützt, und die das Individuum bei seinem Streben nach Glück unterstützt, indem sie:
+* Einen minimalen rechtlichen Rahmen für die Mitglieder der Gesellschaft absteckt.
+* Aktiv bei der Schaffung von Lebensgestaltungsoptionen mitwirkt, bzw. sehr sorgfältig und abwägend bei ggf. notwendigen Beschneidungen der Lebensgestaltungsoptionen vorgeht.
+* Für Chancengleichheit sorgt.
+* Die Mitglieder der Gesellschaft gegen Feinde der Aufklärung von außen und innen und ggf. gegen den übergriffigen Staat selbst schützt.
+* Einen Lebenszyklus für Gesetze implementiert, der nicht nur kontinuierlich mehr Regeln einführt, sondern auch aktiv nach Möglichkeiten sucht, dem Bürger wieder mehr Freiheiten zu überlassen, indem man Gesetze und Regelungen wieder streicht.
+* Die soziale Marktwirtschaft ernst nimmt und nur in notwendigen Ausnahmesituationen bei Fehlentwicklungen in das Marktgeschehen eingreift.
+* Dem Prinzip "einfache Regelungen" sind oft gerechter als "gerechte Regelungen" Rechnung trägt.
+<br>
+
+Ich glaube an das Streben nach Wissen durch evidenzbasierte Vernunft. Ich glaube, dass der Mensch durch die Anwendung seiner Vernunft die Welt
+verstehen und gestalten kann. Dazu ist es wichtig, sich auf die Evidenz zu stützen, also auf die Grundlage von Beobachtung, Erfahrung und
+experimenteller Überprüfung.<br>
+
+Ich glaube an das Prinzip der Exzellenz als wesentlichen Bestandteil der Aufklärung, welches das Streben nach höchster Qualität und Leistung in allen
+Bereichen des menschlichen Schaffens umfasst. Exzellenz fördert Innovation, Kreativität und Fortschritt, indem sie individuelle Fähigkeiten, Wissen
+und Talent würdigt und fördert. Dieses Streben nach Exzellenz ermutigt uns, unsere Potenziale voll auszuschöpfen und die Auswirkungen auf die
+Gesellschaft als Ganzes im Blick zu behalten.<br>
+
+Ich glaube an den respektvollen und wertschätzenden Umgang mit den Meinungen und Lebensentwürfen anderer, selbst wenn sie stark von meinen eigenen
+abweichen. Jede Person hat das Recht, ihre Ansichten zu vertreten und ihren Lebensweg nach ihren Überzeugungen zu gestalten. Ich lehne es ab,
+(politische) Gegner zu hassen oder sie aus öffentlichen Diskursen auszuschließen. Stattdessen strebe ich danach, (politische) Gegner durch sachliche
+Kritik und konstruktiven Dialog zu widerlegen. In einer pluralistischen Gesellschaft ist es unerlässlich, Meinungsverschiedenheiten mit Anstand und
+Offenheit zu begegnen, um ein gemeinsames Verständnis und nachhaltige Lösungen für die Herausforderungen unserer Zeit zu finden.<br>
+
+Ich glaube an die folgenden Ideale:
+* Menschenrechte: Dazu gehören unter anderem das Recht auf Leben, Freiheit, Gleichheit, Eigentum und Sicherheit.
+* Fortschritt: Die Aufklärung ist eine Bewegung des Fortschritts. Sie glaubt, dass die Menschheit durch die Anwendung der Vernunft und der Wissenschaft die Welt verbessern kann.
+* Symmetrische Toleranz: Jeder Mensch hat das Recht, seine eigenen Überzeugungen zu haben und diese zu äußern. Die Aufklärung lehnt jede Form der Intoleranz und Diskriminierung ab.
+* Wahrheitsliebe: Die Aufklärung ist eine Bewegung der Wahrheitsliebe. Sie strebt nach einer Gesellschaft, in der die Wahrheit frei und offen diskutiert werden kann.
+* Ich glaube an Gewaltenteilung, Rechtsstaatlichkeit, die Trennung von Kirche und Staat, Religionsfreiheit, soziale Marktwirtschaft, technische Naturbeherrschung, Mut, Risiko und Unternehmertum.
+
+<br>
+Diese Ideale sind die Grundlage einer aufgeklärten Gesellschaft. Sie tragen dazu bei, dass die Menschen ihre Rechte und Freiheiten genießen können und
+dass die Gesellschaft im Sinne des Gemeinwohls unter Abwägung von Belangen des Individuums und der Gemeinschaft gestaltet wird.
+<br><br>
+
+Ich bekenne mich zu diesen Idealen und werde mich dafür einsetzen, dass sie in unserer Gesellschaft Wirklichkeit werden. Steuern sind dabei eine
+wichtige Grundlage für den demokratischen Rechtsstaat. Sie ermöglichen dem Staat, seine Aufgaben zu erfüllen, wie zum Beispiel die Sicherheit und
+Ordnung zu gewährleisten, Bildung und Gesundheit zu fördern und soziale Sicherung zu gewährleisten. Ich bin mir bewusst, dass Steuern einen Teil
+meines Einkommens beanspruchen. Dabei muss ein faires und gerechtes System zum Einsatz kommen, bei dem jeder Bürger im Rahmen seiner Möglichkeiten dazu
+beiträgt, dass unser Gemeinwesen funktioniert. Ich bin bereit, meine Steuern zu bezahlen, um einen starken und gerechten Staat zu erhalten.
+<br>
+
+Ich glaube an das Prinzip der wehrhaften Demokratie, die sich aktiv gegen Bestrebungen verteidigt, welche die Grundwerte der Aufklärung
+untergraben. Um den gesellschaftlichen Zusammenhalt zu sichern, ist es ebenso notwendig, Missstände ansprechen zu können und Mitglieder oder Gruppen zu
+benennen, die die Gutmütigkeit der Gesellschaft im Übermaß ausnutzen. Es ist notwendig, dass eine Gesellschaft Mechanismen besitzt, um sich gegen
+Kräfte zu schützen, die die Gesellschaft untergraben.  In extremen Fällen, wenn Individuen oder Gruppen durch ihre Handlungen oder Ideologien die
+Grundfesten unserer aufgeklärten Gesellschaft ernsthaft bedrohen, muss die Möglichkeit bestehen, sie von der Teilnahme am gesellschaftlichen Leben
+auszuschließen. Dies darf jedoch niemals leichtfertig geschehen, sondern nur nach sorgfältiger Prüfung und im Einklang mit rechtsstaatlichen
+Grundsätzen, um sicherzustellen, dass der Schutz der Gesellschaft nicht zum Vorwand für ungerechtfertigte Einschränkungen der Freiheit wird.
+
+Ich glaube daran, dass Ideologien (Rechts, Links, Religion, usw.) in dreierlei Gestalt existieren: als Privatsache, als politische Ideologie und als
+Fundamentalismus. Ideologien werden dabei lediglich als Privatsache geduldet. Ideologien, die sich wiederholt als Nährboden für extremen
+Fundamentalismus ([doing honorable acts to bad people](../leben-und-leben-lassen/#doing-honorable-acts-to-bad-people)) erweisen, werden verboten und
+systematisch aus der Gesellschaft entfernt. Politische Ideologien werden zur absoluten Transparenz bis hin zu den ultimativ wirtschaftlich
+berechtigten Personen verpflichtet und ihre Finanzierung aus dem Ausland wird verboten.
+
+</blockquote>
+
+Ich bin mir nicht sicher, ob ein solches Glaubensbekenntnis in unserer heutigen Zeit Wirkung entfalten kann, aber es erscheint mir den Versuch wert.
+Personen, die sich zu den Prinzipien der Aufklärung bekennen, könnten beispielsweise auf ihrer Website oder in einem Blogpost, ähnlich einem Impressum oder den Datenschutzbestimmungen, darauf verweisen.
+
+#### Die Rolle der Selbstkritik
+
+Selbstkritik ist eine der Stärken, ja vielleicht das Alleinstellungsmerkmal der westlichen Kultur verstanden als die Kultur der Aufklärung.
+
+Obwohl ich Transparenz und das [Whistleblower](https://de.wikipedia.org/wiki/Whistleblower)-Prinzip bei Straftaten befürworte, hat mich die einseitige
+Konzentration von [WikiLeaks](https://en.wikipedia.org/wiki/WikiLeaks) auf die Verfehlungen des Westens stets gestört.  Die Gründe dafür könnten die
+leichtere Verfügbarkeit von Informationen über den Westen oder das geringere Risiko sein, als über Verfehlungen an anderer Stelle zu berichten und
+Untaten von Autokratien bzw. Diktaturen ans Licht zu bringen. Unabhängig von der Ursache schlage ich vor, das Prinzip der Selbstkritik auf ein Niveau
+der generellen und globalen Kritik zu heben. Abrüstung kann nur als synchronisierter globaler Prozess nach dem [Tit for
+Tat](https://de.wikipedia.org/wiki/Tit_for_Tat)-Prinzip funktionieren. Es ist nicht hilfreich, wenn wir uns hier im Westen mit unserer (übertriebenen)
+Selbstkritik selbst zerfleischen und damit unsere Fähigkeit, uns gegen externe Bedrohungen zu verteidigen, untergraben.  Damit sägen wir nur den Ast
+ab, auf dem wir sitzen. Denn nur ein unverletzter Helfer kann helfen.
+
+## Anhang
+
+### Synthetic Sentience: Can Artificial Intelligence become conscious?
+
+Im Vortrag [Synthetic Sentience: Can Artificial Intelligence become conscious?](https://media.ccc.de/v/37c3-12167-synthetic_sentience) spricht [Joscha
+Bach](http://bach.ai/about.html) eine Unterscheidung zwischen "Personal Self" und "Multi Mind Self" an.
+
+Personal Self:
+
+* Psychologie nach Sigmund Freud im [YouTube](https://youtu.be/Ms96Py8p8Jg?t=1328) Video: Es, Ich, Über-Ich
+
+Multi Mind Self / Shared Agency / Gods: A God is a self that spans multiple minds and can be synchronized across minds. Gods are representations of
+agents existing across people:
+
+* [Psychologie der antiken Griechen](https://youtu.be/Ms96Py8p8Jg?t=1351)
+* [The Origin of Consciousness in the Breakdown of the Bicameral Mind](https://www.amazon.de/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072) von Julian Jaynes
+  * 'The Origin of the Personal Self in the Breakdown of the Polytheist Mind' im [YouTube](https://youtu.be/Ms96Py8p8Jg?t=1446) Video: According to Julian Jaynes, in
+    Sumerian times, people had a very different psychological architecture than they have today. Back then, their personal selves coexisted with many
+    Gods in the mind, and the personal self was so weak that it rarely got to use your inner monologue; instead it was mostly the Gods who were talking
+    in your mind. And these Gods were synchronized across people using rituals and temples, but also empathetic resonance and idols and the Gods were a
+    solution to organize society at large scale.
+
+Es folgen Auszüge aus seinem Vortrag:
+
+<hr>
+
+I don't think that our society thinks about [alignment](https://en.wikipedia.org/wiki/AI_alignment) in the right way. Humans are presently not aligned
+with each other. We are just muddling through. We don't have this concept of collective agency anymore. I think we need to reinvent it.
+
+Tribal Monotheism (Judaism, Islam):
+
+* Synchronization of motivation by creating agentic entity.
+* Total God: One God for the tribe.
+* Eliminate all the competing Gods.
+* God acts for the benefit of the tribe (descendants of Abraham) -> allows the tribe to compete more efficiently with other tribes (that have other Gods).
+
+What happens if we make this God more general? In the philosophy of Thomas Aquinas and Aristotle, you find this notion. Aquinas defines God as the
+best possible, most top-level collective agent, and it can be discovered through rational inference about thinking about what is the best possible,
+most top-level collective agent. It's an open-ended process that requires a lot of thought and it's not going to be finished any time soon and it's
+enacted, this end agent, by all those people or individuals who recognize this entity and decide to serve it. And this leads to the harmonic
+organization of a civilization.
+
+According to Aquinas, we can understand individuals as rational agents, and rational agents should follow policies for organizing themselves. Aquinas
+identified individual policies for rational agents that he calls the practical virtues:
+
+Policies for individual agency (practical virtues):
+
+1. Temperance = Optimize internal organization.
+1. Justice = Optimize external organization.
+1. Prudence = Justifiability of goals and strategy.
+1. Courage = Act on your models; exploration vs. exploitation.
+
+These rational strategies do not lead by themselves to a harmonic society. You need collective policies, and Aquinas sees society as a multi-agent system
+and you get the optimal social organization by creating a collectively enacted agent, and this collectively enacted agent emerges over three
+policies:
+
+Policies for collective agency (divine virtues):
+
+1. Faith = Commitment to optimal collective agent.
+1. Love = Service to sacred purpose in the other.
+1. Hope = Willingness to invest before shared system exists.
+
+Foundation to universal morality (divine will): This universal morality, before elightenment, has been, in some sense, the defining morality of the West
+the concept of divine will: what would God want if God did exist through us enacting God, the best possible agent. And it's something that we lost
+in our civilization.
+
+<hr>
+
+## Fußnoten
+
+[^kopfkino]: Ein anderes gutes Wort, das beschreibt was passiert, wenn jemand von einer Ideologie beseelt wird, ist 'Kopfkino'.
+[^funktionierendesgehirn]: Ein "funktionierendes Gehirn" ist natürlich ein problematischer Begriff. Ich belasse diesen Begriff absichtlich weit
+    gefasst, aber was ich grob damit meine ist die Fähigkeit im mathematischen Sinnlogisch zu denken
+    ([Prädikatenlogik](https://de.wikipedia.org/wiki/Pr%C3%A4dikatenlogik)), eine gewisse emotionale Begabung zu haben und immun gegen Ideologien zu
+    sein.
+[^ludwikfleck]: Als ich das Buch gelesen habe, gab es keine deutsche Originalausgabe. Daher habe ich die englische Übersetzung gelesen: [Genesis and Development of a Scientific Fact](https://www.amazon.de/Genesis-Development-Scientific-Thaddeus-Trenn/dp/0226253252).
+[^trustthescience]: Das ist auch der Grund warum ich Aussagen wie 'Trust the Science' kritisch gegenüberstehe.
