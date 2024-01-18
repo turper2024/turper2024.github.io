@@ -347,14 +347,14 @@ Da Ideologien oft einen schwachen oder gar nicht vorhandenen Realitätsbezug auf
 von 'Wahrheit' zurückgreifen können, ist ein Vergleich der Methoden aufschlussreich.  Es folgt eine Liste von Gegenüberstellungen, die mir in den Sinn
 kommen, ohne Anspruch auf Korrektheit oder Vollständigkeit:
 
-<table border="1" class="dataframe ms-2 me-2">
+<table class="ms-2 me-2 table table-hover table-striped table-bordered border-primary">
   <thead>
     <tr style="text-align: left;">
       <th>Aufklärung</th>
       <th>Ideologie</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody class="table-group-divider">
     <tr>
       <td>Starker Realitätsbezug</td>
       <td>Schwacher Realitätsbezug</td>
@@ -560,7 +560,7 @@ emotionalem Inhalt) und Logos (Rationalität).
 
 Es folgt eine Aufzählung von Eigenschaften, die mir in den Sinn kommen, ohne Anspruch auf Korrektheit oder Vollständigkeit:
 
-<table border="1" class="dataframe">
+<table class="table table-hover table-striped table-bordered border-primary">
   <thead>
     <tr style="text-align: left;">
       <th></th>
@@ -569,7 +569,7 @@ Es folgt eine Aufzählung von Eigenschaften, die mir in den Sinn kommen, ohne An
       <th>Links</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody class="table-group-divider">
     <tr>
       <th>Beispiele</th>
       <td>Islamismus</td>
