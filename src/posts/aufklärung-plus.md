@@ -752,9 +752,6 @@ konstruierende Ideologie mit den Prinzipien der Aufklärung kompatibel ist.  Zus
 integrieren. Einige erste Anregungen für die Konstruktionsprinzipien können dem Vortrag von Joscha Bach entnommen werden, auf den ich im
 [Anhang](#anhang) näher eingehe (siehe: 'practical virtues' und 'divine virtues').
 
-[Anhang](#anhang)
-
-
 ### Maßnahmen
 
 #### Glaubensbekenntnis zu den Methoden der Aufklärung als eine Art von Impressum
