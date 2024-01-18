@@ -17,7 +17,7 @@ paraphrasiert: "Denken ist schreiben, und schreiben ist denken." In diesem Sinne
 weitere Gedankenstränge entwickelt, die thematisch zu diesem Blogbeitrag gehören. Diese weiteren Gedankenstränge kreisen um [Das Denken der Aufklärung
 als Inspiration und Auftrag](https://www.ndr.de/kultur/Das-Denken-der-Aufklaerung-als-Inspiration-und-Auftrag,aufklaerung146.html). Zuerst dachte ich,
 dass es durch die enge Verzahnung der verschiedenen Ideen notwendig wäre, alle Ideen in einen Blogbeitrag zu bündeln. Allerdings habe ich nun
-entschieden, die weiterführenden, aber eng verflochtenen Ideen in einem zukünftigen Blogbeitrag mit dem Titel "Aufklärung-Plus" zu verarbeiten.
+entschieden, die weiterführenden, aber eng verflochtenen Ideen in einem zukünftigen Blogbeitrag mit dem Titel [Aufklärung-Plus](../aufklärung-plus) zu verarbeiten.
 
 ## Kontext
 
