@@ -381,7 +381,7 @@ kommen, ohne Anspruch auf Korrektheit oder Vollständigkeit:
     </tr>
     <tr>
       <td>widerlegt</td>
-      <td>gecancelt oder schlimmeres</td>
+      <td>gecancelt oder Schlimmeres</td>
     </tr>
     <tr>
       <td>Gewaltenteilung</td>
@@ -478,7 +478,7 @@ den sportlichen Wettkampf, wirtschaftliche Konkurrenz oder die gepflegte Polemik
 durch den Dissens entsteht Vernünftigkeit. Versöhnung gibt es nur im Streit. Aber streiten muss man lernen.  Wir befinden uns in einer Phase der
 Entsublimierung und müssen überlegen, wie wir den Rückweg zur Kultur finden. Den Weg heraus aus der Wutspirale werden wir nur einschlagen können, wenn
 es uns gelingt, Hass und Wut wieder zu sublimieren.  Das bedeutet nicht, dass aus persönlicher Feindschaft Liebe, sondern aus blindem Hass
-artikulierte Kritik wird. Dazu gehört niemanden in einer Diskussion persönlich anzugreift.
+artikulierte Kritik wird. Dazu gehört niemanden in einer Diskussion persönlich anzugreifen.
 
 > <span style="font-size: smaller;">Nebenbemerkung: Diese Entsublimierung könnte teilweise erklären, warum Tötungsdelikte unter Kindern (wie z.B. [Mädchen sollen Luise nach Streit aus Rache ermordet haben](https://www.focus.de/panorama/welt/minderjaehrige-toeten-maedchen-maedchen-sollen-luise-nach-streit-aus-rache-ermordet-haben_id_188328571.html)) zunehmen, da sie möglicherweise nicht mehr lernen, ihre negativen Triebe zu kontrollieren bzw. ein Ventil dafür über gepflegten Formen der Feindschaft zu finden.</span>
 
@@ -491,7 +491,7 @@ ihn nun antreibt, gegen den Westen und seine Werte mit allen Mitteln zu kämpfen
 es der Wirklichkeit entspricht". Das ist eine Definition des Philosophen Josef Pieper für die Demut. Der Narzissmus - auch Hochmut genannt - flieht
 die Demut wie der Teufel das Weihwasser.
 
-**Leistung, Status**: In [Das Reiss Profile: Die 16 Lebensmotive. Welche Werte und Bedürfnisse unserem Verhalten zugrunde liegen](https://www.amazon.de/Das-Reiss-Profile-Lebensmotive-Bed%C3%BCrfnisse/dp/3869360003)) heißt es auf Seite 94 in einer Fußnote: 
+**Leistung, Status**: In [Das Reiss Profile: Die 16 Lebensmotive. Welche Werte und Bedürfnisse unserem Verhalten zugrunde liegen](https://www.amazon.de/Das-Reiss-Profile-Lebensmotive-Bed%C3%BCrfnisse/dp/3869360003) heißt es auf Seite 94 in einer Fußnote: 
 
 > Menschen, die etwas geleistet haben, betrachten diejenigen, die ihren Status ihrer Familie verdanken, als Personen, die keinen großen Respekt
 > verdient haben, während die Letzteren auf die Leistungsmenschen herabblicken, weil sie arbeiten müssen, um zu wichtigen Menschen zu werden. Sie
@@ -728,6 +728,9 @@ Ein einfaches historisches Beispiel sind Kriege und Praktiken wie Zwangskonverti
 
 Bei der [Missionierung der Germanen](https://de.wikipedia.org/wiki/Germanenmission) machten sich einzelne Missionare (echte Gläubige) unter Lebensgefahr auf, um die freien Germanen zu bekehren.
 
+Ein weiteres Beispiel, das einer näheren Betrachtung wert sein könnte, ist [Scientology](https://de.wikipedia.org/wiki/Scientology), eine relativ
+erfolgreiche Ideologie aus der jüngeren Vergangenheit, die "auf der grünen Wiese" konstruiert wurde.
+
 ### Unterscheidung zu Propaganda und Manipulationstechniken wie Marketing oder PR (Public Relations)
 
 Obwohl es viele Arbeiten zu Propaganda und Manipulationstechniken gibt, kenne ich keine davon persönlich.  Ich vermute jedoch, dass es
@@ -751,6 +754,8 @@ konstruierende Ideologie mit den Prinzipien der Aufklärung kompatibel ist.  Zus
 [Apex](https://en.wikipedia.org/wiki/Apex_predator)-Eigenschaften besitzen, um neue Mitglieder in unserer Gesellschaft erfolgreich zu
 integrieren. Einige erste Anregungen für die Konstruktionsprinzipien können dem Vortrag von Joscha Bach entnommen werden, auf den ich im
 [Anhang](#anhang) näher eingehe (siehe: 'practical virtues' und 'divine virtues').
+
+> "Nur eine Religion, die alle anderen duldet und so deren Wohlwollen würdig ist, kann aus der Menschheit ein Volk von Brüdern machen." -- Voltaire
 
 ### Maßnahmen
 
@@ -909,12 +914,49 @@ in our civilization.
 
 <hr>
 
+### Bike-Shedding und Parkinsons Law
+
+Der Artikel [Soziale Verbesserungen, die keine gegenläufigen negativen Kräfte erzeugen](https://marginalrevolution.com/marginalrevolution/2024/01/social-improvements-that-dont-create-countervailing-forces.html) postuliert:
+
+> Es lohnt sich darüber nachzudenken, welche Art von "kleinen Schritten in Richtung einer viel besseren Welt" keine derart gegenläufigen Auswirkungen haben.
+
+Der erste Kommentar darunter lautet:
+
+> Alles, was es wert ist, getan zu werden, ist es wert, Widerstand zu leisten
+
+Nach allem was ich hier, in diesem Blogbetrag, herausgearbeitet habe neige ich dazu, anderer Meinung zu sein.
+
+"Bike-Shedding" bzw. das [Gesetz der Trivialität](https://en.wikipedia.org/wiki/Law_of_triviality), ein Teil der [Parkinsonschen Gesetze](https://de.wikipedia.org/wiki/Parkinsonsche_Gesetze) besagt:
+
+> Die auf einen Tagesordnungspunkt verwendete Zeit ist umgekehrt proportional zu den jeweiligen Kosten.
+
+Bei Parkinson heißt es:
+
+> Er beschreibt dieses "Gesetz der Trivialität" am Beispiel der Beratungen eines Ausschusses zu einem Atomreaktor und stellt sie den Beratungen zu einem Fahrradunterstand gegenüber.
+> Wie er es ausdrückte:
+> "Die Zeit, die für einen beliebigen Tagesordnungspunkt aufgewendet wird, steht im umgekehrten Verhältnis zu den jeweiligen Kosten, um die es geht."
+> Ein Reaktor ist so enorm teuer und kompliziert, dass ein Durchschnittsmensch ihn nicht verstehen kann, daher geht man davon aus, dass diejenigen, die daran arbeiten, ihn verstehen.
+> Allerdings kann sich jeder einen günstigen, einfachen Fahrradunterstand vorstellen, so dass die Planung zu endlosen Diskussionen führen kann, da alle Beteiligten ihren eigenen Vorschlag umsetzen und persönlichen Beitrag leisten möchten.
+
+In der Psychologie wird das Phänomen "Ego-Investition" beschrieben, bei dem ein Individuum seine Identität um eine bestimmte Idee herum aufbaut.
+Eine Bedrohung dieser Idee wird als direkte Bedrohung der eigenen Person wahrgenommen. Auffällig ist, dass Menschen gerade bei "trivialen Themen" zu dieser Art von Reaktion neigen.
+Plötzlich fühlt sich der Durchschnittsmensch befähigt, mitzureden und zu argumentieren, und niemand kann einfach widerlegt werden, weil es meist um Geschmacksfragen oder Weltanschauungen geht, die nur einen losen Bezug zur Realität haben.
+
+> Ein konkretes Beispiel aus dem Software-Engineering ist die unzählige Vielfalt und das ständige Kommen und Gehen verschiedener Web-Frameworks.
+> Es gibt ganz einfach keinen "besten Weg", dieses Thema zu lösen. Es ist schlicht Arbeit, die weder weniger wird noch besser, wenn man sie anders angeht.
+> Dennoch entwickeln sich fast religiöse Debatten über die Wahl des "richtigen Web-Frameworks".
+> Ein weiteres Beispiel aus der Vergangenheit sind die Glaubenskriege um verschiedene Programmiersprachen, obwohl alle heute verwendeten Sprachen Turing-vollständig sind und damit objektiv äquivalent.
+
+Als Zusammenfassung würde ich sagen: Widerstand entsteht dort, wo die Problemstellung zu trivial und zu unwichtig für die reale Welt ist.
+In den folgenden beiden Zitaten von ChatGPT muss das Wort "Religion" durch das Wort "Ideologie" (Halluzination) ersetzt werden,
+wobei Ideologien als Phänomene zu interpretieren sind, die im täglichen Leben der Menschen wenig Bedeutung haben, aber dennoch Stoff für mythologische Erzählungen bieten.
+
+* Die Geschichte der Menschen ist die Geschichte ihrer Irrtümer; sie ist die Chronik der Verblendung und der Barbarei, die unter dem Namen Religion begangen wurden.
+* Mit oder ohne Religion, gute Menschen können sich gut verhalten und schlechte Menschen können Böses tun; aber damit gute Menschen Böses tun, dafür braucht man Religion.
+
 ## Fußnoten
 
 [^kopfkino]: Ein anderes gutes Wort, das beschreibt was passiert, wenn jemand von einer Ideologie beseelt wird, ist 'Kopfkino'.
-[^funktionierendesgehirn]: Ein "funktionierendes Gehirn" ist natürlich ein problematischer Begriff. Ich belasse diesen Begriff absichtlich weit
-    gefasst, aber was ich grob damit meine ist die Fähigkeit im mathematischen Sinnlogisch zu denken
-    ([Prädikatenlogik](https://de.wikipedia.org/wiki/Pr%C3%A4dikatenlogik)), eine gewisse emotionale Begabung zu haben und immun gegen Ideologien zu
-    sein.
+[^funktionierendesgehirn]: Ein "funktionierendes Gehirn" ist natürlich ein problematischer Begriff. Ich belasse diesen Begriff absichtlich weit gefasst, aber was ich grob damit meine, ist die Fähigkeit, im mathematischen Sinn logisch zu denken ([Prädikatenlogik](https://de.wikipedia.org/wiki/Pr%C3%A4dikatenlogik)), eine gewisse emotionale Begabung zu haben und gegen Ideologien immun zu sein.
 [^ludwikfleck]: Als ich das Buch gelesen habe, gab es keine deutsche Originalausgabe. Daher habe ich die englische Übersetzung gelesen: [Genesis and Development of a Scientific Fact](https://www.amazon.de/Genesis-Development-Scientific-Thaddeus-Trenn/dp/0226253252).
 [^trustthescience]: Das ist auch der Grund warum ich Aussagen wie 'Trust the Science' kritisch gegenüberstehe.
