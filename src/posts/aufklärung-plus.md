@@ -757,6 +757,15 @@ integrieren. Einige erste Anregungen für die Konstruktionsprinzipien können de
 
 > "Nur eine Religion, die alle anderen duldet und so deren Wohlwollen würdig ist, kann aus der Menschheit ein Volk von Brüdern machen." -- Voltaire
 
+Ein Bild sagt oft mehr als tausend Worte:
+
+<a href="/img/aufklärung-plus-engel.png" target="about:blank"><img src="/img/aufklärung-plus-engel.png" alt="Engelchen auf meiner Schulter" style="max-height: 200px; max-width: 100%"></a>
+
+Das Bild illustriert eindrucksvoll die zentrale Figur der Aufklärung, dargestellt in metallischem Chromglanz, welcher für kühle Rationalität steht.
+Auf ihren Schultern befinden sich links und rechts zwei Engel, die die sinnstiftende Wärme von Ideologien verkörpern.
+Der linke Engel repräsentiert die Werte des Christentums und Sozialismus, während der rechte Engel für konservative Prinzipien steht.
+Beide Engel sind in Schwarz-Weiß gehalten, um zu verdeutlichen, dass jede ideologische Richtung sowohl positive als auch negative Aspekte in sich birgt.
+
 ### Maßnahmen
 
 #### Glaubensbekenntnis zu den Methoden der Aufklärung als eine Art von Impressum
@@ -953,6 +962,55 @@ wobei Ideologien als Phänomene zu interpretieren sind, die im täglichen Leben 
 
 * Die Geschichte der Menschen ist die Geschichte ihrer Irrtümer; sie ist die Chronik der Verblendung und der Barbarei, die unter dem Namen Religion begangen wurden.
 * Mit oder ohne Religion, gute Menschen können sich gut verhalten und schlechte Menschen können Böses tun; aber damit gute Menschen Böses tun, dafür braucht man Religion.
+
+### Loser Realitätsbezug und Zinseszinseffekt
+
+Dieser Abschnitt vertieft die Komplexität des Themas rund um Ideen mit losem Realitätsbezug, indem er aufzeigt, dass selbst Themen mit einer geringen Kopplungskonstante über Zeit durch den sogenannten "Zinseszinseffekt" eine bedeutende Wirkung entfalten können.
+[Michael E. Porter](https://de.wikipedia.org/wiki/Michael_E._Porter) erörtert dies in seinem Werk [What Is Strategy?](https://hbr.org/1996/11/what-is-strategy), wo er Konzepte wie "Activity System" und "First-Order Fit", "Second-Order Fit" und "Third-Order Fit" einführt:
+
+> Bei "First-Order Fit" handelt es sich um eine einfache Konsistenz zwischen jeder Aktivität (Funktion) und der Gesamtstrategie. ... Konsistenz stellt sicher, dass sich die Wettbewerbsvorteile der Aktivitäten akkumulieren und nicht erodieren oder sich selbst aufheben.<br>
+> "Second-Order Fit" tritt auf, wenn sich Aktivitäten verstärken.<br>
+> "Thrid-Order Fit" geht über die Aktivitätsverstärkung hinaus und umfasst das, was ich als Optimierung der Anstrengung bezeichne.
+
+Für weiterführende Informationen sei auf Porters Originaltext verwiesen. Ähnliche Konzepte werden auch von Jim Collins in seiner Beschreibung des
+[Flywheel Effect](https://www.jimcollins.com/concepts/the-flywheel.html) (Schwungradeffekt) behandelt.
+
+Ein prägnantes Beispiel für diesen Zinseszinseffekt ist der Kapitalismus beziehungsweise die Marktwirtschaft. Der tägliche Effekt mag gering erscheinen, doch über Jahrzehnte hinweg ist der Unterschied enorm.
+Zwei markante Experimente der letzten Jahrzehnte illustrieren dies: der Kalte Krieg mit dem Wettbewerb zwischen der kapitalistischen Wirtschaft des Westens und der sozialistischen Wirtschaft des Ostens.
+
+Das zweite Experiment wurde durch [Deng Xiaoping](https://de.wikipedia.org/wiki/Deng_Xiaoping) Leitsatz "[einige müssen zuerst reich werden](https://www.zeit.de/2004/35/deng)" initiiert.
+Deng Xiaopings Philosophie war, dass durch die Erlaubnis für einige Menschen, zuerst reich zu werden, diese als eine Art Vorbild und Antrieb für die Entwicklung und Modernisierung der gesamten Wirtschaft dienen würden.
+Es wurde angenommen, dass die durch diesen Prozess entstehende wirtschaftliche Dynamik letztendlich allen zugutekommen würde, indem sie das allgemeine Wirtschaftswachstum fördert und so den Lebensstandard insgesamt erhöht.
+Rückblickend lässt sich feststellen, dass die Geschichte Deng Xiaoping Recht gibt.
+
+Ein drittes Beispiel ist der Wettstreit zwischen Spanien und England im 16. Jahrhundert, der mit der Niederlage der [spanische Armada](https://de.wikipedia.org/wiki/Spanische_Armada) seinen Höhepunkt fand.
+Die Spanier vertraten die Ansicht, dass der Reichtum der Welt in Goldvorräten liege und daher begrenzt sei.
+Die Engländer hingegen entwickelten die Idee, dass Reichtum durch menschliche Arbeit geschaffen werden kann – ein Konzept, das später von [Adam Smith](https://de.wikipedia.org/wiki/Adam_Smith) in seinem Werk [Wealth of Nations](https://de.wikipedia.org/wiki/Der_Wohlstand_der_Nationen) formuliert wurde.
+In der heutigen Zeit spricht man in diesem Kontext von einem "Growth Mindset" im Gegensatz zu einem "Fixed Mindset" oder "[Zero-Sum Thinking](https://en.wikipedia.org/wiki/Zero-sum_thinking)".
+
+
+Auch [Fredmund Malik](https://de.wikipedia.org/wiki/Fredmund_Malik) thematisiert in seinem Werk [Führen Leisten Leben](https://www.amazon.de/F%C3%BChren-Leisten-Leben-Management-Book/dp/3593510693) im Vorwort auf prägnante Weise die Bedeutung dieses Zinseszinseffekts am Beispiel des Prinzips Management:
+
+> Management ist die wichtigste Funktion der Gesellschaft. Das gilt für die hochentwickelten Länder und vielleicht noch mehr für die weniger
+> entwickelten Länder. Es spricht vieles dafür, dass der Zustand der sogenannten unterentwickelten Länder seine eigentliche Ursache in
+> unterentwickeltem Management hat, dass dort die gesellschaftliche Funktion von Management nicht entstehen konnte oder sich fehlentwickelt hat.
+
+Malik lässt es unausgesprochen, doch aus seinen Worten kann man herauslesen, dass der fundamentale Unterschied zwischen Europa und Afrika in der Präsenz oder dem Fehlen effektiven Managements liegt.
+Dies könnte einen anfänglich geringfügigen Zinseszinseffekt von vielleicht 2% oder weniger ausmachen, der sich jedoch über 500 Jahre hinweg in signifikanten Unterschieden im Lebensstandard manifestiert.
+
+Dieser Abschnitt verdeutlicht: Manchmal ist es notwendig, Ideen, die nur einen losen Bezug zur Realität haben, in der Praxis zu testen, um zu entscheiden, ob ihre Implementierung tatsächlich den erhofften Mehrwert bringt.
+Dabei würde ich [David Graebers](https://lareviewofbooks.org/article/what-happened-to-david-graeber/) Rat folgen, dass
+
+> Menschen, die eine Revolution anstreben, versuchen sollten, jetzt so zu leben und sich so zu organisieren, wie sie das gesellschaftliche Leben in der Zukunft gestalten möchten.
+
+Außerdem befürworte ich, Experimente [zeitlich zu begrenzen](https://de.wikipedia.org/wiki/Timeboxing) und vor deren Beginn Frühindikatoren sowie
+Gate-Kriterien festzulegen, anhand derer man beurteilen kann, ob der angestrebte Effekt eintritt, und unter welchen Bedingungen man entscheidet, das
+Experiment fortzuführen.
+
+Ein weiteres wesentliches Element zur Risikokontrolle solcher Experimente ist ein fundiertes Theoriegebäude, das nachvollziehbar darlegt, wie man sich die Mechanik der Welt vorstellt, auf deren Basis der angestrebte Effekt eintreten soll.
+Dieses Theoriegebäude bedarf einer ausführlichen wissenschaftlichen Kritik und kleineren Experimenten, die Teile der Mechanik experimentell überprüfen, bevor man ein umfassendes Gesellschaftsexperiment wagt.
+
+
 
 ## Fußnoten
 
