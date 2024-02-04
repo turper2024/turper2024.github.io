@@ -762,6 +762,26 @@ Natürlich gibt es eine weite Spanne zwischen übernationalen politischen Überz
 beginnen wie man am Beispiel von Greta Thunberg und ihrer einseitigen Solidarisierung mit den
 [Palästinensern](https://www.sueddeutsche.de/politik/greta-thunberg-klimademo-fridays-for-future-1.6302464) sehen kann.
 
+### Faschismus
+
+Ich hatte bisher Schwierigkeiten, den Begriff Faschismus zu erfassen, da er mir zu vage und unscharf erschien.
+[Ulrike Guérots](https://www.amazon.de/Fall-Ulrike-Gu%C3%A9rot-%C3%B6ffentlichen-Hinrichtung/dp/3864894506) Erläuterungen in ihrem [Parallax-Interview](https://youtu.be/qdjnhQiLhT8?t=892) geben jedoch eine klare Vorstellung davon,
+wie Faschismus mit dem Konzept des Kulturessenzialismus überlappt, sodass man sie fast synonym verwenden könnte.
+
+Nach Ulrike Guérot bedeutet Faschismus zunächst, sich zu bündeln.
+
+> Eine Gruppe innerhalb der Gesellschaft bündelt sich um ein bestimmtes Argument herum und grenzt jene aus, die sich um dieses Argument nicht bündeln wollen.
+> Dieser Prozess einer moralischen Schließung, der unabhängig von politischer Ausrichtung stattfindet, führt nach [Ferdinand Tönnis](https://de.wikipedia.org/wiki/Ferdinand_T%C3%B6nnies) zur Transformation einer offenen Gesellschaft in eine geschlossene Gemeinschaft.
+
+Diese Dynamik ist nicht zwangsläufig an politische Richtungen wie "rechts" gebunden; sie kann um jedes zentrale Argument der Gruppe herum auftreten.
+
+Es gibt den Spruch:
+
+> Man kann in schlechter Gesellschaft sein, aber nicht in schlechter Gemeinschaft.
+
+Der Grund dafür liegt darin, dass die Gemeinschaft die Schlechten durch den Prozess der moralischen Schließung schon vorher ausgesondert hat.
+Die "Guten" bündeln sich um ihr Argument herum und schließen diejenigen aus, die sich um dieses Argument nicht bündeln wollen.
+
 ## Fußnoten
 
 [^freiheit]: Freiheit von allem und Freiheit zu allem, solange man keine Dritten schädigt. Kontrast: [How Freedom Became Free-dumb in America](https://eand.co/how-freedom-became-free-dumb-in-america-baee33dc6476).
