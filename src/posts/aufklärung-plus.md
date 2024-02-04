@@ -1010,7 +1010,14 @@ Experiment fortzuführen.
 Ein weiteres wesentliches Element zur Risikokontrolle solcher Experimente ist ein fundiertes Theoriegebäude, das nachvollziehbar darlegt, wie man sich die Mechanik der Welt vorstellt, auf deren Basis der angestrebte Effekt eintreten soll.
 Dieses Theoriegebäude bedarf einer ausführlichen wissenschaftlichen Kritik und kleineren Experimenten, die Teile der Mechanik experimentell überprüfen, bevor man ein umfassendes Gesellschaftsexperiment wagt.
 
+### Faschismus
 
+Im Anhang zu [Leben und leben lassen](../leben-und-leben-lassen) hatte ich bereits erste Gedanken zum Thema [Faschismus](../leben-und-leben-lassen/#faschismus) nach [Ulrike Guérot](https://www.amazon.de/Fall-Ulrike-Gu%C3%A9rot-%C3%B6ffentlichen-Hinrichtung/dp/3864894506) formuliert
+und die Nähe des Begriffs Faschismus zum Begriff des [Kulturessenzialismus](../leben-und-leben-lassen/#kulturessenzialismus-vs.-kosmopolitische-hyperkultur) aufgezeigt.
+
+Weiter [oben](#glaubensbekenntnis-zu-den-methoden-der-aufklärung-als-eine-art-von-impressum) in diesem Blogbeitrag habe ich die Existenz von Ideologien in drei Ausprägungen beschrieben: als Privatsache, als politische Ideologie und als Fundamentalismus.
+
+Nun möchte ich ergänzen, dass eine Ideologie, die vom Privaten in den öffentlichen Raum tritt und Anspruch auf die moralische Deutungshoheit über Richtig und Falsch bzw. Gut und Böse erhebt, bereits als Proto-Faschismus betrachtet werden kann.
 
 ## Fußnoten
 
