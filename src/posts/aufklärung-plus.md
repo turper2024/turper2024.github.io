@@ -1019,9 +1019,99 @@ Weiter [oben](#glaubensbekenntnis-zu-den-methoden-der-aufklärung-als-eine-art-v
 
 Nun möchte ich ergänzen, dass eine Ideologie, die vom Privaten in den öffentlichen Raum tritt und Anspruch auf die moralische Deutungshoheit über Richtig und Falsch bzw. Gut und Böse erhebt, bereits als Proto-Faschismus betrachtet werden kann.
 
+### Pluralismus
+
+In einem früheren Beitrag über [pluralistische Organisationen](../leben-und-leben-lassen/#pluralistische-organisationen-(wirtschaft%2C-politik%2C-religion%2C-weltanschauungen%2C-%E2%80%A6)) im Blogpost zu [Leben und leben lassen](../leben-und-leben-lassen) habe ich das Thema Pluralismus bereits angeschnitten:
+
+> Bereits im Sozialkundeunterricht wurde mir vor langer Zeit vermittelt, dass Pluralismus eine Gesellschaftsform ist, in der wirtschaftliche, politische und religiöse Weltanschauungen um Vorherrschaft ringen. Dies ist ein wesentlicher Aspekt der Demokratie.
+
+Ein Blick auf die folgende Grafik soll helfen, die Begrifflichkeiten im Kontext des Pluralismus zu ordnen (für eine vergrößerte und detaillierte Ansicht, bitte auf das Bild klicken):
+
+<a href="/img/aufklärung-plus-pluralismus.jpg" target="about:blank"><img src="/img/aufklärung-plus-pluralismus.jpg" alt="Pluralismus" style="max-height: 200px; max-width: 100%"></a>
+
+Da es sich sowohl bei Ideologien als auch bei Themen, die einen Zinseszinseffekt aufweisen, um Themen mit lediglich losem Bezug zur Realität handelt, ist es erstaunlich schwierig, die beiden Themenbereiche auseinanderzuhalten.
+Alle mir bekannten Themen mit Zinseszinseffekt sind eng verwandt mit dem, was [Michael E. Porter](https://de.wikipedia.org/wiki/Michael_E._Porter) als "[Strategie](https://hbr.org/1996/11/what-is-strategy)" definiert.
+Zur einfachen und klaren Abgrenzung von Ideologien bezeichne ich Themen mit Zinseszinseffekt als "(Business-)Strategien". Sowohl Ideologien als auch Strategien bilden ein verzahntes Netzwerk sich gegenseitig verstärkender Ideen und sind selten isolierte Konzepte.
+
+
+Ich schlage folgende 3 Achsen vor anhand derer man sich orientieren kann:
+
+- Privat, politisch oder fundamental
+- Stärke der Verbindung zur Realität bzw. Entscheidbarkeit
+- Vorhandensein von Fanatikern (Gewalt / Zeit)
+
+Beginnen wir mit dem letzten Punkt. Ein erster guter Indikator dafür, dass eine Idee ideologischer Natur ist, ist das Vorhandensein von Fanatikern.
+Hierbei sind Fanatiker Personen, die entweder Gewalt als Mittel zur Durchsetzung der Idee einsetzen oder fast ihre gesamte Lebenszeit der Idee widmen.
+Bei Fanatikern kippt das Beseeltsein von der Ideologie in ein Besessensein um.
+
+Bei [unentscheidbaren](https://de.wikipedia.org/wiki/Entscheidbar) Fragestellungen handelt es sich zwangsläufig um eine Ideologie.
+Bei entscheidbaren Fragestellungen mit lediglich losem Bezug zur Realität kann es sich sowohl um eine Ideologie als auch um eine Strategie handeln.
+Das Vorhandensein von Fanatikern kann dann als erstes Indiz für eine ideologische Ausrichtung dienen.
+
+Ideologien (rechts, links, Religion usw.) manifestieren sich in drei Formen: als Privatsache, als politische Ideologie und als Fundamentalismus.
+Die mir bekannten "(Business-)Strategien" existieren lediglich als private Angelegenheit[^gymstrategie], als Unternehmensstrategie und als politische Strategie einer Partei.
+
+Sowohl Ideologien als auch Strategien nutzen eine Mythological-Lens als Hilfsmittel oder Heuristik, um wertvolles von nicht werthaltigem Verhalten zu unterscheiden.
+Bei Strategien geht es meist um einen [utilitaristischen](https://de.wikipedia.org/wiki/Utilitarismus) Wert, der zumeist in Form einer Währung ausgedrückt wird.
+Im Fall von Ideologien handelt es sich um einen kulturellen und zumeist moralischen Wert.
+
+Sowohl Ideologien als auch Strategien umfassen ein [Activity-System](https://hbr.org/1996/11/what-is-strategy) bzw. Bräuche. Dies beschreibt, wie Anhänger der jeweiligen Bewegung sich verhalten und welche Methoden sie anwenden, um ihre Ideen in die Praxis umzusetzen.
+
+Ideologien werden oft als warm und sinnstiftend empfunden; sie betonen die Bedeutung des Eigenen, das als Grundlage für eine kollektive Identität taugt, und lehnen das Fremde ab, das als indifferent oder wertlos erscheint.
+Im Gegensatz dazu wirken Strategien aufgrund ihrer Fokussierung auf Rationalität kühl, unpersönlich und geistlos.
+Ideologien konzentrieren sich auf moralische Werte und die Unterscheidung zwischen Gut und Böse, und eignen sich um sich von ihnen beseelen zu lassen.
+Strategien hingegen legen Wert auf Rationalität und ziehen Ansätze wie [Spieltheorie](https://de.wikipedia.org/wiki/Spieltheorie) oder [Wirtschaftswissenschaften](https://de.wikipedia.org/wiki/Wirtschaftswissenschaft) zu Rate,
+um einen utilitaristischen (Euro-)Wert zu generieren.
+
+Ideologien konzentrieren sich auf die Steigerung ihrer [Reproduktionszahl R](https://de.wikipedia.org/wiki/Basisreproduktionszahl) und bedienen sich dabei teilweise übergriffiger Methoden zur Missionierung.
+Strategien hingegen streben nach einem Zinseszinseffekt. Beide Ansätze verfolgen das Ziel des (exponentiellen) Wachstums: Ideologien zielen auf eine Erhöhung der Mitgliederzahl ab, während Strategien auf die utilitaristische Wertschöpfung ausgerichtet sind.
+
+Ich betrachte die Begriffe [Kulturessenzialismus](../leben-und-leben-lassen/#kulturessenzialismus-vs.-kosmopolitische-hyperkultur), [Faschismus](../leben-und-leben-lassen/#faschismus), Religion und starke Formen der ethnischen Identität als Synonyme für Ideologie, während der Begriff Weltanschauung eher einer politischen Strategie entspricht.
+
+Die unterste Zeile der obigen Grafik führt Beispiele für verschiedene Arten von Ideologien und Strategien auf.
+
+Vor Kurzem stieß ich im Kontext von [Krieg und Frieden](https://www.juraforum.de/lexikon/krieg) auf die Begriffe "hegen" bzw. "gehegt":
+
+> Seit der Entstehung von Territorialstaaten und den verheerenden Folgen des Dreißigjährigen Krieges (1618–1648) in Europa ist der Versuch, durch Regeln und moralische Vorgaben einen "gehegten Krieg" zu schaffen, Teil der Geschichte des Krieges.
+
+In Anlehnung daran würde ich vorschlagen, den obigen Satz zum Pluralismus wie folgt abzuwandeln:
+
+> Pluralismus ist eine Gesellschaftsform, in der wirtschaftliche, politische und religiöse Weltanschauungen um Vorherrschaft ringen. Die Demokratie gibt einen Rahmen vor, in dem dieses Ringen auf gehegte Art und Weise stattfindet.
+
+Auf Strategien kann man das [Wandel durch Handel](https://de.wikipedia.org/wiki/Wandel_durch_Ann%C3%A4herung) Prinzip anwenden.
+Der Markt dient Strategen als Prüfstein, um zu sehen, ob ihre Strategie Erfolg hat. In diesem Sinne ist der Markt der Schauplatz eines "gehegten Streits", des wirtschaftlichen Wettbewerbs für Strategien.
+
+Da Ideologien höchstens einen schwachen Bezug zur Realität aufweisen, ist die wissenschaftliche Methode des Experiments zur Wahrheitsfindung ungeeignet.
+Ideologien zielen primär auf die Erhöhung ihrer Mitgliederzahl ab, wobei Wahrheit höchstens als Vorwand dient, um neue Mitglieder zu gewinnen.
+Es mündet also in einen Konflikt. In diesem Zusammenhang ist es die Aufgabe der Demokratie, dafür zu sorgen, dass dieser Streit auf eine gehegte Weise **im Tageslicht** als "gehegter heißer Konflikt" und **nicht im Verborgenen** als "ungehegter kalter Konflikt" ausgetragen wird.
+
+Ich möchte anregen, unser Verständnis von Pluralismusförderung zu überdenken und zu überarbeiten.
+Statt finanzielle Mittel direkt in die verschiedenen pluralistischen Strömungen (sprich Ideologien[^pluralismusförderung]) zu investieren, die möglicherweise zur Spaltung der Gesellschaft beitragen, plädiere ich dafür, Mittel ausschließlich für die Organisation von gehegten heißen Konflikten vor Publikum bereitzustellen.
+Ich stelle mir ein Format vor, ähnlich dem [Red Bull Gstanzl Battle](https://www.redbull.com/at-de/cugb-red-bull-gstanzl-battle-anmeldung), in dem Anhänger einer Ideologie durch ihre Darbietung vor Publikum um dessen Zustimmung konkurrieren.
+Das Publikum übernimmt dabei die Funktion eines Tribunals.
+Kunst, Kultur, Sport und jede andere Form von Performance und menschlicher Ausdrucksweise könnten eine besondere Rolle spielen, um das Konfliktpotenzial zwischen den Ideologien zu sublimieren und in konstruktive Bahnen zu lenken.
+
+#### Abgrenzung von Extremismus
+
+Von politischen Parteien erwarte und fordere ich, dass sie sich von jeder Form des Extremismus distanzieren.
+Die Abgrenzung zu rechtsextremem Gedankengut erfährt bereits die notwendige Aufmerksamkeit.
+Die Abgrenzung zu linksextremem Gedankengut findet jedoch nur zaghaft statt.
+Ich persönlich sehe diese mangelnde Distanzierung von linksextremem Gedankengut als einen der Hauptgründe für das Erstarken der AfD in Deutschland.
+An dieser Stelle möchte ich aus [Demos: Der wahre Grund für den AfD-Aufstieg](https://www.thepioneer.de/originals/thepioneer-briefing-business-class-edition/briefings/demos-der-wahre-grund-fuer-den-afd-aufstieg) aus dem [The Pioneer Briefing](https://www.thepioneer.de/originals/thepioneer-briefing-business-class-edition) vom 22.01.2024 zitieren:
+
+> Der Aufstieg der Rechtspopulisten in Deutschland ist nicht ihr eigenes Werk. Die Raketenbauteile wurden in der Kanzlerschaft Merkel gefertigt, die Treibstofftanks von den Ampelparteien mit ihren Entscheidungen zum Bürgergeld, zur erleichterter Einbürgerung und dem Verzicht, eine Viertelmillion illegal Zugewanderter abzuschieben, immer wieder befüllt. Gezündet allerdings wurde die Rakete erst dadurch, dass CDU und CSU nicht bereit waren, den Antagonisten der Regierung zu spielen.
+
+> Diese Fehlprogrammierung des demokratischen Spiels, bei dem die Opposition nicht mehr Opposition, sondern eine Geliebte der Regierung sein will, hat Millionen von Menschen heimatlos gemacht. Diese Menschen sehnen sich nicht nach Adolf Hitler, sondern nach Helmut Kohl und Helmut Schmidt. Sie **verlangen von der Regierung** keine neue Wannseekonferenz, sondern **ein zweites Bad Godesberg, wo die SPD sich 1959 vom Sozialismus verabschiedete und sich dem Bürgertum zuwendete**.
+
+> Aber das Gegenteil ist nach der Abwahl von Gerhard Schröder passiert. Es kam zu einem doppelten Abschied vom bisherigen Rollenspiel. Die SPD nach Schröder wird zur Partei der sozialen Abstiegsängste. Der neue Held der Sozialdemokratie ist nicht mehr der Facharbeiter, sondern der Hartz-IV-Empfänger. Und die CDU nach Kohl will die bessere SPD werden – auch um künftig für die Grünen attraktiv zu sein.
+
+> Ab jetzt spricht man nicht mehr Klartext, sondern politisch korrekt miteinander. Das politische Spielfeld und auch der Sprachraum werden verengt. Für Angela Merkel und später auch für Olaf Scholz ist diese Rechnung aufgegangen. Für Deutschland geht sie nicht auf.
+
 ## Fußnoten
 
 [^kopfkino]: Ein anderes gutes Wort, das beschreibt was passiert, wenn jemand von einer Ideologie beseelt wird, ist 'Kopfkino'.
 [^funktionierendesgehirn]: Ein "funktionierendes Gehirn" ist natürlich ein problematischer Begriff. Ich belasse diesen Begriff absichtlich weit gefasst, aber was ich grob damit meine, ist die Fähigkeit, im mathematischen Sinn logisch zu denken ([Prädikatenlogik](https://de.wikipedia.org/wiki/Pr%C3%A4dikatenlogik)), eine gewisse emotionale Begabung zu haben und gegen Ideologien immun zu sein.
 [^ludwikfleck]: Als ich das Buch gelesen habe, gab es keine deutsche Originalausgabe. Daher habe ich die englische Übersetzung gelesen: [Genesis and Development of a Scientific Fact](https://www.amazon.de/Genesis-Development-Scientific-Thaddeus-Trenn/dp/0226253252).
 [^trustthescience]: Das ist auch der Grund warum ich Aussagen wie 'Trust the Science' kritisch gegenüberstehe.
+[^gymstrategie]: Ein Beispiel für eine private Strategie wäre es, im Sinne von [ein gesunder Geist in einem gesunden Körper](https://de.wikipedia.org/wiki/Mens_sana_in_corpore_sano), täglich Sport zu betreiben, um langfristig in die körperliche sowie geistige Gesundheit zu investieren.
+[^pluralismusförderung]: In diesem Kontext beziehe ich den Begriff Ideologie auch auf den Elfenbeinturm der Geisteswissenschaften sowie auf die Kunst- und Kulturszene.
