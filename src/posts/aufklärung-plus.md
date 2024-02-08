@@ -110,7 +110,7 @@ zentrale Thema dieses Blogbeitrags.
 > dieses Codes ist darauf ausgerichtet, kopiert und weitergegeben zu werden. Er verbreitet sich durch Kontakt unter potenziellen Trägern, jedoch nicht
 > bei allen.
 >
-> Fanatiker erfüllen in diesem Bild die Rolle eines Immunsystems, das für die Abwehr fremder Code-Fragmente zuständig ist.
+> **Fanatiker** erfüllen in diesem Bild die Rolle eines Immunsystems, das für die Abwehr fremder Code-Fragmente zuständig ist.
 
 Ein weiterer Begriff, der aus der künstlichen Intelligenz-Forschung kommt, ist [Alignment](https://en.wikipedia.org/wiki/AI_alignment). Der Begriff
 Alignment zielt darauf ab, KI-Systeme in Richtung menschlicher Ziele, Präferenzen oder ethischer Grundsätze zu lenken. Zu diesem Thema sagt Joscha Bach:
@@ -241,7 +241,7 @@ Fällen, wo das Modell auf Statistik basiert und lediglich Wahrscheinlichkeiten 
 mehrere Versuche zu unternehmen, um das erwartete Resultat zu erreichen.  Eine fortwährende Überraschung durch die Welt deutet jedoch darauf hin, dass
 unser Weltbild einer Überprüfung und möglicherweise einer Anpassung bedarf.
 
-Es gibt keine Ideologien (Halluzinationen), die eine starke Kopplung an die Realität haben. Wären sie stark mit der Realität verbunden, würden sie bei
+**Es gibt keine Ideologien (Halluzinationen), die eine starke Kopplung an die Realität haben**. Wären sie stark mit der Realität verbunden, würden sie bei
 ihren Anhängern schnell zu sehr viel Schmerz führen, was wohl die meisten von ihnen zum Umdenken ihrer Ansichten bewegen würde.
 
 
@@ -338,7 +338,7 @@ by Exploiting Men](https://www.amazon.com/There-Anything-Good-About-Men/dp/01953
 Kulturen die Unterschiede zwischen Männern und Frauen nutzen, um in Konkurrenz mit anderen Kulturen zu bestehen, wobei Männer in verschiedenen
 Kulturen oft als 'entbehrlich' angesehen werden.
 
-Ein erster guter Indikator dafür, dass man es bei einer Idee mit einer Ideologie zu tun hat, ist die Präsenz von Fanatikern. Wie bereits erwähnt,
+Ein erster guter Indikator dafür, dass man es bei einer Idee mit einer Ideologie zu tun hat, ist die **Präsenz von Fanatikern**. Wie bereits erwähnt,
 scheinen Fanatiker die Aufgabe eines Immunsystems zu übernehmen, die für die Abwehr von fremden Ideologien zuständig sind.
 
 ### Methoden: Gegenüberstellung von Aufklärung mit Ideologien
@@ -1029,7 +1029,8 @@ Ein Blick auf die folgende Grafik soll helfen, die Begrifflichkeiten im Kontext 
 
 <a href="/img/aufklärung-plus-pluralismus.jpg" target="about:blank"><img src="/img/aufklärung-plus-pluralismus.jpg" alt="Pluralismus" style="max-height: 200px; max-width: 100%"></a>
 
-Da es sich sowohl bei Ideologien als auch bei Themen, die einen Zinseszinseffekt aufweisen, um Themen mit lediglich losem Bezug zur Realität handelt, ist es erstaunlich schwierig, die beiden Themenbereiche auseinanderzuhalten.
+Da es sich sowohl bei [Ideologien](#ideologien-%3D-halluzinationen) (Halluzinationen) als auch bei Themen, die einen [Zinseszinseffekt](#loser-realit%C3%A4tsbezug-und-zinseszinseffekt) aufweisen, um Themen mit lediglich [losem Bezug zur Realität](#realit%C3%A4t-ist-das%2C-was-weh-tut%2C-wenn-man-dagegen-handelt.) handelt,
+ist es erstaunlich schwierig, die beiden Themenbereiche auseinanderzuhalten.
 Alle mir bekannten Themen mit Zinseszinseffekt sind eng verwandt mit dem, was [Michael E. Porter](https://de.wikipedia.org/wiki/Michael_E._Porter) als "[Strategie](https://hbr.org/1996/11/what-is-strategy)" definiert.
 Zur einfachen und klaren Abgrenzung von Ideologien bezeichne ich Themen mit Zinseszinseffekt als "(Business-)Strategien". Sowohl Ideologien als auch Strategien bilden ein verzahntes Netzwerk sich gegenseitig verstärkender Ideen und sind selten isolierte Konzepte.
 
@@ -1042,7 +1043,7 @@ Ich schlage folgende 3 Achsen vor anhand derer man sich orientieren kann:
 
 Beginnen wir mit dem letzten Punkt. Ein erster guter Indikator dafür, dass eine Idee ideologischer Natur ist, ist das Vorhandensein von Fanatikern.
 Hierbei sind Fanatiker Personen, die entweder Gewalt als Mittel zur Durchsetzung der Idee einsetzen oder fast ihre gesamte Lebenszeit der Idee widmen.
-Bei Fanatikern kippt das Beseeltsein von der Ideologie in ein Besessensein um.
+Bei [Fanatikern](#einleitung%3A-ideologien-als-halluzinationen-in-analogie-zu-large-language-models-(llms)) kippt das [Beseeltsein](#einleitung%3A-ideologien-als-halluzinationen-in-analogie-zu-large-language-models-(llms)) von der Ideologie in ein Besessensein um.
 
 Bei [unentscheidbaren](https://de.wikipedia.org/wiki/Entscheidbar) Fragestellungen handelt es sich zwangsläufig um eine Ideologie.
 Bei entscheidbaren Fragestellungen mit lediglich losem Bezug zur Realität kann es sich sowohl um eine Ideologie als auch um eine Strategie handeln.
@@ -1051,7 +1052,7 @@ Das Vorhandensein von Fanatikern kann dann als erstes Indiz für eine ideologisc
 Ideologien (rechts, links, Religion usw.) manifestieren sich in drei Formen: als Privatsache, als politische Ideologie und als Fundamentalismus.
 Die mir bekannten "(Business-)Strategien" existieren lediglich als private Angelegenheit[^gymstrategie], als Unternehmensstrategie und als politische Strategie einer Partei.
 
-Sowohl Ideologien als auch Strategien nutzen eine Mythological-Lens als Hilfsmittel oder Heuristik, um wertvolles von nicht werthaltigem Verhalten zu unterscheiden.
+Sowohl Ideologien als auch Strategien nutzen eine [Mythological-Lens](#ideologien-und-die-mythological-lens) als Hilfsmittel oder Heuristik, um [wertvolles von nicht werthaltigem Verhalten](../leben-und-leben-lassen/#kulturessenzialismus-vs.-kosmopolitische-hyperkultur) zu unterscheiden.
 Bei Strategien geht es meist um einen [utilitaristischen](https://de.wikipedia.org/wiki/Utilitarismus) Wert, der zumeist in Form einer Währung ausgedrückt wird.
 Im Fall von Ideologien handelt es sich um einen kulturellen und zumeist moralischen Wert.
 
@@ -1066,7 +1067,7 @@ um einen utilitaristischen (Euro-)Wert zu generieren.
 Ideologien konzentrieren sich auf die Steigerung ihrer [Reproduktionszahl R](https://de.wikipedia.org/wiki/Basisreproduktionszahl) und bedienen sich dabei teilweise übergriffiger Methoden zur Missionierung.
 Strategien hingegen streben nach einem Zinseszinseffekt. Beide Ansätze verfolgen das Ziel des (exponentiellen) Wachstums: Ideologien zielen auf eine Erhöhung der Mitgliederzahl ab, während Strategien auf die utilitaristische Wertschöpfung ausgerichtet sind.
 
-Ich betrachte die Begriffe [Kulturessenzialismus](../leben-und-leben-lassen/#kulturessenzialismus-vs.-kosmopolitische-hyperkultur), [Faschismus](../leben-und-leben-lassen/#faschismus), Religion und starke Formen der ethnischen Identität als Synonyme für Ideologie, während der Begriff Weltanschauung eher einer politischen Strategie entspricht.
+Ich betrachte die Begriffe Personenkult, [Kulturessenzialismus](../leben-und-leben-lassen/#kulturessenzialismus-vs.-kosmopolitische-hyperkultur), [Faschismus](../leben-und-leben-lassen/#faschismus), Religion und starke Formen der ethnischen Identität als Synonyme für Ideologie, während der Begriff Weltanschauung eher einer politischen Strategie entspricht.
 
 Die unterste Zeile der obigen Grafik führt Beispiele für verschiedene Arten von Ideologien und Strategien auf.
 
@@ -1081,15 +1082,110 @@ In Anlehnung daran würde ich vorschlagen, den obigen Satz zum Pluralismus wie f
 Auf Strategien kann man das [Wandel durch Handel](https://de.wikipedia.org/wiki/Wandel_durch_Ann%C3%A4herung) Prinzip anwenden.
 Der Markt dient Strategen als Prüfstein, um zu sehen, ob ihre Strategie Erfolg hat. In diesem Sinne ist der Markt der Schauplatz eines "gehegten Streits", des wirtschaftlichen Wettbewerbs für Strategien.
 
-Da Ideologien höchstens einen schwachen Bezug zur Realität aufweisen, ist die wissenschaftliche Methode des Experiments zur Wahrheitsfindung ungeeignet.
+Da Ideologien höchstens einen [schwachen Bezug zur Realität](#realit%C3%A4t-ist-das%2C-was-weh-tut%2C-wenn-man-dagegen-handelt.) aufweisen, ist die [wissenschaftliche Methode](#wissenschaft-vs.-theologie) des Experiments [zur Wahrheitsfindung ungeeignet](#rationalit%C3%A4t-und-vernunft-der-aufkl%C3%A4rung).
 Ideologien zielen primär auf die Erhöhung ihrer Mitgliederzahl ab, wobei Wahrheit höchstens als Vorwand dient, um neue Mitglieder zu gewinnen.
 Es mündet also in einen Konflikt. In diesem Zusammenhang ist es die Aufgabe der Demokratie, dafür zu sorgen, dass dieser Streit auf eine gehegte Weise **im Tageslicht** als "gehegter heißer Konflikt" und **nicht im Verborgenen** als "ungehegter kalter Konflikt" ausgetragen wird.
 
 Ich möchte anregen, unser Verständnis von Pluralismusförderung zu überdenken und zu überarbeiten.
-Statt finanzielle Mittel direkt in die verschiedenen pluralistischen Strömungen (sprich Ideologien[^pluralismusförderung]) zu investieren, die möglicherweise zur Spaltung der Gesellschaft beitragen, plädiere ich dafür, Mittel ausschließlich für die Organisation von gehegten heißen Konflikten vor Publikum bereitzustellen.
+Statt finanzielle Mittel direkt in die verschiedenen pluralistischen Strömungen (sprich Ideologien[^pluralismusförderung][^demokratieförderung])
+zu investieren, die möglicherweise zur Spaltung der Gesellschaft beitragen, plädiere ich dafür, Mittel ausschließlich für die Organisation von Begegnungen (z.B. [Abrahamische Ökumene](https://de.wikipedia.org/wiki/J%C3%BCdisch-christlich-islamischer_Dialog#Abrahamitische_%C3%96kumene)), bzw. gehegten heißen Konflikten vor Publikum bereitzustellen.
 Ich stelle mir ein Format vor, ähnlich dem [Red Bull Gstanzl Battle](https://www.redbull.com/at-de/cugb-red-bull-gstanzl-battle-anmeldung), in dem Anhänger einer Ideologie durch ihre Darbietung vor Publikum um dessen Zustimmung konkurrieren.
 Das Publikum übernimmt dabei die Funktion eines Tribunals.
-Kunst, Kultur, Sport und jede andere Form von Performance und menschlicher Ausdrucksweise könnten eine besondere Rolle spielen, um das Konfliktpotenzial zwischen den Ideologien zu sublimieren und in konstruktive Bahnen zu lenken.
+Kunst, Kultur, Sport und jede andere Form von Performance und menschlicher Ausdrucksweise könnten eine besondere Rolle spielen, um das Konfliktpotenzial zwischen den Ideologien zu [sublimieren](https://de.wikipedia.org/wiki/Sublimierung_(Psychoanalyse)) und in konstruktive Bahnen zu lenken.
+
+#### Faktenfinder -> Konfliktfinder
+
+Die Debatte um [Faktenfinder](https://de.wikipedia.org/wiki/Faktencheck) zeigt, dass die Bemühungen, [Fake News](https://de.wikipedia.org/wiki/Fake_News) und [alternative Fakten](https://de.wikipedia.org/wiki/Alternative_Fakten) einzudämmen, in Zensur münden können.
+Wie ich in [Wissenschaft vs. Theologie](#wissenschaft-vs.-theologie) herausgearbeitet habe, ist es besonders bei Themen mit lediglich schwachem Realitätsbezug schwierig, zu klaren Faktenaussagen zu gelangen.
+Wer entscheidet darüber, welche der doch immer auch strittigen Tatsachenbehauptungen wahr oder falsch sind? Und wie kann man, gerade in politischen Zusammenhängen, Tatsachen von Meinungen unterscheiden?
+
+Auch [Gabriele Gysi](https://de.wikipedia.org/wiki/Gabriele_Gysi) thematisiert in der Einleitung zu [Der Fall Ulrike Guérot: Versuche einer öffentlichen Hinrichtung](https://www.amazon.de/Fall-Ulrike-Gu%C3%A9rot-%C3%B6ffentlichen-Hinrichtung/dp/3864894506)
+die Praxis der Faktenchecker und hebt deren problematische Rolle hervor:
+
+> Wie kann eine Gesellschaft das Nachdenken auf Faktenchecker abwälzen? Wann ist dieser Irrsinn ausgebrochen?
+
+[Dr. Jonas Tögel](https://www.jonastoegel.de), ein Experte für Propagandaforschung, erörtert in [Kognitive Kriegsführung: Neueste Manipulationstechniken als
+Waffengattung der NATO](https://www.amazon.de/Kognitive-Kriegsf%C3%BChrung-Neueste-Manipulationstechniken-Waffengattung/dp/3864894220) die Rolle von Faktenfindern.
+Er beleuchtet die subtilen Manipulationstechniken, die darauf abzielen, unter der Wahrnehmungsschwelle eines psychologischen "Angriffs" zu bleiben.
+Hier ist ein Auszug, in dem Dr. Tögel beschreibt, wie "Faktenchecks" im Kontext des [Ludlow-Massakers](https://en.wikipedia.org/wiki/Ludlow_Massacre) bereits vor über 100 Jahren für Propagandazwecke eingesetzt wurden:
+
+> Die Idee, "Faktenchecks" zu wichtigen Ereignissen zu veröffentlichen, ist folglich nicht neu. Das Ziel der von Ivy Lee präsentierten Fakten war, die Menschen davon zu überzeugen, dass [Rockefeller](https://en.wikipedia.org/wiki/John_D._Rockefeller_Jr.) gerecht gehandelt hatte, damit die Menschen nun ihn und nicht die streikenden Bergarbeiter unterstützen.
+> Diese Schlussfolgerung sollten die Menschen selbst treffen.<br>
+> Der Trick von Lees "Faktenchecks" war, dass die Fakten zwar alle stimmten und Lee nichts Falsches sagte. Er ließ jedoch viele Dinge weg und gab nur das weiter, was seinem Auftraggeber nützte.
+
+Wie dem auch sei, ich denke, dass ein konstruktiverer Ansatz zur Bewältigung gesellschaftlicher Konflikte und der Herausforderung von Fake News darin bestehen könnte, anstatt auf Faktenfinder zu vertrauen, die Rolle von Konfliktfindern zu etablieren.
+Diese könnten gezielt nach Indikatoren für Meinungsmache und Manipulation suchen und die Beteiligten dazu bringen, ihre Standpunkte im Tageslicht in gehegten, heißen Konflikten vor Publikum zu klären.
+
+Kürzlich las ich den folgenden Blogbeitrag: [My TLS essay on the Clinton administration](https://marginalrevolution.com/marginalrevolution/2024/02/my-tls-essay-on-the-clinton-administration.html):
+
+> Ich rezensiere gerade ein schlechtes Buch über die Clinton-Administration: Zu oft werden die inhaltlichen Argumente der Autoren in der Form eines "Arguments durch Adjektive" ("**argument by adjective**") präsentiert,
+> wobei Ereignisse, Institutionen und Personen mit negativen Adjektiven oder Konnotationen umetikettiert werden, ohne jedoch genügend stichhaltige Beweise zu liefern.
+
+<!--
+“argument by adjective” : https://marginalrevolution.com/marginalrevolution/2024/02/my-tls-essay-on-the-clinton-administration.html My TLS essay on the Clinton administration :
+I am reviewing a bad book on the Clinton administration : Too often the authors’ substantive arguments are presented in an “argument by adjective” form, relabelling events, institutions and individuals with negative adjectives or connotations, but without providing enough firm evidence.
+-->
+
+Die Praxis des "Argumentierens durch Adjektive" hat in den letzten Jahren überhandgenommen und grassiert mittlerweile im deutschen [(Haltungs-)Journalismus](https://de.wikipedia.org/wiki/Haltungsjournalismus).
+Dies umfasst die Belegung von Kritikern mit Begriffen wie "[umstritten](https://www.amazon.de/Umstritten-journalistisches-G%C3%BCtesiegel-Marcus-Kl%C3%B6ckner/dp/394677847X)", "kontrovers", "dubios", "Querdenker", "Schwurbler", "konservativ", "rechts", und weiter bis zu "rechtsextrem" und "[Nazi](https://www.youtube.com/watch?v=a6OEv0SlUDU)".
+Kürzlich stieß ich auf ein Handbuch zum Thema Rufmord: das [Routledge Handbook of Character Assassination and Reputation Management](https://www.amazon.de/Routledge-Character-Assassination-Reputation-Management/dp/1032081775).
+Das Verdrängen von Personen aus dem Diskurs durch das Belegen mit Tabu-Begriffen, auch bekannt als [Cancel Culture](https://de.wikipedia.org/wiki/Cancel_Culture), hat sich mittlerweile als probates Mittel etabliert,
+wie durch [Der Fall Ulrike Guérot: Versuche einer öffentlichen Hinrichtung](https://www.amazon.de/Fall-Ulrike-Gu%C3%A9rot-%C3%B6ffentlichen-Hinrichtung/dp/3864894506) dokumentiert.
+
+Wahrheit ist bei Menschen ein Gruppeneffekt.
+Menschen neigen dazu der Mehrheit zu glauben und nicht unbedingt der Wahrheit.
+Die Wahrheit zu ergründen ist zeitaufwendig, und Aufmerksamkeit ist ein knappes Gut. Daher müssen Menschen abwägen, in welche Themen sie ihre Aufmerksamkeit investieren möchten.
+Label wie der Begriff "umstritten" dienen dem Leser als erster Anhaltspunkt, um zu entscheiden, ob eine nähere Auseinandersetzung mit den Argumenten des Trägers des Labels nötig ist.
+Allmählich beginnt sich diese Wahrnehmung zu drehen, und der Begriff ["umstritten" entwickelt sich zu einem journalistischen Gütesiegel](https://www.amazon.de/Umstritten-journalistisches-G%C3%BCtesiegel-Marcus-Kl%C3%B6ckner/dp/394677847X), doch es gibt viele andere Begriffe, die noch ihre Wirkung entfalten.
+
+In [Methoden: Gegenüberstellung von Aufklärung mit Ideologien](#methoden%3A-gegen%C3%BCberstellung-von-aufkl%C3%A4rung-mit-ideologien) stelle ich einige Begriffspaare gegenüber, wie "Ergebnisse" vs. "Narrativ", "Unternehmertum" vs. "Aktivismus" und "agieren" vs. "agitieren".
+Das englische Wort [trappings](https://dict.leo.org/englisch-deutsch/trappings), was soviel wie "äußere Zeichen" bedeutet, trifft die Situation genau: Die ideologische Bewegung konzentriert sich darauf, die äußeren Zeichen von Arbeit und Ergebnissen zu simulieren,
+anstatt echte Arbeit zu leisten und echte Ergebnisse zu erzielen.
+Diese Sachverhalte bilden für mich eine zweite Kategorie von Themen, nach denen Konfliktfinder Ausschau halten und ideologische Gruppen einladen sollten, um ihre Standpunkte im Tageslicht vor einem kritischen Publikum zu argumentieren.
+
+Die Aufgabe der Konfliktfinder wäre es also, nach Anzeichen von Meinungsmache, Meinungsmanipulation, Propaganda und kognitiver Kriegsführung Ausschau zu halten, diese klar zu kennzeichnen und die handelnden Akteure zu einer Begegnung bzw. öffentlichen Auseinandersetzung in gehegten, heißen Konflikten vor Publikum einzuladen.
+Personen oder Gruppen, die dieser Einladung nicht folgen, können deutlich benannt werden. Dies dient dazu, der Öffentlichkeit zu zeigen, welche Akteure im Verborgenen, aus dem Schatten heraus, agieren und sich einer öffentlichen  Stellungnahme zu ihren Positionen verweigern.
+
+#### Neue Rolle des öffentlich-rechtlichen Rundfunks (ÖRR)
+
+Ich denke, dass es im Sinne des [Demokratiefördergesetzes](https://www.bundestag.de/dokumente/textarchiv/2023/kw13-pa-familie-demokratiefoerderung-938952) wäre, an der Rolle des [öffentlich-rechtlichen Rundfunks](https://de.wikipedia.org/wiki/%C3%96ffentlich-rechtlicher_Rundfunk) (ÖRR) anzusetzen.
+Seine Aufgabe sollte es sein, die Austragung dieser Begegnungen bzw. gehegten heißen Konflikte vor Publikum zu übernehmen und als Veranstalter zu fungieren, um sowohl die Örtlichkeiten, die Infrastruktur als auch die mediale Begleitung und Verbreitung sicherzustellen.
+
+Die Aufgabe des ÖRR wäre es also, die von Konfliktfindern identifizierten Konflikte unabhängig von deren Ursprung aufzugreifen und zu gewährleisten, dass eine Begegnung und Aussprache der handelnden Parteien unter fairen 1 gegen 1 Bedingungen stattfindet.
+Zuschauer sollten mittels eines [Televoting-Verfahrens](https://de.wikipedia.org/wiki/Tele-Dialog) in der Lage sein, ihre Zustimmung oder Kritik an bestimmten Positionen zu äußern.
+In aufbereiteten Aufzeichnungen der Begegnungen könnten besonders polarisierende oder harmonisierende Momente hervorgehoben werden, ähnlich wie YouTube in seiner Timeline Bereiche markiert, die von den Nutzern besonders häufig wiederholt werden.
+
+Die Rolle des ÖRR in Verbindung mit den Konfliktfindern wäre somit auch, die Meinungskorridore offen zu halten und aktiv zur [Meinungsfreiheit](https://de.wikipedia.org/wiki/Artikel_5_des_Grundgesetzes_f%C3%BCr_die_Bundesrepublik_Deutschland#Normierung) beizutragen.
+
+#### Finanzierung
+
+Wir investieren bereits in die Demokratieförderung, sowohl durch das Programm [Demokratie leben](https://de.wikipedia.org/wiki/Demokratie_leben) als auch durch das zukünftige [Demokratiefördergesetz](https://www.bundestag.de/dokumente/textarchiv/2023/kw13-pa-familie-demokratiefoerderung-938952)[^demokratieförderung].
+Zudem wird der öffentlich-rechtliche Rundfunk (ÖRR) bereits durch die [Rundfunkabgabe](https://de.wikipedia.org/wiki/Rundfunkabgabe) finanziert.
+Dieser Vorschlag zielt daher nicht auf eine Mehrbelastung ab, sondern auf eine Neuausrichtung der bereits vorhandenen Mittel.
+Ziel ist es, auf eine produktivere Weise mit dem pluralistischen Ringen um Vorherrschaft in unserer Gesellschaft umzugehen, um idealerweise weniger spaltend und mehr harmonisierend zu wirken.
+
+Anstatt finanzielle Mittel direkt in die verschiedenen pluralistischen Strömungen, also Ideologien, zu investieren, die zur Spaltung der Gesellschaft beitragen könnten, befürworte ich, diese Mittel ausschließlich für die Organisation von Begegnungen oder gehegten Konflikten vor Publikum zu verwenden.
+Dies würde konkret eine Neuausrichtung der Finanzierung bedeuten, einschließlich der Abschaffung der Kirchensteuer und direkter finanzieller Zuwendungen aus Steuermitteln an NGOs, parteinahe Stiftungen sowie die Kunst- und Kulturszene.
+Zudem plädiere ich dafür, an Universitäten staatliche Mittel nur noch für evidenzbasierte harte Naturwissenschaften bereitzustellen und den Elfenbeinturm der Geisteswissenschaften an staatlichen Universitäten abzuschaffen.
+
+Diese Organisationen könnten weiterhin finanzielle Unterstützung durch Preisgelder bei diesen Begegnungsveranstaltungen erhalten.
+Es ließe sich ein System von Kategorien für Ideologien (beispielsweise für Religionen) etablieren, in denen halbjährlich Wettbewerbe mit Ranglisten stattfinden könnten.
+Die Vergabe von Preisgeldern könnte sich am Verfahren für die [Parteienfinanzierung](https://www.mdr.de/nachrichten/deutschland/politik/parteien-finanzierung-steuergeld-wahl-afd-cdu-spd-100.html) orientieren.
+Kunst, Kultur, Geisteswissenschaften, Philosophie, Sport und alle anderen Formen der Performance und des menschlichen Ausdrucks würden bei diesen Veranstaltungen als Hilfsmittel und einbezogene Dienstleistungen fungieren,
+um das Konfliktpotenzial zwischen den Ideologien zu [sublimieren](https://de.wikipedia.org/wiki/Sublimierung_(Psychoanalyse)) und in konstruktive Bahnen zu lenken.
+
+Zusammengefasst:
+* Minus:
+  * Abschaffung der Kirchensteuer
+  * Keine direkte Finanzierung von NGOs, parteinahen Stiftungen, Kunst- und Kulturszene
+  * Konzentration der Geisteswissenschaften auf private Träger
+* Plus:
+  * Direkte Finanzierung von Begegnungsveranstaltungen aus Steuermitteln
+  * Preisgelder für gelungene Begegnungen
+  * Kunst und Kultur als Katalysatoren
+* Ziel: Weniger Spaltung, mehr Harmonie
+
+Mit dieser Neuausrichtung der Demokratieförderung können wir die Spaltung der Gesellschaft reduzieren und zu einem harmonischeren Miteinander beitragen.
 
 #### Abgrenzung von Extremismus
 
@@ -1099,7 +1195,7 @@ Die Abgrenzung zu linksextremem Gedankengut findet jedoch nur zaghaft statt.
 Ich persönlich sehe diese mangelnde Distanzierung von linksextremem Gedankengut als einen der Hauptgründe für das Erstarken der AfD in Deutschland.
 An dieser Stelle möchte ich aus [Demos: Der wahre Grund für den AfD-Aufstieg](https://www.thepioneer.de/originals/thepioneer-briefing-business-class-edition/briefings/demos-der-wahre-grund-fuer-den-afd-aufstieg) aus dem [The Pioneer Briefing](https://www.thepioneer.de/originals/thepioneer-briefing-business-class-edition) vom 22.01.2024 zitieren:
 
-> Der Aufstieg der Rechtspopulisten in Deutschland ist nicht ihr eigenes Werk. Die Raketenbauteile wurden in der Kanzlerschaft Merkel gefertigt, die Treibstofftanks von den Ampelparteien mit ihren Entscheidungen zum Bürgergeld, zur erleichterter Einbürgerung und dem Verzicht, eine Viertelmillion illegal Zugewanderter abzuschieben, immer wieder befüllt. Gezündet allerdings wurde die Rakete erst dadurch, dass CDU und CSU nicht bereit waren, den Antagonisten der Regierung zu spielen.
+> Der Aufstieg der Rechtspopulisten in Deutschland ist nicht ihr eigenes Werk. Die Raketenbauteile wurden in der Kanzlerschaft Merkel gefertigt, die Treibstofftanks von den Ampelparteien mit ihren Entscheidungen zum Bürgergeld, zur erleichterten Einbürgerung und dem Verzicht, eine Viertelmillion illegal Zugewanderter abzuschieben, immer wieder befüllt. Gezündet allerdings wurde die Rakete erst dadurch, dass CDU und CSU nicht bereit waren, den Antagonisten der Regierung zu spielen.
 
 > Diese Fehlprogrammierung des demokratischen Spiels, bei dem die Opposition nicht mehr Opposition, sondern eine Geliebte der Regierung sein will, hat Millionen von Menschen heimatlos gemacht. Diese Menschen sehnen sich nicht nach Adolf Hitler, sondern nach Helmut Kohl und Helmut Schmidt. Sie **verlangen von der Regierung** keine neue Wannseekonferenz, sondern **ein zweites Bad Godesberg, wo die SPD sich 1959 vom Sozialismus verabschiedete und sich dem Bürgertum zuwendete**.
 
@@ -1114,4 +1210,5 @@ An dieser Stelle möchte ich aus [Demos: Der wahre Grund für den AfD-Aufstieg](
 [^ludwikfleck]: Als ich das Buch gelesen habe, gab es keine deutsche Originalausgabe. Daher habe ich die englische Übersetzung gelesen: [Genesis and Development of a Scientific Fact](https://www.amazon.de/Genesis-Development-Scientific-Thaddeus-Trenn/dp/0226253252).
 [^trustthescience]: Das ist auch der Grund warum ich Aussagen wie 'Trust the Science' kritisch gegenüberstehe.
 [^gymstrategie]: Ein Beispiel für eine private Strategie wäre es, im Sinne von [ein gesunder Geist in einem gesunden Körper](https://de.wikipedia.org/wiki/Mens_sana_in_corpore_sano), täglich Sport zu betreiben, um langfristig in die körperliche sowie geistige Gesundheit zu investieren.
-[^pluralismusförderung]: In diesem Kontext beziehe ich den Begriff Ideologie auch auf den Elfenbeinturm der Geisteswissenschaften sowie auf die Kunst- und Kulturszene.
+[^pluralismusförderung]: In diesem Kontext beziehe ich den Begriff Ideologie auch auf Kirchen(steuer), NGOs, parteinahe Stiftungen, den Elfenbeinturm der Geisteswissenschaften sowie auf die Kunst- und Kulturszene.
+[^demokratieförderung]: Das [Demokratiefördergesetzes](https://www.bundestag.de/dokumente/textarchiv/2023/kw13-pa-familie-demokratiefoerderung-938952) wurde auf Twitter auch schon "Klientelsteuergeldzuschanzgesetz" genannt.
