@@ -782,6 +782,228 @@ Es gibt den Spruch:
 Der Grund dafür liegt darin, dass die Gemeinschaft die Schlechten durch den Prozess der moralischen Schließung schon vorher ausgesondert hat.
 Die "Guten" bündeln sich um ihr Argument herum und schließen diejenigen aus, die sich um dieses Argument nicht bündeln wollen.
 
+### Freiheit hat in Deutschland keine Lobby
+
+In der folgenden Grafik sehen Sie das Antwortverhalten auf die Frage "Haben Sie das Gefühl, dass man heute in Deutschland seine politische Meinung frei sagen kann, oder ist es besser, vorsichtig zu sein?":
+
+<img src="/img/leben-und-leben-lassen-mediatenor-freie-meinungsäußerung.png" alt="Freie Meinungsäußerung" style="max-height: 400px; max-width: 100%">
+
+Insgesamt zeigt sich ein bedenklicher negativer Trend beim hohen Gut der Meinungsfreiheit in Deutschland.
+
+In seinem Artikel [Meinungsfreiheit auf dem Tiefpunkt: Es ist noch schlimmer als in der DDR!](https://www.nius.de/kommentar/meinungsfreiheit-auf-dem-tiefpunkt-es-ist-noch-schlimmer-als-in-der-ddr/057bead4-58c2-416a-b7d1-d5f80f633de2) beschreibt der Journalist [Ralf Schuler](https://de.wikipedia.org/wiki/Ralf_Schuler)
+seine Einschätzung zur aktuellen Lage der Meinungsfreiheit in Deutschland mit den Worten:
+
+> Die Freiheit hat in Deutschland keine Lobby. Die Meinungsfreiheit offenbar auch nicht.
+
+Diese Schlussfolgerung stützt er auf den Freiheitsindex[^freiheitsindex] des [Instituts für Demoskopie in Allensbach](https://de.wikipedia.org/wiki/Institut_f%C3%BCr_Demoskopie_Allensbach), der für das Jahr 2023 den niedrigsten Stand seit [70 Jahren](https://www.nius.de/gesellschaft/schlechtester-wert-seit-70-jahren-mehrheit-der-deutschen-traut-sich-nicht-die-politische-meinung-frei-zu-sagen/f0d9ce69-0596-4c44-89ab-f4428687f760) verzeichnet.
+
+In diesem Anhang zu [Leben und leben lassen](./) möchte ich meine Perspektive auf die aktuelle Situation präsentieren.
+
+Wir befinden uns in einer Gemengelage zwischen [Meinungsfreiheit](https://de.wikipedia.org/wiki/Artikel_5_des_Grundgesetzes_f%C3%BCr_die_Bundesrepublik_Deutschland#Normierung),
+[Hassrede](https://de.wikipedia.org/wiki/Hassrede), [Fake News](https://de.wikipedia.org/wiki/Fake_News), [alternativen Fakten](https://de.wikipedia.org/wiki/Alternative_Fakten), Propaganda und [kognitiver Kriegsführung](https://www.amazon.de/Kognitive-Kriegsf%C3%BChrung-Neueste-Manipulationstechniken-Waffengattung/dp/3864894220).
+
+<a href="/img/leben-und-leben-lassen-meinungsfreiheit-1.jpg" target="about:blank"><img src="/img/leben-und-leben-lassen-meinungsfreiheit-1.jpg" alt="Gemengelage Meinungsfreiheit" style="max-height: 200px; max-width: 100%"></a>
+
+Unter diesen Themenbereichen ist einzig die Meinungsfreiheit in der Verfassung verankert.
+
+Nun möchte man rechtliche Instrumente entwickeln, um den Herausforderungen von Hassrede, Fake News, alternativen Fakten, Propaganda und kognitiver Kriegsführung im Rahmen einer [wehrhaften Demokratie](https://de.wikipedia.org/wiki/Streitbare_Demokratie) entgegenzutreten.
+
+#### Filter bzw. Klassifizierer
+
+Aus technischer Perspektive fungieren diese rechtlichen Instrumente als Filter ([Binäre Klassifikation](https://en.wikipedia.org/wiki/Binary_classification)), bei denen es zu sogenannten [False Positives und False Negatives](https://en.wikipedia.org/wiki/False_positives_and_false_negatives) kommt.
+Diese werden in anderen Bereichen auch als [Type I und Type II Error](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors) bezeichnet.
+Hierbei liegt die Herausforderung darin, dass eine klare Abgrenzung zwischen dem, was als "alternative Fakten", und dem, was als "Fakten" betrachtet wird, fehlt.
+Folglich sind Fehler bei der Klassifizierung unvermeidlich.
+Der Klassifizierungsalgorithmus zielt darauf ab, "alternative Fakten" zu identifizieren und gibt dann das Ergebnis "Positiv"/Ja/Wahr aus.
+Ein False-Positive Fehler entsteht, wenn der Algorithmus fälschlicherweise identifiziert, dass es sich um "alternative Fakten" handelt, obwohl dies nicht der Fall ist.
+Ein False-Negative Fehler liegt vor, wenn tatsächlich "alternative Fakten" vorliegen, diese aber vom Algorithmus nicht als solche erkannt werden.
+Die nachfolgende Grafik veranschaulicht diesen Sachverhalt anhand von Wahrscheinlichkeitsverteilungen:
+
+<a href="https://www.researchgate.net/figure/Illustration-of-the-probabilities-of-error-for-a-binary-classification-problem-with_fig2_312222508" target="about:blank"><img src="https://www.researchgate.net/profile/Xintao-Huan-2/publication/312222508/figure/fig2/AS:664129937354755@1535352324451/Illustration-of-the-probabilities-of-error-for-a-binary-classification-problem-with.png" alt="Illustration of the probabilities of error for a binary classification problem with Gaussian distribution." style="max-height: 200px; max-width: 100%"></a>
+
+In einem Bereich überlappen die Wahrscheinlichkeitsfunktionen, ob etwas ein "alternativer Fakt" oder ein "Fakt" ist.
+Man muss einen Schwellenwert festlegen, ab dem entschieden wird, ob es sich eher um einen "alternativen Fakt" oder um einen "Fakt" handelt.
+Auf der Wikipedia-Seite zu [False Positives und False Negative](https://en.wikipedia.org/wiki/False_positives_and_false_negatives) wird dies näher erläutert:
+
+<!--
+> When developing detection algorithms or tests, a balance must be chosen between risks of false negatives and false positives. Usually there is a threshold of how close a match to a given sample must be achieved before the algorithm reports a match. The higher this threshold, the more false negatives and the fewer false positives.
+-->
+
+> Bei der Entwicklung von Erkennungsalgorithmen oder Tests muss ein Gleichgewicht zwischen dem Risiko falsch negativer und falsch positiver Ergebnisse gewählt werden.
+> Normalerweise gibt es einen Schwellenwert, der angibt, wie nahe eine Übereinstimmung mit einer bestimmten Stichprobe erreicht werden muss, bevor der Algorithmus eine Übereinstimmung meldet.
+> Je höher dieser Schwellenwert, desto mehr falsch-negative Ergebnisse und desto weniger falsch-positive Ergebnisse.
+
+Man steht also vor der Wahl, ob es akzeptabler ist, mit falsch-negativen oder falsch-positiven Ergebnissen umzugehen.
+Ist es schädlicher für die Demokratie, wenn jemand seine Meinung nicht frei äußern kann, obwohl sie auf einem "Fakt" beruht?
+Oder ist es schädlicher, wenn jemand eine Meinung äußern kann, die auf einem "alternativen Fakt" basiert?
+Diese Fragen sind des Pudels Kern in der Gemengelage zwischen Meinungsfreiheit, Hassrede, Fake News, alternativen Fakten, Propaganda und kognitiver Kriegsführung.
+
+Ein Beispiel: es gibt die sogenannten [Flatearther](https://en.wikipedia.org/wiki/Modern_flat_Earth_beliefs), die überzeugt sind, die Erde sei eine flache Scheibe.
+Dieser Glaube führte im Fall von [Mike Hughes](https://en.wikipedia.org/wiki/Mike_Hughes_(daredevil)), der seine These mit einer selbstgebauten Rakete beweisen wollte, zu einer tragischen Bruchlandung, die [ihm das Leben kostete](https://www.bbc.com/news/world-us-canada-51602655).
+Hat in einem solchen Fall die Meinungsfreiheit den höheren Stellenwert? Oder hätten wir eingreifen und Mike Hughes von seinem gefährlichen Experiment abhalten sollen, um sein Leben zu schützen?
+
+Wie ich in diesem Blogbeitrag bereits mehrfach dargelegt habe, ist die Freiheit, und somit auch die Meinungsfreiheit, für mich ein derart hohes Gut, dass meine Antwort deutlich ist: **Eine Demokratie muss in der Lage sein, auch Meinungen auszuhalten, die so abwegig erscheinen wie die der Flatearther**.
+
+Viele werden mir in der obigen Aussage sicherlich zustimmen (hoffe ich). Die Herausforderung vergrößert sich jedoch, wenn wir uns aktuellen Debatten wie dem Klimawandel zuwenden.
+Wie sollten wir mit Klimawandelleugnern umgehen? Meine persönliche Antwort ist eindeutig und entspricht der zu den Flatearthern: Eine Demokratie muss in der Lage sein, auch Meinungen auszuhalten, die so abwegig wirken mögen wie die der Klimawandelleugner.
+
+
+#### Filter-Optimierung: Gesinnung
+
+Bei den Filtern/Klassifizierern ist es möglich, zusätzliche Variablen oder Eigenschaften einzubeziehen, um die Trennschärfe zu optimieren und die Zahl der falsch positiven Ergebnisse oder die Zahl der falsch negativen Ergebnisse zu reduzieren.
+Man steht aber auch bei dieser Optimierung weiterhin vor der Wahl, ob es akzeptabler ist, mit falsch-negativen oder falsch-positiven Ergebnissen umzugehen. Eine Verringerung des einen führt zwangsläufig zu einer Erhöhung des anderen Wertes.
+
+Die Erhöhung der Trennschärfe scheint das Motiv hinter [§ 46 StGB](https://www.gesetze-im-internet.de/stgb/__46.html) gewesen zu sein, um die Trennschärfe bei der Beurteilung von Hasskriminalität zu verbessern.
+Seit 2015 ermöglicht dieses Gesetz, dass bestimmte Einstellungen eines Täters zu einer höheren Strafzumessung führen. Diese Hate-Crime-Norm wurde seither mehrfach um Gesinnungen erweitert.
+
+Mir ist dieser § 46 StGB erst kürzlich bekannt, doch er verursacht mir Unbehagen. Pointiert könnte man auf Basis dieses § 46 StGB überspitzt sagen, dass in Deutschland eine Form der Gesinnungsjustiz herrscht, da "die Gesinnung" darin explizit erwähnt wird.
+
+Für mich galt der [kategorische Imperativ](https://de.wikipedia.org/wiki/Kategorischer_Imperativ) von [Immanuel Kant](https://de.wikipedia.org/wiki/Immanuel_Kant) stets als mein fundamentales Prinzip für moralisches Handeln:
+
+> Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde.
+
+Dieses Prinzip beinhaltet eine Symmetrie, eine Art Verbot von Doppelmoral.
+Wenn etwas ein Gesetz ist, muss es für alle gleich gelten, unabhängig von der Person.
+Das ist auch der Grund, warum [Justitia](https://de.wikipedia.org/wiki/Justitia) blind dargestellt wird.
+Es erscheint mir sehr problematisch, Begriffe wie "Gesinnung", die einem inneren, nicht beobachtbaren Zustand eines Menschen entsprechen, in Gesetzesnormen als Entscheidungsgrundlage zu verankern.
+Dies öffnet Tür und Tor für Willkür.
+
+Zurück zu den Filtern/Klassifizierern: § 46 StGB erscheint mir als ein Versuch, die Anzahl falsch negativer Ergebnisse zu minimieren. Ich möchte **mehr** Hasskriminalität identifizieren und ein **höheres** Strafmaß für diese Ereignisse erwirken.
+Einerseits führt eine Reduzierung der falsch-negativ Rate unweigerlich zu einer Erhöhung der falsch-positiven Rate, d.h., dass nun auch mehr Hasskriminalität identifiziert wird, obwohl es sich [nicht um Hasskriminalität handelt](https://www.nius.de/kommentar/vom-staat-offiziell-als-rassist-abgestempelt-warum-der-fall-broder-eine-mahnung-fuer-das-ganze-land-sein-sollte/76739292-cc0e-4c08-b3cc-88f95b79fcc0).
+Andererseits hätte ich, basierend auf dem Prinzip der [Unschuldsvermutung](https://de.wikipedia.org/wiki/Unschuldsvermutung) und [im Zweifel für den Angeklagten](https://de.wikipedia.org/wiki/In_dubio_pro_reo), erwartet, dass bei einer Optimierung des Filters eine Reduktion der falsch-positiven Rate angestrebt würde.
+
+#### Moralischer Herrschaftszugriff
+
+Das obige Beispiel zu § 46 StGB bewegt sich auf dem Niveau der juritischen Stafbarkeit. Es gibt aber auch Maßnahmen die auf einen moralischen Herrschaftszugriff des Staates auf seine Bürger hinauslaufen.
+
+Die Publizistin [Birgit Kelle](https://de.wikipedia.org/wiki/Birgit_Kelle)[^debattenraume] äußert sich während eines Events der katholischen "Institut für Gesellschaftswissenschaften Walberberg" Stiftung in ihrem Vortrag [Zwischen Propaganda und Wahrheit](https://youtu.be/RlDEjrO9raQ) darüber, wie der Staat versucht, Meinungen zu steuern.
+Sie ist der Ansicht, dass trotz inhaltlicher Differenzen die Parteien unserer aktuellen Regierungskoalition in Bezug auf die Frage, wie sie [das Volk regieren und die Meinungsbildung lenken](https://youtu.be/RlDEjrO9raQ?t=1428) wollen, übereinstimmen. Sie erwähnt staatliche [Meldestellen](https://youtu.be/RlDEjrO9raQ?t=1560) und das, was sie vereint:
+
+> Sie können dort Dinge melden die unterhalb der Strafbarkeitsgrenze sind.
+
+Es handelt sich um
+
+> staatliche Meldestellen die *nicht Straftaten* statistisch erfassen und Akten anlegen von *nicht Straftätern*.
+
+
+
+Im Parallax-Interview mit Professor Ulrike Guérot[^ulrikeguerot] unter dem Titel [AfD, Medien und Meta-Krise](https://www.youtube.com/watch?v=qdjnhQiLhT8) spricht sie darüber, wie sich das Menschenbild linker und rechter politischer Strömungen im Laufe der Zeit verändert hat.
+Sie betont, dass heute die Linke ein negatives Menschenbild hat und dass die Linke versucht, einen **moralischen Herrschaftszugriff** auf die Bürger zu etablieren:
+
+> Um das vielleicht noch einmal zu sagen: Es war früher beispielsweise ein Begriff - wenn wir schon von rechts/links sprechen -, dass die Linke eher ein positives Menschenbild hatte. Humanismus, Emanzipation, Aufklärung, Freiheit, Frieden.
+> Eigentlich waren das linke Kampfbegriffe, wenn sie so wollen.
+> Die Rechte hingegen hatte immer ein negatives Menschenbild: Der Mensch muss angehalten werden zu arbeiten, er ist faul, was auch immer. Daraus wurden die ganzen Marktlogiken abgeleitet.
+> Der Mensch muss eigentlich geordnet werden, er braucht Herrschaftssysteme.
+
+> Im Grunde haben wir heute eine völlige Umkehrung. Wir haben im Moment eine Linke, eine vermeintliche Linke, also zum Beispiel die Ampelregierung, die uns sagt, die Menschen sind unfähig, ihren Fleischkonsum zu regulieren, oder sind unfähig, ihren CO2-Fußabdruck zu regulieren, oder sie sagen Worte, die böse sind, sie reden von dem "N-Wort", das ist alles nicht zulässig,
+> weil das strukturelle Diskriminierung ist, wie auch immer. Wir müssen eigentlich einen **Herrschaftszugriff haben auf die Denkweisen dieser Bürger** und auf die Verhaltensweisen dieser Bürger.
+
+> Auf einmal hat also die Linke ein negatives Menschenbild, und versucht einen **moralischen Herrschaftszugriff** zu etablieren, der früher eigentlich bei den Konservativen war. Das hat sich völlig verschoben. Auf der sogenannten rechten Seite heute, die früher einmal die konservative Seite war, sehen wir im Gegenteil im Moment stark libertäre Züge:
+> Weg mit dem Staat, keine Übergriffigkeit des Staates, Dezentralisierung, libertär, Selbstverwaltung. Ja, das sind ganz starke Tendenzen in der Gesellschaft, die aber im Grunde dem Impetus entsprechen: Wir sind doch emanzipiert, wir können uns doch selber verwalten, wir wollen hier frei sein. Das sind eigentlich klassisch linke Dinge.
+
+#### Rutschgefahr! (Slippery Slopes)
+
+Das Konzept der Rutschgefahr bzw. der "Slippery Slopes" habe ich von [Venkatesh Rao](https://www.ribbonfarm.com/about/), dem Hauptautor des [Ribbonfarm
+Blogs](https://www.ribbonfarm.com), das er in seinem Blogbeitrag [You Are Not an
+Artisan](https://www.ribbonfarm.com/2013/07/10/you-are-not-an-artisan/) herausgearbeitet hat:
+
+<!--
+> Somehow, over the past decade, we've gone from a useful heuristic ("focus on your strengths" and "find flow") down a **slippery slope** of **use-with-caution** ideas ("work smart, not hard" and "follow your passion") to the idea of work as a kind of consumption that should be chosen based on the pleasure one can derive from it.
+-->
+
+> Irgendwie sind wir im Laufe des letzten Jahrzehnts von einer nützlichen Heuristik ("Konzentriere dich auf deine Stärken" und "Finde Flow") auf einen schlüpfrigen Abhang (**slippery slope**) mit Ideen, bei denen Vorsicht geboten ist ("Arbeite klug, nicht hart" und "Folge deiner Leidenschaft"; **use-with-caution** ideas),
+> hin zur Vorstellung von Arbeit als einer Art Konsum geraten, die auf Basis des Vergnügens, das man daraus ziehen kann, ausgewählt wird.
+
+Dieses "Slippery Slope"-Konzept hat Überschneidungspunkte mit der [die Dosis macht das
+Gift](#teil-1%3A-%C3%BCberh%C3%B6hung-eines-(peripheren)-wertes-bzw.-die-dosis-macht-das-gift) Idee von weiter oben.
+Es geht darum einen an sich guten Anfangspunkt zu nehmen und diesen dann aber auf abschüssigem und rutschigem Terrain weiter zu entwickeln bis man viel zu weit gegangen ist und man an einem Ort angelangt wo sich so viele Dinge falsch anfühlen.
+
+Ich möchte im folgenden einige dieser Slippery Slopes ansprechen.
+
+#### Slippery Slope: Hassrede
+
+Als ich die ersten detaillierten Berichte über Vorfälle las, die heute unter dem Begriff [Hassrede](https://de.wikipedia.org/wiki/Hassrede) zusammengefasst werden, war ich entsetzt. Eine solche rohe Verachtung und so viel Hass hatte ich zuvor noch nicht gesehen.
+Ich erinnere mich an die Anfangszeiten des Internets, geprägt von Aufbruchstimmung und Optimismus über die Möglichkeiten, die das Internet bieten würde, wenn jeder freien Zugang zu Wissen hat und seine Meinung frei äußern kann.
+Dass wir nach etwa 30 Jahren Internet an so einem Tiefpunkt angelangen würden, war damals unvorstellbar.
+Ich trete für einen respektvollen Umgang miteinander ein und bin dafür, dass das Internet kein rechtsfreier Raum ist, in dem solche barbarischen Handlungen ungestraft bleiben dürfen.
+
+Nun sind wieder einige Jahre vergangen, und wir stehen vor einem neuen Extrem.
+Im [Fall einer Bloggerin: Ich soll mundtot gemacht werden, weil einigen Leuten meine Meinung nicht passt](https://www.welt.de/politik/deutschland/plus249413398/Fall-Rona-Duwe-Ich-soll-mundtot-gemacht-werden-weil-einigen-Leuten-meine-Meinung-nicht-passt.html), wird beschrieben,
+wie eine Bloggerin sich kritisch zum Selbstbestimmungsrecht äußert und daraufhin von der Polizei zu einer erkennungsdienstlichen Behandlung vorgeladen wird.
+Zudem ist die Bloggerin Mitherausgeberin der Elternbroschüre "Wegweiser aus dem Transgenderkult", die von der Prüfstelle für Kinder- und Jugendmedienschutz indiziert und als jugendgefährdend eingestuft wurde.
+
+> Als Grund für die Indizierung, welche Kinder und Jugendliche in ihrer Entwicklung gefährden könne, nennt sie unter anderem die Aussagen:
+> "Frau und Mann sind biologische Fakten" sowie "Geschlecht ist binär und unveränderbar. Persönlichkeit ist fluide und vielfältig" sowie die These, Transgender-Ideologie gleiche einem "Kult".
+
+Die Gesetzgebung, die ursprünglich geschaffen wurde, um der Hassrede entgegenzuwirken, wird nun dazu verwendet um Kritiker aus der Debatte zu drängen.
+
+#### Slippery Slope: Faktenchecker
+
+Ein weiterer Weg, der nun in Zensur zu münden scheint, sind die Bemühungen, [Fake News](https://de.wikipedia.org/wiki/Fake_News) und [alternative Fakten](https://de.wikipedia.org/wiki/Alternative_Fakten) einzudämmen.
+Als Reaktion darauf haben sich sogenannte Faktenfinder etabliert, die Recherchen zu gesellschaftlich relevanten Themen durchführen und die zugrundeliegenden Fakten prüfen.
+Auch hier bin ich am Anfang den Überlegungen gefolgt und habe diese Maßnahmen unterstützt.
+Jedoch ist es bei Themen mit lediglich schwachem Realitätsbezug besonders schwierig, zu klaren Faktenaussagen zu gelangen.
+Wer entscheidet darüber, welche der doch immer auch strittigen Tatsachenbehauptungen wahr oder falsch sind? Und wie kann man, gerade in politischen Zusammenhängen, Tatsachen von Meinungen unterscheiden?
+
+Ebenso hebt [Gabriele Gysi](https://de.wikipedia.org/wiki/Gabriele_Gysi) im Vorwort zu [Der Fall Ulrike Guérot: Versuche einer öffentlichen Hinrichtung](https://www.amazon.de/Fall-Ulrike-Gu%C3%A9rot-%C3%B6ffentlichen-Hinrichtung/dp/3864894506) die problematische Rolle der Faktenchecker hervor:
+
+> Wie kann eine Gesellschaft das Nachdenken auf Faktenchecker abwälzen? Wann ist dieser Irrsinn ausgebrochen?
+
+In [Eine umfassende Analyse der Zensur](https://www.welt.de/kultur/plus248189090/Digital-Service-Act-der-EU-DSA-Eine-umfassende-Datenanalyse-der-Zensur.html) wird auf die nächste Stufe an Risiken für die Meinungsfreiheit durch den [Digital Services Act](https://de.wikipedia.org/wiki/Gesetz_%C3%BCber_digitale_Dienste) aufmerksam gemacht:
+
+> Bei genauer Betrachtung jedoch wird schnell deutlich: Tief im Gesetzestext lauern Fallstricke, die nicht nur die Meinungs- und Pressefreiheit gefährden, sondern auch aktiv zur Zensur missbraucht werden können.
+
+An dieser Stelle möchte ich noch einmal auf den Vortrag der Publizistin [Birgit Kelle](https://de.wikipedia.org/wiki/Birgit_Kelle) hinweisen: [Zwischen Propaganda und Wahrheit](https://youtu.be/RlDEjrO9raQ).
+
+Sowohl der Startpunkt der Gesetzgebung gegen Hassrede als auch die Maßnahmen zur Eindämmung von Fake News begannen mit guten Absichten.
+Doch nun werden diese in einem abschüssigen und rutschigen Terrain gegen die Meinungsfreiheit eingesetzt.
+
+
+#### Slippery Slope: Lückenpresse
+
+In Hamburg, im Foyer des Spiegel-Gebäudes, prangt ein Zitat von [Rudolf Augstein](https://de.wikipedia.org/wiki/Rudolf_Augstein):
+
+> [Sagen, was ist!](https://gruppe.spiegel.de/news/pressemitteilungen/detail/sagen-was-ist-100-geburtstag-von-rudolf-augstein-am-5-november-2023)
+
+
+[Birgit Kelle](https://de.wikipedia.org/wiki/Birgit_Kelle) reflektiert in ihrem Vortrag [Zwischen Propaganda und Wahrheit](https://youtu.be/RlDEjrO9raQ?t=499) über diese Maxime:
+
+> Aus diesem "Sagen, was ist" ist jetzt ein "Sagen, was sein soll" geworden.
+
+Sie führt diese Verschiebung auf eine neuen Generation von Journalisten zurück, die mit dem Anspruch, die Welt zu verbessern, in den Beruf einsteigen. Ihr Ziel ist es nicht mehr, objektiv zu berichten, sondern bestimmte Themen voranzutreiben.
+
+> [Es wird selektiv berichtet, und es wird weg gelassen, was nicht ins eigene Schema passt.](https://youtu.be/RlDEjrO9raQ?t=579)
+
+Birgit Kelle prägt für dieses Phänomen den Begriff [Lückenpresse](https://youtu.be/RlDEjrO9raQ?t=124).
+
+#### Gegenbewegung: Initiative für Freiheit
+
+Die zentrale These dieses Anhangs lautet: "Freiheit hat in Deutschland keine Lobby." Nach intensiverer Suche stößt man auf vereinzelte Menschen, die sich diesem kritischen Thema widmen.
+
+Aus dem christlichen Spektrum treten hervor:
+
+* [Birgit Kelle](https://birgit-kelle.de)
+* [Raphael M. Bonelli](https://www.youtube.com/@rppinstitut)
+* [Mathias von Gersdorff](https://www.youtube.com/@mvongersdorff)
+
+Aus dem liberalen, libertären sowie konservativen Bereich kommen:
+
+* [Roland Tichy](https://www.tichyseinblick.de)
+* [Neue Zürcher Zeitung](https://www.nzz.ch)
+* [Ralf Schuler](https://www.youtube.com/@ralf-schuler)
+* [Horst Lüning](https://www.youtube.com/@UnterBlog)
+
+#### Fazit
+
+In der aktuellen Diskussion um Meinungsfreiheit, Hassrede, Fake News, alternativen Fakten, Propaganda und kognitive Kriegsführung sind viele wohlmeinende Initiativen entstanden.
+Diese drohen jedoch, im Sinne des Sprichworts "die Dosis macht das Gift", über das Ziel hinauszuschießen.
+Es entsteht der Eindruck, dass einige Akteure nach dem Prinzip "der Zweck heiligt die Mittel" handeln und aus ihrer Froschperspektive heraus ihre eigene
+Weltanschauung verabsolutieren und sich zu allem und jedem gegenüber bemächtigt fühlen.
+
+Wahrheit und Meinungsfreiheit stehen für mich an vorderster Stelle meiner Werteskala.
+Daher plädiere ich dafür, dass die oben genannten Filtermechanismen im Sinne dieser Grundwerte modifiziert werden müssen.
+
+
 ## Fußnoten
 
 [^freiheit]: Freiheit von allem und Freiheit zu allem, solange man keine Dritten schädigt. Kontrast: [How Freedom Became Free-dumb in America](https://eand.co/how-freedom-became-free-dumb-in-america-baee33dc6476).
@@ -794,3 +1016,6 @@ Die "Guten" bündeln sich um ihr Argument herum und schließen diejenigen aus, d
 [^erziehungeskalationsstufen]: Einschließlich Eskalationsstufen wie Internate.
 [^deutschtürken]: Als Beispiel möchte ich hier das Wahlverhalten der Deutschtürken erwähnen, das in [Präsidentschaftswahl in der Türkei - Warum wählen die Deutschtürken mehrheitlich Erdogan?](https://www.kas.de/de/web/die-politische-meinung/blog/detail/-/content/praesidentschaftswahl-in-der-tuerkei-warum-waehlen-die-deutschtuerken-mehrheitlich-erdogan) beschrieben wird. Die Deutschtürken profitieren hier in Deutschland von Toleranz, Respekt und Meinungsfreiheit. Warum wählen dann die Türken in Deutschland für ihre Landsleute zu Hause die Unfreiheit?
 [^hassrede]: Dies ist keine Legitimierung von [Hassrede](https://de.wikipedia.org/wiki/Hassrede), wohlgemerkt! Dies sollte aus dem Umstand meiner Forderung nach persönlicher Entwicklung hin zu einer reifen Persönlichkeit (Stichwort "Lady" oder "Gentleman") unmissverständlich deutlich werden.
+[^freiheitsindex]: Ich habe versucht konkretere Infos dazu zu finden ob der Freiheits-Index von Media Tenor mit dem Freiheitsindex des Institut für Demoskopie in Allensbach zusammenhängt. Auf der Seite von [Media Tenor](http://de.mediatenor.com/de/bibliothek/berichte/1246/freiheitsindex-2021) heißt es dazu: Beim Freiheits-Index, geht es darum, einmal pro Jahr eine Bestandsaufnahme wieder aufzunehmen, die von Dr. Ulrike Ackermann, dem John Stuart Mill-Institut sowie Dr. Thomas Petersen vom Institut für Demoskopie in Allensbach vor Jahren ins Leben gerufen wurde.
+[^ulrikeguerot]: [Der Fall Ulrike Guérot: Versuche einer öffentlichen Hinrichtung](https://www.amazon.de/Fall-Ulrike-Gu%C3%A9rot-%C3%B6ffentlichen-Hinrichtung/dp/3864894506)
+[^debattenraume]: Birgit Kelle gehörte im Herbst 2020 zu den Erstunterzeichnern des [Appell für freie Debattenräume](https://de.wikipedia.org/wiki/Appell_f%C3%BCr_freie_Debattenr%C3%A4ume).
