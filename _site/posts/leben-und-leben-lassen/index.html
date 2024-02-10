@@ -203,10 +203,10 @@
             
                 <ol>
                     
-                    <li><a href="#filter-bzw.-klassifizierer">Filter bzw. Klassifizierer</a>
+                    <li><a href="#klassifizierer">Klassifizierer</a>
             		</li>
 
-                    <li><a href="#filter-optimierung%3A-gesinnung">Filter-Optimierung: Gesinnung</a>
+                    <li><a href="#klassifizierer-optimierung%3A-gesinnung">Klassifizierer-Optimierung: Gesinnung</a>
             		</li>
 
                     <li><a href="#moralischer-herrschaftszugriff">Moralischer Herrschaftszugriff</a>
@@ -886,47 +886,58 @@ seine Einschätzung zur aktuellen Lage der Meinungsfreiheit in Deutschland mit d
 <p>Diese Schlussfolgerung stützt er auf den Freiheitsindex<sup class="footnote-ref"><a href="#fn11" id="fnref11">[11]</a></sup> des <a href="https://de.wikipedia.org/wiki/Institut_f%C3%BCr_Demoskopie_Allensbach">Instituts für Demoskopie in Allensbach</a>, der für das Jahr 2023 den niedrigsten Stand seit <a href="https://www.nius.de/gesellschaft/schlechtester-wert-seit-70-jahren-mehrheit-der-deutschen-traut-sich-nicht-die-politische-meinung-frei-zu-sagen/f0d9ce69-0596-4c44-89ab-f4428687f760">70 Jahren</a> verzeichnet.</p>
 <p>In diesem Anhang zu <a href="./">Leben und leben lassen</a> möchte ich meine Perspektive auf die aktuelle Situation präsentieren.</p>
 <p>Wir befinden uns in einer Gemengelage zwischen <a href="https://de.wikipedia.org/wiki/Artikel_5_des_Grundgesetzes_f%C3%BCr_die_Bundesrepublik_Deutschland#Normierung">Meinungsfreiheit</a>,
-<a href="https://de.wikipedia.org/wiki/Hassrede">Hassrede</a>, <a href="https://de.wikipedia.org/wiki/Fake_News">Fake News</a>, <a href="https://de.wikipedia.org/wiki/Alternative_Fakten">alternativen Fakten</a>, Propaganda und <a href="https://www.amazon.de/Kognitive-Kriegsf%C3%BChrung-Neueste-Manipulationstechniken-Waffengattung/dp/3864894220">kognitiver Kriegsführung</a>.</p>
+<a href="https://de.wikipedia.org/wiki/Hassrede">Hassrede</a>, <a href="https://de.wikipedia.org/wiki/Fake_News">Fake News</a>, <a href="https://de.wikipedia.org/wiki/Alternative_Fakten">alternativen Fakten</a>, Propaganda und <a href="https://www.amazon.de/Kognitive-Kriegsf%C3%BChrung-Neueste-Manipulationstechniken-Waffengattung/dp/3864894220">kognitiver Kriegsführung</a><sup class="footnote-ref"><a href="#fn12" id="fnref12">[12]</a></sup>.</p>
 <p><a href="/img/leben-und-leben-lassen-meinungsfreiheit-1.jpg" target="about:blank"><img src="/img/leben-und-leben-lassen-meinungsfreiheit-1.jpg" alt="Gemengelage Meinungsfreiheit" style="max-height: 200px; max-width: 100%"></a></p>
 <p>Unter diesen Themenbereichen ist einzig die Meinungsfreiheit in der Verfassung verankert.</p>
 <p>Nun möchte man rechtliche Instrumente entwickeln, um den Herausforderungen von Hassrede, Fake News, alternativen Fakten, Propaganda und kognitiver Kriegsführung im Rahmen einer <a href="https://de.wikipedia.org/wiki/Streitbare_Demokratie">wehrhaften Demokratie</a> entgegenzutreten.</p>
-<h4 id="filter-bzw.-klassifizierer" tabindex="-1"><a class="header-anchor" href="#filter-bzw.-klassifizierer"><svg class="octicon octicon-link" style="vertical-align: middle;" role="img" aria-hidden="true" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons.svg#octicon-link"></use></svg></a> Filter bzw. Klassifizierer</h4>
-<p>Aus technischer Perspektive fungieren diese rechtlichen Instrumente als Filter (<a href="https://en.wikipedia.org/wiki/Binary_classification">Binäre Klassifikation</a>), bei denen es zu sogenannten <a href="https://en.wikipedia.org/wiki/False_positives_and_false_negatives">False Positives und False Negatives</a> kommt.
-Diese werden in anderen Bereichen auch als <a href="https://en.wikipedia.org/wiki/Type_I_and_type_II_errors">Type I und Type II Error</a> bezeichnet.
-Hierbei liegt die Herausforderung darin, dass eine klare Abgrenzung zwischen dem, was als “alternative Fakten”, und dem, was als “Fakten” betrachtet wird, fehlt.
-Folglich sind Fehler bei der Klassifizierung unvermeidlich.
-Der Klassifizierungsalgorithmus zielt darauf ab, “alternative Fakten” zu identifizieren und gibt dann das Ergebnis “Positiv”/Ja/Wahr aus.
-Ein False-Positive Fehler entsteht, wenn der Algorithmus fälschlicherweise identifiziert, dass es sich um “alternative Fakten” handelt, obwohl dies nicht der Fall ist.
-Ein False-Negative Fehler liegt vor, wenn tatsächlich “alternative Fakten” vorliegen, diese aber vom Algorithmus nicht als solche erkannt werden.
-Die nachfolgende Grafik veranschaulicht diesen Sachverhalt anhand von Wahrscheinlichkeitsverteilungen:</p>
+<h4 id="klassifizierer" tabindex="-1"><a class="header-anchor" href="#klassifizierer"><svg class="octicon octicon-link" style="vertical-align: middle;" role="img" aria-hidden="true" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons.svg#octicon-link"></use></svg></a> Klassifizierer</h4>
+<p>In diesem Abschnitt beleuchte ich das Phänomen der “alternativen Fakten” als beispielhaften Sachverhalt. Diese Überlegungen lassen sich jedoch gleichermaßen auf die anderen oben angesprochenen Themenfelder anwenden.</p>
+<p>Aus technischer Perspektive fungieren diese rechtlichen Instrumente als Mechanismen der <a href="https://en.wikipedia.org/wiki/Binary_classification">binären Klassifikation</a>.
+In unserem Beispiel zum Phänomen der “alternativen Fakten” entscheidet ein binärer Klassifizierer, ob ein gegebener Sachverhalt als “alternativer Fakt” zu betrachten ist.
+Diese Bezeichnung “binär” rührt daher, dass die Entscheidung entweder “Ja” oder “Nein” lautet, wobei zwei Fehlerarten möglich sind: die sogenannten <a href="https://en.wikipedia.org/wiki/False_positives_and_false_negatives">False Positives und False Negatives</a><sup class="footnote-ref"><a href="#fn13" id="fnref13">[13]</a></sup>.</p>
+<ol>
+<li>Bei dem untersuchten Sachverhalt handelt es sich um einen “Fakt”, doch der Klassifizierer antwortet mit “Ja” auf die Frage, ob es sich um einen alternativen Fakt handelt, d.h., der Klassifizierer nimmt fälschlicherweise an, es handle sich um einen “alternativen Fakt”.
+Diese Art von Fehler wird als <strong>False Positive</strong> bezeichnet, weil der Klassifizierer irrtümlich “positiv” mit “Ja” antwortet.</li>
+<li>Bei dem untersuchten Sachverhalt handelt es sich um einen “alternativen Fakt”, doch der Klassifizierer antwortet mit “Nein” auf die Frage, ob es sich um einen alternativen Fakt handelt, d.h., der Klassifizierer nimmt fälschlicherweise an, es handle sich um einen “Fakt”.
+Diese Art von Fehler wird als <strong>False Negative</strong> bezeichnet, weil der Klassifizierer irrtümlich “negativ” mit “Nein” antwortet.</li>
+</ol>
+<p>Es lässt sich zeigen, dass die Konstruktion eines fehlerfreien binären Klassifizierers grundsätzlich nicht möglich ist.
+Die Entscheidung, welche Fehlerart als weniger gravierend angesehen wird – False Positives oder False Negatives –, hängt von der individuellen Einschätzung ab.
+Welche Art von Fehlern bereitet mehr Schwierigkeiten?</p>
+<p>Ein anschauliches Beispiel hierfür sind <a href="https://de.wikipedia.org/wiki/Spamfilter">Spamfilter</a>. Was wiegt schwerer: Eine legitime E-Mail, die im Spamordner landet, oder eine Spam-E-Mail im regulären Posteingang?
+Die Antwort auf diese Frage beruht auf persönlichen Präferenzen. In Bezug auf Spamfilter bevorzuge ich es, legitime E-Mails sicher zu empfangen, selbst wenn dies bedeutet, dass ich gelegentlich mehr Spam-Nachrichten manuell aussortieren muss.</p>
+<p>Nun zurück zu unseren “alternativen Fakten”: Die Herausforderung besteht in der fehlenden klaren Unterscheidung zwischen “alternativen Fakten” und “Fakten”, wobei Fehler wie False Positives und False Negatives unvermeidbar sind.
+Die untenstehende Grafik illustriert diese Problematik mithilfe von Wahrscheinlichkeitsverteilungen:</p>
 <p><a href="https://www.researchgate.net/figure/Illustration-of-the-probabilities-of-error-for-a-binary-classification-problem-with_fig2_312222508" target="about:blank"><img src="https://www.researchgate.net/profile/Xintao-Huan-2/publication/312222508/figure/fig2/AS:664129937354755@1535352324451/Illustration-of-the-probabilities-of-error-for-a-binary-classification-problem-with.png" alt="Illustration of the probabilities of error for a binary classification problem with Gaussian distribution." style="max-height: 200px; max-width: 100%"></a></p>
-<p>In einem Bereich überlappen die Wahrscheinlichkeitsfunktionen, ob etwas ein “alternativer Fakt” oder ein “Fakt” ist.
-Man muss einen Schwellenwert festlegen, ab dem entschieden wird, ob es sich eher um einen “alternativen Fakt” oder um einen “Fakt” handelt.
-Auf der Wikipedia-Seite zu <a href="https://en.wikipedia.org/wiki/False_positives_and_false_negatives">False Positives und False Negative</a> wird dies näher erläutert:</p>
+<p>In einem bestimmten Bereich überlappen sich die Wahrscheinlichkeitsfunktionen, die bestimmen, ob etwas ein “alternativer Fakt” oder ein “Fakt” ist.
+Es ist notwendig, einen Schwellenwert zu definieren, anhand dessen entschieden wird, was eher als “alternativer Fakt” und was als “Fakt” gilt.
+Detaillierte Erklärungen zu False Positives und False Negatives finden sich auf der entsprechenden Wikipedia-Seite zu <a href="https://en.wikipedia.org/wiki/False_positives_and_false_negatives">False Positives und False Negatives</a>:</p>
 <!--
 > When developing detection algorithms or tests, a balance must be chosen between risks of false negatives and false positives. Usually there is a threshold of how close a match to a given sample must be achieved before the algorithm reports a match. The higher this threshold, the more false negatives and the fewer false positives.
 -->
 <blockquote>
-<p>Bei der Entwicklung von Erkennungsalgorithmen oder Tests muss ein Gleichgewicht zwischen dem Risiko falsch negativer und falsch positiver Ergebnisse gewählt werden.
+<p>Bei der Entwicklung von Erkennungsalgorithmen oder Tests muss ein Gleichgewicht zwischen dem Risiko falsch-negativer und falsch-positiver Ergebnisse gewählt werden.
 Normalerweise gibt es einen Schwellenwert, der angibt, wie nahe eine Übereinstimmung mit einer bestimmten Stichprobe erreicht werden muss, bevor der Algorithmus eine Übereinstimmung meldet.
-Je höher dieser Schwellenwert, desto mehr falsch-negative Ergebnisse und desto weniger falsch-positive Ergebnisse.</p>
+Je höher dieser Schwellenwert ist, desto mehr falsch-negative Ergebnisse und desto weniger falsch-positive Ergebnisse erhält man.</p>
 </blockquote>
-<p>Man steht also vor der Wahl, ob es akzeptabler ist, mit falsch-negativen oder falsch-positiven Ergebnissen umzugehen.
-Ist es schädlicher für die Demokratie, wenn jemand seine Meinung nicht frei äußern kann, obwohl sie auf einem “Fakt” beruht?
-Oder ist es schädlicher, wenn jemand eine Meinung äußern kann, die auf einem “alternativen Fakt” basiert?
-Diese Fragen sind des Pudels Kern in der Gemengelage zwischen Meinungsfreiheit, Hassrede, Fake News, alternativen Fakten, Propaganda und kognitiver Kriegsführung.</p>
+<p>Man steht also vor der Wahl, ob es akzeptabler ist, mit falsch-negativen oder falsch-positiven Ergebnissen umzugehen.</p>
+<ul>
+<li>Ist es schädlicher für die Demokratie, wenn jemand seine Meinung nicht frei äußern kann, obwohl sie auf einem “Fakt” beruht?</li>
+<li>Oder ist es schädlicher, wenn jemand eine Meinung äußern kann, die auf einem “alternativen Fakt” basiert?</li>
+</ul>
+<p>Diese Fragen sind des Pudels Kern in der Gemengelage zwischen Meinungsfreiheit, Hassrede, Fake News, alternativen Fakten, Propaganda und kognitiver Kriegsführung.</p>
 <p>Ein Beispiel: es gibt die sogenannten <a href="https://en.wikipedia.org/wiki/Modern_flat_Earth_beliefs">Flatearther</a>, die überzeugt sind, die Erde sei eine flache Scheibe.
 Dieser Glaube führte im Fall von <a href="https://en.wikipedia.org/wiki/Mike_Hughes_(daredevil)">Mike Hughes</a>, der seine These mit einer selbstgebauten Rakete beweisen wollte, zu einer tragischen Bruchlandung, die <a href="https://www.bbc.com/news/world-us-canada-51602655">ihm das Leben kostete</a>.
 Hat in einem solchen Fall die Meinungsfreiheit den höheren Stellenwert? Oder hätten wir eingreifen und Mike Hughes von seinem gefährlichen Experiment abhalten sollen, um sein Leben zu schützen?</p>
 <p>Wie ich in diesem Blogbeitrag bereits mehrfach dargelegt habe, ist die Freiheit, und somit auch die Meinungsfreiheit, für mich ein derart hohes Gut, dass meine Antwort deutlich ist: <strong>Eine Demokratie muss in der Lage sein, auch Meinungen auszuhalten, die so abwegig erscheinen wie die der Flatearther</strong>.</p>
 <p>Viele werden mir in der obigen Aussage sicherlich zustimmen (hoffe ich). Die Herausforderung vergrößert sich jedoch, wenn wir uns aktuellen Debatten wie dem Klimawandel zuwenden.
 Wie sollten wir mit Klimawandelleugnern umgehen? Meine persönliche Antwort ist eindeutig und entspricht der zu den Flatearthern: Eine Demokratie muss in der Lage sein, auch Meinungen auszuhalten, die so abwegig wirken mögen wie die der Klimawandelleugner.</p>
-<h4 id="filter-optimierung%3A-gesinnung" tabindex="-1"><a class="header-anchor" href="#filter-optimierung%3A-gesinnung"><svg class="octicon octicon-link" style="vertical-align: middle;" role="img" aria-hidden="true" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons.svg#octicon-link"></use></svg></a> Filter-Optimierung: Gesinnung</h4>
-<p>Bei den Filtern/Klassifizierern ist es möglich, zusätzliche Variablen oder Eigenschaften einzubeziehen, um die Trennschärfe zu optimieren und die Zahl der falsch positiven Ergebnisse oder die Zahl der falsch negativen Ergebnisse zu reduzieren.
+<h4 id="klassifizierer-optimierung%3A-gesinnung" tabindex="-1"><a class="header-anchor" href="#klassifizierer-optimierung%3A-gesinnung"><svg class="octicon octicon-link" style="vertical-align: middle;" role="img" aria-hidden="true" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons.svg#octicon-link"></use></svg></a> Klassifizierer-Optimierung: Gesinnung</h4>
+<p>Bei den Klassifizierern ist es möglich, zusätzliche Variablen oder Eigenschaften einzubeziehen, um die Trennschärfe zu optimieren und die Zahl der falsch positiven Ergebnisse oder die Zahl der falsch negativen Ergebnisse zu reduzieren.
 Man steht aber auch bei dieser Optimierung weiterhin vor der Wahl, ob es akzeptabler ist, mit falsch-negativen oder falsch-positiven Ergebnissen umzugehen. Eine Verringerung des einen führt zwangsläufig zu einer Erhöhung des anderen Wertes.</p>
 <p>Die Erhöhung der Trennschärfe scheint das Motiv hinter <a href="https://www.gesetze-im-internet.de/stgb/__46.html">§ 46 StGB</a> gewesen zu sein, um die Trennschärfe bei der Beurteilung von Hasskriminalität zu verbessern.
 Seit 2015 ermöglicht dieses Gesetz, dass bestimmte Einstellungen eines Täters zu einer höheren Strafzumessung führen. Diese Hate-Crime-Norm wurde seither mehrfach um Gesinnungen erweitert.</p>
-<p>Mir ist dieser § 46 StGB erst kürzlich bekannt, doch er verursacht mir Unbehagen. Pointiert könnte man auf Basis dieses § 46 StGB überspitzt sagen, dass in Deutschland eine Form der Gesinnungsjustiz herrscht, da “die Gesinnung” darin explizit erwähnt wird.</p>
+<p>Mir ist dieser § 46 StGB erst kürzlich bekannt geworden, doch er bereitet mir Sorge. Seine Formulierung, die explizit die “Gesinnung” erwähnt, lässt sich pointiert zuspitzen: In Deutschland droht Gesinnungsjustiz.</p>
 <p>Für mich galt der <a href="https://de.wikipedia.org/wiki/Kategorischer_Imperativ">kategorische Imperativ</a> von <a href="https://de.wikipedia.org/wiki/Immanuel_Kant">Immanuel Kant</a> stets als mein fundamentales Prinzip für moralisches Handeln:</p>
 <blockquote>
 <p>Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde.</p>
@@ -934,14 +945,77 @@ Seit 2015 ermöglicht dieses Gesetz, dass bestimmte Einstellungen eines Täters 
 <p>Dieses Prinzip beinhaltet eine Symmetrie, eine Art Verbot von Doppelmoral.
 Wenn etwas ein Gesetz ist, muss es für alle gleich gelten, unabhängig von der Person.
 Das ist auch der Grund, warum <a href="https://de.wikipedia.org/wiki/Justitia">Justitia</a> blind dargestellt wird.
-Es erscheint mir sehr problematisch, Begriffe wie “Gesinnung”, die einem inneren, nicht beobachtbaren Zustand eines Menschen entsprechen, in Gesetzesnormen als Entscheidungsgrundlage zu verankern.
-Dies öffnet Tür und Tor für Willkür.</p>
-<p>Zurück zu den Filtern/Klassifizierern: § 46 StGB erscheint mir als ein Versuch, die Anzahl falsch negativer Ergebnisse zu minimieren. Ich möchte <strong>mehr</strong> Hasskriminalität identifizieren und ein <strong>höheres</strong> Strafmaß für diese Ereignisse erwirken.
-Einerseits führt eine Reduzierung der falsch-negativ Rate unweigerlich zu einer Erhöhung der falsch-positiven Rate, d.h., dass nun auch mehr Hasskriminalität identifiziert wird, obwohl es sich <a href="https://www.nius.de/kommentar/vom-staat-offiziell-als-rassist-abgestempelt-warum-der-fall-broder-eine-mahnung-fuer-das-ganze-land-sein-sollte/76739292-cc0e-4c08-b3cc-88f95b79fcc0">nicht um Hasskriminalität handelt</a>.
-Andererseits hätte ich, basierend auf dem Prinzip der <a href="https://de.wikipedia.org/wiki/Unschuldsvermutung">Unschuldsvermutung</a> und <a href="https://de.wikipedia.org/wiki/In_dubio_pro_reo">im Zweifel für den Angeklagten</a>, erwartet, dass bei einer Optimierung des Filters eine Reduktion der falsch-positiven Rate angestrebt würde.</p>
+Es erscheint mir sehr problematisch, Begriffe wie “Gesinnung” in Gesetzesnormen zu verankern. Diese Konzepte beschreiben einen inneren, nicht beobachtbaren Zustand eines Menschen und sind daher als Entscheidungsgrundlage ungeeignet.
+Willkür und Missbrauch sind Tür und Tor geöffnet.</p>
+<p>Zurück zu den Klassifizierern: § 46 StGB erscheint mir als ein Versuch, die Anzahl falsch negativer Ergebnisse zu minimieren.</p>
+<blockquote>
+<p>Ich möchte <strong>mehr</strong> Hasskriminalität identifizieren und ein <strong>höheres</strong> Strafmaß für diese Ereignisse erwirken.</p>
+</blockquote>
+<p>Einerseits führt eine Reduzierung der falsch-negativ Rate unweigerlich zu einer Erhöhung der falsch-positiven Rate, d.h., dass nun auch <strong>mehr</strong> Hasskriminalität identifiziert wird, <strong>obwohl</strong> es sich <a href="https://www.nius.de/kommentar/vom-staat-offiziell-als-rassist-abgestempelt-warum-der-fall-broder-eine-mahnung-fuer-das-ganze-land-sein-sollte/76739292-cc0e-4c08-b3cc-88f95b79fcc0">nicht um Hasskriminalität handelt</a>.
+Andererseits hätte ich, basierend auf dem Prinzip der <a href="https://de.wikipedia.org/wiki/Unschuldsvermutung">Unschuldsvermutung</a> und <a href="https://de.wikipedia.org/wiki/In_dubio_pro_reo">im Zweifel für den Angeklagten</a>, erwartet, dass bei einer Optimierung des Klassifizierers eine Reduktion der falsch-positiven Rate angestrebt würde.</p>
+<h5 id="doppelmoralverbot" tabindex="-1"><a class="header-anchor" href="#doppelmoralverbot"><svg class="octicon octicon-link" style="vertical-align: middle;" role="img" aria-hidden="true" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons.svg#octicon-link"></use></svg></a> Doppelmoralverbot</h5>
+<p>Dieser Abschnitt verdient es, ausführlicher behandelt zu werden, möglicherweise in einem eigenständigen Blogbeitrag. Ich plane, diesem Thema in Zukunft mehr Raum zu geben. Dieser Abschnitt hier ist lediglich als ein Zwischeneinschub gedacht.</p>
+<p>Das oben angesprochene Symmetrieprinzip bzw. das Verbot von Doppelmoral lässt sich nicht “<a href="https://de.wikipedia.org/wiki/Operationalisierung">operationalisieren</a>”.
+Bei der Operationalisierung eines Konstrukts wird festgelegt, mit welchem Messinstrument die verschiedenen Ausprägungen der interessierenden Größe quantifiziert werden.</p>
+<p>Nehmen wir als Beispiel das sogenannte <a href="https://de.wikipedia.org/wiki/Gerrymandering">Gerrymandering</a>:</p>
+<blockquote>
+<p>Gerrymandering bzw. Wahlkreisschiebung bezeichnet die Manipulation von Wahlkreisgrenzen in einem Mehrheitswahlsystem, um die eigenen Erfolgsaussichten zu maximieren.</p>
+</blockquote>
+<p>Dieses Beispiel ist eng verwandt mit der zuvor erwähnten Klassifizierer-Optimierung. Ich frage mich, wie ich die Grundfläche meiner Wahlbezirke “optimieren” muss, damit möglichst oft die Antwort “Ja” auf die Frage “gewinne ich diesen Wahlkreis?” als Antwort herauskommt.</p>
+<p>Rein oberflächlich betrachtet habe ich keine Gesetze gebrochen. Und nach dieser “Optimierung” funktioniert das Wahlrecht und das Wahlsystem immer noch nach den gleichen Prinzipien.
+Doch jedem, der sich diese “Optimierung” genauer anschaut, wird auf einer intuitiven Ebene sofort bewusst, dass es sich hierbei um eine nicht zulässige und unfaire Manipulation handelt.
+Diese “Optimierung” wurde mit schlechter Absicht durchgeführt und führt zu einer unfairen Ausgangslage. Man könnte fast von Arglist sprechen.</p>
+<p>Für das Symmetrieprinzip bzw. das Verbot von Doppelmoral sind ehrliche, redliche und aufrichtige Absichten aller Beteiligten essentielle Voraussetzungen.
+Der freie Austausch von Ideen geht zugrunde, wenn die gemeinsame Vertrauensbasis erodiert und man nicht länger von redlichen Absichten bei einer oder mehreren beteiligten Parteien ausgehen kann.</p>
+<p>Um das Vertrauen in handelnde Akteure nicht zu untergraben, ist es entscheidend, dass das vordergründig genannte Ziel nicht nur vorgeschoben, sondern auch so objektiv wie möglich unter Beachtung des Symmetriegebots umgesetzt wird.</p>
+<p>Ich hatte dieses Prinzip bereits in der <a href="../energiewende/#bonusidee%3A-konsequente-orientierung-an-leitmetriken">Bonusidee: Konsequente Orientierung an Leitmetriken</a> in meinem Blogbeitrag zur <a href="../energiewende">Energiewende</a> angesprochen.
+Dort erörterte ich das Einsparpotenzial von CO2 durch das Heizgesetz im Vergleich zum Weiterbetrieb von drei Atomkraftwerken:</p>
+<blockquote>
+<p>Ich sage: Wenn 30 Mt Einsparpotenzial als “viel” und als wirksam angesehen werden, dann sollte man auch so konsequent sein und diese Einsparpotenziale an allen Stellen, die sich einem bieten, nutzen! Und nicht nur die, die politisch opportun sind.</p>
+</blockquote>
+<p>Bei vielen aktuellen politischen Debatten entsteht für mich der Eindruck, dass Maßnahmen so konzipiert werden, dass sie gezielt einem bestimmten Gegner schaden, statt ein symmetrisches Prinzip zu implementieren, das dazu beiträgt, das kritisierte Problem im Kern zu adressieren.</p>
+<p>Erst gestern hörte ich in den Nachrichten im Radio, dass es für Verfassungsschützer einfacher werden soll, <a href="https://www.spiegel.de/politik/deutschland/nancy-faeser-verfassungsschutz-soll-rechtsextreme-finanzstroeme-besser-durchleuchten-koennen-a-b2ead6bf-e718-41d5-8ae1-abd0e8953a28">Finanzströme von Rechtsextremisten zu durchleuchten</a>.
+Dies sieht ein Vorstoß von SPD-Innenministerin Faeser vor.
+Im Radiobeitrag wurde erwähnt, dass derzeit noch diskutiert wird, ob dieses Gesetz nicht nur auf rechtsextreme Gruppen angewendet werden soll, sondern auch auf radikal-islamistische Gruppen.
+In solch einem Fall frage ich mich, warum dieses Gesetz nicht von Anfang an so formuliert wird, dass es symmetrisch auf jede Form von Extremismus anwendbar ist.
+Es entsteht der Eindruck, als wolle man speziell einem politischen Gegner schaden, statt einen redlichen Versuch zu unternehmen, das Problem des Extremismus im Kern zu treffen.</p>
+<p>In meiner Wahrnehmung breiten sich Doppelstandards und Doppelmoral in viele Bereiche unseres öffentlichen Lebens aus, und das nicht nur in der Politik.</p>
+<p>Ein aktuelles Beispiel wird im Artikel <a href="https://www.nzz.ch/feuilleton/die-hochtrabenden-ueber-die-krise-der-sueddeutschen-zeitung-ld.1777475">Süddeutsche Zeitung: Ein Qualitätsmedium steckt in der Krise</a> aus der <a href="https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung">Neuen Zürcher Zeitung</a> beschrieben.
+Der Kern der Angelegenheit ist eine Plagiatsaffaire um die stellvertretende “SZ”-Chefredaktorin Alexandra Föderl-Schmid: <a href="https://plagiatsgutachten.com/blog/plagiate-foederl-schmid/">Plagiate in journalistischen Artikeln und in der Doktorarbeit von Alexandra Föderl-Schmid, Süddeutsche Zeitung</a>.
+Das abgeleitete Thema ist, dass die <a href="https://www.bild.de/digital/2024/digital/sie-suchen-einen-maulwurf-sueddeutsche-zeitung-durchleuchtet-eigene-redakteure-87013468.bild.html">Süddeutsche Zeitung eigene Redakteure durchleuchtet. Sie suchen einen Maulwurf!</a>.</p>
+<p>Ein aktuelles Beispiel wird im Artikel <a href="https://www.nzz.ch/feuilleton/die-hochtrabenden-ueber-die-krise-der-sueddeutschen-zeitung-ld.1777475">Süddeutsche Zeitung: Ein Qualitätsmedium steckt in der Krise</a> aus der <a href="https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung">Neuen Zürcher Zeitung</a> beschrieben.
+Im Mittelpunkt steht eine Plagiatsaffäre um die stellvertretende Chefredakteurin der “SZ”, Alexandra Föderl-Schmid: <a href="https://plagiatsgutachten.com/blog/plagiate-foederl-schmid/">Plagiate in journalistischen Artikeln und in der Doktorarbeit von Alexandra Föderl-Schmid, Süddeutsche Zeitung</a>.
+Daraus ergibt sich das weiterführende Thema, dass die Süddeutsche Zeitung <a href="https://www.bild.de/digital/2024/digital/sie-suchen-einen-maulwurf-sueddeutsche-zeitung-durchleuchtet-eigene-redakteure-87013468.bild.html">eigene Redakteure durchleuchtet</a>, auf der Suche nach einem Maulwurf.</p>
+<blockquote>
+<p>Wenn die “SZ” investigativen Journalismus betreibt, ist es Qualitätsjournalismus. Wenn sie selbst von investigativem Journalismus betroffen ist, ist es ein Angriff auf die Pressefreiheit.</p>
+</blockquote>
+<blockquote>
+<p>Danach verfuhr die Redaktionsspitze der “SZ” nach dem Prinzip “Shooting the messenger”.
+Dass sich eine führende Journalistin des Plagiierens verdächtig gemacht hat, schien nicht zu interessieren.
+Stattdessen beklagte man sich über Angriffe von “rechts” und sah sich einer “Verleumdung” ausgesetzt, …</p>
+</blockquote>
+<blockquote>
+<p>Die “SZ”-Leitung schien nicht ansatzweise eine potenzielle Plagiatsaffäre zu sehen,
+sie konzentrierte sich vielmehr auf eine angebliche rechte Verschwörung, …</p>
+</blockquote>
+<blockquote>
+<p>Krach und Wittwer stilisierten die Angelegenheit zu einem “Angriff auf die Pressefreiheit”.
+Wenn das “Herz einer Redaktion” abgehört werde, könne man dies nicht hinnehmen, sagte Krach der Deutschen Presse-Agentur.</p>
+</blockquote>
+<blockquote>
+<p>“Nur fürs Protokoll: ‘SZ’ ist die Redaktion, die sich in Artikeln damit rühmt, bei ‘Bild’ mitzuhören, was wir intern besprechen.”</p>
+</blockquote>
+<p>Die Organisation “Reporter ohne Grenzen” <a href="https://twitter.com/ReporterOG/status/1753440639562531029">schlug Alarm</a> und kritisierte das Vorgehen der SZ mit den Worten: “Wir sehen den Quellenschutz in Gefahr”.
+Ein anderer Nutzer auf X <a href="https://twitter.com/GrosseHerbert/status/1755678517344244077">meint</a>:</p>
+<blockquote>
+<p>Quellenschutz ist das Recht von Journalisten, ihre Informanten geheim zu halten. Im Journalismus ein heiliges Prinzip. Die SZ betont es häufiger und macht sich für ‘Whistleblower’ stark, die auf Missstände hinweisen – in diesem Fall sieht man es offenbar anders.</p>
+</blockquote>
+<p>Auch der Vergleich der Plagiatsaffäre um Ulrike Guérot, detailliert beschrieben in <a href="https://www.amazon.de/Fall-Ulrike-Gu%C3%A9rot-%C3%B6ffentlichen-Hinrichtung/dp/3864894506">Der Fall Ulrike Guérot: Versuche einer öffentlichen Hinrichtung</a>, wo es um vier Anführungszeichen und zwei Fußnoten in einem Sachbuch ging,
+und der Plagiatsaffäre um Annalena Baerbock, dargestellt im Artikel <a href="https://www.cicero.de/innenpolitik/baerbock-plagiatsaffare-buch-ampelregierung-politische-kommunikation">Plagiatsaffäre um Annalena Baerbock: Das letzte Kapitel</a>, wirft Fragen nach Symmetrie und dem Verbot von Doppelmoral auf.</p>
+<p>Damit möchte ich dieses Thema abschließen und, wie eingangs erwähnt, bietet dieser Themenbereich genügend Stoff für einen eigenen zukünftigen Blogbeitrag.</p>
 <h4 id="moralischer-herrschaftszugriff" tabindex="-1"><a class="header-anchor" href="#moralischer-herrschaftszugriff"><svg class="octicon octicon-link" style="vertical-align: middle;" role="img" aria-hidden="true" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons.svg#octicon-link"></use></svg></a> Moralischer Herrschaftszugriff</h4>
 <p>Das obige Beispiel zu § 46 StGB bewegt sich auf dem Niveau der juritischen Stafbarkeit. Es gibt aber auch Maßnahmen die auf einen moralischen Herrschaftszugriff des Staates auf seine Bürger hinauslaufen.</p>
-<p>Die Publizistin <a href="https://de.wikipedia.org/wiki/Birgit_Kelle">Birgit Kelle</a><sup class="footnote-ref"><a href="#fn12" id="fnref12">[12]</a></sup> äußert sich während eines Events der katholischen “Institut für Gesellschaftswissenschaften Walberberg” Stiftung in ihrem Vortrag <a href="https://youtu.be/RlDEjrO9raQ">Zwischen Propaganda und Wahrheit</a> darüber, wie der Staat versucht, Meinungen zu steuern.
+<p>Die Publizistin <a href="https://de.wikipedia.org/wiki/Birgit_Kelle">Birgit Kelle</a><sup class="footnote-ref"><a href="#fn14" id="fnref14">[14]</a></sup> äußert sich während eines Events der katholischen “Institut für Gesellschaftswissenschaften Walberberg” Stiftung in ihrem Vortrag <a href="https://youtu.be/RlDEjrO9raQ">Zwischen Propaganda und Wahrheit</a> darüber, wie der Staat versucht, Meinungen zu steuern.
 Sie ist der Ansicht, dass trotz inhaltlicher Differenzen die Parteien unserer aktuellen Regierungskoalition in Bezug auf die Frage, wie sie <a href="https://youtu.be/RlDEjrO9raQ?t=1428">das Volk regieren und die Meinungsbildung lenken</a> wollen, übereinstimmen. Sie erwähnt staatliche <a href="https://youtu.be/RlDEjrO9raQ?t=1560">Meldestellen</a> und das, was sie vereint:</p>
 <blockquote>
 <p>Sie können dort Dinge melden die unterhalb der Strafbarkeitsgrenze sind.</p>
@@ -950,7 +1024,7 @@ Sie ist der Ansicht, dass trotz inhaltlicher Differenzen die Parteien unserer ak
 <blockquote>
 <p>staatliche Meldestellen die <em>nicht Straftaten</em> statistisch erfassen und Akten anlegen von <em>nicht Straftätern</em>.</p>
 </blockquote>
-<p>Im Parallax-Interview mit Professor Ulrike Guérot<sup class="footnote-ref"><a href="#fn13" id="fnref13">[13]</a></sup> unter dem Titel <a href="https://www.youtube.com/watch?v=qdjnhQiLhT8">AfD, Medien und Meta-Krise</a> spricht sie darüber, wie sich das Menschenbild linker und rechter politischer Strömungen im Laufe der Zeit verändert hat.
+<p>Im Parallax-Interview mit Professor Ulrike Guérot<sup class="footnote-ref"><a href="#fn15" id="fnref15">[15]</a></sup> unter dem Titel <a href="https://www.youtube.com/watch?v=qdjnhQiLhT8">AfD, Medien und Meta-Krise</a> spricht sie darüber, wie sich das Menschenbild linker und rechter politischer Strömungen im Laufe der Zeit verändert hat.
 Sie betont, dass heute die Linke ein negatives Menschenbild hat und dass die Linke versucht, einen <strong>moralischen Herrschaftszugriff</strong> auf die Bürger zu etablieren:</p>
 <blockquote>
 <p>Um das vielleicht noch einmal zu sagen: Es war früher beispielsweise ein Begriff - wenn wir schon von rechts/links sprechen -, dass die Linke eher ein positives Menschenbild hatte. Humanismus, Emanzipation, Aufklärung, Freiheit, Frieden.
@@ -1047,7 +1121,7 @@ Diese drohen jedoch, im Sinne des Sprichworts “die Dosis macht das Gift”, ü
 Es entsteht der Eindruck, dass einige Akteure nach dem Prinzip “der Zweck heiligt die Mittel” handeln und aus ihrer Froschperspektive heraus ihre eigene
 Weltanschauung verabsolutieren und sich zu allem und jedem gegenüber bemächtigt fühlen.</p>
 <p>Wahrheit und Meinungsfreiheit stehen für mich an vorderster Stelle meiner Werteskala.
-Daher plädiere ich dafür, dass die oben genannten Filtermechanismen im Sinne dieser Grundwerte modifiziert werden müssen.</p>
+Daher plädiere ich dafür, dass die oben genannten Filtermechanismen im Sinne dieser Grundwerte modifiziert werden.</p>
 <h2 id="fu%C3%9Fnoten" tabindex="-1"><a class="header-anchor" href="#fu%C3%9Fnoten"><svg class="octicon octicon-link" style="vertical-align: middle;" role="img" aria-hidden="true" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons.svg#octicon-link"></use></svg></a> Fußnoten</h2>
 <hr class="footnotes-sep">
 <section class="footnotes">
@@ -1072,11 +1146,15 @@ Daher plädiere ich dafür, dass die oben genannten Filtermechanismen im Sinne d
 </li>
 <li id="fn10" class="footnote-item"><p>Als Beispiel möchte ich hier das Wahlverhalten der Deutschtürken erwähnen, das in <a href="https://www.kas.de/de/web/die-politische-meinung/blog/detail/-/content/praesidentschaftswahl-in-der-tuerkei-warum-waehlen-die-deutschtuerken-mehrheitlich-erdogan">Präsidentschaftswahl in der Türkei - Warum wählen die Deutschtürken mehrheitlich Erdogan?</a> beschrieben wird. Die Deutschtürken profitieren hier in Deutschland von Toleranz, Respekt und Meinungsfreiheit. Warum wählen dann die Türken in Deutschland für ihre Landsleute zu Hause die Unfreiheit? <a href="#fnref10" class="footnote-backref">↩︎</a></p>
 </li>
-<li id="fn11" class="footnote-item"><p>Ich habe versucht konkretere Infos dazu zu finden ob der Freiheits-Index von Media Tenor mit dem Freiheitsindex des Institut für Demoskopie in Allensbach zusammenhängt. Auf der Seite von <a href="http://de.mediatenor.com/de/bibliothek/berichte/1246/freiheitsindex-2021">Media Tenor</a> heißt es dazu: Beim Freiheits-Index, geht es darum, einmal pro Jahr eine Bestandsaufnahme wieder aufzunehmen, die von Dr. Ulrike Ackermann, dem John Stuart Mill-Institut sowie Dr. Thomas Petersen vom Institut für Demoskopie in Allensbach vor Jahren ins Leben gerufen wurde. <a href="#fnref11" class="footnote-backref">↩︎</a></p>
+<li id="fn11" class="footnote-item"><p>Ich habe versucht, konkretere Infos dazu zu finden, ob der Freiheits-Index von Media Tenor mit dem Freiheitsindex des Instituts für Demoskopie in Allensbach zusammenhängt. Auf der Seite von <a href="http://de.mediatenor.com/de/bibliothek/berichte/1246/freiheitsindex-2021">Media Tenor</a> heißt es dazu: Beim Freiheits-Index geht es darum, einmal pro Jahr eine Bestandsaufnahme wieder aufzunehmen, die von Dr. Ulrike Ackermann, dem John Stuart Mill-Institut sowie Dr. Thomas Petersen vom Institut für Demoskopie in Allensbach vor Jahren ins Leben gerufen wurde. <a href="#fnref11" class="footnote-backref">↩︎</a></p>
 </li>
-<li id="fn12" class="footnote-item"><p>Birgit Kelle gehörte im Herbst 2020 zu den Erstunterzeichnern des <a href="https://de.wikipedia.org/wiki/Appell_f%C3%BCr_freie_Debattenr%C3%A4ume">Appell für freie Debattenräume</a>. <a href="#fnref12" class="footnote-backref">↩︎</a></p>
+<li id="fn12" class="footnote-item"><p>The Institute for Statecraft: <a href="https://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/debatte-um-gezielte-desinformation-der-britischen-regierung-15957088.html?printPagedArticle=true">Der hausgemachte Desinformationsskandal</a> von <a href="https://de.wikipedia.org/wiki/Constanze_Kurz">Constanze Kurz</a>. <a href="#fnref12" class="footnote-backref">↩︎</a></p>
 </li>
-<li id="fn13" class="footnote-item"><p><a href="https://www.amazon.de/Fall-Ulrike-Gu%C3%A9rot-%C3%B6ffentlichen-Hinrichtung/dp/3864894506">Der Fall Ulrike Guérot: Versuche einer öffentlichen Hinrichtung</a> <a href="#fnref13" class="footnote-backref">↩︎</a></p>
+<li id="fn13" class="footnote-item"><p>False Positives und False Negatives werden in anderen Bereichen auch als <a href="https://en.wikipedia.org/wiki/Type_I_and_type_II_errors">Type I und Type II Error</a> bezeichnet. <a href="#fnref13" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn14" class="footnote-item"><p>Birgit Kelle gehörte im Herbst 2020 zu den Erstunterzeichnern des <a href="https://de.wikipedia.org/wiki/Appell_f%C3%BCr_freie_Debattenr%C3%A4ume">Appell für freie Debattenräume</a>. <a href="#fnref14" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn15" class="footnote-item"><p><a href="https://www.amazon.de/Fall-Ulrike-Gu%C3%A9rot-%C3%B6ffentlichen-Hinrichtung/dp/3864894506">Der Fall Ulrike Guérot: Versuche einer öffentlichen Hinrichtung</a> <a href="#fnref15" class="footnote-backref">↩︎</a></p>
 </li>
 </ol>
 </section>
