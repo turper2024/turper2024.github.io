@@ -1132,7 +1132,7 @@ Kürzlich stieß ich auf ein Handbuch zum Thema Rufmord: das [Routledge Handbook
 Das Verdrängen von Personen aus dem Diskurs durch das Belegen mit Tabu-Begriffen, auch bekannt als [Cancel Culture](https://de.wikipedia.org/wiki/Cancel_Culture), hat sich mittlerweile als probates Mittel etabliert,
 wie durch [Der Fall Ulrike Guérot: Versuche einer öffentlichen Hinrichtung](https://www.amazon.de/Fall-Ulrike-Gu%C3%A9rot-%C3%B6ffentlichen-Hinrichtung/dp/3864894506) dokumentiert.
 
-Wahrheit ist bei Menschen ein Gruppeneffekt.
+Wahrheit ist bei Menschen ein Gruppeneffekt[^wahrheitgruppellms].
 Menschen neigen dazu der Mehrheit zu glauben und nicht unbedingt der Wahrheit.
 Die Wahrheit zu ergründen ist zeitaufwendig, und Aufmerksamkeit ist ein knappes Gut. Daher müssen Menschen abwägen, in welche Themen sie ihre Aufmerksamkeit investieren möchten.
 Label wie der Begriff "umstritten" dienen dem Leser als erster Anhaltspunkt, um zu entscheiden, ob eine nähere Auseinandersetzung mit den Argumenten des Trägers des Labels nötig ist.
@@ -1212,3 +1212,4 @@ An dieser Stelle möchte ich aus [Demos: Der wahre Grund für den AfD-Aufstieg](
 [^gymstrategie]: Ein Beispiel für eine private Strategie wäre es, im Sinne von [ein gesunder Geist in einem gesunden Körper](https://de.wikipedia.org/wiki/Mens_sana_in_corpore_sano), täglich Sport zu betreiben, um langfristig in die körperliche sowie geistige Gesundheit zu investieren.
 [^pluralismusförderung]: In diesem Kontext beziehe ich den Begriff Ideologie auch auf Kirchen(steuer), NGOs, parteinahe Stiftungen, den Elfenbeinturm der Geisteswissenschaften sowie auf die Kunst- und Kulturszene.
 [^demokratieförderung]: Das [Demokratiefördergesetzes](https://www.bundestag.de/dokumente/textarchiv/2023/kw13-pa-familie-demokratiefoerderung-938952) wurde auf Twitter auch schon "Klientelsteuergeldzuschanzgesetz" genannt.
+[^wahrheitgruppellms]: Wahrheit ist bei Menschen ein Gruppeneffekt: Und nun [mischen die LLMs in dieser Gruppe auch noch mit](https://labs.ripe.net/author/kathleen_moriarty/the-llm-misinformation-problem-i-was-not-expecting).

@@ -923,11 +923,11 @@ Im Radiobeitrag wurde erwähnt, dass derzeit noch diskutiert wird, ob dieses Ges
 In solch einem Fall frage ich mich, warum dieses Gesetz nicht von Anfang an so formuliert wird, dass es symmetrisch auf jede Form von Extremismus anwendbar ist.
 Es entsteht der Eindruck, als wolle man speziell einem politischen Gegner schaden, statt einen redlichen Versuch zu unternehmen, das Problem des Extremismus im Kern zu treffen.
 
-In meiner Wahrnehmung breiten sich Doppelstandards und Doppelmoral in viele Bereiche unseres öffentlichen Lebens aus, und das nicht nur in der Politik.
+> [Herbert Marcuse](https://de.wikipedia.org/wiki/Herbert_Marcuse) war ein deutsch-amerikanischer Philosoph, Politologe und Soziologe aus der sogenannten [Frankfurter Schule](https://de.wikipedia.org/wiki/Frankfurter_Schule).
+> An dieser Stelle möchte ich ein Zitat von ihm erwähnen, das aufhorchen lässt und darauf hindeutet, dass diese Doppelmoral Teil des linken Programms ist:<br>
+> "[Befreiende Toleranz](https://en.wikipedia.org/wiki/Portal:Communism/Selected_quote/48) bedeutet also Intoleranz gegenüber Bewegungen von rechts und Duldung von Bewegungen von links."
 
-Ein aktuelles Beispiel wird im Artikel [Süddeutsche Zeitung: Ein Qualitätsmedium steckt in der Krise](https://www.nzz.ch/feuilleton/die-hochtrabenden-ueber-die-krise-der-sueddeutschen-zeitung-ld.1777475) aus der [Neuen Zürcher Zeitung](https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung) beschrieben.
-Der Kern der Angelegenheit ist eine Plagiatsaffaire um die stellvertretende "SZ"-Chefredaktorin Alexandra Föderl-Schmid: [Plagiate in journalistischen Artikeln und in der Doktorarbeit von Alexandra Föderl-Schmid, Süddeutsche Zeitung](https://plagiatsgutachten.com/blog/plagiate-foederl-schmid/).
-Das abgeleitete Thema ist, dass die [Süddeutsche Zeitung eigene Redakteure durchleuchtet. Sie suchen einen Maulwurf!](https://www.bild.de/digital/2024/digital/sie-suchen-einen-maulwurf-sueddeutsche-zeitung-durchleuchtet-eigene-redakteure-87013468.bild.html).
+In meiner Wahrnehmung breiten sich Doppelstandards und Doppelmoral in viele Bereiche unseres öffentlichen Lebens aus, und das nicht nur in der Politik.
 
 Ein aktuelles Beispiel wird im Artikel [Süddeutsche Zeitung: Ein Qualitätsmedium steckt in der Krise](https://www.nzz.ch/feuilleton/die-hochtrabenden-ueber-die-krise-der-sueddeutschen-zeitung-ld.1777475) aus der [Neuen Zürcher Zeitung](https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung) beschrieben.
 Im Mittelpunkt steht eine Plagiatsaffäre um die stellvertretende Chefredakteurin der "SZ", Alexandra Föderl-Schmid: [Plagiate in journalistischen Artikeln und in der Doktorarbeit von Alexandra Föderl-Schmid, Süddeutsche Zeitung](https://plagiatsgutachten.com/blog/plagiate-foederl-schmid/).
@@ -1064,6 +1064,66 @@ Sie führt diese Verschiebung auf eine neuen Generation von Journalisten zurück
 Birgit Kelle prägt für dieses Phänomen den Begriff [Lückenpresse](https://youtu.be/RlDEjrO9raQ?t=124).
 
 #### Gegenbewegung: Initiative für Freiheit
+
+In dem Artikel [Konservative und Liberale – wo liegt der Unterschied?](https://www.nzz.ch/meinung/konservative-sind-keine-liberalen-ld.1770232) aus der [Neuen Zürcher Zeitung](https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung)
+kommentiert der Autor einen Text von [Friedrich August von Hayek](https://de.wikipedia.org/wiki/Friedrich_August_von_Hayek). Dabei wird herausgestellt:
+
+> Was dem Konservativen also fehlt, sind *politische Prinzipien*, die es "ihm ermöglichen, mit Leuten, die andere moralische Ansichten haben als er, an einer politischen Ordnung zu arbeiten, in der **beide ihren Überzeugungen folgen können**.
+> Es ist die Anerkennung solcher Prinzipien, die das **Nebeneinanderbestehen verschiedener Wertsysteme** erlaubt und es möglich macht, mit einem **Minimum an Gewalt** eine **friedliche Gesellschaft** aufzubauen."
+> Denn "für einen Liberalen bildet die Bedeutung, die er persönlich bestimmten Zielen beimisst, keine hinreichende Rechtfertigung, andere zu zwingen, ihnen zu dienen".
+
+> Aus diesem Grund wirkt der nur bremsende Konservative oft pragmatisch, der an politischen Prinzipien sich orientierende Liberale hingegen, vor allem in seiner Gegnerschaft gegen staatliche Eingriffe in die Marktkräfte, eher ideologisch oder gar dogmatisch.
+> Denn an seinen politischen Prinzipien lässt er – im Interesse der Freiheit – nicht rütteln.
+
+Ich verorte mich klar im liberalen Spektrum und betone die Wichtigkeit der von Hayek erwähnten Prinzipien.
+Dazu zählen für mich insbesondere das oben angesprochene Symmetriegebot bzw. das Verbot der Doppelmoral, welche fundamentale Aspekte meiner politischen Überzeugung darstellen.
+
+Einige Liberale befürworten eine gewisse Rolle des Staates bei der [Umverteilung](https://de.wikipedia.org/wiki/Umverteilung) von Ressourcen.
+Auch ich unterstütze diese Position.
+
+Den Unterschied zu linken Positionen lässt sich mit einem einfachen Test bestimmen:
+Fragen Sie, ob man denjenigen, die anderer Meinung sind, den Mund verbieten sollte.
+Für dieses Vorgehen existieren verschiedene Begriffe wie "zum Schweigen bringen", "aus dem Diskurs drängen", [Deplatforming](https://de.wikipedia.org/wiki/Deplatforming) oder [Cancel Culture](https://de.wikipedia.org/wiki/Cancel_Culture).
+
+Es gibt diese [Binsenweisheit](https://de.wikipedia.org/wiki/Binsenweisheit):
+
+> Jeder Mensch ist unterschiedlich.
+
+Lange Zeit glaubte ich zu verstehen, was damit gemeint ist.
+Ich ging davon aus, dass alle Menschen grundsätzlich, in [nullter Näherung](https://de.wikipedia.org/wiki/Taylorreihe), ähnlich "ticken" wie ich und sich dann erst in den Feinheiten unterscheiden.
+Doch als ich Führungskraft wurde und Verantwortung für die Arbeit anderer Menschen übernahm, erkannte ich, dass es keine nullte Näherung gibt und Menschen grundlegend und grob verschieden sind.
+Ab diesem Moment begann ich, morgens in der U-Bahn auf dem Weg zur Arbeit, die Menschen um mich herum zu beobachten und mich zu wundern, wie diese Welt bei so vielen unterschiedlichen Ansichten und Persönlichkeiten überhaupt funktionieren kann.
+
+In dem Blogbeitrag [Generalizing From One Example](https://www.lesswrong.com/posts/baTWMegR42PAsH9qJ/generalizing-from-one-example) wird dieses Missverständnis der oben genannten Binsenweisheit als "typischer Irrtum des Geistes" ("typical mind fallacy") bezeichnet:
+
+> Mein alter Professor, David Berman, sprach gern über das, was er den "typischen Irrtum des Geistes" nannte, den er anhand des folgenden Beispiels veranschaulichte:
+
+> In den späten 1800ern gab es eine Debatte darüber, ob "Phantasie" nur eine Redewendung oder ein reales Phänomen sei.
+> Das heißt, können Menschen tatsächlich Bilder in ihrem Kopf erzeugen, die sie lebhaft sehen, oder sagen sie einfach "Ich habe es in meinem Kopf gesehen" als Metapher für die Überlegung, wie es aussah?
+
+> Als ich das hörte, antwortete ich: "Warum zum Teufel war das eigentlich eine echte Debatte? Natürlich haben wir mentale Bilder. Jeder, der nicht glaubt, dass wir mentale Bilder haben, ist entweder ein so fanatischer Behaviorist, dass er an den Beweisen seiner eigenen Sinne zweifelt, oder einfach verrückt."
+> Bedauerlicherweise konnte der Professor eine lange Liste berühmter Persönlichkeiten vorführen, die mentale Bilder leugneten, darunter einige führende Wissenschaftler dieser Zeit. Und das alles, bevor es den Behaviorismus überhaupt gab.
+
+> Die Debatte wurde von [Francis Galton](https://en.wikipedia.org/wiki/Francis_Galton) gelöst. Galton führte einige sehr detaillierte Umfragen durch und stellte fest, dass einige Menschen über mentale Bilder verfügten und andere nicht.
+> Diejenigen, die dies taten, hatten einfach angenommen, dass es jeder tat, und diejenigen, die es nicht taten, hatten einfach angenommen, dass es nicht jeder tat, bis zu dem Punkt, dass sie absurde Begründungen dafür fanden, warum sie logen oder die Frage falsch verstanden.
+> Es gab ein breites Spektrum an Bildgebungsfähigkeiten, von etwa fünf Prozent der Menschen mit perfekten eidetischen Vorstellungen bis zu drei Prozent der Menschen, die überhaupt nicht in der Lage waren, sich mentale Bilder vorzustellen.
+
+> Dr. Berman nannte dies den "typischen Irrtum des Geistes": die menschliche Tendenz zu glauben, dass die eigene mentale Struktur verallgemeinert werden kann, um sie auf die aller anderen anzuwenden.
+
+Auch die [Memes](https://de.wikipedia.org/wiki/Meme_(Kulturph%C3%A4nomen)) zu [Wordcel vs. Rotator](https://knowyourmeme.com/memes/wordcel-shape-rotator-mathcel) greifen dieses Thema des [Bilderdenkens](https://en.wikipedia.org/wiki/Visual_thinking) auf.
+Der Blogbeitrag [Welche universellen menschlichen Erfahrungen vermissen Sie, ohne sich dessen bewusst zu sein?](https://slatestarcodex.com/2014/03/17/what-universal-human-experiences-are-you-missing-without-realizing-it) vertieft dieses Thema weiter.
+
+In Unternehmen ist es möglich, Menschen nach spezifischen Begabungen zu selektieren. So findet man unter Juristen mehrheitlich "Wordcels" und in Ingenieurberufen, die mit 3D-Anwendungen arbeiten, eher "Rotators".
+In einem Staat besteht diese Möglichkeit der Selektion nicht. Es bleibt nur die Wahl zwischen der Dominanz anderer Weltanschauungen oder der Koexistenz mit ihnen.
+Zum Thema Dominieren möchte ich das Leitmotiv dieses Blogbeitrags wiederholen:
+
+> **Leben und leben lassen**: Dieser Blogbeitrag möchte einen **Kontrapunkt** zu jeder Art von Kulturessenzialismus setzen und im Sinne von "Wehret den
+> Anfängen" jeder Art von "ehrenvolle Taten an schlechten Menschen verüben" eine Absage erteilen.
+
+Aus meiner Sicht ist wahre Toleranz und Vielfalt nur durch eine liberale Perspektive möglich. Zur Erinnerung hier noch einmal die Worte von Friedrich August von Hayek:
+
+> ... "ihm ermöglichen, mit Leuten, die andere moralische Ansichten haben als er, an einer politischen Ordnung zu arbeiten, in der **beide ihren Überzeugungen folgen können**.
+> Es ist die Anerkennung solcher Prinzipien, die das **Nebeneinanderbestehen verschiedener Wertsysteme** erlaubt und es möglich macht, mit einem **Minimum an Gewalt** eine **friedliche Gesellschaft** aufzubauen."
 
 Die zentrale These dieses Anhangs lautet: "Freiheit hat in Deutschland keine Lobby." Nach intensiverer Suche stößt man auf vereinzelte Menschen, die sich diesem kritischen Thema widmen.
 
