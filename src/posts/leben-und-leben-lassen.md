@@ -910,6 +910,9 @@ Der freie Austausch von Ideen geht zugrunde, wenn die gemeinsame Vertrauensbasis
 
 Um das Vertrauen in handelnde Akteure nicht zu untergraben, ist es entscheidend, dass das vordergründig genannte Ziel nicht nur vorgeschoben, sondern auch so objektiv wie möglich unter Beachtung des Symmetriegebots umgesetzt wird.
 
+Wenn ich das richtig verstehe, dann findet sich dieses Symmetriegebot als "Allgemeinheitsgebot" im [Artikel 19](https://www.gesetze-im-internet.de/gg/art_19.html) des Grundgesetzes wieder:
+> (1) Soweit nach diesem Grundgesetz ein Grundrecht durch Gesetz oder auf Grund eines Gesetzes eingeschränkt werden kann, **muß das Gesetz allgemein und nicht nur für den Einzelfall gelten**.
+
 Ich hatte dieses Prinzip bereits in der [Bonusidee: Konsequente Orientierung an Leitmetriken](../energiewende/#bonusidee%3A-konsequente-orientierung-an-leitmetriken) in meinem Blogbeitrag zur [Energiewende](../energiewende) angesprochen.
 Dort erörterte ich das Einsparpotenzial von CO2 durch das Heizgesetz im Vergleich zum Weiterbetrieb von drei Atomkraftwerken:
 
