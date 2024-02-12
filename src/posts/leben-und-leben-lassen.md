@@ -1128,6 +1128,10 @@ Aus meiner Sicht ist wahre Toleranz und Vielfalt nur durch eine liberale Perspek
 > ... "ihm ermöglichen, mit Leuten, die andere moralische Ansichten haben als er, an einer politischen Ordnung zu arbeiten, in der **beide ihren Überzeugungen folgen können**.
 > Es ist die Anerkennung solcher Prinzipien, die das **Nebeneinanderbestehen verschiedener Wertsysteme** erlaubt und es möglich macht, mit einem **Minimum an Gewalt** eine **friedliche Gesellschaft** aufzubauen."
 
+Oder in den Worten von [Evelyn Beatrice Hall](https://taz.de/Unbequeme-Meinung/!468560):
+
+> Obwohl ich völlig anderer Meinung bin als Sie, würde ich mein Leben dafür geben, dass Sie Ihre Meinung frei aussprechen dürfen.
+
 Die zentrale These dieses Anhangs lautet: "Freiheit hat in Deutschland keine Lobby." Nach intensiverer Suche stößt man auf vereinzelte Menschen, die sich diesem kritischen Thema widmen.
 
 Aus dem christlichen Spektrum treten hervor:
