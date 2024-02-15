@@ -4,8 +4,8 @@
         <title>Turmalin Peridot</title>
         <description>Blog über Dinge die das Leben bewegen.</description>
         <link>https://turper2024.github.io/</link>
-        <lastBuildDate>Thu, 18 Jan 2024 01:00:00 +0100</lastBuildDate>
-        <pubDate>Thu, 18 Jan 2024 01:00:00 +0100</pubDate>
+        <lastBuildDate>Thu, 15 Feb 2024 01:00:00 +0100</lastBuildDate>
+        <pubDate>Thu, 15 Feb 2024 01:00:00 +0100</pubDate>
         <language>de</language>
         <atom:link href="https://turper2024.github.io/feed/feed.xml" rel="self" type="application/rss+xml"/>
             
@@ -37,6 +37,16 @@
                 <title>Aufklärung-Plus</title>
                 <description>Kühle Rationalität der Aufklärung plus sinnstiftende Wärme der Kultur = Aufklärung-Plus (Enlightenment-Plus)</description>
                 <content:encoded><![CDATA[<a href="https://turper2024.github.io/posts/aufkl%C3%A4rung-plus/">Aufklärung-Plus</a>]]></content:encoded>
+            </item>
+            
+            <item>
+                <guid isPermaLink="true">https://turper2024.github.io/posts/kulturschaffende/</guid>
+                <pubDate>Thu, 15 Feb 2024 00:00:00 +0100</pubDate>
+                <link>https://turper2024.github.io/posts/kulturschaffende/</link>
+                <atom:link rel="alternate" type="text/html" href="https://turper2024.github.io/posts/kulturschaffende/"/>
+                <title>Kulturschaffende</title>
+                <description>Wer hat mir in den Kopf gemacht?</description>
+                <content:encoded><![CDATA[<a href="https://turper2024.github.io/posts/kulturschaffende/">Kulturschaffende</a>]]></content:encoded>
             </item>
     </channel>
 </rss>
