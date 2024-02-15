@@ -31,11 +31,11 @@ Ich argumentiere, dass echte Toleranz und Vielfalt nur aus einer liberalen Persp
 Danach widmete ich mich der [Aufklärung](https://de.wikipedia.org/wiki/Aufkl%C3%A4rung), die um das Jahr 1700 in Europa begann, und schlug vor, die Prinzipien der Aufklärung zu erweitern, um sie gegenüber Ideologien widerstandsfähiger zu machen.
 In meinem Ansatz sind Ideologien synonym mit Religionen, Sekten, Kulten, Personenkult, [Fan-Kult](https://kulturkritik.net/begriffe/begr_txt.php?lex=fankult), Faschismus, extremen politischen Ausrichtungen am Rand wie links/rechts, Woke-Bewegung, Identität(spolitik) und Kulturessentialismus –
 kurz, alles, was dazu taugt, Sinn zu stiften und sich davon **beseelen** zu lassen.
-Ein erster Indikator für eine Ideologie ist die Existenz von Fanatikern. Diese Überlegungen fasste ich in meinem Beitrag [Aufklärung-Plus](../aufkl%C3%A4rung-plus) zusammen.
-Kürzlich ergänzte ich einen Anhang zum Thema [Pluralismus](../aufkl%C3%A4rung-plus/#pluralismus), in dem ich versuchte, den Begriff "Kultur" näher zu beleuchten.
+Ein erster Indikator für eine Ideologie ist die Existenz von Fanatikern. Diese Überlegungen fasste ich in meinem Beitrag [Aufklärung-Plus](../aufklärung-plus) zusammen.
+Kürzlich ergänzte ich einen Anhang zum Thema [Pluralismus](../aufklärung-plus/#pluralismus), in dem ich versuchte, den Begriff "Kultur" näher zu beleuchten.
 Viele diskutieren über Kultur, doch verstehen sie unter dem Begriff oft völlig Verschiedenes.
 
-In meinem Anhang zum [Pluralismus](../aufkl%C3%A4rung-plus/#pluralismus) stellte ich außerdem eine verblüffende Nähe zwischen Ideologien und dem von [Michael E. Porter](https://de.wikipedia.org/wiki/Michael_E._Porter) definierten Begriff (Business-)"[Strategie](https://hbr.org/1996/11/what-is-strategy)" her.
+In meinem Anhang zum [Pluralismus](../aufklärung-plus/#pluralismus) stellte ich außerdem eine verblüffende Nähe zwischen Ideologien und dem von [Michael E. Porter](https://de.wikipedia.org/wiki/Michael_E._Porter) definierten Begriff (Business-)"[Strategie](https://hbr.org/1996/11/what-is-strategy)" her.
 Es zeigte sich, dass es erstaunlich schwierig ist, diese beiden Begriffe voneinander abzugrenzen. Die beigefügte Grafik bietet eine Zusammenfassung meiner Überlegungen zu Ideologien und (Business-)Strategien (für eine vergrößerte und detaillierte Ansicht bitte auf das Bild klicken):
 
 <a href="/img/aufklärung-plus-pluralismus.jpg" target="about:blank"><img src="/img/aufklärung-plus-pluralismus.jpg" alt="Pluralismus" style="max-height: 400px; max-width: 100%"></a>
@@ -50,17 +50,17 @@ Ein Kommentar zu einem Blogbeitrag mit dem Titel [Soziale Verbesserungen, die ke
 
 > Alles, was es wert ist, getan zu werden, ist es wert, Widerstand zu leisten.
 
-Im Anhang zu [Aufklärung-Plus](../aufkl%C3%A4rung-plus) mit dem Titel [Bike-Shedding und Parkinsons Law](../aufklärung-plus/#bike-shedding-und-parkinsons-law) widerspreche ich dieser Auffassung und gelange sogar zur entgegengesetzten Schlussfolgerung:
+Im Anhang zu [Aufklärung-Plus](../aufklärung-plus) mit dem Titel [Bike-Shedding und Parkinsons Law](../aufklärung-plus/#bike-shedding-und-parkinsons-law) widerspreche ich dieser Auffassung und gelange sogar zur entgegengesetzten Schlussfolgerung:
 
 > Widerstand entsteht dort, wo die Problemstellung zu trivial und zu unwichtig für die reale Welt ist.
 
 Hier besteht eine Analogie zu den nordischen Göttern, wie die Erklärung des Donners (ein Element der objektiven Realität) durch den Donnergott [Thor](https://de.wikipedia.org/wiki/Thor).
-Für das alltägliche Leben ist der Mechanismus hinter dem Donner irrelevant, doch er liefert Material für [mythologische Geschichten](../aufkl%C3%A4rung-plus/#ideologien-und-die-mythological-lens).
+Für das alltägliche Leben ist der Mechanismus hinter dem Donner irrelevant, doch er liefert Material für [mythologische Geschichten](../aufklärung-plus/#ideologien-und-die-mythological-lens).
 
 Weitere wichtige Charakteristika, sowohl von Ideologien als auch von (Business-)Strategien, sind:
 
 * 4 Erscheinungsformen: privat, kollektiv, politisch oder fundamental
-* Verbreitung über [Storytelling](https://en.wikipedia.org/wiki/Storytelling) von [Mythologien](../aufkl%C3%A4rung-plus/#ideologien-und-die-mythological-lens).<br>Mythologien sind dabei eine Mischung aus Mythos (Geschichten mit emotionalem Inhalt) und Logos (Rationalität).
+* Verbreitung über [Storytelling](https://en.wikipedia.org/wiki/Storytelling) von [Mythologien](../aufklärung-plus/#ideologien-und-die-mythological-lens).<br>Mythologien sind dabei eine Mischung aus Mythos (Geschichten mit emotionalem Inhalt) und Logos (Rationalität).
 * Wirkungsentfaltung über [Activity-Systems](https://hbr.org/1996/11/what-is-strategy) bzw. Bräuche.
 * Schwache Kopplung an die Realität bzw. bei Ideologien teilweise sogar ohne Kopplung an die Realität.
 * Exponentielles Wachstum: Bei Ideologien in Form einer [Reproduktionszahl R](https://de.wikipedia.org/wiki/Basisreproduktionszahl); bei (Business-)Strategien in Form eines [utilitaristischen](https://de.wikipedia.org/wiki/Utilitarismus) [Zinseszinseffekts](https://de.wikipedia.org/wiki/Zinseszins).
@@ -68,7 +68,7 @@ Weitere wichtige Charakteristika, sowohl von Ideologien als auch von (Business-)
 Ideologien unterscheiden sich von (Business-)Strategien dadurch, dass Ideologien als warm und sinnstiftend wahrgenommen werden, während (Business-)Strategien als kalt und geistlos empfunden werden.
 Ideologien eignen sich dazu, Identität zu stiften und sich von ihnen **beseelen** zu lassen.
 
-In [Aufklärung-Plus](../aufkl%C3%A4rung-plus) stelle ich die These auf:
+In [Aufklärung-Plus](../aufklärung-plus) stelle ich die These auf:
 
 > Das Verlangen nach identitätsstiftenden Ideologien ist eine [anthropologische](https://de.wikipedia.org/wiki/Anthropologie) Konstante ([an itch that needs to be scratched](https://en.wiktionary.org/wiki/scratch_an_itch)) oder
 > wie ein Erweiterungsslot in einem Computer, der belegt werden muss, damit das System reibungslos funktioniert.
@@ -90,7 +90,7 @@ Zu diesen Kulturschaffenden zähle ich neben der Theologie und den Künsten vor 
 der [Scientology](https://de.wikipedia.org/wiki/Scientology) im letzten Jahrhundert ins Leben gerufen hat.
 
 Hier ist ein Ausschnitt aus [Joscha Bachs](http://bach.ai/about.html) Vortrag zum Thema [Synthetic Sentience: Can Artificial Intelligence become conscious?](https://media.ccc.de/v/37c3-12167-synthetic_sentience),
-das ich in [Aufklärung-Plus](../aufkl%C3%A4rung-plus) schon verwendete:
+das ich in [Aufklärung-Plus](../aufklärung-plus) schon verwendete:
 
 > In der Zeit der [Sumerer](https://de.wikipedia.org/wiki/Sumerer) (ca. 3. Jahrtausend v. Chr.) hatten die Menschen eine ganz andere psychologische
 > Architektur als heute. Damals koexistierten ihre persönlichen Selbst mit vielen Göttern im Kopf, und das persönliche Selbst war so schwach, dass es
@@ -127,7 +127,7 @@ sondern mit dem Multi-Mind-Self, das in ihm "wohnt".
 Mir ist bewusst, dass dieser Schnelldurchlauf meiner vorherigen Gedankengänge zu knapp ist, um ihnen im Detail zu folgen, aber hier verweise ich auf die beiden vorangegangenen Blogbeiträge samt Anhängen:
 
 * [Leben und leben lassen](../leben-und-leben-lassen)
-* [Aufklärung-Plus](../aufkl%C3%A4rung-plus)
+* [Aufklärung-Plus](../aufklärung-plus)
 
 ### Begriffe
 
@@ -188,7 +188,7 @@ Ideologien stützen sich auf Moralvorstellungen, die zwischen Gut und Böse unte
 
 #### Mythologien und die Mythological-Lens
 
-Sowohl Ideologien als auch Strategien bedienen sich der sogenannten [Mythological Lens](../aufkl%C3%A4rung-plus/#ideologien-und-die-mythological-lens):
+Sowohl Ideologien als auch Strategien bedienen sich der sogenannten [Mythological Lens](../aufklärung-plus/#ideologien-und-die-mythological-lens):
 
 <img src="/img/aufklärung-plus-mythological-lens.png" alt="Mythological Lens" style="max-height: 400px; max-width: 100%">
 
@@ -231,7 +231,7 @@ Doch kreieren sie nicht direkt Kultur, sondern vielmehr deren Begleiterscheinung
 In meinen Augen sind die wahren Kulturschaffenden aber Theologen, Philosophen, Geisteswissenschaftler und Narrativ-Politiker, die Mythologien erfinden.
 Ich verwende absichtlich den Begriff "erfinden", da es sich in der Regel um die Erfindung einer Ideologie handelt.
 Die Realität wird hingegen in den Naturwissenschaften durch die wissenschaftliche Methode, in deren Zentrum das Experiment steht, erforscht.
-Dieses Spannungsfeld habe ich in [Wissenschaft vs. Theologie](../aufkl%C3%A4rung-plus/#wissenschaft-vs.-theologie) ausführlich behandelt.
+Dieses Spannungsfeld habe ich in [Wissenschaft vs. Theologie](../aufklärung-plus/#wissenschaft-vs.-theologie) ausführlich behandelt.
 
 Einige Ideologien, wie zum Beispiel der Marxismus, könnten als Strategien betrachtet werden, sind jedoch durch [reproduzierbaren Experiment](https://realitiesofsocialism.org) [falsifiziert](https://de.wikipedia.org/wiki/Falsifikation) worden und gelten daher als Ideologien.
 Damit eine Ideologie überhaupt die Chance hat, als Strategie zu fungieren, muss sie auf einem Realitätsmodell basieren, das eine Mechanik beinhaltet, durch die der angestrebte und vorhergesagte utilitaristische Effekt erzielt werden kann.
@@ -239,10 +239,10 @@ Damit eine Ideologie überhaupt die Chance hat, als Strategie zu fungieren, muss
 Bei Sachverhalten mit starkem Realitätsbezug, also einer starken Kopplung an die Realität, gibt es selten Streit.
 Ursache und Wirkung sind so eindeutig, dass sie offensichtlich sind.
 Schwierig wird es bei Themen mit losem Bezug zur Realität, oft noch verkompliziert durch die Komplexität der Zusammenhänge.
-In [Wissenschaft vs. Theologie](../aufkl%C3%A4rung-plus/#wissenschaft-vs.-theologie) habe ich die Meteorologie als Beispiel für ein komplexes System genannt, aber auch die Biologie, unser Wirtschaftssystem oder das politische System könnten als weitere Beispiele dienen.
+In [Wissenschaft vs. Theologie](../aufklärung-plus/#wissenschaft-vs.-theologie) habe ich die Meteorologie als Beispiel für ein komplexes System genannt, aber auch die Biologie, unser Wirtschaftssystem oder das politische System könnten als weitere Beispiele dienen.
 
 Der Grund für Streit über Strategien liegt oft in ihrem schwachen Bezug zur Realität, der durch die Komplexität der Zusammenhänge noch verstärkt wird.
-In [Bike-Shedding und Parkinsons Law](../aufkl%C3%A4rung-plus/#bike-shedding-und-parkinsons-law) ziehe ich eine Verbindung zum [Gesetz der Trivialität](https://en.wikipedia.org/wiki/Law_of_triviality), welches besagt, dass der für einen Tagesordnungspunkt aufgewendete Zeitaufwand umgekehrt proportional zu dessen Kosten ist.
+In [Bike-Shedding und Parkinsons Law](../aufklärung-plus/#bike-shedding-und-parkinsons-law) ziehe ich eine Verbindung zum [Gesetz der Trivialität](https://en.wikipedia.org/wiki/Law_of_triviality), welches besagt, dass der für einen Tagesordnungspunkt aufgewendete Zeitaufwand umgekehrt proportional zu dessen Kosten ist.
 Man streitet über Nebensächlichkeiten. In "Bike-Shedding und Parkinsons Law" fasse ich zusammen, dass Widerstand oft dort entsteht, wo die Problemstellung zu trivial und irrelevant für die reale Welt ist.
 
 Was für Strategien zutrifft, gilt für Ideologien umso mehr. Ideologien, die ganz ohne Realitätsbezug auskommen, bieten im Wesentlichen Unterhaltungswert, und die ideologischen Auseinandersetzungen ähneln den Streitereien unter Fans von Science-Fiction oder Fantasy-Rollenspielen.
@@ -287,7 +287,7 @@ Unentscheidbarkeit mancher Theorien diese vom Individuum fortan nur noch als Unt
 fundamentalem Streit mehr wären.
 
 Die Tatsache, dass diese Methode regelmäßig scheitert, war für mich der Ausgangspunkt für die Schlussfolgerung, dass ein funktionierendes Gehirn eine
-Ausnahmeerscheinung ist. Siehe dazu auch: [Bug oder Feature](../aufkl%C3%A4rung-plus/#einschub%3A-bug-oder-feature).
+Ausnahmeerscheinung ist. Siehe dazu auch: [Bug oder Feature](../aufklärung-plus/#einschub%3A-bug-oder-feature).
 
 Wäre es leicht, Menschen von ihren Halluzinationen (Ideologien) zu befreien, müsste ich meine Kinder nicht vor Philosophen warnen.
 
@@ -296,7 +296,7 @@ Wäre es leicht, Menschen von ihren Halluzinationen (Ideologien) zu befreien, m�
 In einem [laizistischen](https://de.wikipedia.org/wiki/Laizismus) Staat, in dem die Trennung zwischen Religion und Staat etabliert ist, orientieren sich Ethik und Moral an den Prinzipien einer Strategie,
 wobei ein utilitaristischer Zinseszinseffekt angestrebt wird. Im liberalen Modell liegt der Fokus auf der Minimierung von Gewalt, die notwendig ist, um eine friedliche Gesellschaft aufzubauen.
 
-In [Initiative für Freiheit](http://localhost:8080/posts/leben-und-leben-lassen/#gegenbewegung%3A-initiative-f%C3%BCr-freiheit) habe ich dazu ausgeführt:
+In [Initiative für Freiheit](../leben-und-leben-lassen/#gegenbewegung%3A-initiative-f%C3%BCr-freiheit) habe ich dazu ausgeführt:
 Aus meiner Sicht ist wahre Toleranz und Vielfalt nur durch eine liberale Perspektive möglich.
 Zur Erinnerung hier noch einmal die Worte von Friedrich August von Hayek:
 
@@ -570,7 +570,7 @@ Es liegt nun an uns, diesen Fehler wiedergutzumachen. Hierbei kommt uns entgegen
 
 Wenn meine Vermutungen zu [Loki im Gaiakostüm](#loki-im-gaiakostüm) zutreffen sollten, dann stellt die Woke-Bewegung ein Phänomen dar, das wir in Europa seit Jahrhunderten nicht mehr gesehen haben: Einen dezentralen Gott, vergleichbar mit den Gottheiten der nordischen Mythologie, inklusive eines zugehörigen Kults.
 Dieser Loki arbeitet mit Mitteln, die wir in der jüngeren Vergangenheit so nicht gesehen haben und für die folglich unsere Gesellschaft keine Abwehrmechanismen entwickelt hat.
-Es war nicht die Aufklärung, die gegen die nordischen Götter siegte, sondern das Christentum. Daraus ergibt sich die Idee, ein [Glaubensbekenntnis](../aufkl%C3%A4rung-plus/#glaubensbekenntnis-zu-den-methoden-der-aufkl%C3%A4rung-als-eine-art-von-impressum) zu den Prinzipien der Aufklärung zu formulieren,
+Es war nicht die Aufklärung, die gegen die nordischen Götter siegte, sondern das Christentum. Daraus ergibt sich die Idee, ein [Glaubensbekenntnis](../aufklärung-plus/#glaubensbekenntnis-zu-den-methoden-der-aufkl%C3%A4rung-als-eine-art-von-impressum) zu den Prinzipien der Aufklärung zu formulieren,
 das jede öffentlich aktive Person auf ihrer Homepage oder Ähnlichem veröffentlichen könnte. Diese Idee mag weit hergeholt erscheinen, ist jedoch kostengünstig und einen Versuch wert.
 
 Eine weitere Maßnahme könnte die Einrichtung eines deutschen Äquivalents zum französischen [Observatory of Decolonialism and Identity Ideologies](https://decolonialisme.fr/on-academic-activism/) sein.
@@ -664,7 +664,7 @@ Im Kern geht es um das Prinzip [Leben und leben lassen](../leben-und-leben-lasse
 ### Loki im Gaiakostüm
 
 Wenn ich von einer anthropologischen Konstante ausgehe ([an itch that needs to be scratched](https://en.wiktionary.org/wiki/scratch_an_itch)),
-die ähnliche Strömungen immer wieder entstehen lässt und zudem die Theorie aus [Aufklärung-Plus](../aufkl%C3%A4rung-plus) berücksichtige,
+die ähnliche Strömungen immer wieder entstehen lässt und zudem die Theorie aus [Aufklärung-Plus](../aufklärung-plus) berücksichtige,
 dass Ideologien Halluzinationen (Götter) sind, die als verteilter Prozess in den Gehirnen
 einer Gruppe von Menschen ablaufen (Multi-Mind-Self), dann erscheint es sinnvoll, in der Vergangenheit nach ähnlichen Göttern zu suchen und zu vergleichen, welche
 Götter-Gestalten mit der aktuellen Woke-Bewegung korrespondieren.
@@ -702,7 +702,7 @@ verschiedene Strömungen, die sich in antikapitalistisch, antirassistisch, anti-
 einige weitere, die ich nicht kenne) aufteilen. Zudem sind auch die "Priester" und "Theologen", also die Gruppe der theologischen Vordenker, eine
 dezentrale Gruppe.
 
-In meiner Klassifizierung der [Halluzinationen](../aufkl%C3%A4rung-plus/#wissenschaft-vs.-theologie) (Götter) unterscheide ich zwischen solchen mit
+In meiner Klassifizierung der [Halluzinationen](../aufklärung-plus/#wissenschaft-vs.-theologie) (Götter) unterscheide ich zwischen solchen mit
 losem Bezug zur überprüfbaren Realität (wie zum Beispiel beim Marxismus), solchen ohne Bezug zur überprüfbaren Realität, die jedoch axiomatisch und
 logisch argumentieren (wie in der Theologie), und solchen ohne Bezug zur überprüfbaren Realität, die komplett ohne Logik auskommen und sich lediglich
 auf aneinandergereihte Assoziationen stützen (wie in der Esoterik).  Die **Woke-Bewegung** ordne ich den **Halluzinationen mit losem Realitätsbezug** zu, die
@@ -770,7 +770,7 @@ Sobald ein solcher [Schwingkreis](https://de.wikipedia.org/wiki/Schwingkreis) ei
 Wer könnte davon profitieren, die USA und den Westen in die Handlungsunfähigkeit oder die Selbstzerstörung zu führen? Diese Antwort überlasse ich Ihnen.
 
 Eine geeignete Gegenmaßnahme könnte darin bestehen, die sich aufschaukelnde positive Rückkopplungsschleife zu unterbrechen, indem man versucht, so
-viele Menschen wie möglich sowohl aus der Woke-Bewegung als auch aus der Alt-Right-Bewegung wieder in die [Rationalität der Aufklärung](../aufkl%C3%A4rung-plus) einzubinden.
+viele Menschen wie möglich sowohl aus der Woke-Bewegung als auch aus der Alt-Right-Bewegung wieder in die [Rationalität der Aufklärung](../aufklärung-plus) einzubinden.
 
 ## Fußnoten
 
