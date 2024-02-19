@@ -217,7 +217,7 @@ Zudem bedienen sich sowohl Ideologien als auch Strategien dem, was [Michael E. P
 
 > Bei "First-Order Fit" handelt es sich um eine einfache Konsistenz zwischen jeder Aktivität (Funktion) und der Gesamtstrategie. ... Konsistenz stellt sicher, dass sich die Wettbewerbsvorteile der Aktivitäten akkumulieren und nicht erodieren oder sich selbst aufheben.<br>
 > "Second-Order Fit" tritt auf, wenn sich Aktivitäten verstärken.<br>
-> "Thrid-Order Fit" geht über die Aktivitätsverstärkung hinaus und umfasst das, was ich als Optimierung der Anstrengung bezeichne.
+> "Third-Order Fit" geht über die Aktivitätsverstärkung hinaus und umfasst das, was ich als Optimierung der Anstrengung bezeichne.
 
 Anstatt von einem "Activity System" zu sprechen, könnte man auch von [Bräuchen](https://de.wikipedia.org/wiki/Brauch) sprechen.
 
@@ -310,7 +310,7 @@ Ziel ist eine friedliche Gesellschaft, die idealerweise ein Maximum an (Lebens-)
 sich möglichst frei nach den eigenen Vorstellungen zu entfalten.
 Im Kern geht es um das Prinzip [Leben und leben lassen](../leben-und-leben-lassen).
 
-Prinzipiell lässt sich in zwei Richtungen optimieren: entweder hin zur Maximierung von etwas Gutem oder zur Minimierung von etwas Schlechtem. In politischen Kontexten hat sich die Minimierung von Negativem bewährt.
+Prinzipiell lässt sich in zwei Richtungen optimieren: entweder hin zur Maximierung von etwas Gutem oder zur Minimierung von etwas Schlechtem. In politischen Kontexten hat sich die Minimierung von Schlechtem bewährt.
 
 > Die Demokratie ist die schlechteste aller Staatsformen, ausgenommen alle anderen – Winston Churchill
 

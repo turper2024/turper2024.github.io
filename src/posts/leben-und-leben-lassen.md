@@ -1066,6 +1066,14 @@ Sie führt diese Verschiebung auf eine neuen Generation von Journalisten zurück
 
 Birgit Kelle prägt für dieses Phänomen den Begriff [Lückenpresse](https://youtu.be/RlDEjrO9raQ?t=124).
 
+#### Moralisierende Diskussionstabus
+
+[Ferdinand Kirchhof](https://de.wikipedia.org/wiki/Ferdinand_Kirchhof)[^ferdinandkirchhof], ehemaliger Vizepräsident des Bundesverfassungsgerichts, stellt in der [Neuen Juristischen Wochenschrift](https://tobias-lib.ub.uni-tuebingen.de/xmlui/handle/10900/143180) fest:
+
+> Moralisierende Diskussionstabus gefährden die von [Art. 5 des Grundgesetzes](https://www.gesetze-im-internet.de/gg/art_5.html) intendierte Meinungsvielfalt in gleicher Weise wie staatliche Zensur und Aufsicht.
+> […] Politische und gesellschaftliche Entscheidungen werden nicht mehr in der Gesamtheit der Gesellschaft nach dem freien Willen jedes einzelnen ihrer Mitglieder erörtert,
+> sondern von den Interessen bestimmter Gruppen in der Gesellschaft gesteuert. Die Vielfalt und die Freiheit der Meinungsäußerungen in der Gesellschaft leiden darunter.
+
 #### Gegenbewegung: Initiative für Freiheit
 
 In dem Artikel [Konservative und Liberale – wo liegt der Unterschied?](https://www.nzz.ch/meinung/konservative-sind-keine-liberalen-ld.1770232) aus der [Neuen Zürcher Zeitung](https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung)
@@ -1086,7 +1094,7 @@ Auch ich unterstütze diese Position.
 
 Den Unterschied zu linken Positionen lässt sich mit einem einfachen Test bestimmen:
 Fragen Sie, ob man denjenigen, die anderer Meinung sind, den Mund verbieten sollte.
-Für dieses Vorgehen existieren verschiedene Begriffe wie "zum Schweigen bringen", "aus dem Diskurs drängen", [Deplatforming](https://de.wikipedia.org/wiki/Deplatforming) oder [Cancel Culture](https://de.wikipedia.org/wiki/Cancel_Culture).
+Für dieses Vorgehen existieren verschiedene Begriffe wie "zum Schweigen bringen", "aus dem Diskurs drängen", [Deplatforming](https://de.wikipedia.org/wiki/Deplatforming) oder [Cancel Culture](https://de.wikipedia.org/wiki/Cancel_Culture)[^cancelculturetagebuch].
 
 Es gibt diese [Binsenweisheit](https://de.wikipedia.org/wiki/Binsenweisheit):
 
@@ -1157,7 +1165,6 @@ Weltanschauung verabsolutieren und sich zu allem und jedem gegenüber bemächtig
 Wahrheit und Meinungsfreiheit stehen für mich an vorderster Stelle meiner Werteskala.
 Daher plädiere ich dafür, dass die oben genannten Filtermechanismen im Sinne dieser Grundwerte modifiziert werden.
 
-
 ## Fußnoten
 
 [^freiheit]: Freiheit von allem und Freiheit zu allem, solange man keine Dritten schädigt. Kontrast: [How Freedom Became Free-dumb in America](https://eand.co/how-freedom-became-free-dumb-in-america-baee33dc6476).
@@ -1175,3 +1182,5 @@ Daher plädiere ich dafür, dass die oben genannten Filtermechanismen im Sinne d
 [^debattenraume]: Birgit Kelle gehörte im Herbst 2020 zu den Erstunterzeichnern des [Appell für freie Debattenräume](https://de.wikipedia.org/wiki/Appell_f%C3%BCr_freie_Debattenr%C3%A4ume).
 [^kognitivekriegsfuhrung]: The Institute for Statecraft: [Der hausgemachte Desinformationsskandal](https://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/debatte-um-gezielte-desinformation-der-britischen-regierung-15957088.html?printPagedArticle=true) von [Constanze Kurz](https://de.wikipedia.org/wiki/Constanze_Kurz).
 [^typeitypeiierror]: False Positives und False Negatives werden in anderen Bereichen auch als [Type I und Type II Error](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors) bezeichnet.
+[^ferdinandkirchhof]: Siehe auch: [Bis zur Vernichtung sozialer Existenzen – Die Methoden der woken Cancel Culture](https://www.welt.de/debatte/kommentare/plus246514102/Cancel-Culture-Bis-zur-Vernichtung-sozialer-Existenzen.html)
+[^cancelculturetagebuch]: Siehe auch: [Cancel-Culture-Tagebuch](https://norberthaering.de/cancel-culture-dokumentation)
