@@ -1032,6 +1032,25 @@ Geht es jedoch darum, die Demokratie zu stärken, möchte ich auf das bereits im
 Anstatt finanzielle Mittel direkt in die verschiedenen pluralistischen Strömungen, also Ideologien, zu investieren, die zur **Spaltung** der Gesellschaft beitragen könnten, befürworte ich, diese Mittel ausschließlich für die Organisation von **Begegnungen** oder *gehegten* Konflikten vor Publikum zu verwenden.
 Nähere Details dazu finden sich im Unterabschnitt [Finanzierung](../aufklärung-plus/#finanzierung).
 
+#### Wokes Kalifat
+
+Die links-grün-woke Bewegung verfolgt, meiner Auffassung nach, ein quasi-religiöses Mindset mit dem Ziel, eine universelle Moral in der Bundesrepublik Deutschland zu etablieren.
+Dieses angestrebte Staatsgebilde bezeichne ich als das links-grün-woke Kalifat.
+
+> Die Bürger werden zuallermeist nicht mit Polizeigewalt, sondern im Wege der Einschränkung ihres Informationszugangs und damit durch Verstümmelung ihrer Meinungsbildung von jedweder Opposition gegen die finanziell und medial dominante politische Agenda abgehalten.
+
+Anstelle von Gewalt, wie sie beispielsweise von Scharia-Polizei in Regimen wie dem Iran ausgeübt wird, herrscht hier ein repressives Meinungsklima, gestützt auf "freiwillige" Selbstkontrolle von Plattformbetreibern,
+[Faktencheckern](../leben-und-leben-lassen/#slippery-slope%3A-faktenchecker), einer weitgefassten Definition von [Hassrede](../leben-und-leben-lassen/#slippery-slope%3A-hassrede), die potenziell jede regierungskritische Meinung einschließen könnte, und einer selektiven Berichterstattung der Medien ([Lückenpresse](../leben-und-leben-lassen/#slippery-slope%3A-lückenpresse)).
+
+Es gibt sogar Fälle, die an den Straftatbestand der [Majestätsbeleidigung](https://de.wikipedia.org/wiki/Majest%C3%A4tsbeleidigung) erinnern, wie das Beispiel einer Strafe von 6000 Euro für einen Bayer,
+der die [Grünen auf Plakaten verspottete](https://www.focus.de/politik/6000-euro-strafe-weil-bayer-gruene-verspottet-hat-soll-sein-haus-durchsucht-werden_id_259681764.html) und dessen Haus daraufhin von der Polizei durchsucht wurde.
+
+[Ferdinand Kirchhof](https://de.wikipedia.org/wiki/Ferdinand_Kirchhof)[^ferdinandkirchhof], ehemaliger Vizepräsident des Bundesverfassungsgerichts, stellt in der [Neuen Juristischen Wochenschrift](https://tobias-lib.ub.uni-tuebingen.de/xmlui/handle/10900/143180) fest:
+
+> Moralisierende Diskussionstabus gefährden die von [Art. 5 des Grundgesetzes](https://www.gesetze-im-internet.de/gg/art_5.html) intendierte Meinungsvielfalt in gleicher Weise wie staatliche Zensur und Aufsicht.
+> […] Politische und gesellschaftliche Entscheidungen werden nicht mehr in der Gesamtheit der Gesellschaft nach dem freien Willen jedes einzelnen ihrer Mitglieder erörtert,
+> sondern von den Interessen bestimmter Gruppen in der Gesellschaft gesteuert. Die Vielfalt und die Freiheit der Meinungsäußerungen in der Gesellschaft leiden darunter.
+
 ## Fußnoten
 
 [^originofconcepts]: In diesem Kontext steht das Buch [The Origin of Concepts](https://www.amazon.de/Origin-Concepts-Oxford-Cognitive-Development/dp/0199838801) schon lange auf meiner Leseliste, welches ich allerdings noch nicht zu lesen begonnen habe.
@@ -1045,3 +1064,4 @@ Nähere Details dazu finden sich im Unterabschnitt [Finanzierung](../aufklärung
 [^sokal]: Siehe dazu [Sokal affair](https://en.wikipedia.org/wiki/Sokal_affair) und aus der jüngeren Vergangenheit [Sokal Squared](https://de.wikipedia.org/wiki/Sokal_Squared).
 [^schariapolizeischule]: [Nach Wirbel um „Scharia-Polizei“ kommen weitere Vorfälle an Kölner Schulen ans Licht](https://www.focus.de/politik/deutschland/wirbel-um-scharia-polizei-auch-an-koelner-schulen-kommen-vorfaelle-ans-licht_id_259644562.html)
 [^nazi]: [Theodor Shitstorm - Gegen Nazis](https://www.youtube.com/watch?v=a6OEv0SlUDU)
+[^ferdinandkirchhof]: Siehe auch: [Bis zur Vernichtung sozialer Existenzen – Die Methoden der woken Cancel Culture](https://www.welt.de/debatte/kommentare/plus246514102/Cancel-Culture-Bis-zur-Vernichtung-sozialer-Existenzen.html)
