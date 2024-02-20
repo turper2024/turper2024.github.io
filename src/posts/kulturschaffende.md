@@ -416,7 +416,7 @@ Gesellschaftsphilosophisch hatte der Kapitalismus, die Marktwirtschaft und das [
 Die Gewinner dieser Situation waren all jene, die "etwas konnten" und ihre Fähigkeiten in der Wirtschaft einsetzten, um konkrete Themen voranzutreiben, die Welt über einen Beitrag in der Wirtschaft, Naturwissenschaft und Technik zu verbessern und auch um den eigenen Wohlstand zu mehren.
 Wir überließen daher das Feld in den von uns "weniger geschätzten" Bereichen wie Politik, aber auch in den Geisteswissenschaften, den anderen, den Leuten, die in der Wirtschaft keinen Fuß fassen konnten. Und heute fällt uns diese Nachlässigkeit auf die Füße.
 
-Um den aktuellen [Zeitgeist](https://de.wikipedia.org/wiki/Zeitgeist) zur Meinung in der Bevölkerung über unsere deutsche Politikerklasse wiederzugeben, zitiere ich hier den Kabarettisten [Dieter Nuhr](https://youtu.be/39Y75tbbQ9k?t=25), der überspitzt folgendes sagt:
+Um den aktuellen [Zeitgeist](https://de.wikipedia.org/wiki/Zeitgeist) zur Meinung in der Bevölkerung über unsere deutsche Politikerklasse wiederzugeben, zitiere ich hier den Kabarettisten [Dieter Nuhr](https://youtu.be/39Y75tbbQ9k?t=25), der überspitzt Folgendes sagt:
 
 > Die neue Politikergeneration, Ricarda Lang, Kevin Kühnert; Menschen, für die die Politik der letzte Strohhalm war. Ausbildung nicht gepackt, abgebrochen. Das Parlament wird immer mehr zum sozialen Brennpunkt, hat man so den Eindruck.
 
@@ -994,6 +994,34 @@ Oft übt sie auch implizit, durch den Ausdruck ihrer Moralvorstellungen, die sie
 Das empfinde ich auch beim Anblick von verschleierten muslimischen Frauen, orthodoxen Juden, Skinheads und Angehörigen der LGBT-Szene.
 Es handelt sich um einen moralisierten Konformitätsdruck, der meine gefühlte Freiheit einschränkt.
 
+Aus dem Gesagten zum Thema moralisierter Konformitätsdruck im Abschnitt [Moralisieren und Freiheit](#moralisieren-und-freiheit) erscheint zunächst jede politische Ideologie als suspekt:
+Sie übt einen moralisierten Konformitätsdruck auf ihr Umfeld aus, der die Freiheit der Individuen in der offenen Gesellschaft einschränkt, so wie bei den Pionieren in der DDR und [ihrem blauen Halstuch](https://www.mdr.de/geschichte/ddr/alltag/erziehung-bildung/ernst-thaelmann-pioniere-halstuch-ddr-100.html).
+
+Einschub: Der [Digital Services Act](https://de.wikipedia.org/wiki/Gesetz_%C3%BCber_digitale_Dienste) wird auf Plattformen angewandt, die 45 Millionen aktive Nutzer pro Monat aufweisen, d.h., auf Plattformen, die etwa 10% der rund 450 Millionen Bürger der EU regelmäßig nutzen.
+
+Ich denke, dieser Sachverhalt, dass politische Ideologien durch ihren Konformitätsdruck die Freiheit der pluralistischen Gesellschaft einschränken[^schariapolizeischule], rechtfertigt im Sinne eines *Interessensausgleichs* eine Debatte darüber, ob von politischen Ideologien verlangt werden muss,
+im Interesse der pluralistischen, offenen Gesellschaft, diesen Konformitätsdruck im öffentlichen Raum zu unterlassen, zumindest ähnlich wie beim Digital Services Act, sobald ihre Mitgliederanzahl auf dem Gebiet der Bundesrepublik 10% der Bevölkerung übersteigt.
+Persönlich sehe ich das analog zum Kirchgang: Am Sonntag, wenn ich in die Kirche gehe, wähle ich passende Kleidung. In Analogie dazu wäre das muslimische Kopftuch zu religiösen Anlässen angemessen,
+schränkt jedoch im öffentlichen Raum die Freiheit der pluralistischen Gesellschaft übermäßig ein und sollte daher dort vermieden werden.
+
+#### Schicksalsstiftender Solidaritätsrausch
+
+Michael Andrick beschreibt in seinem Artikel [Massenpsychologie der Krise: Im Solidaritätsrausch](https://www.deutschlandfunkkultur.de/massenpsychologie-solidaritaet-gemeinschaft-100.html) vom 7. Juli 2023 im Deutschlandfunk Kultur ein Phänomen,
+das er vom belgischen Psychologen Mattias Desmet übernimmt, welcher sich mit Massenformierung auseinandersetzt:
+
+> Man nehme eine Gruppe von Menschen, die stark von Vereinzelung, Sinnarmut, Angst und latenter Aggression betroffen ist.
+> Dieser Gruppe verkünde man nun, dass eine Bedrohung[^nazi] eingetreten sei, deren Überwindung entschiedenes gemeinschaftliches Handeln erfordere.
+> Sofort fühlen sich viele existenziell erleichtert und dankbar.
+> Die Menschen werden von einem gemeinsamen Narrativ ergriffen, das sie in einem heroischen Kampf gegen ein Objekt der Angst vereint.
+
+Zuvor hatte ich bereits ein Zitat von Andreas Andrick angeführt:
+
+> Gewohnheitsmäßiges Moralisieren vieler Bürger, das womöglich noch von offiziellen Stellen zu den Großthemen der Aktualität angeheizt wird, ist fatal (**schicksalsstiftend**):<br>
+> Es führt Fundamentalisten über kurz oder lang in die Wahnvorstellung, dass "die Demokratie" nur auf dem Wege einer allgemeinen Berichtigung des Denkens, Fühlens und Sprechens der Bürger und durch ihre flankierende Ausbildung zu Gesinnungspolizisten "zu retten" sei.
+
+Bezugnehmend auf Hannah Arendts [Ursprünge und Elemente totalitärer Herrschaft](https://de.wikipedia.org/wiki/Elemente_und_Urspr%C3%BCnge_totaler_Herrschaft) verdeutlicht Desmet, wie Massenformierung zur Basis totalitärer Systeme werden kann.
+Ich denke, es ist wichtig, dieses Phänomen im Blick zu behalten und gemeinsam darauf hinzuarbeiten, dass der schicksalsstiftende Solidaritätsrausch unsere offene, pluralistische Gesellschaft nicht hinwegspült.
+
 ## Fußnoten
 
 [^originofconcepts]: In diesem Kontext steht das Buch [The Origin of Concepts](https://www.amazon.de/Origin-Concepts-Oxford-Cognitive-Development/dp/0199838801) schon lange auf meiner Leseliste, welches ich allerdings noch nicht zu lesen begonnen habe.
@@ -1005,3 +1033,5 @@ Es handelt sich um einen moralisierten Konformitätsdruck, der meine gefühlte F
 [^jaquesthinkingmodes]: In [Requisite Organization](https://www.amazon.de/Requisite-Organization-Effective-Managerial-Leadership/dp/0566079402) auf "Page Pair 22" unter "The Four Methods of Mental Processing" identifiziert [Elliott Jaques](https://en.wikipedia.org/wiki/Elliott_Jaques) vier Arten der kognitiven Verarbeitung: Declarative (Or), Cumulative (And), Serial ([Implikation](https://de.wikipedia.org/wiki/Implikation)), Parallel. Die Woke-Bewegung bleibt unter dem Niveau des Serial Processing und beschränkt sich auf aneinandergereihte Assoziationen (Or und And).
 [^voodooscience]: [Norbert Bolz](https://de.wikipedia.org/wiki/Norbert_Bolz) bezeichnet das in [Der alte weiße Mann](https://www.amazon.de/alte-wei%C3%9Fe-Mann-S%C3%BCndenbock-Nation/dp/3784436536) als "Voodoo Science".
 [^sokal]: Siehe dazu [Sokal affair](https://en.wikipedia.org/wiki/Sokal_affair) und aus der jüngeren Vergangenheit [Sokal Squared](https://de.wikipedia.org/wiki/Sokal_Squared).
+[^schariapolizeischule]: [Nach Wirbel um „Scharia-Polizei“ kommen weitere Vorfälle an Kölner Schulen ans Licht](https://www.focus.de/politik/deutschland/wirbel-um-scharia-polizei-auch-an-koelner-schulen-kommen-vorfaelle-ans-licht_id_259644562.html)
+[^nazi]: [Theodor Shitstorm - Gegen Nazis](https://www.youtube.com/watch?v=a6OEv0SlUDU)
