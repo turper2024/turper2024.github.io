@@ -888,12 +888,19 @@ Michael Andrick hält es für symptomatisch, dass der Begriff des [Gemeinwohl](h
 
 #### Anspruch auf Teilnahme an öffentlichen Plattformen
 
-Die allgemeine Erklärung der Menschenrechte und das Grundgesetz garantieren die Gleichberechtigung aller Menschen, woraus sich ein Anspruch auf gleichberechtigte Teilnahme an öffentlichen Plattformen ableiten lässt.
+Die allgemeine Erklärung der Menschenrechte und das Grundgesetz ([Artikel 3](https://www.gesetze-im-internet.de/gg/art_3.html)) garantieren die Gleichberechtigung aller Menschen, woraus sich ein Anspruch auf gleichberechtigte Teilnahme an öffentlichen Plattformen ableiten lässt.
 Öffentliche Debatten über Angelegenheiten, die das Gemeinwohl betreffen, müssen demokratisch und im freien Austausch unter Gleichberechtigten verhandelt werden,
 wobei alle pluralistischen Gruppen gleichberechtigter und fairer Zugang eingräumt werden muss.
 
 Anders ausgedrückt: Personen, denen nur eine beschränkte oder gar keine Teilnahme an öffentlichen Plattformen gewährt wird, sind in ihrer Gleichberechtigung eingeschränkt.
 Es verhält sich wie bei [Leibeigenen](https://de.wikipedia.org/wiki/Leibeigenschaft), die alle Pflichten tragen, aber nur einen Bruchteil der Rechte genießen.
+
+Wir erweitern also die Kulturtechnik auf folgenden Elementen:
+
+1. Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
+1. Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
+1. Die Feststellung, dass wir in einer offenen und pluralistischen Gesellschaft leben, nicht in einer geschlossenen Gemeinschaft, und dass es die Pflicht jedes Demokraten ist, diese Offenheit zu bewahren.
+1. Gestützt auf das Grundgesetz [Artikel 3](https://www.gesetze-im-internet.de/gg/art_3.html), das die Gleichberechtigung aller Menschen in dieser offenen Gesellschaft sichert, fordere ich eine gleichberechtigte und faire Teilnahme an öffentlichen Plattformen.
 
 #### Moralisieren und Freiheit
 
@@ -962,10 +969,8 @@ Michael Andrick erläutert in seinem Buch, wie dieses Widerstandselement aussieh
 
 1. Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
 1. Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
-
-<!--
-XXX offene gesellschaft und keine geschlossene gemeinschaft
--->
+1. Die Feststellung, dass wir in einer offenen und pluralistischen Gesellschaft leben, nicht in einer geschlossenen Gemeinschaft, und dass es die Pflicht jedes Demokraten ist, diese Offenheit zu bewahren.
+1. Gestützt auf das Grundgesetz [Artikel 3](https://www.gesetze-im-internet.de/gg/art_3.html), das die Gleichberechtigung aller Menschen in dieser offenen Gesellschaft sichert, fordere ich eine gleichberechtigte und faire Teilnahme an öffentlichen Plattformen.
 
 #### Moralisierter Konformitätsdruck
 
