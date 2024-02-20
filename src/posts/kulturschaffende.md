@@ -785,9 +785,6 @@ Es geht um das aktive kommunikative Wirken der Gesellschaftsmitglieder – Ihr E
 Würde dieses kommunikative Handeln hier und jetzt eingestellt, könnte auch die Spaltung aufgelöst werden.
 Ergänzend möchte ich betonen, dass diese Art der Kommunikation die bevorzugte Methode politischer Ideologien (Halluzinationen) darstellt.
 
-Spaltung bedeutet hier das entstehen von sogennanten "Epistemic Tribes", d.h. von Meinungsgruppen oder Echokammern, die nicht mehr miteinander, sondern nur noch übereinander sprechen und versuchen sich gegenseitig zu **dominieren**.
-Hier Ulrike Guérot zur Definition von Faschismus als "sich bündeln":
-
 Spaltung führt zur Bildung sogenannter „Epistemic Tribes“, also Meinungsgruppen oder Echokammern, die nicht länger miteinander, sondern nur noch übereinander sprechen und bestrebt sind, einander zu **dominieren**.
 Hierzu passt Ulrike Guérots Definition des Faschismus als Phänomen des „Sich-Bündelns“:
 
@@ -966,6 +963,9 @@ Michael Andrick erläutert in seinem Buch, wie dieses Widerstandselement aussieh
 1. Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
 1. Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
 
+<!--
+XXX offene gesellschaft und keine geschlossene gemeinschaft
+-->
 
 #### Moralisierter Konformitätsdruck
 
