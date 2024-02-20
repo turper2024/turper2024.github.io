@@ -1021,6 +1021,16 @@ Zuvor hatte ich bereits ein Zitat von Andreas Andrick angeführt:
 
 Bezugnehmend auf Hannah Arendts [Ursprünge und Elemente totalitärer Herrschaft](https://de.wikipedia.org/wiki/Elemente_und_Urspr%C3%BCnge_totaler_Herrschaft) verdeutlicht Desmet, wie Massenformierung zur Basis totalitärer Systeme werden kann.
 Ich denke, es ist wichtig, dieses Phänomen im Blick zu behalten und gemeinsam darauf hinzuarbeiten, dass der schicksalsstiftende Solidaritätsrausch unsere offene, pluralistische Gesellschaft nicht hinwegspült.
+Jeder Einzelne von uns sollte wachsam sein und Anzeichen dieses kollektiven Solidaritätsrausches sowie übermäßige Euphorie an sich selbst als Warnsignal zur Vorsicht werten, anstatt als Aufforderung zum Mitmachen.
+
+#### Demokratieförderung wird zu Pluralismusförderung
+
+Das Demokratiefördergesetz ist derzeit in aller Munde. Grundsätzlich stelle ich die Frage, ob es die Aufgabe eines Staates sein sollte, Demokratie aktiv zu fördern.
+Meiner Meinung nach sollte der Staat die Rahmenbedingungen für Demokratie sichern, wie Meinungsfreiheit und Gleichberechtigung aller Gesellschaftsmitglieder, aber nicht direkt in die Förderung der Demokratie eingreifen.
+
+Geht es jedoch darum, die Demokratie zu stärken, möchte ich auf das bereits im Anhang zu [Aufklärung-Plus](../aufklärung-plus) unter dem Thema [Pluralismus](../aufklärung-plus/#pluralismus) Gesagte zurückkommen:
+Anstatt finanzielle Mittel direkt in die verschiedenen pluralistischen Strömungen, also Ideologien, zu investieren, die zur **Spaltung** der Gesellschaft beitragen könnten, befürworte ich, diese Mittel ausschließlich für die Organisation von **Begegnungen** oder *gehegten* Konflikten vor Publikum zu verwenden.
+Nähere Details dazu finden sich im Unterabschnitt [Finanzierung](../aufklärung-plus/#finanzierung).
 
 ## Fußnoten
 
