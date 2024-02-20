@@ -772,6 +772,223 @@ Wer könnte davon profitieren, die USA und den Westen in die Handlungsunfähigke
 Eine geeignete Gegenmaßnahme könnte darin bestehen, die sich aufschaukelnde positive Rückkopplungsschleife zu unterbrechen, indem man versucht, so
 viele Menschen wie möglich sowohl aus der Woke-Bewegung als auch aus der Alt-Right-Bewegung wieder in die [Rationalität der Aufklärung](../aufklärung-plus) einzubinden.
 
+### Spaltung verstehen und überwinden
+
+In diesem Teil des Anhangs erörtere ich die Theorie der Spaltung, wie sie vom Philosophen [Michael Andrick](https://derandrick.de/ueber-michael-andrick) in seinem Werk [Im Moralgefängnis: Spaltung verstehen und überwinden](https://www.westendverlag.de/buch/im-moralgefaengnis) dargelegt wird.
+Diese Theorie, die ich als komplementär zu meiner eigenen Auffassung von Ideologien als Halluzinationen betrachte, beleuchtet das Kommunikationsverhalten von Ideologien.
+Hier präsentiere ich eine Zusammenfassung meiner Interpretationen und empfehle nachdrücklich, das Originalwerk zur vertiefenden Einsicht heranzuziehen.
+
+#### Spaltung
+
+Michael Andrick vertritt die Ansicht, dass gesellschaftliche Spaltung weniger ein Zustand als vielmehr ein kommunikativer Prozess ist.
+Es geht um das aktive kommunikative Wirken der Gesellschaftsmitglieder – Ihr Engagement und meines eingeschlossen –, das fortlaufend ausgeführt werden muss, um eine Spaltung zu erzeugen und aufrechtzuerhalten.
+Würde dieses kommunikative Handeln hier und jetzt eingestellt, könnte auch die Spaltung aufgelöst werden.
+Ergänzend möchte ich betonen, dass diese Art der Kommunikation die bevorzugte Methode politischer Ideologien (Halluzinationen) darstellt.
+
+Spaltung bedeutet hier das entstehen von sogennanten "Epistemic Tribes", d.h. von Meinungsgruppen oder Echokammern, die nicht mehr miteinander, sondern nur noch übereinander sprechen und versuchen sich gegenseitig zu **dominieren**.
+Hier Ulrike Guérot zur Definition von Faschismus als "sich bündeln":
+
+Spaltung führt zur Bildung sogenannter „Epistemic Tribes“, also Meinungsgruppen oder Echokammern, die nicht länger miteinander, sondern nur noch übereinander sprechen und bestrebt sind, einander zu **dominieren**.
+Hierzu passt Ulrike Guérots Definition des Faschismus als Phänomen des „Sich-Bündelns“:
+
+> Eine Gruppe innerhalb der Gesellschaft bündelt sich um ein bestimmtes Argument herum und grenzt jene aus, die sich um dieses Argument nicht bündeln wollen.
+> Dieser Prozess einer moralischen Schließung, der unabhängig von politischer Ausrichtung stattfindet, führt nach [Ferdinand Tönnis](https://de.wikipedia.org/wiki/Ferdinand_T%C3%B6nnies) zur Transformation einer offenen Gesellschaft in eine geschlossene Gemeinschaft.
+
+Diese geschlossene Gemeinschaft strebt nun nach Dominanz:
+
+> Spalterisches Verhalten im Privaten und in der Öffentlichkeit – sind aus Angst oder Abneigung geborenes **Dominanzstreben**.
+> Es ist **inhärent gewalttätig**. Dem Spalter geht es (bewusst oder unbewusst) um die Herstellung von Sicherheit und Berechenbarkeit für sich selbst durch Beherrschung der anderen,
+> die er als Bedrohung seiner Interessen oder gar seiner Person erlebt.
+
+In Erweiterung meiner Theorie der Ideologien als Halluzinationen argumentiere ich, dass es für eine Ideologie, verstanden als Halluzination, zwangsläufig ist, mittels diskursiver Gewalt zu dominieren, da sie über Argumente nicht die Oberhand gewinnen kann.
+Im Kontrast dazu bietet eine politische (Business-)Strategie stets die Chance, durch überzeugende Argumente, die Erklärung des zugrundeliegenden Realitätsmodells und der Wirkmechanismen, durch die der angestrebte utilitaristische Effekt erreicht werden soll, zu überzeugen.
+Michael Andrick bemerkt dazu:
+
+> Diese Analyse von Moralaggression und Moraldefensive zeigt, dass ein ansonsten vernünftiger Mensch um die sachliche Schwäche seiner eigenen Position weiß, wenn er Moralisierung anwendet.
+> Der Moralisierung liegt beim Handelnden entweder die Angst oder (im schuldhaften Fall) das klare Wissen zugrunde, dass man im Wettstreit unter Gleichen bei fairen Diskursbedingungen mit seinem Anliegen nicht bestehen würde.
+
+In meiner Theorie über Ideologien, die ich als Halluzinationen betrachte – im besten Fall mit schwachem Realitätsbezug, im schlimmsten Fall als reine Halluzinationen ohne jeglichen Bezug zur Realität –, erscheint es erstaunlich, dass Menschen Energie darauf verwenden, sie zu verteidigen oder ihnen sogar zur dominierenden Position zu verhelfen.
+Ich habe bereits eine Verbindung zu Parkinsons Gesetz und dem [Gesetz der Trivialität](../aufklärung-plus/#bike-shedding-und-parkinsons-law) hergestellt und festgestellt:
+
+> Widerstand entsteht dort, wo die Problemstellung zu trivial und zu unwichtig für die reale Welt ist.
+
+Zu Narrativ-Politiker habe ich gesagt:
+
+> Ihr Fokus liegt auf der Deutungshoheit aktueller Ereignisse und darauf, eine Interpretation der Wirklichkeit vorzuzeichnen.
+
+Für eine Ideologie und ihre Anhänger geht es primär darum, die aktuellen Geschehnisse in die Systematik ihrer Ideologie einzuordnen – wobei ich bewusst nicht von "Logik" spreche.
+
+Diese Erkenntnisse erscheinen vollkommen irrational und sind absolut überraschend. Warum verhalten sich Menschen so?
+Das zentrale "Problem" scheint zu sein, dass Ideologien als bereichernd und sinnstiftend empfunden werden, wodurch die Mitglieder eine starke emotionale Bindung und ein Ego-Investment entwickeln, das sie verteidigen müssen.
+
+#### Moral
+
+Bislang habe ich das Thema Moral bewusst umgangen. Im Zentrum steht die [Mythological-Lens](#mythologien-und-die-mythological-lens):
+
+> Mythologie: Definiert als "die zugrunde liegende Annahme und aktuelle Überzeugung darüber, was positives und geschätztes Verhalten ist und welches Verhalten negativ bewertet wird".
+
+Ideologien zeichnen sich durch ihre tribunale Natur aus - man sitzt zu Gericht und der Mensch steht immerzu in der Verantwortung, und seinesgleichen erwartet, dass er Rechenschaft ablegt über sein Tun -,
+wobei ihr Schwerpunkt auf der Unterscheidung zwischen Freund/Feind bzw. Gut/Böse liegt.
+Sowohl bei der Moral als auch bei der Mythological-Lens dreht es sich um die Regeln, die festlegen, was als positives und erstrebenswertes Verhalten angesehen wird und welches Verhalten negativ eingestuft wird.
+Man könnte hier auch von [Axiomen](https://de.wikipedia.org/wiki/Axiom) im mathematischen Sinne sprechen, die positives und negatives Verhalten definieren.
+Jedoch entstehen diese Definitionen eher implizit aus den erzählten Mythologien und müssen nicht zwangsläufig konsistent sein.
+
+#### Spalterisches kommunikatives Verhalten
+
+> Geistig betrachtet besteht spalterisches kommunikatives Verhalten in einer **begrifflichen Operation**, mit der man auf einen Schlag den **Fokus** (also den Inhalt) und den **Modus** (also die Art und Weise) der laufenden Kommunikation verändert.
+> Im privaten Fall wird der Fokus durch Moralisierung vom Sachverhalt **auf die Person** verlegt.
+> Der Modus der Diskussion wechselt bei Moralisierung sowohl im privaten wie auch im politischen Fall immer von Anfrage auf **Anklage**.
+
+Es geht also darum, das Gespräch weg von der Sachebene hin auf die persönliche Ebene und die Charaktereigenschaften des Gegenübers zu lenken.
+Plötzlich steht nicht mehr zur Debatte, ob ein Kindergarten zwei oder drei Stockwerke haben soll, sondern ob der Diskussionsteilnehmer überhaupt ein guter Mensch ist, dem man erlaubt, am Gespräch teilzunehmen, wobei
+implizit klar ist, dass man schlechte Menschen erst gar nicht in die Diskussion mit einbeziehen würde.
+
+> ... die einzelne Äußerung eines Menschen, der Schall und Rauch des Augenblicks, wird zu einer "entlarvenden" **Charakteroffenbarung** umgedeutet.
+
+Jemand meint, aus der Sachäußerung eines Menschen eine **Charakteroffenbarung** herauslesen zu können, die dann zum Anlass für eine **Charakteranklage** genommen wird.
+
+Diese kommunikative Technik ist inhärent gewalttätig und darauf ausgerichtet die Gegenseite zu dominieren:
+
+> Moralisierung ist ein Akt der diskursiven **Gewaltausübung**, der immer auch körperliche Gewaltanwendung wahrscheinlicher macht.
+>
+> Diese Tatsache kommt nie zur Sprache, weil niemand sich einer solchen Gewalttat schuldig bekennen mag – und somit hat unser Alltagsbewusstsein allenfalls eine blasse Ahnung von dieser wohl jedem Wohlgesinnten unwillkommenen Wahrheit.
+>
+> Die erwähnte Gewalttätigkeit ist **nicht abschaffbar**, sie liegt vielmehr in der Logik moralischen Denkens und Sprechens, ja, sie ist Teil seiner legitimen Funktion.
+
+#### Kulturtechnik
+
+Seit der [Säkularisierung & Mediatisierung](https://www.geschichte-abitur.de/lexikon/uebersicht-napoleonische-zeit/saekularisierung-mediatisierung) zu Beginn des 19. Jahrhunderts, die zur Trennung von Staat und Kirche führte, ist die Moral zur Privatsache geworden.
+Der Bürger betrachtet Moral primär als Mittel zur Ordnung seines privaten Umfelds, ohne ihr einen universellen Geltungsanspruch zuzuschreiben, der für jeden Menschen gelten oder sogar durchgesetzt werden sollte.
+
+Eine bedeutende Errungenschaft des [Westfälischen Friedens](https://de.wikipedia.org/wiki/Westf%C3%A4lischer_Friede), der am 24. Oktober 1648 den Dreißigjährigen Krieg beendete, war die Priorisierung von Verhandlungen über Interessenaustausch gegenüber der Durchsetzung einer universellen Wahrheit und Moral.
+Man konzentrierte sich auf Sachfragen und die dahinterliegenden utilitaristischen Mehrwerte, statt auf die Durchsetzung einer allgemeingültigen Wahrheit.
+
+In diesem Sinne stellt spalterisches, moralisierendes Verhalten eine Regression in die vormoderne Zeit vor dem Westfälischen Frieden dar, indem es versucht, erneut mit einer Wahrheit und allgemeingültigen Moral zu operieren. Michael Andrick äußert sich dazu:
+
+> Gewohnheitsmäßiges Moralisieren vieler Bürger, das womöglich noch von offiziellen Stellen zu den Großthemen der Aktualität angeheizt wird, ist fatal (**schicksalsstiftend**):<br>
+> Es führt Fundamentalisten über kurz oder lang in die Wahnvorstellung, dass "die Demokratie" nur auf dem Wege einer allgemeinen Berichtigung des Denkens, Fühlens und Sprechens der Bürger und durch ihre flankierende Ausbildung zu Gesinnungspolizisten "zu retten" sei.
+
+Analog dazu, habe ich in [Leben und leben lassen](../leben-und-leben-lassen) erklärt, dass ich
+
+> explizit einen **Kontrapunkt** zu jeder Art von Kulturessenzialismus setzen möchte, um im Sinne von "Wehret den Anfängen" jeder Art von "ehrenvolle Taten an schlechten Menschen verüben" eine Absage zu erteilen.
+
+Der Ausweg aus dieser "Moralitis" besteht darin, spaltendes Handeln zu erkennen und nicht mehr mitzumachen.
+Sobald Ihr Gegenüber eine implizite oder explizite Charakteranklage erhebt, benennen Sie diese Tatsache und fragen Sie nach, ob es die bewusste Absicht war, Sie implizit oder explizit auf Basis der moralischen Vorstellungen des Gegenübers als schlechten Menschen darzustellen.
+
+Sagen Sie "Stopp"!
+
+Machen Sie deutlich, dass seit der Trennung von Kirche und Staat vor über 200 Jahren Moral eine Privatsache ist und dass sich Ihr Gegenüber dementsprechend verhalten möge.
+Betonen Sie, dass Sie auf Basis der Sachlage und Sachebene bereit sind, weiter über Interessenslagen und gegebenenfalls über einen Interessensausgleich zu verhandeln, um einen demokratischen Kompromiss zu erzielen.
+Zugleich weisen Sie darauf hin, dass Sie sich diese Form der diskursiven Gewalt, die eines Demokraten unwürdig ist, nicht gefallen lassen.
+
+Auf gesellschaftlicher Ebene beruht die Kulturtechnik auf folgenden Elementen:
+
+1. Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
+1. Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
+
+Michael Andrick hält es für symptomatisch, dass der Begriff des [Gemeinwohl](https://de.wikipedia.org/wiki/Gemeinwohl) fast vollständig aus dem öffentlichen Diskurs verschwunden ist.
+Öffentliche Debatten sollten sich fast ausschließlich innerhalb eines Gemeinwohl-Frameworks bewegen, in dessen Zentrum die Suche nach einem fairen Interessensausgleich steht.
+
+#### Anspruch auf Teilnahme an öffentlichen Plattformen
+
+Die allgemeine Erklärung der Menschenrechte und das Grundgesetz garantieren die Gleichberechtigung aller Menschen, woraus sich ein Anspruch auf gleichberechtigte Teilnahme an öffentlichen Plattformen ableiten lässt.
+Öffentliche Debatten über Angelegenheiten, die das Gemeinwohl betreffen, müssen demokratisch und im freien Austausch unter Gleichberechtigten verhandelt werden,
+wobei alle pluralistischen Gruppen gleichberechtigter und fairer Zugang eingräumt werden muss.
+
+Anders ausgedrückt: Personen, denen nur eine beschränkte oder gar keine Teilnahme an öffentlichen Plattformen gewährt wird, sind in ihrer Gleichberechtigung eingeschränkt.
+Es verhält sich wie bei [Leibeigenen](https://de.wikipedia.org/wiki/Leibeigenschaft), die alle Pflichten tragen, aber nur einen Bruchteil der Rechte genießen.
+
+#### Moralisieren und Freiheit
+
+Michael Andrick:
+
+> Das Bild eines Moralgefängnisses gewinnt psychologisch Kontur; wir handeln unter den Bedingungen einer Moralitis-Seuche nicht in freier Selbstbestimmung, sondern nach pathologischen Mustern.
+> Mehr noch: Denken wir die Tendenzen fort, die in der gerade geschilderten Dynamik stecken, so zeigt sich, dass **Moralitis und Freiheit grundsätzlich nicht zusammen bestehen können**.
+
+Auch wenn, als Beispiel, beim Thema Gendern offiziell von Freiwilligkeit die Rede ist, ist vielen implizit oder explizit bewusst, dass daraus ein moralisierter Konformitätsdruck resultiert, und dass diejenigen, die sich weigern, mit negativen Konsequenzen rechnen müssen.
+In dieser Hinsicht ähnelt die Situation den Pionieren in der DDR und [ihrem blauen Halstuch](https://www.mdr.de/geschichte/ddr/alltag/erziehung-bildung/ernst-thaelmann-pioniere-halstuch-ddr-100.html):
+
+> Fast jedes Kind der DDR war ein Pionier, das gehörte zum Schulalltag dazu. Die Absicht dahinter war, die Kinder im Sinne des sozialistischen Staates zu erziehen.
+
+Abschließend einige Worte zu den legitimen Anwendungen einer moralischen Verurteilung, wobei man sich bewusst sein sollte, dass man in privaten Beziehungen mit der bildlich gesprochenen "Atombombe" hantiert.
+
+> Damit ist nicht gesagt, dass es keine berechtigten moralischen Verurteilungen geben kann; wir hatten schon zuvor daran erinnert, dass es natürlich tatsächlich moralische Fragen wie z. B. die nach der Legitimität der Todesstrafe gibt und nicht nur moralisierte.
+> Genau so gibt es auch legitime moralische Verurteilungen, denen ein artikulierbares Wertegerüst zugrunde liegt und die emotional auf echter sittlicher Empörung beruhen.
+
+> Das ändert aber nichts daran, dass eine moralische Verurteilung – ob legitim oder künstlich herbeimoralisiert – ihrem Wesen nach arrogant und aggressiv ist.
+> Die Drohung, die hinter dem Akt der Moralisierung wie auch hinter legitimen moralischen Beurteilungen immer steht, lässt sich ungefähr so ausbuchstabieren:<br>
+> "Nimm dich jetzt in Acht! Du brichst vielleicht kein Gesetz, aber du brichst mein Gesetz, verletzt meine Werte, gehst meinen tiefsten Überzeugungen von Richtig und Falsch zuwider. Füge dich, oder ich sortiere dich aus!"
+
+> Ich schreibe dies unempört; es gehört zum Handwerk der persönlichen Lebensführung, diejenigen aus seinen Kreisen zu befördern, die einem sittlich oder menschlich unerträglich sind.
+> Keiner soll sagen, dass er das nicht täte – auch tief spirituelle Menschen tun das, nur eben freundlich und ohne unnötige Verletzungen zu provozieren.
+
+> Es handelt sich um eine Voraussetzung der sittlichen Entfaltung der eigenen Persönlichkeit; man kann (und sollte) sich auch nicht mit jedem abgeben und so seine Kräfte wie seine Zeit vergeuden.
+> Nur sollten wir uns bewusst sein, was genau wir da tun, wenn wir privat moralisieren oder echte moralische Empörung ausdrücken, um "auszusortieren".
+> Ansonsten hantieren wir unbewusst oder halbbewusst mit der **schärfsten Waffe, die wir in unseren Sozialbeziehungen einsetzen können**.
+
+#### Kulturtechnik: Gstanzl
+
+Im Abschnitt über [verletzte Gefühle](../leben-und-leben-lassen/#verletzte-gefühle) aus [Leben und leben lassen](../leben-und-leben-lassen) habe ich den Brauch des bayerisch-österreichischen [Gstanzl](https://de.wikipedia.org/wiki/Gstanzl) bereits erwähnt:
+
+> Auch im bayerisch-österreichischen [Gstanzl](https://de.wikipedia.org/wiki/Gstanzl) sagt man seinem Gegenüber auf humorvolle Art eine Wahrheit, die oft nicht ganz so leicht zu verdauen ist und den Narzissten in uns herausfordert. Diese humorvolle Art erdet den Menschen und macht Kritik aussprechbar und annehmbar.
+>
+> Raphael M. Bonelli schreibt zum Thema *Humor*:
+>
+> <blockquote>Die psychologische Basis für den Humor als die Fähigkeit, über sich selbst lachen zu können, ist eine gesunde Selbstlosigkeit. So fällt es leichter, "sich selbst zu sehen, wie es der Wirklichkeit entspricht," was Josef Pieper "Demut" nennt.</blockquote>
+
+Und unbewusst sprach ich in meinem Anhang zum [Pluralismus](../aufklärung-plus/#pluralismus) über den [Red Bull Gstanzl Battle](https://www.redbull.com/at-de/cugb-red-bull-gstanzl-battle-anmeldung) als eine Methode kultureller Annäherung.
+
+Nachdem ich Michael Andricks Buch "Im Moralgefängnis: Spaltung verstehen und überwinden" gelesen habe, kann ich nun explizit erläutern, worum es beim bayerisch-österreichischen Gstanzl als Kulturtechnik geht:
+
+> Es ist eine Form des Moralisierens, jedoch nicht mit der grundlegenden Annahme der Dominanz. Stattdessen erwartet man vom Gegenüber eine kunstvoll gestaltete, humorvolle Antwort. Danach kann man sich noch in die Augen schauen und gemeinsam ein Bier trinken.
+
+Im Kern geht es um eine Charakteranklage, die jedoch humorvoll verpackt wird, damit die oft schwer verdauliche Wahrheit, die den Narzissten in uns herausfordert, leichter akzeptiert werden kann.
+Zudem geht man nicht von vornherein davon aus, mit seiner Charakteranklage im Recht zu sein, sondern **erwartet** eine Antwort **auf Augenhöhe**.
+Dieser "Battle" wird öffentlich vor Publikum ausgetragen. Die implizite Regel lautet – um es auf den Punkt zu bringen – derjenige, der zuerst Gewalt anwendet, hat verloren.
+An dieser Stelle erinnere ich an das Zitat von Michael Andrick von weiter oben:
+
+> Moralisierung ist ein Akt der diskursiven **Gewaltausübung**, der immer auch **körperliche Gewaltanwendung wahrscheinlicher macht**.
+
+Das Gstanzl ähnelt dem [Battle-Rap](https://de.wikipedia.org/wiki/Battle-Rap) aus den USA.
+
+Es gibt einen weiteren Aspekt, der nicht zwingend erforderlich, aber potenziell sehr effektiv ist: Wenn man für die Charakteranklage nicht das eigene Moralgerüst heranzieht, sondern das des Gegenübers, legt man dessen mögliche Heuchelei offen.
+Diese "fortgeschrittene Ebene" des Gstanzls erfordert ein feines Gespür für das moralische Gerüst des anderen – also die Fähigkeit, sich in den anderen einzufühlen.
+
+Ich bin der Meinung, dass diese **[gehegte](../aufklärung-plus/#pluralismus)** Form der kulturellen und ideologischen Auseinandersetzung ein Vorbild für den Umgang mit tatsächlichen moralischen Fragen auf gesellschaftlicher Ebene sein könnte.
+
+#### Widerstandselement im Schwingkreis
+
+In [Entlaufenes Laborexperiment oder kognitive Kriegsführung?](#entlaufenes-laborexperiment-oder-kognitive-kriegsführung?) sprach ich von einem Schwingkreis aus sich gegenseitig aufschaukelnden Ideologien.
+In einem Schwingkreis verhindert man die [Resonanzkatastrophe](https://de.wikipedia.org/wiki/Resonanzkatastrophe) indem man ein Widerstandselement in das System einfügt.
+
+Michael Andrick erläutert in seinem Buch, wie dieses Widerstandselement aussieht: Es wird die oben bereits beschriebene Kulturtechnik genutzt:
+
+1. Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
+1. Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
+
+
+#### Moralisierter Konformitätsdruck
+
+In [Wie wehren sich Ideologien gegen andere Ideologien?](../aufklärung-plus/#wie-wehren-sich-ideologien-gegen-andere-ideologien?) hatte ich gesagt:
+
+> Ich habe mich oft gefragt, warum ich das Gewand einer Nonne ([Habit](https://de.wikipedia.org/wiki/Habit)) als aggressiv und aufdringlich empfinde,
+> während die orange Robe eines buddhistischen Mönchs ([Kesa](https://de.wikipedia.org/wiki/Kesa)) auf mich eher einladend wirkt.  Den buddhistischen
+> Mönch sehe ich im Sinne einer kosmopolitischen [Hyperkultur](../leben-und-leben-lassen/#kulturessenzialismus-vs.-kosmopolitische-hyperkultur) als
+> einen Beitrag zur Vielfalt kultureller Ausdrucksformen; als Angebot auf dem Markt der Pluralität kultureller
+> Güter. [Yoga](https://de.wikipedia.org/wiki/Yoga) empfinde ich ähnlich einladend. Das Nonnengewand dagegen nehme ich als moralische Aufforderung zum
+> Kirchgang wahr.  Ähnlich empfinde ich die Verschleierung von muslimischen Frauen ([Hidschab](https://de.wikipedia.org/wiki/Hidsch%C4%81b)), das
+> Erscheinungsbild orthodoxer Juden, [Skinheads](https://de.wikipedia.org/wiki/Skinhead) aus der Neonazi-Szene oder den übertrieben bunten und
+> freizügigen Stil der [LGBT](https://de.wikipedia.org/wiki/LGBT)-Bewegung als aggressiv und aufdringlich. Alle diese äußeren Merkmale wirken auf mich
+> sowohl ausgrenzend als auch missionarisch vereinnahmend.
+
+In meinem aktuellen Begriffsverständnis habe ich ein Vokabular entwickelt, um die Sachverhalte zu präzisieren:
+Ich sehe den buddhistischen Mönch als einen Vertreter einer privaten Ideologie. Er sucht nicht ungefragt, implizit oder explizit, den Kontakt zu mir, um zu bekehren oder zu moralisieren.
+Eine katholische Nonne hingegen empfinde ich als Vertreterin einer politischen Ideologie. Durch ihren Glauben hat sie sogar einen expliziten Missionsauftrag.
+Oft übt sie auch implizit, durch den Ausdruck ihrer Moralvorstellungen, die sie als Vertreterin einer Religion, die sich ernst nimmt, für allgemeingültig halten muss, sozialen Konformitätsdruck aus.
+
+Das empfinde ich auch beim Anblick von verschleierten muslimischen Frauen, orthodoxen Juden, Skinheads und Angehörigen der LGBT-Szene.
+Es handelt sich um einen moralisierten Konformitätsdruck, der meine gefühlte Freiheit einschränkt.
+
 ## Fußnoten
 
 [^originofconcepts]: In diesem Kontext steht das Buch [The Origin of Concepts](https://www.amazon.de/Origin-Concepts-Oxford-Cognitive-Development/dp/0199838801) schon lange auf meiner Leseliste, welches ich allerdings noch nicht zu lesen begonnen habe.
