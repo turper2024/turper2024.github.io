@@ -1074,6 +1074,17 @@ Birgit Kelle prägt für dieses Phänomen den Begriff [Lückenpresse](https://yo
 > […] Politische und gesellschaftliche Entscheidungen werden nicht mehr in der Gesamtheit der Gesellschaft nach dem freien Willen jedes einzelnen ihrer Mitglieder erörtert,
 > sondern von den Interessen bestimmter Gruppen in der Gesellschaft gesteuert. Die Vielfalt und die Freiheit der Meinungsäußerungen in der Gesellschaft leiden darunter.
 
+Der EuGH hat in der Vergangenheit in seiner [Stellungnahme zum Europäischen Haftbefehl](https://www.lto.de/recht/justiz/j/eugh-europaeischer-haftbefehl-deutsche-staatsanwaelte-nicht-unabhaengig) bereits festgestellt,
+dass deutsche Staatsanwälte nicht unabhängig genug sind, um Europäische Haftbefehle eigenständig auszustellen, wie dies in anderen EU-Staaten üblich ist.
+
+Die Situation verschärfte sich weiter durch die Anklage der Staatsanwaltschaft Erfurt gegen den Weimarer Familienrichter [Christian Dettmar](https://www.bild.de/regional/thueringen/thueringen-aktuell/prozess-in-erfurt-corona-richter-aus-weimar-zu-2-jahren-knast-verurteilt-85142704.bild.html).
+[Oliver García](https://dejure.org/impressum), Geschäftsführer des großen juristischen Informationsportals dejure.org, kritisierte dies in seinem Artikel [Der Richter und sein Lenker – Von Rechtsbeugung und anderen schrägen Sachen](https://blog.delegibus.com/4746) im Juni 2021.
+Das [Netzwerk Kritische Richter und Staatsanwälte n.e.V. (KRiStA)](https://netzwerkkrista.de/impressum)[^kristamotto] veröffentlichte dazu im April 2023 eine [kritische Analyse](https://netzwerkkrista.de/2023/04/16/die-anklage-der-staatsanwaltschaft-erfurt/).
+Weitere Einzelheiten sind im Bericht [Der kafkaeske Prozess gegen C. J. Hopkins](https://multipolar-magazin.de/artikel/prozess-gegen-cj-hopkins) zu finden.
+
+Das Buch [Freiheit in Gefahr: Warum unsere Freiheitsrechte bedroht sind und wie wir sie schützen können](https://www.penguin.de/Buch/Freiheit-in-Gefahr/Hans-Juergen-Papier/Heyne/e586261.rhd) ist ein Plädoyer von [Hans-Jürgen Papier](https://de.wikipedia.org/wiki/Hans-J%C3%BCrgen_Papier),
+dem ehemaligen Präsidenten des Bundesverfassungsgerichts und Deutschlands höchstem Richter a.D., für den Schutz unserer Freiheitsrechte.
+
 #### Gegenbewegung: Initiative für Freiheit
 
 In dem Artikel [Konservative und Liberale – wo liegt der Unterschied?](https://www.nzz.ch/meinung/konservative-sind-keine-liberalen-ld.1770232) aus der [Neuen Zürcher Zeitung](https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung)
@@ -1184,3 +1195,4 @@ Daher plädiere ich dafür, dass die oben genannten Filtermechanismen im Sinne d
 [^typeitypeiierror]: False Positives und False Negatives werden in anderen Bereichen auch als [Type I und Type II Error](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors) bezeichnet.
 [^ferdinandkirchhof]: Siehe auch: [Bis zur Vernichtung sozialer Existenzen – Die Methoden der woken Cancel Culture](https://www.welt.de/debatte/kommentare/plus246514102/Cancel-Culture-Bis-zur-Vernichtung-sozialer-Existenzen.html)
 [^cancelculturetagebuch]: Siehe auch: [Cancel-Culture-Tagebuch](https://norberthaering.de/cancel-culture-dokumentation)
+[^kristamotto]: Das KRiStA Motto: "Die Menschen dieses Landes sind keine Untertanen." – [Hans-Jürgen Papier](https://de.wikipedia.org/wiki/Hans-J%C3%BCrgen_Papier), ehemaliger Präsident des Bundesverfassungsgerichts.

@@ -555,29 +555,82 @@ Sollte ich mit meiner Warnung vor dieser Woke-Bewegung und einem Totalitarismus 
 Es heißt: "There is no glory in prevention."
 Mein Ziel ist es, durch meine Kritik an der Woke-Bewegung mehr Menschen für die damit verbundenen Probleme zu sensibilisieren und einen Beitrag zum besseren Verständnis der aktuellen Ereignisse -- was um uns herum gerade passiert -- zu leisten.
 
-Ein erster Schritt in die richtige Richtung wäre, sich wieder intensiver mit den Menschen, die uns am Herzen liegen, auszutauschen und zu synchronisieren.
+Um selbst nicht zum Spielball des Tagesgeschehens zu werden, ist es entscheidend, dass wir uns als Fixstern an die Werte und Kulturtechniken der Aufklärung erinnern, die wir über Jahrhunderte hinweg in der westlichen Welt entwickelt haben.
+Michael Andrick liefert in seinem Werk [Spaltung verstehen und überwinden](#spaltung-verstehen-und-überwinden) eine treffende Antwort auf die Frage nach einer wirksamen Gegenstrategie:
+
+> Aber wir können die Mitarbeit aufkündigen und uns stattdessen wie aufgeklärte Bürger einer Demokratie verhalten. "Nur wer das Spiel aufgibt, gewinnt" (Chamfort).
+
+Im Anhang zu [Spaltung verstehen und überwinden](#spaltung-verstehen-und-überwinden) vertiefe ich die Diskussion um Kulturtechniken, doch lassen Sie mich hier eine Kurzfassung dazu einfügen:
+
+1. Spielregeln der Debatte:
+   1. **Moral ist eine Privatsache**: Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
+   1. **Sachebene und Interessensausgleich**: Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
+1. Recht zur Teilnahme an der Debatte:
+   1. **Offenheit**: Die Feststellung, dass wir in einer offenen und pluralistischen Gesellschaft leben, nicht in einer geschlossenen Gemeinschaft, und dass es die Pflicht jedes Demokraten ist, diese Offenheit zu bewahren.
+   1. **Gleichberechtigung**: Gestützt auf das Grundgesetz [Artikel 3](https://www.gesetze-im-internet.de/gg/art_3.html), das die Gleichberechtigung aller Menschen in dieser offenen Gesellschaft sichert, fordere ich eine gleichberechtigte und faire Teilnahme an öffentlichen Plattformen.
+
+
+Michael Andrick weist darauf hin:
+
+> Die Bürger werden zuallermeist nicht mit Polizeigewalt, sondern im Wege der Einschränkung ihres Informationszugangs und damit durch **Verstümmelung ihrer Meinungsbildung** von jedweder Opposition gegen die finanziell und medial dominante politische Agenda abgehalten.
+
+Ich teile diese Ansicht und betone daher, dass unser nächster Schritt darin bestehen sollte, unsere Mitbürgerinnen und Mitbürger dazu zu bewegen, sich mit Medien auseinanderzusetzen, die noch unabhängig sind.
+Persönlich habe ich mich entschieden, mein Informationsfeld durch ein linkes Medium, die [NachDenkSeiten](https://www.nachdenkseiten.de/), und ein konservatives Medium, [Tichys Einblick](https://www.tichyseinblick.de/), zu erweitern.
+Angesichts der vorherrschenden Haltung "alle gegen rechts" erscheint es mir strategisch sinnvoll, zunächst zu fördern, dass die Menschen ihre Informationsquellen diversifizieren, indem sie die NachDenkSeiten in ihr Informationsrepertoire aufnehmen.
+Ich habe hierzu eine Kommunikationsstrategie entwickelt, die ich hier als Beispiel vorstelle:
+
+> Es geht aktuell hoch her, u.A. zum Demokratiefördergesetz. Ich arbeite mich da gerade ein und bin auf interessante Informationen gestoßen. Zum Beispiel wird unser Steuergeld im Rahmen des Projekts "Demokratie lebt" für folgendes verwendet:
+>
+> * NachDenkSeiten: [Antwort der Bundesregierung zu "Gegneranalyse" und Diffamierung der NachDenkSeiten](https://www.nachdenkseiten.de/?p=89365)
+>
+> Es geht darum, dass der grünennahe ThinkTank "Zentrum Liberale Moderne" oder [LibMod](https://libmod.de), unter dem vermeintlich harmlosen Begriff "Gegenmedien" staatliche Unterstützung erhielt.
+> Ziel war es dann aber, mit dem aggressiveren Ansatz einer "Gegneranalyse" eine Kampagne gegen die NachDenkSeiten in verschiedenen Medien, einschließlich "Die Zeit" ([Wagenknechts Schreibbrigade](https://www.zeit.de/kultur/2023-12/nachdenkseiten-nachrichtenportal-blog-sahra-wagenknecht-propaganda/komplettansicht)[^markuslinden]), zu starten.
+> Auffällig ist, dass gerade diese Artikel nicht hinter der Paywall von "Die Zeit" verborgen sind.
+> Dass die NachDenkSeiten in der Folge ihre Gemeinnützigkeit verloren haben, lässt tief blicken.
+>
+> <blockquote>Dazu ist zu wissen: Heinrich Himmler gründete 1931 den Sicherheitsdienst (SD) als Nachrichtendienst der SS mit der expliziten Aufgabe „Gegnerbeobachtung und -bekämpfung“.</blockquote>
+>
+> Die [NachDenkSeiten](https://de.wikipedia.org/wiki/NachDenkSeiten), gegründet von einem ehemaligen SPD-Politiker ([Albrecht Müller](https://de.wikipedia.org/wiki/Albrecht_M%C3%BCller_(Publizist))) vor zwei Jahrzehnten,
+> sind ein linkes Medium, dem selbst das LibMod ein breites demokratisches Meinungsspektrum attestiert.
+> Ihre kritische Haltung zur Ukraine-Politik zog allerdings die Missbilligung von LibMod auf sich (siehe dazu auch [Feiger Focus. Mieser Focus.](https://www.nachdenkseiten.de/?p=110747)), was letztlich zur Aberkennung ihrer Gemeinnützigkeit führte.
+> Im Gegensatz dazu erhält LibMod mehrere Millionen Euro an Fördermitteln, um kritische Stimmen, wie die der NachDenkSeiten, zu diffamieren und ihnen zu schaden.
+>
+> [Friedrich Küppersbusch](https://de.wikipedia.org/wiki/Friedrich_K%C3%BCppersbusch_(Journalist)) hat kürzlich, am 22. Dezember 2023, eine von zwei Reportagen veröffentlicht, basierend auf Informationen eines Whistleblowers, der von Anfang an bei LibMod dabei war. Schaut es euch an, es lohnt sich.
+>
+> * [Staatsknete für die richtige Meinung: Teil 2 – Küppersbusch TV](https://www.youtube.com/watch?v=4AjKPoM7GiQ)
+> * [Staatsknete für die richtige Meinung – Küppersbusch TV](https://www.youtube.com/watch?v=iZ-iEEfBGt0)
+>
+> Kurz nach Veröffentlichung seiner ersten Reportage wurde sein Wikipedia-Profil prompt "überarbeitet".
+>
+> Ich bin auf ein Video von Renate Künast vom März 2020 gestoßen, in dem sie sich zum Demokratieförderungsgesetz äußert:
+>
+> * [Renate Künast (Die Grünen) zu Rechtsterrorismus und Hasskriminalität am 12.03.20](https://youtu.be/HRP9eDkTRVE?t=224)
+>
+> Sie führt aus:
+>
+> <blockquote>Wir brauchen ein Demokratieförderungsgesetz, und ich bin es ehrlich gesagt leid, wie wir seit Jahrzehnten kämpfen, darum, dass NGOs und <b>Antifa-Gruppen</b>, die sich engagieren, immer um ihr Geld gebracht und von Jahr zu Jahr nur Arbeitsverträge abschließen können. Meine Damen und Herren, das reicht nicht; sie müssen eine verlässliche Finanzierung haben.</blockquote>
+>
+> Wirklich? Sollen unsere Steuergelder etwa für linksradikale Gruppen verwendet werden, die auch vor Gewalt nicht zurückschrecken?
+>
+> <blockquote>In seiner Reportage enthüllt Friedrich Küppersbusch eine zumindest für mich neue Information: <a href="https://libmod.de/ueber-uns/ralf-fuecks">Ralf Fücks</a>, einer der Köpfe hinter LibMod, war zusammen mit Winfried Kretschmann und Reinhard Bütikofer Mitglied im <a href="https://de.wikipedia.org/wiki/Kommunistischer_Bund_Westdeutschland">Kommunistischer Bund Westdeutschland</a>, einer Gruppierung, die <b>ideologisch dem Maoismus nahe stand</b> und mit Regimen wie der Volksrepublik China, Albanien oder Kambodscha unter Pol Pot sympathisierte.</blockquote>
+>
+> Das oben Erwähnte vermittelt einen Eindruck davon, was das Demokratieförderungsgesetz bewirken soll.
+>
+> Insgesamt möchte ich dir empfehlen, deine Mediennutzung um kritische Quellen wie die [NachDenkSeiten](https://www.nachdenkseiten.de/) zu erweitern.
+
+Die dargelegten Punkte bieten eine solide Grundlage, um Freunde und Familie zu motivieren, ihre Mediendiät um ein kritisches Medium wie die [NachDenkSeiten](https://www.nachdenkseiten.de/) zu erweitern.
+Durch die Nutzung der NachDenkSeiten können sie Einblicke in globale Geschehnisse gewinnen, die durch den [Zensur-industriellen Komplex](https://twitterfiles.substack.com/p/the-censorship-industrial-complex) und die [Lückenpresse](../leben-und-leben-lassen/#slippery-slope%3A-lückenpresse) oft unberichtet bleiben.
+
+Ein nächster Schritt in die richtige Richtung wäre, sich wieder intensiver mit den Menschen, die uns am Herzen liegen, auszutauschen und zu synchronisieren.
 Kurz gesagt: Miteinander reden und sich der Spaltung verweigern. Ziel sollte es sein, Menschen behutsam zurück in einen liberalen und aufgeklärten [Aggregatzustand](#änderung-des-gesellschaftlichen-aggregatzustands) zu führen.
 
 Ein guter Ausgangspunkt für ein Gespräch könnte die Frage sein: Sollte man Menschen mit anderer Meinung mundtot machen oder aus dem Diskurs ausschließen?
 Die Antwort darauf offenbart, wie weitreichend die Auswirkungen dieser Ideologie bereits fortgeschritten sind.
 
-Sollte die Antwort "Ja" lauten, würde ich nachfragen, in welchen Situationen, auf welcher Grundlage und mit welchem Recht dies geschieht und wie es sich mit den Prinzipien der Meinungsfreiheit gemäß dem Grundgesetz vereinbaren lässt.
-Von diesem Punkt aus kann man sich an den Argumenten der Aufklärung entlanghangeln, in der Hoffnung, schließlich wieder eine Lichtung im Wald zu finden.
-
-Sollte die Antwort "Nein" sein, bietet sich die Chance, den Prozess des [Rewriting History](#rewriting-history) rückgängig zu machen und die historischen Argumente, die zu unseren freiheitlich-liberalen Staatsphilosophien führten, gemeinsam nachzuvollziehen.
-Dies sehe ich als eine Bildungsaufgabe. Zuvor hatte ich angemerkt, dass wir das Feld der Bildung jenen überlassen haben, die in der Wirtschaft keinen Fuß fassen konnten, und dass uns diese Nachlässigkeit nun auf die Füße fällt.
-Es liegt nun an uns, diesen Fehler wiedergutzumachen. Hierbei kommt uns entgegen, dass die [Alterspyramide](https://de.wikipedia.org/wiki/Altersstruktur) auf dem Kopf steht. Wir sind zum Glück noch mehr!
-
-Wenn meine Vermutungen zu [Loki im Gaiakostüm](#loki-im-gaiakostüm) zutreffen sollten, dann stellt die Woke-Bewegung ein Phänomen dar, das wir in Europa seit Jahrhunderten nicht mehr gesehen haben: Einen dezentralen Gott, vergleichbar mit den Gottheiten der nordischen Mythologie, inklusive eines zugehörigen Kults.
-Dieser Loki arbeitet mit Mitteln, die wir in der jüngeren Vergangenheit so nicht gesehen haben und für die folglich unsere Gesellschaft keine Abwehrmechanismen entwickelt hat.
-Es war nicht die Aufklärung, die gegen die nordischen Götter siegte, sondern das Christentum. Daraus ergibt sich die Idee, ein [Glaubensbekenntnis](../aufklärung-plus/#glaubensbekenntnis-zu-den-methoden-der-aufkl%C3%A4rung-als-eine-art-von-impressum) zu den Prinzipien der Aufklärung zu formulieren,
-das jede öffentlich aktive Person auf ihrer Homepage oder Ähnlichem veröffentlichen könnte. Diese Idee mag weit hergeholt erscheinen, ist jedoch kostengünstig und einen Versuch wert.
+Von da an kann man sich als Ansprechpartner für weitere Diskussionen anbieten, sofern Interesse besteht.
 
 Eine weitere Maßnahme könnte die Einrichtung eines deutschen Äquivalents zum französischen [Observatory of Decolonialism and Identity Ideologies](https://decolonialisme.fr/on-academic-activism/) sein.
 Dieses würde die Entwicklungen rund um die Woke-Bewegung beobachten und als institutionelles Gegengewicht fungieren, um Einzelpersonen in Wissenschaft, Politik und Privatleben vor den Auswüchsen der Woke-Bewegung zu schützen.
-
-Grundsätzlich lässt sich das Thema nur langfristig angehen, beginnend in Kindergärten und Schulen. Ziel ist es, unsere gesellschaftliche Handlungsfähigkeit wiederherzustellen, indem Kindern und jungen Erwachsenen erneut die Prinzipien der Aufklärung vermittelt werden.
-Dies stellt sicherlich eine enorme Herausforderung dar, aber es ist eine Aufgabe, die es wert ist, angegangen zu werden, denke ich.
 
 ## Anhang
 
@@ -769,8 +822,11 @@ Sobald ein solcher [Schwingkreis](https://de.wikipedia.org/wiki/Schwingkreis) ei
 
 Wer könnte davon profitieren, die USA und den Westen in die Handlungsunfähigkeit oder die Selbstzerstörung zu führen? Diese Antwort überlasse ich Ihnen.
 
-Eine geeignete Gegenmaßnahme könnte darin bestehen, die sich aufschaukelnde positive Rückkopplungsschleife zu unterbrechen, indem man versucht, so
-viele Menschen wie möglich sowohl aus der Woke-Bewegung als auch aus der Alt-Right-Bewegung wieder in die [Rationalität der Aufklärung](../aufklärung-plus) einzubinden.
+Eine geeignete Gegenmaßnahme könnte darin bestehen, die sich aufschaukelnde positive Rückkopplungsschleife zu unterbrechen.
+Michael Andrick gibt meiner Meinung nach in [Spaltung verstehen und überwinden](#widerstandselement-im-schwingkreis) die korrekte Antwort auf die Frage nach einer Gegenstrategie:
+
+> Aber wir können die Mitarbeit aufkündigen und uns stattdessen wie aufgeklärte Bürger einer Demokratie verhalten. "Nur wer das Spiel aufgibt, gewinnt" (Chamfort).
+
 
 ### Spaltung verstehen und überwinden
 
@@ -880,8 +936,8 @@ Zugleich weisen Sie darauf hin, dass Sie sich diese Form der diskursiven Gewalt,
 
 Auf gesellschaftlicher Ebene beruht die Kulturtechnik auf folgenden Elementen:
 
-1. Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
-1. Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
+1. **Moral ist eine Privatsache**: Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
+1. **Sachebene und Interessensausgleich**: Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
 
 Michael Andrick hält es für symptomatisch, dass der Begriff des [Gemeinwohl](https://de.wikipedia.org/wiki/Gemeinwohl) fast vollständig aus dem öffentlichen Diskurs verschwunden ist.
 Öffentliche Debatten sollten sich fast ausschließlich innerhalb eines Gemeinwohl-Frameworks bewegen, in dessen Zentrum die Suche nach einem fairen Interessensausgleich steht.
@@ -897,10 +953,12 @@ Es verhält sich wie bei [Leibeigenen](https://de.wikipedia.org/wiki/Leibeigensc
 
 Wir erweitern also die Kulturtechnik auf folgenden Elementen:
 
-1. Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
-1. Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
-1. Die Feststellung, dass wir in einer offenen und pluralistischen Gesellschaft leben, nicht in einer geschlossenen Gemeinschaft, und dass es die Pflicht jedes Demokraten ist, diese Offenheit zu bewahren.
-1. Gestützt auf das Grundgesetz [Artikel 3](https://www.gesetze-im-internet.de/gg/art_3.html), das die Gleichberechtigung aller Menschen in dieser offenen Gesellschaft sichert, fordere ich eine gleichberechtigte und faire Teilnahme an öffentlichen Plattformen.
+1. Spielregeln der Debatte:
+   1. **Moral ist eine Privatsache**: Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
+   1. **Sachebene und Interessensausgleich**: Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
+1. Recht zur Teilnahme an der Debatte:
+   1. **Offenheit**: Die Feststellung, dass wir in einer offenen und pluralistischen Gesellschaft leben, nicht in einer geschlossenen Gemeinschaft, und dass es die Pflicht jedes Demokraten ist, diese Offenheit zu bewahren.
+   1. **Gleichberechtigung**: Gestützt auf das Grundgesetz [Artikel 3](https://www.gesetze-im-internet.de/gg/art_3.html), das die Gleichberechtigung aller Menschen in dieser offenen Gesellschaft sichert, fordere ich eine gleichberechtigte und faire Teilnahme an öffentlichen Plattformen.
 
 #### Moralisieren und Freiheit
 
@@ -967,10 +1025,12 @@ In einem Schwingkreis verhindert man die [Resonanzkatastrophe](https://de.wikipe
 
 Michael Andrick erläutert in seinem Buch, wie dieses Widerstandselement aussieht: Es wird die oben bereits beschriebene Kulturtechnik genutzt:
 
-1. Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
-1. Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
-1. Die Feststellung, dass wir in einer offenen und pluralistischen Gesellschaft leben, nicht in einer geschlossenen Gemeinschaft, und dass es die Pflicht jedes Demokraten ist, diese Offenheit zu bewahren.
-1. Gestützt auf das Grundgesetz [Artikel 3](https://www.gesetze-im-internet.de/gg/art_3.html), das die Gleichberechtigung aller Menschen in dieser offenen Gesellschaft sichert, fordere ich eine gleichberechtigte und faire Teilnahme an öffentlichen Plattformen.
+1. Spielregeln der Debatte:
+   1. **Moral ist eine Privatsache**: Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
+   1. **Sachebene und Interessensausgleich**: Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
+1. Recht zur Teilnahme an der Debatte:
+   1. **Offenheit**: Die Feststellung, dass wir in einer offenen und pluralistischen Gesellschaft leben, nicht in einer geschlossenen Gemeinschaft, und dass es die Pflicht jedes Demokraten ist, diese Offenheit zu bewahren.
+   1. **Gleichberechtigung**: Gestützt auf das Grundgesetz [Artikel 3](https://www.gesetze-im-internet.de/gg/art_3.html), das die Gleichberechtigung aller Menschen in dieser offenen Gesellschaft sichert, fordere ich eine gleichberechtigte und faire Teilnahme an öffentlichen Plattformen.
 
 #### Moralisierter Konformitätsdruck
 
@@ -1051,6 +1111,65 @@ der die [Grünen auf Plakaten verspottete](https://www.focus.de/politik/6000-eur
 > […] Politische und gesellschaftliche Entscheidungen werden nicht mehr in der Gesamtheit der Gesellschaft nach dem freien Willen jedes einzelnen ihrer Mitglieder erörtert,
 > sondern von den Interessen bestimmter Gruppen in der Gesellschaft gesteuert. Die Vielfalt und die Freiheit der Meinungsäußerungen in der Gesellschaft leiden darunter.
 
+#### Selbstherrliche Ideenlosigkeit
+
+Michael Andrick weist in einer Randbemerkung auf eine weitverbreitete Problematik hin: die selbstherrliche Ideenlosigkeit in der Politik:
+
+> Der geschilderten selbstherrlichen Ideenlosigkeit entspricht das Syndrom, ...
+
+Diese Betrachtung hat mich daran erinnert, warum die Politik für viele Menschen uninteressant erscheint.
+Die allgegenwärtige Ideenlosigkeit wirkt nicht nur langweilig, sondern stößt auch ab.
+Mit meinem Beitrag zur [Energiewende](../energiewende) konnte ich hoffentlich aufzeigen,
+dass innovative und bislang unberücksichtigte Lösungsansätze für die Herausforderungen des Klimawandels existieren und realisierbar sind.
+
+### Woke-Agenda
+
+An sich halte ich es am liebsten mit [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor):
+
+> Unterstelle niemals Böswilligkeit bei Ereignissen oder Handlungen, wenn diese durch Dummheit oder Unwissenheit hinreichend erklärbar sind.
+
+Für diesen Abschnitt jedoch folgen wir [Rieck's Rasiermesser](https://youtu.be/E0C3q4t0CUs?t=274):
+
+> Gehe von Absicht aus, auch wenn Dummheit die bequemere Erklärung ist.
+
+[James A. Lindsay](https://en.wikipedia.org/wiki/James_A._Lindsay) erörtert in [What We're Dealing with Here Is a Cult](https://www.youtube.com/watch?v=Ol0HmwGH4VM) die Möglichkeit, dass hinter der Woke-Bewegung eine marxistische Agenda steckt.
+Dabei betont er, dass das offensichtlich diskutierte Thema oft nur ein Vehikel für tiefergehende revolutionäre Ziele ist:
+
+> The issue is not the issue, the issue is the revolution.
+
+Als Indiz führt er an, dass Themen und Gruppen, die einst im Fokus standen, nun an den Rand gedrängt werden.
+Er spricht vor Frauenrechtlerinnen der Organisation [Genspect](https://en.wikipedia.org/wiki/Genspect), die von der trans-inklusiven Frauenrechtsbewegung als [TERFs](https://en.wikipedia.org/wiki/TERF_(acronym)) (trans-exklusive radikale Feministinnen) diffamiert und marginalisiert werden.
+
+Aus Sicht des Rieck's Rasiermesser bleibt die Frage offen, ob eine bestimmte Agenda der Woke-Bewegung dient oder ob diese Bewegung vielmehr instrumentalisiert wird, um bestimmte Ziele zu erreichen.
+
+Im früheren Abschnitt, betitelt mit [Entlaufenes Laborexperiment oder kognitive Kriegsführung?](#entlaufenes-laborexperiment-oder-kognitive-kriegsführung%3F), hatte ich erwähnt, dass es sich sowohl um "Friendly Fire"[^kognitivekriegsfuhrung] als auch um "Enemy Fire" handeln könnte.
+Mittlerweile tendiere ich dazu, "Enemy Fire" auszuschließen, da wir im Westen über die Technologie verfügen, solche Angriffe in der kognitiven Kriegsführung zu identifizieren und zu neutralisieren.
+
+Ein denkbares Ziel könnte sein, jene Gruppe von Menschen in eine dominante gesellschaftliche Position zu bringen, die sich am einfachsten lenken lässt. Dies berührt das bereits weiter oben erwähnte Konzept des ich-schwachen Individuums.
+
+Dieser Erklärungsansatz vermag jedoch nicht zu begründen, warum ein Konflikt zwischen Befürwortern und Gegnern der Woke-Bewegung geschürt wird, der in Richtung einer Resonanzkatastrophe steuert.
+Eine denkbare Erklärung könnte sein, dass, falls die Annahme besteht, die Menschheit sei nicht Teil der Lösung, sondern Teil des Problems, Versuche unternommen werden, die Menschen erneut in Richtung einer Katastrophe zu lenken.
+Dies wird auch im Kontext des Vortrags von General a. D. Harald Kujat in Berlin über den [Ukraine-Krieg und geopolitische Veränderungen](https://www.youtube.com/watch?v=L6dbonhYkDE) deutlich.
+Kujat hebt hervor, wie wenig Augenmerk auf diplomatische Verhandlungen gelegt wird, um den Konflikt in der Ukraine zu beenden, und erwähnt Pläne, die finanzielle Unterstützung der Ukraine für mindestens die nächsten zehn Jahre zu verstetigen.
+
+Ebenfalls in dieses Bild fügt sich ein, dass in Großbritannien Diskussionen über die [Wiedereinführung der Wehrpflicht](https://news.sky.com/story/is-conscription-coming-back-how-its-been-used-in-previous-wars-and-what-a-uk-citizen-army-would-involve-in-future-13056698) geführt werden.
+Auch Belgiens Verteidigungsministerin Dedonder appelliert an die Bürgerinnen und Bürger, sich als [Reservisten bei der Armee](https://www.vrt.be/vrtnws/de/2024/02/08/belgiens-verteidigungsministerin-dedonder-ruft-dazu-auf-sich-be/) zu melden.
+
+Michael Andrick gibt meiner Meinung nach in [Spaltung verstehen und überwinden](#widerstandselement-im-schwingkreis) die korrekte Antwort auf die Frage nach einer Gegenstrategie:
+
+> Aber wir können die Mitarbeit aufkündigen und uns stattdessen wie aufgeklärte Bürger einer Demokratie verhalten. "Nur wer das Spiel aufgibt, gewinnt" (Chamfort).
+
+#### Absolventen
+
+Es stellt sich die Frage, welche Bedeutung Absolventen der Gender Studies in unserer Gesellschaft künftig einnehmen sollen.
+Vermutlich sehen sie ihre eigene Rolle in ihrer eigenen Selbstwahrnehmung nicht darin, am Motor des materiellen Fortschritts mitzuwirken, was bedeutet,
+dass andere Teile der Gesellschaft diese Gruppe an Absolventen mittragen müssen.
+
+Sollte das Ziel sein, eine Gruppe in eine einflussreiche gesellschaftliche Position zu bringen, die sich leicht lenken lässt, könnten sie herangezogen werden, um die Aufgaben einer Gesinnungspolizei zu übernehmen.
+Zudem könnten so ausgebildete Absolventen aufgrund ihrer spezialisierten Ausbildung in völliger Abhängigkeit vom Staat stehen, weil sie durch ihre im Studium erworbenen Fähigkeiten nicht auf eigenen Füßen stehen können und somit noch einfacher zu lenken sind.
+
+Sollte es darum gehen, Menschen als Teil des Problems zu betrachten und sie in Richtung einer möglichen Katastrophe zu lenken, dann besteht ihre einzige Funktion darin, [Unruhe und Chaos zu stiften](#loki-im-gaiakostüm).
+
 ## Fußnoten
 
 [^originofconcepts]: In diesem Kontext steht das Buch [The Origin of Concepts](https://www.amazon.de/Origin-Concepts-Oxford-Cognitive-Development/dp/0199838801) schon lange auf meiner Leseliste, welches ich allerdings noch nicht zu lesen begonnen habe.
@@ -1065,3 +1184,8 @@ der die [Grünen auf Plakaten verspottete](https://www.focus.de/politik/6000-eur
 [^schariapolizeischule]: [Nach Wirbel um „Scharia-Polizei“ kommen weitere Vorfälle an Kölner Schulen ans Licht](https://www.focus.de/politik/deutschland/wirbel-um-scharia-polizei-auch-an-koelner-schulen-kommen-vorfaelle-ans-licht_id_259644562.html)
 [^nazi]: [Theodor Shitstorm - Gegen Nazis](https://www.youtube.com/watch?v=a6OEv0SlUDU)
 [^ferdinandkirchhof]: Siehe auch: [Bis zur Vernichtung sozialer Existenzen – Die Methoden der woken Cancel Culture](https://www.welt.de/debatte/kommentare/plus246514102/Cancel-Culture-Bis-zur-Vernichtung-sozialer-Existenzen.html)
+[^markuslinden]: [Markus Linden](https://de.wikipedia.org/wiki/Markus_Linden) spielte eine Rolle in der Rufmordkampagne gegen Ulrike Guérot, die in [Der Fall Ulrike Guérot: Versuche einer öffentlichen Hinrichtung](https://www.amazon.de/Fall-Ulrike-Gu%C3%A9rot-%C3%B6ffentlichen-Hinrichtung/dp/3864894506) umfassend dargelegt wird.
+Ein weiterer Beitrag, [Markus Linden und Die Zeit würdigen das „postfaktische Propagandamedium“ Nachdenkseiten zum 20. Jubliäum](https://norberthaering.de/propaganda-zensur/markus-linden-die-zeit/), beleuchtet seine Beteiligung an der Diffamierung der NachDenkSeiten.
+Ein [Meisterstück im Quellenvergiften](https://www.achgut.com/artikel/googles_neue_gedankenpolizei) lieferte gerade der [Deutschlandfunk](https://www.deutschlandfunk.de/entwicklung-von-onlineportal-nius-100.html), wo man an den neuen Medien geradezu einen Narren gefressen hat.
+Besonders das Portal [NIUS](https://www.nius.de) von Julian Reichelt verfolgt man mit großem Eifer. In einem Interview mit Markus Linden von der Uni Trier wird die Nachricht diskutiert, dass die Medienaufsicht Berlin-Brandenburg Beschwerden nachgeht.
+
