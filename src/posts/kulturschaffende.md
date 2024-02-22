@@ -572,10 +572,10 @@ Im Anhang zu [Spaltung verstehen und überwinden](#spaltung-verstehen-und-überw
 
 Michael Andrick weist darauf hin:
 
-> Die Bürger werden zuallermeist nicht mit Polizeigewalt, sondern im Wege der Einschränkung ihres Informationszugangs und damit durch **Verstümmelung ihrer Meinungsbildung** von jedweder Opposition gegen die finanziell und medial dominante politische Agenda abgehalten.
+> Die Bürger werden zuallermeist nicht mit Polizeigewalt, sondern im Wege der Einschränkung ihres Informationszugangs und damit durch **Verstümmelung ihrer Meinungsbildung**[^karleduardvonschnitzlerpreis] von jedweder Opposition gegen die finanziell und medial dominante politische Agenda abgehalten.
 
 Ich teile diese Ansicht und betone daher, dass unser nächster Schritt darin bestehen sollte, unsere Mitbürgerinnen und Mitbürger dazu zu bewegen, sich mit Medien auseinanderzusetzen, die noch unabhängig sind.
-Persönlich habe ich mich entschieden, mein Informationsfeld durch ein linkes Medium, die [NachDenkSeiten](https://www.nachdenkseiten.de/), und ein konservatives Medium, [Tichys Einblick](https://www.tichyseinblick.de/), zu erweitern.
+Persönlich habe ich mich entschieden, mein Informationsfeld durch ein linkes Medium, die [NachDenkSeiten](https://www.nachdenkseiten.de/), und ein konservatives Medium, [Tichys Einblick](https://www.tichyseinblick.de/)[^tichyseinblick], zu erweitern.
 Angesichts der vorherrschenden Haltung "alle gegen rechts" erscheint es mir strategisch sinnvoll, zunächst zu fördern, dass die Menschen ihre Informationsquellen diversifizieren, indem sie die NachDenkSeiten in ihr Informationsrepertoire aufnehmen.
 Ich habe hierzu eine Kommunikationsstrategie entwickelt, die ich hier als Beispiel vorstelle:
 
@@ -620,6 +620,7 @@ Ich habe hierzu eine Kommunikationsstrategie entwickelt, die ich hier als Beispi
 
 Die dargelegten Punkte bieten eine solide Grundlage, um Freunde und Familie zu motivieren, ihre Mediendiät um ein kritisches Medium wie die [NachDenkSeiten](https://www.nachdenkseiten.de/) zu erweitern.
 Durch die Nutzung der NachDenkSeiten können sie Einblicke in globale Geschehnisse gewinnen, die durch den [Zensur-industriellen Komplex](https://twitterfiles.substack.com/p/the-censorship-industrial-complex) und die [Lückenpresse](../leben-und-leben-lassen/#slippery-slope%3A-lückenpresse) oft unberichtet bleiben.
+Im Anhang [Man muss mittlerweile sehr genau hinschauen](#man-muss-mittlerweile-sehr-genau-hinschauen) gehe ich auf weitere Aspekte der Verstümmelung unserer Meinungsbildung ein.
 
 Ein nächster Schritt in die richtige Richtung wäre, sich wieder intensiver mit den Menschen, die uns am Herzen liegen, auszutauschen und zu synchronisieren.
 Kurz gesagt: Miteinander reden und sich der Spaltung verweigern. Ziel sollte es sein, Menschen behutsam zurück in einen liberalen und aufgeklärten [Aggregatzustand](#änderung-des-gesellschaftlichen-aggregatzustands) zu führen.
@@ -1170,6 +1171,86 @@ Zudem könnten so ausgebildete Absolventen aufgrund ihrer spezialisierten Ausbil
 
 Sollte es darum gehen, Menschen als Teil des Problems zu betrachten und sie in Richtung einer möglichen Katastrophe zu lenken, dann besteht ihre einzige Funktion darin, [Unruhe und Chaos zu stiften](#loki-im-gaiakostüm).
 
+### Man muss mittlerweile sehr genau hinschauen
+
+[Dr. Jonas Tögel](https://www.jonastoegel.de) behandelt in seinem Buch [Kognitive Kriegsführung](https://www.amazon.de/Kognitive-Kriegsf%C3%BChrung-Neueste-Manipulationstechniken-Waffengattung/dp/3864894220) die Ablenkung der Bevölkerung durch Methoden wie die Überwältigung der Aufmerksamkeitsspanne und die Aufmerksamkeitsverschmutzung:
+
+> In der Kognitiven Kriegsführung, verweist man ebenfalls auf die Möglichkeit, die Wahrnehmung der Menschen zu beeinflussen:
+> "Es werden neue Theorien entwickelt, die sich u. a. mit […] der Ausnutzung kognitiver Verzerrungen und […] der Manipulation von Wahrnehmungen, der Frage, wie unsere Aufmerksamkeitsspanne überwältigt oder gelenkt werden kann […] befassen."
+
+> Wenn Menschen mit einer zu großen Anzahl an Reizen und Sinneseindrücken überflutet werden, dann werden sie von dieser Welle an Informationen überwältigt und es fällt ihnen schwer, klar und zusammenhängend zu denken.
+> Das Ergebnis kann sein, dass die Bevölkerung apathisch und desinteressiert wird.
+> Bernard Claverie erklärt das so: "Der Bereich der Ablenkung ist einer der Hauptaspekte der Kognitiven Kriegsführung" und besteht unter anderem aus "Aufmerksamkeitsverschmutzung durch Ablenkung der Aufmerksamkeit […]".
+
+Bei den deutschen Medien muss man mittlerweile sehr genau hinschauen und hinhören; es reicht nicht mehr, nur oberflächlich dabei zu sein. Als Beleg möchte ich zwei Beispiele für irreführende Kommunikation anführen.
+
+#### Joschka Fischer und die Debatte um Agrar-Diesel
+
+Joschka Fischer [äußerte sich kritisch](https://www.evangelische-zeitung.de/joschka-fischer-blickt-mit-erstaunen-auf-bauerndemos) über die Bauernproteste bezüglich Agrar-Diesel:
+
+> Als alter Demonstrant darf ich Ihnen sagen: Das hätte ich mir mal gewünscht, **staatlich subventioniert** zur Demo zu fahren. Diese riesigen Traktoren! Diese Leute meinen, sie hätten einen Anspruch darauf, dass ihr Diesel **von uns bezahlt** wird! Darauf muss man erst mal kommen.
+
+Hierbei handelt es sich um eine Umdeutung des wohl-definierten Begriffs der "Subvention".
+Subventionen werden [juristisch](https://www.tichyseinblick.de/gastbeitrag/dieselprivileg-subventionsschummeleien/) als staatliche Zuwendungen definiert, die ohne direkte Gegenleistung an Haushalte oder Unternehmen geleistet werden.
+Demnach ist der niedrigere Steuersatz für Agrar-Diesel gerade **keine Subvention**, sondern eine steuerliche Andersregelung.
+Da es keinen erkennbaren Grund gibt, die Maximalsteuer von Benzin als Referenzfall zu wählen, sind weder die geringere Besteuerung von Diesel noch die Steuerbefreiung von Kerosin eine Subvention.
+
+> In diesem Kontext ist auch Robert Habecks Interpretation von Steuern bemerkenswert, der unerhobene Steuern als Subventionen ansieht: [Steuern, die nicht erhoben werden, sind eine Subvention!](https://www.nius.de/Wirtschaft/wirtschafts-verstaendnis-auf-habeck-art-steuern-die-nicht-erhoben-werden-sind-eine-subvention/cf0ee9c4-4733-4ffd-b5e3-6c9110aa1923).
+> Nach dieser Logik würde jemand, der den Spitzensteuersatz von 42 % zahlt, mit den nicht erhobenen 58 % "subventioniert".
+> Eine solche Sichtweise verlangt geradezu ironisch nach Dankbarkeit gegenüber dem Staat für diese "Subvention" von 58 %.
+
+Ich finde dieses Beispiel besonders beunruhigend.
+Wenn ich öffentlichen Persönlichkeiten wie Joschka Fischer zuhöre, höre ich bei einer bestimmten "Bedeutungstiefe" auf zu hinterfragen, ob die verwendeten Begriffe korrekt sind.
+Wenn Joschka Fischer von einer Subvention spricht, entsteht in meinem Kopf das Bild einer Subvention, und ich beginne, meine Position dazu zu überdenken.
+Ich hinterfrage jedoch nicht weiter, ob es sich wirklich um eine Subvention handelt.
+Von öffentlichen und gebildeten Persönlichkeiten erwarte ich, dass sie nach bestem Wissen und Gewissen keine irreführende Sprache verwenden.
+Wenn mein Vertrauen als Bürger in solche öffentliche Personen auf diesem Niveau beschädigt wird, bin ich verunsichert, wem ich überhaupt noch glauben kann.
+Und ich vermute stark, dass ich nicht der Einzige mit diesen Bedenken bin.
+
+#### Correctiv legt vor Gericht Erklärungen vor, die auf Hörensagen beruhen
+
+Der [Artikel](https://www.tichyseinblick.de/daili-es-sentials/correctiv-erklaerungen-hoerensagen) thematisiert, dass sieben Teilnehmer des als "Wannsee 2.0" bekannt gewordenen Treffens die Hauptbehauptungen der Correctiv-Reportage ausdrücklich in **eidesstattlichen Versicherungen** bestreiten.
+Sie widersprechen der Darstellung, dass der Buchautor Martin Sellner zu einer Massenausweisung von Migranten mit deutscher Staatsbürgerschaft aufgerufen habe.
+
+Correctiv reagiert mit acht eigenen eidesstattlichen Erklärungen.
+Interessant ist jedoch, dass darin der **Wahrheitsgehalt der Kerngeschichte nicht bestätigt** wird.
+Stattdessen wird lediglich versichert, dass diese acht Personen genau wiedergegeben haben, was ihre Quellen über das Treffen berichtet hatten.
+Die Correctiv-Mitarbeiter bestätigen damit also noch nicht einmal, das Treffen richtig geschildert zu haben – sondern versichern nur, sie hätten korrekt aufgeschrieben, was ihnen eine oder mehrere anonyme Personen darüber erzählt hätten.
+
+Selbst wenn noch eine Tonaufnahme des Treffens auftauchen sollte, die etwas anderes belegt, könnten die Correctiv-Vertreter nicht wegen uneidlicher Falschaussage haftbar gemacht werden.
+Diese Gefahr bestünde nur, wenn sich ihre ominöse Quelle offenbaren und ihnen öffentlich widersprechen würde.
+Unter diesen Umständen wirkt die Erklärung von Schraven absurd und gleichzeitig manipulativ:
+
+> Wir stehen entschlossen hinter unseren Enthüllungen. Mit den eidesstattlichen Versicherungen machen wir klar: **Wir garantieren die Richtigkeit unserer Recherche mit unserer persönlichen Freiheit** und dem Medienhaus CORRECTIV als Sicherheit.
+
+#### Correctiv als Newsfeed
+
+Mittlerweile kann man die Faktenchecks von Correctiv als Newsfeed betrachten, da bereits die Schlagzeilen andeuten, dass der "Fakt" möglicherweise falsch sei, die weiterführende Lektüre jedoch häufig die Richtigkeit bestätigt.
+Dies macht die Faktenchecks zu einer wertvollen Quelle für besonders kritische Informationen, die es wert sind, gelesen zu werden!
+
+Ein Beispiel: [Collage mit Zitaten von „Grünen-Politikern“ fehlt Kontext](https://correctiv.org/faktencheck/2022/05/25/collage-mit-zitaten-von-gruenen-politikern-fehlt-kontext/).
+Wenn man weiter liest lautet das Urteil jedoch "größtenteils richtig".
+Und liest man noch weiter, erkennt man, dass kein zusätzlicher Kontext erforderlich war und die Aussagen ganz einfach korrekt sind.
+
+
+#### Karl-Eduard von Schnitzler Preis
+
+Beim [Karl-Eduard von Schnitzler Preis](https://schnitzler-preis.de/#Preis) handelt es sich um einen negativ Preis für Desinformation, Meinungs-Manipulation und Propaganda.
+Der Preis ist nach [Karl-Eduard von Schnitzler](https://de.wikipedia.org/wiki/Karl-Eduard_von_Schnitzler) benannt, dem Chefkommentator des DDR-Fernsehens und Moderator des "Schwarzen Kanals".
+Ein Scheinheiliger des Ostens, der regelmäßig zur Deckung seines Konsumbedarfs in West-Berlin mit D-Mark einkaufte und Nachtlokale besuchte.
+Der Preis wird von der [Stiftung Meinung & Freiheit e.V.](https://meinung-freiheit.de/) vergeben.
+
+Für den Publikumspreis für den skandalösesten Schwindel- Journalismus 2023 haben 9.435 kritische Bürgerinnen und Bürger für ihren Wunschkandidaten abgestimmt:
+
+* [Jan Böhmermann](https://de.wikipedia.org/wiki/Jan_B%C3%B6hmermann) erhielt mit 3.666 rund 40 Prozent aller Stimmen,
+* [Georg Restle](https://de.wikipedia.org/wiki/Georg_Restle) mit 2320 Stimmen rund 25 Prozent,
+* [Dunja Hayali](https://de.wikipedia.org/wiki/Dunja_Hayali) mit 2051 rund 22 Prozent, die weiteren Stimmen verteilen sich auf
+* [Markus Lanz](https://de.wikipedia.org/wiki/Markus_Lanz) mit Platz 4 und
+* [Anja Reschke](https://de.wikipedia.org/wiki/Anja_Reschke) mit Platz 5.
+
+
+
+
 ## Fußnoten
 
 [^originofconcepts]: In diesem Kontext steht das Buch [The Origin of Concepts](https://www.amazon.de/Origin-Concepts-Oxford-Cognitive-Development/dp/0199838801) schon lange auf meiner Leseliste, welches ich allerdings noch nicht zu lesen begonnen habe.
@@ -1188,4 +1269,9 @@ Sollte es darum gehen, Menschen als Teil des Problems zu betrachten und sie in R
 Ein weiterer Beitrag, [Markus Linden und Die Zeit würdigen das „postfaktische Propagandamedium“ Nachdenkseiten zum 20. Jubliäum](https://norberthaering.de/propaganda-zensur/markus-linden-die-zeit/), beleuchtet seine Beteiligung an der Diffamierung der NachDenkSeiten.
 Ein [Meisterstück im Quellenvergiften](https://www.achgut.com/artikel/googles_neue_gedankenpolizei) lieferte gerade der [Deutschlandfunk](https://www.deutschlandfunk.de/entwicklung-von-onlineportal-nius-100.html), wo man an den neuen Medien geradezu einen Narren gefressen hat.
 Besonders das Portal [NIUS](https://www.nius.de) von Julian Reichelt verfolgt man mit großem Eifer. In einem Interview mit Markus Linden von der Uni Trier wird die Nachricht diskutiert, dass die Medienaufsicht Berlin-Brandenburg Beschwerden nachgeht.
-
+[^tichyseinblick]: Mich hat überzeugt, dass [Tichys Einblick](https://www.tichyseinblick.de/) noch Journalismus der alten Schule macht, was Artikel wie [Bundestagswahl muss in 455 von 2.256 Wahlbezirken wiederholt werden](https://www.tichyseinblick.de/daili-es-sentials/bundestagswahl-berlin-teilwiedehrolung),
+weil TE die eklatanten Wahlmanipulationen aufgedeckt und das Bundesverfassungsgericht für eine teilweise Wiederholung der Berlin-Wahl entschieden hat, zeigen.
+In [Die Hetzjagden von Chemnitz – oder wie eine Staatsaffäre produziert wird](https://www.tichyseinblick.de/daili-es-sentials/chemnitz-staatsaffaere) stellt TE die eigenen Recherchen zu dem Thema vor, das zur Versetzung von Hans-Georg Maaßen in den einstweiligen Ruhestand im Jahr 2018 führte.
+Eine Gegendarstellung zum Artikel in TE auf T-Online finden Sie hier: ["Hase, du bleibst hier": Neue Analyse belegt Hetzjagd](https://www.t-online.de/nachrichten/deutschland/gesellschaft/id_100229914/neue-analyse-zur-hetzjagd-in-chemnitz-so-falsch-lag-hans-georg-maassen.html).
+Achten Sie auch auf das Aktualisierungsdatum des T-Online Berichts: 28. August 2023, also einen Tag, nachdem der Artikel auf TE veröffentlicht wurde.
+[^karleduardvonschnitzlerpreis]: Siehe [Karl-Eduard von Schnitzler Preis](#karl-eduard-von-schnitzler-preis): Der Preis für Desinformation, Meinungs-Manipulation und Propaganda.
