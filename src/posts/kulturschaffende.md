@@ -1148,6 +1148,18 @@ Mittlerweile tendiere ich dazu, "Enemy Fire" auszuschließen, da wir im Westen �
 
 Ein denkbares Ziel könnte sein, jene Gruppe von Menschen in eine dominante gesellschaftliche Position zu bringen, die sich am einfachsten lenken lässt. Dies berührt das bereits weiter oben erwähnte Konzept des ich-schwachen Individuums.
 
+Ich habe wiederholt betont, dass Ideologien – verstanden als Halluzinationen – nur eine vage Verbindung zur Realität haben. Dies ergibt im Kontext von Parkinsons Gesetz der Trivialität die Feststellung:
+
+> Widerstand entsteht dort, wo die Problemstellung zu trivial und zu unwichtig für die reale Welt ist.
+
+In meiner Analyse [Man muss mittlerweile sehr genau hinschauen](#man-muss-mittlerweile-sehr-genau-hinschauen) beleuchte ich die Phänomene der Überforderung der Aufmerksamkeitsspanne und der Aufmerksamkeitsverschmutzung.
+Die Kombination beider Aspekte lässt eine Ablenkungsstrategie vermuten: Die Gesellschaft wird mit Nebensächlichkeiten, wie beispielsweise den Unterschieden zwischen den Geschlechtern, beschäftigt, um Raum für die Durchsetzung anderer Agenden zu schaffen.
+Sollte dies das Ziel sein, folgt daraus eine einfache Formel: Wähle ein tabuisiertes Thema, das wenig Bezug zur Realität hat, sich jedoch zur Mythologiebildung eignet, und rücke es in den Mittelpunkt der öffentlichen Aufmerksamkeit.
+So wird der Weg frei für was auch immer man im Hintergrund durchsetzen möchte.
+Um meine Theorie zu testen, vermute ich heute, am 23. Februar 2024, dass [Kannibalismus](https://www.nius.de/gesellschaft/briten-drehen-durch-kannibalismus-sei-ein-tabu-wegen-rassismus/3ecfeaac-add1-4be1-9f8c-aef21ddf4fec) das nächste große Tabuthema sein könnte.
+Sollte sich diese Theorie bewahrheiten, sind "beide Seiten" – sowohl die, die die Befürworter unterstützen (Woke-Bewegung), als auch jene, die im Lager der sogenannten alternativen Medien den "Widerstand" fördern – wissentlich oder unwissentlich Teil dieser Ablenkungsstrategie.
+Abschließend wiederhole ich die treffende Antwort von Michael Andrick auf diese Taktik: "Nur wer das Spiel aufgibt, gewinnt" (Chamfort).
+
 Dieser Erklärungsansatz vermag jedoch nicht zu begründen, warum ein Konflikt zwischen Befürwortern und Gegnern der Woke-Bewegung geschürt wird, der in Richtung einer Resonanzkatastrophe steuert.
 Eine denkbare Erklärung könnte sein, dass, falls die Annahme besteht, die Menschheit sei nicht Teil der Lösung, sondern Teil des Problems, Versuche unternommen werden, die Menschen erneut in Richtung einer Katastrophe zu lenken.
 Dies wird auch im Kontext des Vortrags von General a. D. Harald Kujat in Berlin über den [Ukraine-Krieg und geopolitische Veränderungen](https://www.youtube.com/watch?v=L6dbonhYkDE) deutlich.
@@ -1168,6 +1180,9 @@ dass andere Teile der Gesellschaft diese Gruppe an Absolventen mittragen müssen
 
 Sollte das Ziel sein, eine Gruppe in eine einflussreiche gesellschaftliche Position zu bringen, die sich leicht lenken lässt, könnten sie herangezogen werden, um die Aufgaben einer Gesinnungspolizei zu übernehmen.
 Zudem könnten so ausgebildete Absolventen aufgrund ihrer spezialisierten Ausbildung in völliger Abhängigkeit vom Staat stehen, weil sie durch ihre im Studium erworbenen Fähigkeiten nicht auf eigenen Füßen stehen können und somit noch einfacher zu lenken sind.
+
+Sollte die Annahme bestehen, dass künstliche Intelligenz und Robotertechnologie bald in der Lage sein werden, sämtliche notwendigen Tätigkeiten zu übernehmen, erübrigt sich der Bedarf an menschlicher Arbeitskraft.
+In diesem Szenario wären die so ausgebildeten Absolventen als "Kollateralschaden" einer Ablenkungsstrategie zu betrachten.
 
 Sollte es darum gehen, Menschen als Teil des Problems zu betrachten und sie in Richtung einer möglichen Katastrophe zu lenken, dann besteht ihre einzige Funktion darin, [Unruhe und Chaos zu stiften](#loki-im-gaiakostüm).
 
