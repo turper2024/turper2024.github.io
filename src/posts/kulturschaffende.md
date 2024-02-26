@@ -530,9 +530,14 @@ Diese Methoden des Zerstörens, von denen Russell Brand spricht, haben das Ziel,
 
 Mir drängt sich immer deutlicher der Verdacht auf, dass der Totalitarismus des 21. Jahrhunderts nach einer uniformen moralischen Ausrichtung -- einer innerlichen Einfarbigkeit, einer moralischen [Gleichschaltung](https://de.wikipedia.org/wiki/Gleichschaltung) -- strebt.
 In diesem Bild bedeutet [Alignment](../aufklärung-plus/#einleitung%3A-ideologien-als-halluzinationen-in-analogie-zu-large-language-models-(llms))[^alignment] eine Art missionarisches Sendungsbewusstsein, das gesellschaftsweit einen Konformitätsdruck erzeugt und nach der Integration in eine neue,
-uniforme [Spießergesellschaft](../leben-und-leben-lassen/#kontext)[^spiesser] verlangt.
+uniforme [geschlossene](https://de.wikipedia.org/wiki/Gemeinschaft_und_Gesellschaft) [Spießergesellschaft](../leben-und-leben-lassen/#kontext)[^spiesser] verlangt.
+
+<img src="/img/kulturschaffende-einfalt-vielfalt.svg" alt="Einfalt vs. Vielfalt" style="max-height: 400px; max-width: 100%">
+
+&nbsp;
 
 > We are the [Borg](https://en.wikipedia.org/wiki/Borg). You will be assimilated. Resistance is futile.
+
 
 Die Bedeutung des Ausdrucks "gegen Rechts" bei [Demonstrationen gegen Rechts](https://www.tagesschau.de/inland/demos-gegen-rechtsextremismus-112.html) blieb mir lange unklar,
 da ich historisch eher Parallelen zu den [letzten Tagen der DDR](https://www.cicero.de/innenpolitik/demos-gegen-rechts-ein-land-zwischen-hysterie-und-depression) ziehe, in denen die SED mit dem Leitspruch "gemeinsam gegen rechts" um ihre Macht rang,
