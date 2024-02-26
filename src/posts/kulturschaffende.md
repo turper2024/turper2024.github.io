@@ -159,7 +159,7 @@ Persönlich freue ich mich jedes Mal, wenn ich einen [Maibaum](https://de.wikipe
 
 In der oben dargestellten Grafik befinden sich Kulturessenzialismus und Identität vollständig auf der linken Seite der Ideologien.
 Das erkennt man daran, dass alles, was den Kulturessenzialismus und die Identität ausmacht, auch anders sein könnte.
-Diese Eigenschaft des "anders sein könnens" wird an anderer Stelle durch den Begriff der [Kontingez](https://de.wikipedia.org/wiki/Kontingenz_(Soziologie)) umschrieben:
+Diese Eigenschaft des "anders sein könnens" wird an anderer Stelle durch den Begriff der [Kontingenz](https://de.wikipedia.org/wiki/Kontingenz_(Soziologie)) umschrieben:
 
 > Kontingenz: die Tatsache, dass alles, was ist, auch anders sein könnte.
 
@@ -225,6 +225,11 @@ Anstatt von einem "Activity System" zu sprechen, könnte man auch von [Bräuchen
 
 In meinem Verständnis bezieht sich der Begriff "Kulturschaffende", so wie er in der heutigen Gesellschaft verwendet wird, hauptsächlich auf Personen, die in den [schönen Künsten](https://de.wikipedia.org/wiki/Kunst) tätig sind.
 Doch kreieren sie nicht direkt Kultur, sondern vielmehr deren Begleiterscheinungen wie Symbole, Status und Imponiergehabe.
+
+> Wo alles Kunst und jeder Künstler sein kann, ist die Anerkennung des Künstlertums eine Frage des Charismas. [...]
+> Nachdem die Kunst durch sämtliche Modernismen, Avantgardismen und Postmodernismen hindurchgelaufen ist,
+> kehrt sie zu dem zurück, was einst ihr totales Gegenstück war: zur Macht.
+> Künstlertum ist die Definitionsmacht eines persönlichen Charismas.[^redaktionsschluss]
 
 #### Kulturschaffende
 
@@ -523,6 +528,28 @@ seine [folgenden Aussagen](https://www.zerohedge.com/political/one-most-brillian
 
 Diese Methoden des Zerstörens, von denen Russell Brand spricht, haben das Ziel, Kritiker [aus dem Diskurs zu drängen](../leben-und-leben-lassen/#gegenbewegung%3A-initiative-f%C3%BCr-freiheit) und eine inhaltliche Auseinandersetzung mit deren Argumenten zu vermeiden.
 
+Mir drängt sich immer deutlicher der Verdacht auf, dass der Totalitarismus des 21. Jahrhunderts nach einer uniformen moralischen Ausrichtung -- einer innerlichen Einfarbigkeit, einer moralischen [Gleichschaltung](https://de.wikipedia.org/wiki/Gleichschaltung) -- strebt.
+In diesem Bild bedeutet [Alignment](../aufklärung-plus/#einleitung%3A-ideologien-als-halluzinationen-in-analogie-zu-large-language-models-(llms))[^alignment] eine Art missionarisches Sendungsbewusstsein, das gesellschaftsweit einen Konformitätsdruck erzeugt und nach der Integration in eine neue,
+uniforme [Spießergesellschaft](../leben-und-leben-lassen/#kontext)[^spiesser] verlangt.
+
+> We are the [Borg](https://en.wikipedia.org/wiki/Borg). You will be assimilated. Resistance is futile.
+
+Die Bedeutung des Ausdrucks "gegen Rechts" bei [Demonstrationen gegen Rechts](https://www.tagesschau.de/inland/demos-gegen-rechtsextremismus-112.html) blieb mir lange unklar,
+da ich historisch eher Parallelen zu den [letzten Tagen der DDR](https://www.cicero.de/innenpolitik/demos-gegen-rechts-ein-land-zwischen-hysterie-und-depression) ziehe, in denen die SED mit dem Leitspruch "gemeinsam gegen rechts" um ihre Macht rang,
+als dass ich direkte Verbindungen zur NS-Zeit sehe.
+
+> … erinnern an andere Zeiten – etwa an das Ende der DDR, als Anfang Januar 1990 Hunderttausende nach Schmierereien am Denkmal für die gefallenen Sowjetsoldaten in Berlin-Treptow auf die Straße gingen. „Unser Land braucht jetzt eine breite Einheitsfront gegen rechts“, titelte das Neue Deutschland aus diesem Anlass und wiederholte damit einen der zentralen Propagandasätze des untergehenden SED-Regimes.
+
+Nun denke ich, dass die Begriffe "rechts", "rechtsextrem" und "Nazi" als Etiketten für jeden verwendet werden, der sich dieser moralischen Gleichschaltung widersetzt. Somit ist der Begriff "rechts" und dessen Steigerungen als ein Name für alle anderen inneren Farben außer der eigenen zu verstehen.
+Interessanterweise findet eine ähnliche Verwendung dieser Begriffe in Putins Russland statt, wo ["Entnazifizierung"](https://www.tagesschau.de/faktenfinder/russland-propaganda-ukraine-101.html) und der "Nazi"-Begriff genutzt werden, um jene zu beschreiben,
+die sich gegen die einheitliche moralische Gleichschaltung des Landes stellen.
+In beiden Fällen steht der Begriff "Nazi" für Menschen, die sich dieser moralischen Gleichschaltung widersetzen und eine innere Diversität, eine pluralistische und offene Gesellschaft sowie moralische Vielfalt fordern.
+Es handelt sich um eine Form des [Doublethink](https://en.wikipedia.org/wiki/Doublethink), wo der Begriff "Nazi" genau für sein Gegenteil verwendet wird.
+
+Die Druckmittel dieses Totalitarismus des 21. Jahrhunderts sind nicht mehr physische Gewalt oder Folter, die offen sichtbar sind, sondern subtilere Methoden wie
+jemanden umstritten machen, [Rufmord](https://www.routledge.com/Routledge-Handbook-of-Character-Assassination-and-Reputation-Management/Samoilenko-Icks-Keohane-Shiraev/p/book/9781032081779),
+[Deplatforming](https://en.wikipedia.org/wiki/Deplatforming) bis hin zum [Debanking](https://en.wikipedia.org/wiki/De-banking), die darauf abzielen, Menschen von der Teilnahme am öffentlichen Leben auszuschließen.
+
 Das Studium der Ideologie als Massenphänomen ist vermutlich nahezu unmöglich, weil sich das Phänomen nicht experimentell auf Knopfdruck erzeugen lässt.
 Wir Menschen sind wohl die einzigen "Messinstrumente", die wahrnehmen können, welche Wirkung Ideologien auf uns als Massenphänomen haben.
 Daher sind wir auf die Berichte von Zeitzeugen angewiesen, die ihre Eindrücke in Worte fassen.
@@ -531,6 +558,8 @@ Dort versuche ich, meine Assoziationen zur Woke-Ideologie zu artikulieren.
 Ich gebe dem Konstrukt den Namen [Loki](https://de.wikipedia.org/wiki/Loki).
 Ich spreche von einem **[Loki](https://de.wikipedia.org/wiki/Loki) im [Gaia](https://de.wikipedia.org/wiki/Gaia_(Mythologie))kostüm**.
 Details hierzu sind für die Allgemeinheit im [Anhang](#loki-im-gaiakostüm) dokumentiert.
+
+
 
 ### Rationale Kritik
 
@@ -563,12 +592,14 @@ Michael Andrick liefert in seinem Werk [Spaltung verstehen und überwinden](#spa
 Im Anhang zu [Spaltung verstehen und überwinden](#spaltung-verstehen-und-überwinden) vertiefe ich die Diskussion um Kulturtechniken, doch lassen Sie mich hier eine Kurzfassung dazu einfügen:
 
 1. Spielregeln der Debatte:
-   1. **Moral ist eine Privatsache**: Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
-   1. **Sachebene und Interessensausgleich**: Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
+   * **Moral ist eine Privatsache**: Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
+   * **Sachebene und Interessensausgleich**: Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
 1. Recht zur Teilnahme an der Debatte:
-   1. **Offenheit**: Die Feststellung, dass wir in einer offenen und pluralistischen Gesellschaft leben, nicht in einer geschlossenen Gemeinschaft, und dass es die Pflicht jedes Demokraten ist, diese Offenheit zu bewahren.
-   1. **Gleichberechtigung**: Gestützt auf das Grundgesetz [Artikel 3](https://www.gesetze-im-internet.de/gg/art_3.html), das die Gleichberechtigung aller Menschen in dieser offenen Gesellschaft sichert, fordere ich eine gleichberechtigte und faire Teilnahme an öffentlichen Plattformen.
+   * **Offenheit**: Die Feststellung, dass wir in einer offenen und pluralistischen Gesellschaft leben, nicht in einer geschlossenen Gemeinschaft, und dass es die Pflicht jedes Demokraten ist, diese Offenheit zu bewahren.
+   * **Gleichberechtigung**: Gestützt auf das Grundgesetz [Artikel 3](https://www.gesetze-im-internet.de/gg/art_3.html), das die Gleichberechtigung aller Menschen in dieser offenen Gesellschaft sichert, fordere ich eine gleichberechtigte und faire Teilnahme an öffentlichen Plattformen.
 
+Parallel zu diesen Kulturtechniken sollten unsere verschiedenen gesellschaftlichen Gruppen wieder anfangen, Forderungen auf [Sachebene](#sachebene-und-utilitaristische-interessen) zu formulieren und über ihre Interessensvertreter, wie Gewerkschaften oder Verbände, in den politischen Prozess einzubringen.
+Wir sollten uns nicht weiter von Nebensächlichkeiten ablenken lassen (siehe auch [Ablenkungsstrategie](#woke-agenda)) und unsere Politiker dazu drängen, wieder das zu tun, wofür wir sie gewählt haben, nämlich qualitativ hochwertige [Sacharbeit](#sachebene-und-utilitaristische-interessen) zu leisten.
 
 Michael Andrick weist darauf hin:
 
@@ -617,6 +648,9 @@ Ich habe hierzu eine Kommunikationsstrategie entwickelt, die ich hier als Beispi
 > Das oben Erwähnte vermittelt einen Eindruck davon, was das Demokratieförderungsgesetz bewirken soll.
 >
 > Insgesamt möchte ich dir empfehlen, deine Mediennutzung um kritische Quellen wie die [NachDenkSeiten](https://www.nachdenkseiten.de/) zu erweitern.
+>
+> Hier eine Kostprobe: [Vortrag von General a. D. Harald Kujat in Berlin über Ukraine-Krieg und den geopolitischen Wandel](https://youtu.be/L6dbonhYkDE?t=1210): Kurz vor Beginn der Münchner Sicherheitskonferenz (MSC), am 16.02.2024, hielt der ehemalige Generalinspekteur der Bundeswehr und Vorsitzende des NATO-Militärausschusses, [Harald Kujat](https://de.wikipedia.org/wiki/Harald_Kujat), einen sehr gut besuchten Vortrag zum Thema: "Der Ukrainekrieg, die Rivalität der großen Mächte und die Selbstbehauptung Europas".
+> <blockquote>Der strategische Wendepunkt im Verhältnis der Vereinigten Staaten zu Russland war das Jahr 2002, nämlich die <b>einseitige Kündigung</b> des 1972 geschlossenen und für das nuklearstrategische Gleichgewicht zwischen diesen beiden Supermächten so enorm wichtigen ABM-Abkommens über strategische Raketenabwehrsysteme, denn gleichzeitig wurde in Europa ein Raketenabwehrsystem aufgebaut, das Russland als Bedrohung des nuklearstrategischen Gleichgewichts mit den Vereinigten Staaten verstehen musste. 2019 wurde dann <b>ebenfalls einseitig</b> das für Europas Sicherheit so entscheidende INF-Abkommen über nukleare Mittelstreckenraketen aufgekündigt. Im Grunde genommen haben die Vereinigten Staaten damit Russland die Möglichkeit gegeben, völkerrechtlich und vertragskonform, ein neues eurostrategisches nukleares Bedrohungspotenzial gegen Europa aufzubauen. Ein Jahr später wurde dann der Vertrag über den offenen Himmel, <b>ebenfalls einseitig</b>, gekündigt. Das war ein ganz wichtiger Vertrag, weil er gegenseitige Inspektionen erlaubte und für Transparenz und Vorhersehbarkeit auch des militärischen Handelns da war. Dagegen wurde 2021 das Abkommen über interkontinentalstrategische Waffensysteme, also amerikanische und russische Waffenabkommen, das sogenannte New-START-Abkommen mit Russland um 5 Jahre <b>einvernehmlich verlängert</b>. Es hat dann auch Verhandlungen sogar während des Ukraine-Krieges gegeben, bis Russland dann wegen der massiven Unterstützung der Vereinigten Staaten die Verhandlungen unterbrochen hat.</blockquote>
 
 Die dargelegten Punkte bieten eine solide Grundlage, um Freunde und Familie zu motivieren, ihre Mediendiät um ein kritisches Medium wie die [NachDenkSeiten](https://www.nachdenkseiten.de/) zu erweitern.
 Durch die Nutzung der NachDenkSeiten können sie Einblicke in globale Geschehnisse gewinnen, die durch den [Zensur-industriellen Komplex](https://twitterfiles.substack.com/p/the-censorship-industrial-complex) und die [Lückenpresse](../leben-und-leben-lassen/#slippery-slope%3A-lückenpresse) oft unberichtet bleiben.
@@ -753,7 +787,7 @@ singuläre Bezugspunkt doppelt: einmal in Form des Monotheismus und einmal in de
 Götter hatten keinen singulären Bezugspunkt, weder als Gruppe von Göttern (kein Monotheismus) noch in Form einer zentralen irdischen Autorität, die
 behauptete, in einem privilegierten, intimen Verhältnis zu den Göttern zu stehen. Diese Analogie sehe ich auch bei der Woke-Bewegung. Es existieren
 verschiedene Strömungen, die sich in antikapitalistisch, antirassistisch, anti-patriarchalisch, LGBTQ und antikolonialistisch (und vielleicht noch
-einige weitere, die ich nicht kenne) aufteilen. Zudem sind auch die "Priester" und "Theologen", also die Gruppe der theologischen Vordenker, eine
+einige weitere, die ich nicht kenne) aufteilen. Zudem sind auch die "Priester" und "Theologen", also die Gruppe der theologischen Vordenker (z.B.[Ibram X. Kendi](https://de.wikipedia.org/wiki/Ibram_X._Kendi) oder [Robin DiAngelo](https://en.wikipedia.org/wiki/Robin_DiAngelo)), eine
 dezentrale Gruppe.
 
 In meiner Klassifizierung der [Halluzinationen](../aufklärung-plus/#wissenschaft-vs.-theologie) (Götter) unterscheide ich zwischen solchen mit
@@ -828,6 +862,7 @@ Michael Andrick gibt meiner Meinung nach in [Spaltung verstehen und überwinden]
 
 > Aber wir können die Mitarbeit aufkündigen und uns stattdessen wie aufgeklärte Bürger einer Demokratie verhalten. "Nur wer das Spiel aufgibt, gewinnt" (Chamfort).
 
+Wir sollten uns nicht weiter von Nebensächlichkeiten ablenken lassen (siehe auch [Ablenkungsstrategie](#woke-agenda)) und unsere Politiker dazu drängen, wieder das zu tun, wofür wir sie gewählt haben, nämlich qualitativ hochwertige [Sacharbeit](#sachebene-und-utilitaristische-interessen) zu leisten.
 
 ### Spaltung verstehen und überwinden
 
@@ -955,11 +990,11 @@ Es verhält sich wie bei [Leibeigenen](https://de.wikipedia.org/wiki/Leibeigensc
 Wir erweitern also die Kulturtechnik auf folgenden Elementen:
 
 1. Spielregeln der Debatte:
-   1. **Moral ist eine Privatsache**: Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
-   1. **Sachebene und Interessensausgleich**: Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
+   * **Moral ist eine Privatsache**: Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
+   * **Sachebene und Interessensausgleich**: Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
 1. Recht zur Teilnahme an der Debatte:
-   1. **Offenheit**: Die Feststellung, dass wir in einer offenen und pluralistischen Gesellschaft leben, nicht in einer geschlossenen Gemeinschaft, und dass es die Pflicht jedes Demokraten ist, diese Offenheit zu bewahren.
-   1. **Gleichberechtigung**: Gestützt auf das Grundgesetz [Artikel 3](https://www.gesetze-im-internet.de/gg/art_3.html), das die Gleichberechtigung aller Menschen in dieser offenen Gesellschaft sichert, fordere ich eine gleichberechtigte und faire Teilnahme an öffentlichen Plattformen.
+   * **Offenheit**: Die Feststellung, dass wir in einer offenen und pluralistischen Gesellschaft leben, nicht in einer geschlossenen Gemeinschaft, und dass es die Pflicht jedes Demokraten ist, diese Offenheit zu bewahren.
+   * **Gleichberechtigung**: Gestützt auf das Grundgesetz [Artikel 3](https://www.gesetze-im-internet.de/gg/art_3.html), das die Gleichberechtigung aller Menschen in dieser offenen Gesellschaft sichert, fordere ich eine gleichberechtigte und faire Teilnahme an öffentlichen Plattformen.
 
 #### Moralisieren und Freiheit
 
@@ -1027,11 +1062,11 @@ In einem Schwingkreis verhindert man die [Resonanzkatastrophe](https://de.wikipe
 Michael Andrick erläutert in seinem Buch, wie dieses Widerstandselement aussieht: Es wird die oben bereits beschriebene Kulturtechnik genutzt:
 
 1. Spielregeln der Debatte:
-   1. **Moral ist eine Privatsache**: Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
-   1. **Sachebene und Interessensausgleich**: Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
+   * **Moral ist eine Privatsache**: Eine allgemeine Vereinbarung darüber, dass Moral eine Privatangelegenheit ist und nicht als allgemeingültig für jeden Menschen betrachtet wird.
+   * **Sachebene und Interessensausgleich**: Öffentliche Auseinandersetzungen in einem demokratischen [Pluralismus](../aufklärung-plus/#pluralismus) finden ausschließlich auf Sachebene statt, mit dem Fokus auf Interessensausgleich.
 1. Recht zur Teilnahme an der Debatte:
-   1. **Offenheit**: Die Feststellung, dass wir in einer offenen und pluralistischen Gesellschaft leben, nicht in einer geschlossenen Gemeinschaft, und dass es die Pflicht jedes Demokraten ist, diese Offenheit zu bewahren.
-   1. **Gleichberechtigung**: Gestützt auf das Grundgesetz [Artikel 3](https://www.gesetze-im-internet.de/gg/art_3.html), das die Gleichberechtigung aller Menschen in dieser offenen Gesellschaft sichert, fordere ich eine gleichberechtigte und faire Teilnahme an öffentlichen Plattformen.
+   * **Offenheit**: Die Feststellung, dass wir in einer offenen und pluralistischen Gesellschaft leben, nicht in einer geschlossenen Gemeinschaft, und dass es die Pflicht jedes Demokraten ist, diese Offenheit zu bewahren.
+   * **Gleichberechtigung**: Gestützt auf das Grundgesetz [Artikel 3](https://www.gesetze-im-internet.de/gg/art_3.html), das die Gleichberechtigung aller Menschen in dieser offenen Gesellschaft sichert, fordere ich eine gleichberechtigte und faire Teilnahme an öffentlichen Plattformen.
 
 #### Moralisierter Konformitätsdruck
 
@@ -1153,7 +1188,7 @@ Ich habe wiederholt betont, dass Ideologien – verstanden als Halluzinationen �
 > Widerstand entsteht dort, wo die Problemstellung zu trivial und zu unwichtig für die reale Welt ist.
 
 In meiner Analyse [Man muss mittlerweile sehr genau hinschauen](#man-muss-mittlerweile-sehr-genau-hinschauen) beleuchte ich die Phänomene der Überforderung der Aufmerksamkeitsspanne und der Aufmerksamkeitsverschmutzung.
-Die Kombination beider Aspekte lässt eine Ablenkungsstrategie vermuten: Die Gesellschaft wird mit Nebensächlichkeiten, wie beispielsweise den Unterschieden zwischen den Geschlechtern, beschäftigt, um Raum für die Durchsetzung anderer Agenden zu schaffen.
+Die Kombination beider Aspekte lässt eine **Ablenkungsstrategie** vermuten: Die Gesellschaft wird mit Nebensächlichkeiten, wie beispielsweise den Unterschieden zwischen den Geschlechtern, beschäftigt, um Raum für die Durchsetzung anderer Agenden zu schaffen.
 Sollte dies das Ziel sein, folgt daraus eine einfache Formel: Wähle ein tabuisiertes Thema, das wenig Bezug zur Realität hat, sich jedoch zur Mythologiebildung eignet, und rücke es in den Mittelpunkt der öffentlichen Aufmerksamkeit.
 So wird der Weg frei für was auch immer man im Hintergrund durchsetzen möchte.
 Um meine Theorie zu testen, vermute ich heute, am 23. Februar 2024, dass [Kannibalismus](https://www.nius.de/gesellschaft/briten-drehen-durch-kannibalismus-sei-ein-tabu-wegen-rassismus/3ecfeaac-add1-4be1-9f8c-aef21ddf4fec) das nächste große Tabuthema sein könnte.
@@ -1171,6 +1206,8 @@ Auch Belgiens Verteidigungsministerin Dedonder appelliert an die Bürgerinnen un
 Michael Andrick gibt meiner Meinung nach in [Spaltung verstehen und überwinden](#widerstandselement-im-schwingkreis) die korrekte Antwort auf die Frage nach einer Gegenstrategie:
 
 > Aber wir können die Mitarbeit aufkündigen und uns stattdessen wie aufgeklärte Bürger einer Demokratie verhalten. "Nur wer das Spiel aufgibt, gewinnt" (Chamfort).
+
+Wir sollten uns nicht weiter von Nebensächlichkeiten ablenken lassen (siehe auch [Ablenkungsstrategie](#woke-agenda)) und unsere Politiker dazu drängen, wieder das zu tun, wofür wir sie gewählt haben, nämlich qualitativ hochwertige [Sacharbeit](#sachebene-und-utilitaristische-interessen) zu leisten.
 
 #### Absolventen
 
@@ -1234,7 +1271,7 @@ Die Correctiv-Mitarbeiter bestätigen damit also noch nicht einmal, das Treffen 
 
 Selbst wenn noch eine Tonaufnahme des Treffens auftauchen sollte, die etwas anderes belegt, könnten die Correctiv-Vertreter nicht wegen uneidlicher Falschaussage haftbar gemacht werden.
 Diese Gefahr bestünde nur, wenn sich ihre ominöse Quelle offenbaren und ihnen öffentlich widersprechen würde.
-Unter diesen Umständen wirkt die Erklärung von Schraven absurd und gleichzeitig manipulativ:
+Unter diesen Umständen wirkt die Erklärung von [Schraven](https://de.wikipedia.org/wiki/David_Schraven) (Gründer des Recherche-Büros Correctiv) absurd und gleichzeitig manipulativ:
 
 > Wir stehen entschlossen hinter unseren Enthüllungen. Mit den eidesstattlichen Versicherungen machen wir klar: **Wir garantieren die Richtigkeit unserer Recherche mit unserer persönlichen Freiheit** und dem Medienhaus CORRECTIV als Sicherheit.
 
@@ -1250,27 +1287,38 @@ Und liest man noch weiter, erkennt man, dass kein zusätzlicher Kontext erforder
 
 #### Karl-Eduard von Schnitzler Preis
 
-Beim [Karl-Eduard von Schnitzler Preis](https://schnitzler-preis.de/#Preis) handelt es sich um einen negativ Preis für Desinformation, Meinungs-Manipulation und Propaganda.
+Beim [Karl-Eduard von Schnitzler Preis](https://schnitzler-preis.de/#Preis) handelt es sich um einen Negativpreis für Desinformation, Meinungs-Manipulation und Propaganda.
 Der Preis ist nach [Karl-Eduard von Schnitzler](https://de.wikipedia.org/wiki/Karl-Eduard_von_Schnitzler) benannt, dem Chefkommentator des DDR-Fernsehens und Moderator des "Schwarzen Kanals".
 Ein Scheinheiliger des Ostens, der regelmäßig zur Deckung seines Konsumbedarfs in West-Berlin mit D-Mark einkaufte und Nachtlokale besuchte.
 Der Preis wird von der [Stiftung Meinung & Freiheit e.V.](https://meinung-freiheit.de/) vergeben.
 
 Für den Publikumspreis für den skandalösesten Schwindel- Journalismus 2023 haben 9.435 kritische Bürgerinnen und Bürger für ihren Wunschkandidaten abgestimmt:
 
-* [Jan Böhmermann](https://de.wikipedia.org/wiki/Jan_B%C3%B6hmermann) erhielt mit 3.666 rund 40 Prozent aller Stimmen,
-* [Georg Restle](https://de.wikipedia.org/wiki/Georg_Restle) mit 2320 Stimmen rund 25 Prozent,
-* [Dunja Hayali](https://de.wikipedia.org/wiki/Dunja_Hayali) mit 2051 rund 22 Prozent, die weiteren Stimmen verteilen sich auf
-* [Markus Lanz](https://de.wikipedia.org/wiki/Markus_Lanz) mit Platz 4 und
-* [Anja Reschke](https://de.wikipedia.org/wiki/Anja_Reschke) mit Platz 5.
+1. [Jan Böhmermann](https://de.wikipedia.org/wiki/Jan_B%C3%B6hmermann) erhielt mit 3.666 rund 40 Prozent aller Stimmen,
+1. [Georg Restle](https://de.wikipedia.org/wiki/Georg_Restle) mit 2320 Stimmen rund 25 Prozent,
+1. [Dunja Hayali](https://de.wikipedia.org/wiki/Dunja_Hayali) mit 2051 rund 22 Prozent, die weiteren Stimmen verteilen sich auf
+1. [Markus Lanz](https://de.wikipedia.org/wiki/Markus_Lanz) mit Platz 4 und
+1. [Anja Reschke](https://de.wikipedia.org/wiki/Anja_Reschke) mit Platz 5.
 
+### Sachebene und utilitaristische Interessen
 
+... Fortsetzung folgt ...
 
+#### Guter Treuhänder
+
+#### Leistungsstark
+
+#### Effizient
+
+#### Checks and Balances
+
+#### Daten
 
 ## Fußnoten
 
 [^originofconcepts]: In diesem Kontext steht das Buch [The Origin of Concepts](https://www.amazon.de/Origin-Concepts-Oxford-Cognitive-Development/dp/0199838801) schon lange auf meiner Leseliste, welches ich allerdings noch nicht zu lesen begonnen habe.
 [^loki]: Der Artikel aus der englischen Wikipedia ist hier zu finden: [Loki](https://en.wikipedia.org/wiki/Loki).
-[^zeitlosgut]: Ein Beispiel für etwas "zeitlos gutes" wäre unsere arabischen Zahlen und die zugehörige Arithmetik.
+[^zeitlosgut]: Ein Beispiel für etwas "zeitlos Gutes" wäre unsere arabischen Zahlen und die zugehörige Arithmetik.
 [^maskeimauto]: Ich sage "weitestgehend nicht beobachtbar", weil Menschen, die alleine im Auto oder im Wald mit Maske unterwegs sind, dann doch auffällig werden.
 [^kognitivekriegsfuehrungnato]: Für diesen Abschnitt verzichte ich bewusst auf den letzten Teil des Titels "der NATO", weil es hier sowohl um "friendly fire" als auch um "enemy fire" gehen könnte.
 [^kognitivekriegsfuhrung]: The Institute for Statecraft: [Der hausgemachte Desinformationsskandal](https://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/debatte-um-gezielte-desinformation-der-britischen-regierung-15957088.html?printPagedArticle=true) von [Constanze Kurz](https://de.wikipedia.org/wiki/Constanze_Kurz).
@@ -1284,9 +1332,13 @@ Für den Publikumspreis für den skandalösesten Schwindel- Journalismus 2023 ha
 Ein weiterer Beitrag, [Markus Linden und Die Zeit würdigen das „postfaktische Propagandamedium“ Nachdenkseiten zum 20. Jubliäum](https://norberthaering.de/propaganda-zensur/markus-linden-die-zeit/), beleuchtet seine Beteiligung an der Diffamierung der NachDenkSeiten.
 Ein [Meisterstück im Quellenvergiften](https://www.achgut.com/artikel/googles_neue_gedankenpolizei) lieferte gerade der [Deutschlandfunk](https://www.deutschlandfunk.de/entwicklung-von-onlineportal-nius-100.html), wo man an den neuen Medien geradezu einen Narren gefressen hat.
 Besonders das Portal [NIUS](https://www.nius.de) von Julian Reichelt verfolgt man mit großem Eifer. In einem Interview mit Markus Linden von der Uni Trier wird die Nachricht diskutiert, dass die Medienaufsicht Berlin-Brandenburg Beschwerden nachgeht.
-[^tichyseinblick]: Mich hat überzeugt, dass [Tichys Einblick](https://www.tichyseinblick.de/) noch Journalismus der alten Schule macht, was Artikel wie [Bundestagswahl muss in 455 von 2.256 Wahlbezirken wiederholt werden](https://www.tichyseinblick.de/daili-es-sentials/bundestagswahl-berlin-teilwiedehrolung),
+[^tichyseinblick]: Mich hat überzeugt, dass [Tichys Einblick](https://www.tichyseinblick.de/) (TE) noch Journalismus der alten Schule macht, was Artikel wie [Bundestagswahl muss in 455 von 2.256 Wahlbezirken wiederholt werden](https://www.tichyseinblick.de/daili-es-sentials/bundestagswahl-berlin-teilwiedehrolung),
 weil TE die eklatanten Wahlmanipulationen aufgedeckt und das Bundesverfassungsgericht für eine teilweise Wiederholung der Berlin-Wahl entschieden hat, zeigen.
 In [Die Hetzjagden von Chemnitz – oder wie eine Staatsaffäre produziert wird](https://www.tichyseinblick.de/daili-es-sentials/chemnitz-staatsaffaere) stellt TE die eigenen Recherchen zu dem Thema vor, das zur Versetzung von Hans-Georg Maaßen in den einstweiligen Ruhestand im Jahr 2018 führte.
 Eine Gegendarstellung zum Artikel in TE auf T-Online finden Sie hier: ["Hase, du bleibst hier": Neue Analyse belegt Hetzjagd](https://www.t-online.de/nachrichten/deutschland/gesellschaft/id_100229914/neue-analyse-zur-hetzjagd-in-chemnitz-so-falsch-lag-hans-georg-maassen.html).
 Achten Sie auch auf das Aktualisierungsdatum des T-Online Berichts: 28. August 2023, also einen Tag, nachdem der Artikel auf TE veröffentlicht wurde.
 [^karleduardvonschnitzlerpreis]: Siehe [Karl-Eduard von Schnitzler Preis](#karl-eduard-von-schnitzler-preis): Der Preis für Desinformation, Meinungs-Manipulation und Propaganda.
+[^redaktionsschluss]: [Berlinale: Roth und Verklärung | Redaktionsschluss mit David Boos](https://youtu.be/d46_3aq1ogA?t=150)
+[^alignment]: [AI-Alignment](https://en.wikipedia.org/wiki/AI_alignment): Ich war bisher davon ausgegangen, dass es darum geht, sicherzustellen, dass eine künstliche Intelligenz im Dienste der Menschheit zu deren wohlwollenden Nutzen steht. Mittlerweile gehe ich mehr davon aus, dass eine künstliche Intelligenz über Messaging über Social-Media und andere Kanäle
+dazu in der Lage ist, eine innerliche Einfarbigkeit bzw. eine moralische [Gleichschaltung](https://de.wikipedia.org/wiki/Gleichschaltung) stabil über Jahrzehnte aufrechtzuerhalten, wobei Menschen dann nur noch Bienen in einem Schwarm sind, die das Lied mitsummen.
+[^spiesser]: [Spießer](https://de.wikipedia.org/wiki/Spie%C3%9Fb%C3%BCrger): Bisher konnte ich mit dem Wort Spießer nie etwas anfangen. Jetzt denke ich, dass mit Spießer eine innere Einfarbigkeit bzw. eine moralische [Gleichschaltung](https://de.wikipedia.org/wiki/Gleichschaltung) gemeint ist.
