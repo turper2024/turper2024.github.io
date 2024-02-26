@@ -1208,6 +1208,23 @@ Kujat hebt hervor, wie wenig Augenmerk auf diplomatische Verhandlungen gelegt wi
 Ebenfalls in dieses Bild fügt sich ein, dass in Großbritannien Diskussionen über die [Wiedereinführung der Wehrpflicht](https://news.sky.com/story/is-conscription-coming-back-how-its-been-used-in-previous-wars-and-what-a-uk-citizen-army-would-involve-in-future-13056698) geführt werden.
 Auch Belgiens Verteidigungsministerin Dedonder appelliert an die Bürgerinnen und Bürger, sich als [Reservisten bei der Armee](https://www.vrt.be/vrtnws/de/2024/02/08/belgiens-verteidigungsministerin-dedonder-ruft-dazu-auf-sich-be/) zu melden.
 
+Kardinal [Gerhard Müller](https://de.wikipedia.org/wiki/Gerhard_Ludwig_M%C3%BCller) wurde im Juni 2021 von Papst Franziskus für eine fünfjährige Amtszeit zum Mitglied des "Supremo Tribunale" der [Apostolischen Signatur](https://de.wikipedia.org/wiki/Apostolische_Signatur), also zum Richter am höchsten Kirchengericht, ernannt.
+In einem [Interview](https://www.lifesitenews.com/de/news/exklusiv-cdl-muller-massenmigration-wird-zur-zerstorung-nationaler-identitaten-genutzt) sagt er, dass die Massenmigration dazu benutzt wird, [nationale Identitäten zu zerstören](https://www.epochtimes.de/gesellschaft/kardinal-mueller-massenmigration-soll-nationale-identitaet-zerstoeren-a4512590.html):
+
+> Bei der Masseneinwanderung geht es nicht darum, Menschen zu helfen, sondern darum, die nationale Identität zu zerstören.
+>
+> Doch wer dies kritisiere, werde von ihnen als Nazi bezeichnet. Dabei propagierten sie selbst die mörderische Nazi-Ideologie von "Macht schafft Recht".
+> Laut Müller werde der "Nazi"-Vorwurf häufig als "Machtinstrument" zur Unterdrückung abweichender Meinungen genutzt.
+>
+> Zuvor hatte der Kardinal im Interview bereits ausgeführt, warum die Nationen ein Hindernis darstellen.
+> "Sie wollen, dass jeder völlig isoliert und nicht durch Sprache, Kultur, familiäre Bindungen oder ein Heimatland, in dem man sich zu Hause fühlt, verbunden ist."
+> Das alles wollten sie zerstören. Sie wollten, dass alle "atomisiert werden, ohne kulturelle und religiöse Wurzeln und Identität".
+>
+> Der Klimawandel und die "grüne" Bewegung dienten dabei als "Ersatzreligion", der viele anhängen, "anstatt das ursprüngliche [Christentum] zu verbreiten".
+> Das globalistische System sei jedoch eine Mischung aus Kapitalismus und Kommunismus.
+> Totalitarismus verschmelze in diesem System mit dem Materialismus. "Und wer das meiste Geld hat, ist an der Macht und kontrolliert und bezahlt die Medien."
+
+
 Michael Andrick gibt meiner Meinung nach in [Spaltung verstehen und überwinden](#widerstandselement-im-schwingkreis) die korrekte Antwort auf die Frage nach einer Gegenstrategie:
 
 > Aber wir können die Mitarbeit aufkündigen und uns stattdessen wie aufgeklärte Bürger einer Demokratie verhalten. "Nur wer das Spiel aufgibt, gewinnt" (Chamfort).
@@ -1344,6 +1361,5 @@ Eine Gegendarstellung zum Artikel in TE auf T-Online finden Sie hier: ["Hase, du
 Achten Sie auch auf das Aktualisierungsdatum des T-Online Berichts: 28. August 2023, also einen Tag, nachdem der Artikel auf TE veröffentlicht wurde.
 [^karleduardvonschnitzlerpreis]: Siehe [Karl-Eduard von Schnitzler Preis](#karl-eduard-von-schnitzler-preis): Der Preis für Desinformation, Meinungs-Manipulation und Propaganda.
 [^redaktionsschluss]: [Berlinale: Roth und Verklärung | Redaktionsschluss mit David Boos](https://youtu.be/d46_3aq1ogA?t=150)
-[^alignment]: [AI-Alignment](https://en.wikipedia.org/wiki/AI_alignment): Ich war bisher davon ausgegangen, dass es darum geht, sicherzustellen, dass eine künstliche Intelligenz im Dienste der Menschheit zu deren wohlwollenden Nutzen steht. Mittlerweile gehe ich mehr davon aus, dass eine künstliche Intelligenz über Messaging über Social-Media und andere Kanäle
-dazu in der Lage ist, eine innerliche Einfarbigkeit bzw. eine moralische [Gleichschaltung](https://de.wikipedia.org/wiki/Gleichschaltung) stabil über Jahrzehnte aufrechtzuerhalten, wobei Menschen dann nur noch Bienen in einem Schwarm sind, die das Lied mitsummen.
+[^alignment]: [AI-Alignment](https://en.wikipedia.org/wiki/AI_alignment): Ich bin bisher davon ausgegangen, dass es beim AI-Alignment darum geht, sicherzustellen, dass künstliche Intelligenz im Dienste der Menschheit steht und deren Wohl fördert. Mittlerweile bin ich jedoch der Meinung, dass AI-Alignment auch in umgekehrter Richtung verstanden werden kann und künstliche Intelligenz durch Messaging über Social-Media und andere Kanäle in der Lage ist, eine innerliche Einfarbigkeit bzw. eine moralische [Gleichschaltung](https://de.wikipedia.org/wiki/Gleichschaltung) langfristig über Jahrzehnte aufrechtzuerhalten, wodurch Menschen lediglich zu Bienen in einem Schwarm werden, die einheitlich das Lied mitsummen.
 [^spiesser]: [Spießer](https://de.wikipedia.org/wiki/Spie%C3%9Fb%C3%BCrger): Bisher konnte ich mit dem Wort Spießer nie etwas anfangen. Jetzt denke ich, dass mit Spießer eine innere Einfarbigkeit bzw. eine moralische [Gleichschaltung](https://de.wikipedia.org/wiki/Gleichschaltung) gemeint ist.
