@@ -1176,6 +1176,18 @@ Weltanschauung verabsolutieren und sich zu allem und jedem gegenüber bemächtig
 Wahrheit und Meinungsfreiheit stehen für mich an vorderster Stelle meiner Werteskala.
 Daher plädiere ich dafür, dass die oben genannten Filtermechanismen im Sinne dieser Grundwerte modifiziert werden.
 
+### Superreize
+
+[Superreize](https://en.wikipedia.org/wiki/Supernormal_stimulus) sind Reize, gegen die die Evolution kein Gegengewicht entwickelt hat, da es während der gesamten Menschheitsgeschichte unvorstellbar war, dass diese Reize jemals im Übermaß vorhanden sein würden.
+Ein einfaches Beispiel hierfür ist Zucker. Über Jahrtausende war Zucker eine Seltenheit, und viele Menschen empfinden keine natürliche Sättigung.  Um diesen Superreizen zu widerstehen, bedarf es einer bewussten und gezielten mentalen Anstrengung.
+
+#### Gute Werte
+
+Es lässt sich argumentieren, dass auch "gute Werte" und [Tugenden](https://de.wikipedia.org/wiki/Tugend) zu den Superreizen gehören könnten.
+Durch die Geschichte hindurch erschien es undenkbar, dass es je ein Übermaß an diesen "guten Werten" geben könnte.
+Daher mangelt es uns möglicherweise an einem intuitiven Gespür für ein Zuviel, für eine Überdosis dieser positiven Werte.
+
+
 ## Fußnoten
 
 [^freiheit]: Freiheit von allem und Freiheit zu allem, solange man keine Dritten schädigt. Kontrast: [How Freedom Became Free-dumb in America](https://eand.co/how-freedom-became-free-dumb-in-america-baee33dc6476).

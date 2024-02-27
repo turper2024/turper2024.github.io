@@ -1144,6 +1144,107 @@ An dieser Stelle möchte ich aus [Demos: Der wahre Grund für den AfD-Aufstieg](
 
 > Ab jetzt spricht man nicht mehr Klartext, sondern politisch korrekt miteinander. Das politische Spielfeld und auch der Sprachraum werden verengt. Für Angela Merkel und später auch für Olaf Scholz ist diese Rechnung aufgegangen. Für Deutschland geht sie nicht auf.
 
+### Superreize
+
+Ich hatte bereits in [Leben und leben lassen](../leben-und-leben-lassen) über [Superreize](../leben-und-leben-lassen/#superreize) gesprochen:
+[Superreize](https://en.wikipedia.org/wiki/Supernormal_stimulus) sind Reize, gegen die die Evolution kein Gegengewicht entwickelt hat, da es während der gesamten Menschheitsgeschichte unvorstellbar war, dass diese Reize jemals im Übermaß vorhanden sein würden.
+Ein einfaches Beispiel hierfür ist Zucker. Über Jahrtausende war Zucker eine Seltenheit, und viele Menschen empfinden keine natürliche Sättigung.  Um diesen Superreizen zu widerstehen, bedarf es einer bewussten und gezielten mentalen Anstrengung.
+
+#### Multi Mind Self Synchronisation
+
+Ich vermute, dass auch das Übersteuern des Synchronisationsmechanismus zwischen Menschen, wie von Joscha Bach angedeutet, auf einem Superreiz basieren könnte.
+Vermutlich war dieser Mechanismus ursprünglich für kleine Gruppen von Menschen konzipiert und nicht für die Größenordnungen von Zivilisationen ausgelegt.
+
+Ich hatte weiter oben schon davon gesprochen, dass ich manchmal Leuten die Frage stelle, wann ihrer Meinung nach die [Steinzeit](https://de.wikipedia.org/wiki/Steinzeit) ungefähr endete.
+Die meisten vermuten, dass das Ende der Steinzeit mehrere 10'000 Jahre in der Vergangenheit liegt. Eine Google-Suche nach "Steinzeit" liefert mir das "Enddatum: 2000 v. Chr.".
+Selbst wenn es 5'000 v. Chr. gewesen sein sollte, liegt die Steinzeit auf der evolutionären Zeitskala nicht allzu weit zurück.
+Ich argumentiere häufig, dass sich der Mensch vielleicht in seiner Intelligenz stark weiterentwickelt hat, emotional jedoch sind wir immer noch die gleichen "Trottel" wie vor 5'000 Jahren.
+
+Teil dieses "Trottels" dürfte der übersteuernde Synchronisationsmechanismus sein.
+
+##### Julien Benda: Der Verrat der Intellektuellen
+
+[Julien Benda](https://de.wikipedia.org/wiki/Julien_Benda), ein französischer Philosoph und Schriftsteller, beschreibt in seinem Essay [Der Verrat der Intellektuellen](https://www.amazon.de/Treason-Intellectuals-Julien-Benda/dp/1912475316) aus dem Jahr 1927 sehr deutlich ein Multi-Mind-Self in Form des Nationalismus.
+Nach meinem Verständnis verwendet Julien Benda den Begriff "Political Passions" (Plural für mehrere Götter) bzw. "politische Leidenschaften" als Synonym für eine Ideologie alias "sumerischer Gott" alias "Multi-Mind-Self".
+
+Es folgen einige kommentierte Ausschnitte:
+<!--
+This Romantic patriotism is itself particular to that patriotism devised by popular minds (and here I call 'popular' all those minds governed by the imagination -- chiefly meaning society people and men of letters.
+-->
+> Dieser romantische Patriotismus (siehe [Romantik](https://de.wikipedia.org/wiki/Romantik)) ist seinerseits ein besonderer Patriotismus, der von populären Köpfen entwickelt wurde (und hier nenne ich all jene Geister, die von der Vorstellungskraft beherrscht werden, "populär" -- damit sind hauptsächlich Menschen der Gesellschaft und Literaten gemeint).
+
+Ich denke, Benda spricht hier von dem, was ich [Kulturschaffende](../kulturschaffende/#kulturschaffende) nenne.
+
+<!--
+In general, we can say that insofar as national passions are today being processed by plebeian minds, they take on 'mystical' character, that of religious adoration, of which there was little trace when they inhabitated the practical souls of great men. It goes without saying that this makes these passions deeper and stronger.
+-->
+> Im Allgemeinen können wir sagen, dass nationale Leidenschaften, soweit sie heute von plebejischen Geistern verarbeitet werden, einen 'mystischen' Charakter annehmen, den einer religiösen Anbetung, von dem es kaum Spuren gab, als sie die pragmatischen Seelen großer Männer bewohnten.
+> Es versteht sich von selbst, dass diese Leidenschaften dadurch tiefer und stärker werden.
+
+Es ist faszinierend, wie nahe die Sprache Bendas (zumindest in der englischen Übersetzung) an der Informatikersprache Joscha Bachs liegt. Julien Benda spricht von "national passions … being **processed** by plebeian minds", als ob ein Mensch eine CPU wäre, die ein Programm verarbeitet.
+
+<!--
+Charles Marras just like Victor Hugo speaks of the 'goddess France'. This mystical adoration of the nation owes not only to the nature of its worshippers, but also to the changes which have taken place in the object of adoration itself.
+... some will be lead to believe, whether or not they are themselves religious, that states are of a different essence to natural beings.
+-->
+> Charles Marras spricht ebenso wie Victor Hugo von der 'Göttin Frankreich'. Diese mystische Anbetung der Nation ist nicht nur auf die Natur ihrer Anbeter zurückzuführen, sondern auch auf die Veränderungen, die am Gegenstand der Anbetung selbst stattgefunden haben.
+> ... manchen wird, ob sie nun religiös sind oder nicht, glauben gemacht, dass Staaten von einem anderen Wesen sind als natürliche Wesen.
+
+Julien Benda zieht damit in seiner Sprache auch Parallelen zu Religion und Göttern.
+
+<!--
+This one owes to the multiple very powerful political passions which were originally independent of national feeling, but which have now melded with it. These passions are: 1. The movement against the Jews; 2. The movement of the propertied classes against the proletariat; 3. The movement of authoritarians against democrats.
+Today we see that each of these passions identifies itself with national sentiment, and declares that its opponents stand against this feeling. We should add that, almost without exception, the person gripped by each of these passions will also be affected by the two others, with the effect that the national passion is, in general,
+fuelled by the combination of all three.
+-->
+
+> Dies ist auf die vielfältigen, sehr starken politischen Leidenschaften zurückzuführen, die ursprünglich unabhängig vom Nationalgefühl waren, sich aber nun mit diesem verschmolzen haben.
+> Diese Leidenschaften sind: 1. Die Bewegung gegen die Juden; 2. Die Bewegung der besitzenden Klassen gegen das Proletariat; 3. Die Bewegung der Autoritären gegen die Demokraten.
+> Heute sehen wir, dass jede dieser Leidenschaften sich mit dem Nationalgefühl identifiziert und erklärt, dass ihre Gegner sich gegen dieses Gefühl stellen.
+> Wir sollten hinzufügen, dass die Person, die von einer dieser Leidenschaften erfasst wird, fast ausnahmslos auch von den beiden anderen beeinflusst wird, mit dem Ergebnis, dass die nationale Leidenschaft nun im Allgemeinen durch die Kombination aller drei angetrieben wird.
+
+Ähnlich wie ich in [Charakterisierung und Klassifizierung](../kulturschaffende/#charakterisierung-und-klassifizierung) die Woke-Bewegung als einen dezentralen Gott beschreibe, handelt es sich bei den drei von Benda aufgezählten politischen Leidenschaften zusammen mit dem Nationalismus um verschiedene dezentrale "sumerische Götter".
+
+Dezentral bedeutet in diesem Kontext, dass es keinen klaren, singulären Bezugspunkt gibt. In der katholischen Kirche beispielsweise existiert dieser singuläre Bezugspunkt doppelt: einmal in Form des Monotheismus und einmal in der Person des Papstes, der als Kirchenführer fungiert.
+Die nordischen Götter hatten keinen singulären Bezugspunkt, weder als Gruppe von Göttern (kein Monotheismus) noch in Form einer zentralen irdischen Autorität, die behauptete, in einem privilegierten, intimen Verhältnis zu den Göttern zu stehen.
+
+Diese Analogie sehe ich auch bei den von Benda beschriebenen politischen Leidenschaften. Es existieren verschiedene Strömungen. Zudem sind auch die “Priester” und “Theologen”, also die Gruppe der theologischen Vordenker (Benda spricht von "populären Köpfen"), eine dezentrale Gruppe.
+
+<!--
+It cannot be emphasised enough how new to history this form of patriotism really is. It, too, is evidently bound up with the popular masses' adoption of this passion, and seems to have been inaugurated in 1813 by Germany -- apparently humanity's real teacher when it comes to democratic patriotism, if by this we mean a nation's determination to oppose others in the name
+of its most fundamental characteristics. (The France of the Revolution and the Empire never dreamed of setting itself against other nations in the name of its language or literature.)
+-->
+> Es kann nicht genug betont werden, wie neuartig in der Geschichte diese Form des Patriotismus wirklich ist.
+> Auch sie hängt offensichtlich mit der Übernahme dieser Leidenschaft durch die Volksmassen zusammen und scheint 1813 von Deutschland aus seinen Anfang genommen zu haben – offenbar dem wahren Lehrer der Menschheit,
+> wenn es um demokratischen Patriotismus geht, wenn wir damit die Entschlossenheit einer Nation meinen, sich im Namen seiner grundlegendsten Eigenschaften anderen Nationen entgegenzustellen.
+> (Das Frankreich der Revolution und des Kaiserreichs dachte nie daran, sich im Namen seiner Sprache oder Literatur anderen Nationen entgegenzustellen.)
+
+Ich finde es faszinierend, wie aktuell dieses Thema gerade wieder wird, wenn sich Deutschland zum Lehrmeister des wahren Wegs[^tolstoi] in eine klimafreundliche und humane Zukunft aufschwingt.
+
+<!--
+Contrary to what is commonly thought, pride is a stronger passion than self-interest. To be persuaded of this, one need only observe how commonly men get themselves killed on account of some wound to their pride, and how much less frequently so for some assault against their interestes.
+-->
+> Im Gegensatz zur landläufigen Meinung ist Stolz eine stärkere Leidenschaft als Eigennutz. Um sich davon zu überzeugen, muss man nur beobachten, wie häufig Männer wegen einer Verletzung ihres Stolzes getötet werden und wie viel seltener wegen eines Angriffs auf ihre Interessen.
+
+<!--
+It appears that political passions are also making great progress, today, in terms of how they stand relative to the other passions haroured by the same host individual. Political passions occupied much more of the attention of a bourgeois of the old France than is ordinarily supposed, buy the also occupied much less of his attention than the passion for profit,
+the appetite for pleasure, familial sentiments, and the yearning of his vanity. But the least we can say of his modern day counterpart is that when political passions do enter his heart, they have nothing to envy any other passion.
+
+An apostle of the modern soul seeks politics first; he can see politics everywhere, politics always, and politics alone.
+-->
+> Es scheint, dass politische Leidenschaften heute auch große Fortschritte machen, was ihr Verhältnis zu den anderen Leidenschaften angeht, die denselben Wirt bewohnen.
+> Politische Leidenschaften nahmen einen Bourgeois des alten Frankreichs viel mehr in Anspruch, als man gewöhnlich annimmt, aber sie beanspruchten auch viel weniger Aufmerksamkeit als die Profitgier,
+> der Appetit nach Vergnügen, familiäre Gefühle und die Sehnsucht nach Eitelkeit.
+> Aber das Mindeste, was wir über sein modernes Gegenstück sagen können, ist, dass, wenn politische Leidenschaften in sein Herz dringen, sie keine anderen Leidenschaften mehr beneiden müssen.
+
+> Ein Apostel der modernen Seele sucht 'Politics First'; er kann Politik überall sehen, Politik immer und nur noch Politik.
+
+Bevor ich Bendas Beschreibung gelesen hatte, hatte ich keine Vorstellung davon, was Nationalismus *wirklich* bedeutet. Wenn man das liest, wird klar, dass dieses Monster nie wieder kommen darf!
+
+Allerdings werden auch Parallelen [Totalitarismus des 21 Jahrhunderts](../kulturschaffende/#totalitarismus-des-21-jahrhunderts) deutlich.
+Die Leidenschaft, mit der Anhänger der links-grün-woken Bewegung ihre Ziele verfolgen, ist die gleiche wie die 'Politics First'-Beschreibung bei Benda: Politik überall, Politik immer und nur noch Politik.
+Wenn man "Politik" durch "Machtstrukturen" ersetzt, ist man beim Kern der links-grün-woken Religion.
+
 ## Fußnoten
 
 [^kopfkino]: Ein anderes gutes Wort, das beschreibt was passiert, wenn jemand von einer Ideologie beseelt wird, ist 'Kopfkino'.
@@ -1154,3 +1255,4 @@ An dieser Stelle möchte ich aus [Demos: Der wahre Grund für den AfD-Aufstieg](
 [^pluralismusförderung]: In diesem Kontext beziehe ich den Begriff Ideologie auch auf Kirchen(steuer), NGOs, parteinahe Stiftungen, den Elfenbeinturm der Geisteswissenschaften sowie auf die Kunst- und Kulturszene.
 [^demokratieförderung]: Das [Demokratiefördergesetzes](https://www.bundestag.de/dokumente/textarchiv/2023/kw13-pa-familie-demokratiefoerderung-938952) wurde auf Twitter auch schon "Klientelsteuergeldzuschanzgesetz" genannt.
 [^wahrheitgruppellms]: Wahrheit ist bei Menschen ein Gruppeneffekt: Und nun [mischen die LLMs in dieser Gruppe auch noch mit](https://labs.ripe.net/author/kathleen_moriarty/the-llm-misinformation-problem-i-was-not-expecting).
+[^tolstoi]: Dazu passt auch das Zitat von [Leo Tolstoi](https://de.wikipedia.org/wiki/Lew_Nikolajewitsch_Tolstoi), das ich im Artikel [Typisch deutsch -- typisch grün](https://vera-lengsfeld.de/2024/02/24/typisch-deutsch-typisch-gruen/) gefunden habe: "Herr Haber war einer jener Leute mit einem unerschütterlichen, fanatischen Selbstvertrauen, wie man sie nur unter den Deutschen findet, weil nur die Deutschen Selbstvertrauen haben auf Grund einer abstrakten Idee – der Wissenschaft, das heißt, der angeblichen **Erkenntnis der vollkommenen Wahrheit**. Der Franzose hat Selbstvertrauen, weil ... . Der Engländer hat Stolz und Selbstvertrauen darum, weil ... . Der Italiener hat Selbstvertrauen, weil ... . Der Russe hat Selbstvertrauen eben deshalb, weil er nichts weiß und nichts wissen will, weil er nicht glaubt, dass man irgend etwas sicher wissen könne. Der Deutsche besitzt ein stärkeres und widerlicheres Selbstvertrauen als alle anderen, **weil er sich einbildet, er wisse die Wahrheit**, die Wissenschaft, die er sich selbst erdacht hat, aber für absolute Wahrheit hält."
