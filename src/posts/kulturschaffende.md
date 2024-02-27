@@ -1181,6 +1181,9 @@ Dabei betont er, dass das offensichtlich diskutierte Thema oft nur ein Vehikel f
 Als Indiz führt er an, dass Themen und Gruppen, die einst im Fokus standen, nun an den Rand gedrängt werden.
 Er spricht vor Frauenrechtlerinnen der Organisation [Genspect](https://en.wikipedia.org/wiki/Genspect), die von der trans-inklusiven Frauenrechtsbewegung als [TERFs](https://en.wikipedia.org/wiki/TERF_(acronym)) (trans-exklusive radikale Feministinnen) diffamiert und marginalisiert werden.
 
+In [The Cultural Revolution is here. Just ask Xi Van Fleet. She's lived it twice.](https://twitter.com/tuckercarlson/status/1762249935116963993) berichtet die Zeitzeugin [Xi Van Fleet](https://www.hachettebookgroup.com/contributor/xi-van-fleet/) über die [Kulturrevolution](https://de.wikipedia.org/wiki/Kulturrevolution)
+in China unter [Mao Zedong](https://de.wikipedia.org/wiki/Mao_Zedong). Sie schlägt in eine ähnliche Kerbe wie James A. Lindsay und vermutet eine marxistische Agenda.
+
 Aus Sicht des Rieck's Rasiermesser bleibt die Frage offen, ob eine bestimmte Agenda der Woke-Bewegung dient oder ob diese Bewegung vielmehr instrumentalisiert wird, um bestimmte Ziele zu erreichen.
 
 Im früheren Abschnitt, betitelt mit [Entlaufenes Laborexperiment oder kognitive Kriegsführung?](#entlaufenes-laborexperiment-oder-kognitive-kriegsführung%3F), hatte ich erwähnt, dass es sich sowohl um "Friendly Fire"[^kognitivekriegsfuhrung] als auch um "Enemy Fire" handeln könnte.
