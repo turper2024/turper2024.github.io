@@ -820,6 +820,81 @@ wechselwirken.  Auch hier gibt es eine Analogie zu den nordischen Göttern, wie 
 objektiven Realität) durch den Donnergott [Thor](https://de.wikipedia.org/wiki/Thor). Für das tägliche Leben spielt der Mechanismus hinter dem Donner
 keine Rolle, aber er bietet Stoff für mythologische Geschichten.
 
+#### Gegenüberstellung
+
+<table class="ms-2 me-2 table table-hover table-striped table-bordered border-primary">
+  <thead>
+    <tr style="text-align: left;">
+      <th></th>
+      <th>Christentum</th>
+      <th>Links-Grün-Woke</th>
+      <th>Nationalismus</th>
+    </tr>
+  </thead>
+  <tbody class="table-group-divider">
+    <tr>
+      <th>Kategorie</th>
+      <td>Religion</td>
+      <td>Politische Leidenschaft</td>
+      <td>Politische Leidenschaft</td>
+    </tr>
+    <tr>
+      <th>Grundgefühle</th>
+      <td>Nächstenliebe</td>
+      <td>Hass, Vorurteil</td>
+      <td>Hass, Vorurteil, Stolz</td>
+    </tr>
+    <tr>
+      <th>Haltung</th>
+      <td>Demut</td>
+      <td>Hochmut</td>
+      <td>Hochmut</td>
+    </tr>
+    <tr>
+      <th>Haltung</th>
+      <td>Abstrakt, Verachtung für das Unmittelbare</td>
+      <td>Unmittelbare Ergebnisse, Antrieb zur Aktion</td>
+      <td>Unmittelbare Ergebnisse, Antrieb zur Aktion</td>
+    </tr>
+    <tr>
+      <th>Fokus</th>
+      <td>Metaphysisch, Selbstlos</td>
+      <td>Realismus</td>
+      <td>Vergöttlichter Realismus</td>
+    </tr>
+    <tr>
+      <th>Fokus</th>
+      <td>Entwicklung des moralischen Selbst-Sein</td>
+      <td>Verfall</td>
+      <td>Größenwahn</td>
+    </tr>
+    <tr>
+      <th>Fokus</th>
+      <td>Individuelles gutes Leben</td>
+      <td>Herrschaftsideologie</td>
+      <td>Herrschaftsideologie</td>
+    </tr>
+    <tr>
+      <th>Fokus</th>
+      <td>Organisation des Gemeinwohls</td>
+      <td>Intellektuelle Organisation des politischen Hasses</td>
+      <td>Intellektuelle Organisation des politischen Hasses</td>
+    </tr>
+    <tr>
+      <th>Fokus</th>
+      <td>Jenseits</td>
+      <td>Diesseits</td>
+      <td>Diesseits</td>
+    </tr>
+    <tr>
+      <th>Fokus</th>
+      <td>Seelenheil</td>
+      <td>Dominanz</td>
+      <td>Dominanz</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Autoimmunerkrankung
 
 Zu einem weniger dramatischen, aber genauso schädlichen Bild kommen wir, wenn wir annehmen, dass Fanatiker die Rolle eines Immunsystems übernehmen, die eine Ideologie bzw. Kultur gegen fremde Ideologien bzw. Kulturen verteidigen.
@@ -1179,7 +1254,7 @@ Dabei betont er, dass das offensichtlich diskutierte Thema oft nur ein Vehikel f
 > The issue is not the issue, the issue is the revolution.
 
 Als Indiz führt er an, dass Themen und Gruppen, die einst im Fokus standen, nun an den Rand gedrängt werden.
-Er spricht vor Frauenrechtlerinnen der Organisation [Genspect](https://en.wikipedia.org/wiki/Genspect), die von der trans-inklusiven Frauenrechtsbewegung als [TERFs](https://en.wikipedia.org/wiki/TERF_(acronym)) (trans-exklusive radikale Feministinnen) diffamiert und marginalisiert werden.
+Er spricht vor Frauenrechtlerinnen der Organisation [Genspect](https://en.wikipedia.org/wiki/Genspect)[^sexbinary], die von der trans-inklusiven Frauenrechtsbewegung als [TERFs](https://en.wikipedia.org/wiki/TERF_(acronym)) (trans-exklusive radikale Feministinnen) diffamiert und marginalisiert werden.
 
 In [The Cultural Revolution is here. Just ask Xi Van Fleet. She's lived it twice.](https://twitter.com/tuckercarlson/status/1762249935116963993) berichtet die Zeitzeugin [Xi Van Fleet](https://www.hachettebookgroup.com/contributor/xi-van-fleet/) über die [Kulturrevolution](https://de.wikipedia.org/wiki/Kulturrevolution)
 in China unter [Mao Zedong](https://de.wikipedia.org/wiki/Mao_Zedong). Sie schlägt in eine ähnliche Kerbe wie James A. Lindsay und vermutet eine marxistische Agenda.
@@ -1366,3 +1441,4 @@ Achten Sie auch auf das Aktualisierungsdatum des T-Online Berichts: 28. August 2
 [^redaktionsschluss]: [Berlinale: Roth und Verklärung | Redaktionsschluss mit David Boos](https://youtu.be/d46_3aq1ogA?t=150)
 [^alignment]: [AI-Alignment](https://en.wikipedia.org/wiki/AI_alignment): Ich bin bisher davon ausgegangen, dass es beim AI-Alignment darum geht, sicherzustellen, dass künstliche Intelligenz im Dienste der Menschheit steht und deren Wohl fördert. Mittlerweile bin ich jedoch der Meinung, dass AI-Alignment auch in umgekehrter Richtung verstanden werden kann und künstliche Intelligenz durch Messaging über Social-Media und andere Kanäle in der Lage ist, eine innerliche Einfarbigkeit bzw. eine moralische [Gleichschaltung](https://de.wikipedia.org/wiki/Gleichschaltung) langfristig über Jahrzehnte aufrechtzuerhalten, wodurch Menschen lediglich zu Bienen in einem Schwarm werden, die einheitlich das Lied mitsummen.
 [^spiesser]: [Spießer](https://de.wikipedia.org/wiki/Spie%C3%9Fb%C3%BCrger): Bisher konnte ich mit dem Wort Spießer nie etwas anfangen. Jetzt denke ich, dass mit Spießer eine innere Einfarbigkeit bzw. eine moralische [Gleichschaltung](https://de.wikipedia.org/wiki/Gleichschaltung) gemeint ist.
+[^sexbinary]: [Why The Sex Binary Matters - Dr. Colin Wright](https://www.youtube.com/watch?v=-4WV9xv62f4) ist ein weiteres gutes Video von [Genspect](https://en.wikipedia.org/wiki/Genspect).
