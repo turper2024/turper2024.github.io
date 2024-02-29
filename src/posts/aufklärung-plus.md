@@ -978,7 +978,7 @@ Zur einfachen und klaren Abgrenzung von Ideologien bezeichne ich Themen mit Zins
 
 Ich schlage folgende 3 Achsen vor anhand derer man sich orientieren kann:
 
-- Privat, politisch oder fundamental
+- Privat, kollektiv, politisch oder fundamental
 - Stärke der Verbindung zur Realität bzw. Entscheidbarkeit
 - Vorhandensein von Fanatikern (Gewalt / Zeit)
 
@@ -990,7 +990,7 @@ Bei [unentscheidbaren](https://de.wikipedia.org/wiki/Entscheidbar) Fragestellung
 Bei entscheidbaren Fragestellungen mit lediglich losem Bezug zur Realität kann es sich sowohl um eine Ideologie als auch um eine Strategie handeln.
 Das Vorhandensein von Fanatikern kann dann als erstes Indiz für eine ideologische Ausrichtung dienen.
 
-Ideologien (rechts, links, Religion usw.) manifestieren sich in drei Formen: als Privatsache, als politische Ideologie und als Fundamentalismus.
+Ideologien (rechts, links, Religion usw.) manifestieren sich in vier Formen: als Privatsache, kollektiv, als politische Ideologie und als Fundamentalismus.
 Die mir bekannten "(Business-)Strategien" existieren lediglich als private Angelegenheit[^gymstrategie], als Unternehmensstrategie und als politische Strategie einer Partei.
 
 Sowohl Ideologien als auch Strategien nutzen eine [Mythological-Lens](#ideologien-und-die-mythological-lens) als Hilfsmittel oder Heuristik, um [wertvolles von nicht werthaltigem Verhalten](../leben-und-leben-lassen/#kulturessenzialismus-vs.-kosmopolitische-hyperkultur) zu unterscheiden.
