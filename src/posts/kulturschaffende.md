@@ -1400,6 +1400,53 @@ Für den Publikumspreis für den skandalösesten Schwindel- Journalismus 2023 ha
 1. [Markus Lanz](https://de.wikipedia.org/wiki/Markus_Lanz) mit Platz 4 und
 1. [Anja Reschke](https://de.wikipedia.org/wiki/Anja_Reschke) mit Platz 5.
 
+### Metaphysik
+
+In meinem Blogbeitrag [Aufklärung-Plus](../aufkl%C3%A4rung-plus), speziell im Abschnitt [Wissenschaft vs. Theologie](../aufkl%C3%A4rung-plus/#wissenschaft-vs.-theologie), habe ich [unentscheidbare](https://de.wikipedia.org/wiki/Entscheidbar) Fragestellungen thematisiert, beispielsweise die nach einem Leben nach dem Tod.
+Ich gestand bereits, dass ich es persönlich meide, auch nur einen Moment über solch unlösbare Probleme nachzudenken, da sie mir als Zeitverschwendung erscheinen.
+Dennoch kommt man nicht ganz ohne eine Auseinandersetzung mit der Metaphysik auf philosophischer Ebene aus. Von einer metaphysisch-philosophischen Warte aus betrachtet, sind lediglich zwei "Sprünge" des Glaubens notwendig, um in der Realität zu landen:
+
+1. Sprung 1: Auch wenn ich nicht beweisen kann, dass außer meinem eigenen Bewusstsein weitere existieren, entscheide ich mich zu glauben, dass meine Mitmenschen und andere wahrgenommene Lebewesen real sind und dass wir eine geteilte Realität haben, die wir begreifen können und in der wir uns austauschen können.
+1. Sprung 2: Auch wenn ich nicht beweisen kann, ob unser Leben vorherbestimmt ist oder wir mittels freiem Willen dessen Verlauf beeinflussen können, wähle ich zu glauben, dass mein freier Wille es mir ermöglicht, mein Leben aktiv zu gestalten.
+
+Sobald ich in der Realität ankomme, stellt sich die Frage nach dem Sinn des Lebens.
+Ein Sinn ist immer verknüpft mit einem höheren Zweck.
+Wenn ich nach dem Sinn von "A" frage, dann muss es ein "B" geben, das "A" bedingt. Ich tue "A", um "B" zu erreichen.
+Der Sinn des Schulbesuchs liegt darin, für das Leben zu lernen und später einen guten Beruf zu erlangen.
+Der Zweck, einen guten Beruf zu haben, ist es, meinen Lebensunterhalt zu sichern. Und so weiter.
+So entsteht eine Sinnleiter. Nun gibt es folgende mögliche Antworten auf die Frage nach dem Sinn des Lebens:
+
+1. Es gibt einen Sinn:
+   1. Leiter mit einem Ω-Punkt
+   1. Zirkelschluss
+1. Es gibt keinen Sinn
+
+Option 1.1 bedeutet, dass ich an einen ultimativen Sinn im Leben glaube, der am Ende dieser Sinnkette steht, und diesen ultimativen Sinn nenne ich Gott.
+Option 1.2 bedeutet, dass ich diese Kette in sich selbst schließe und damit einen Sinn errichte.
+Option 2 bedeutet, dass ich die Idee dieser Kette für Unsinn halte und nicht an einen Sinn glaube.
+
+Unter Option 1.1 bin ich gläubig und folge den Lehren meines heiligen Buches.
+Bei Option 2 glaube ich an nichts und neige entweder zum [Nihilismus](https://de.wikipedia.org/wiki/Nihilismus) oder [Hedonismus](https://de.wikipedia.org/wiki/Hedonismus).
+Persönlich habe ich mich für Option 1.2 entschieden und definiere meinen eigenen Sinn als:
+
+> Das Leben ist für das Leben da.
+
+Das gilt sowohl im trivialen, biologischen Sinn – alle Lebewesen streben nach Fortpflanzung – als auch in einem weiteren Sinn, in dem die Aufgabe eines Lebewesens darin besteht, dafür zu sorgen, dass es im Großen und Ganzen allen Lebewesen jetzt und in Zukunft gutgeht.
+
+[Erik H. Erikson](https://de.wikipedia.org/wiki/Erik_H._Erikson) skizziert in seinem [Stufenmodell der psychosozialen Entwicklung](https://de.wikipedia.org/wiki/Stufenmodell_der_psychosozialen_Entwicklung) den menschlichen Lebenszyklus von der Kindheit bis ins hohe Alter.
+In der Kindheit ist der Mensch auf externe Unterstützung von Eltern und Gesellschaft angewiesen, eine Art "Schuld", die im Erwachsenenalter während der generativen Phase zurückgezahlt wird:
+
+> "Ich bin, was ich bereit bin zu geben."<br>
+> <br>
+> Generativität bedeutet, die Liebe in die Zukunft zu tragen, sich um zukünftige Generationen zu kümmern, eigene Kinder großzuziehen.
+> Erikson zählt dazu nicht nur eigene Kinder zu zeugen und für sie zu sorgen, sondern auch das Unterrichten, die Künste und Wissenschaften und soziales Engagement.
+> Also alles, was für zukünftige Generationen "brauchbar" sein könnte.
+
+Stagnation ist bei Erik H. Erikson das Gegenteil von Generativität: sich um sich selbst kümmern und um niemanden sonst.
+
+Das ist in meinen Augen alles, was man an Metaphysik "braucht".
+Von hier an kann man mit der Physik und unter Zuhilfenahme der wissenschaftlichen Methode, in deren Zentrum das reproduzierbare Experiment steht, die Welt ergründen.
+
 ### Sachebene und utilitaristische Interessen
 
 ... Fortsetzung folgt ...
