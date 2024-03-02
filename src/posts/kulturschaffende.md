@@ -652,7 +652,7 @@ Ich habe hierzu eine Kommunikationsstrategie entwickelt, die ich hier als Beispi
 >
 > Das oben Erwähnte vermittelt einen Eindruck davon, was das Demokratieförderungsgesetz bewirken soll.
 >
-> Insgesamt möchte ich dir empfehlen, deine Mediennutzung um kritische Quellen wie die [NachDenkSeiten](https://www.nachdenkseiten.de/) zu erweitern.
+> Insgesamt möchte ich dir empfehlen, deine Mediennutzung um kritische Quellen wie den [NachDenkSeiten](https://www.nachdenkseiten.de/) zu erweitern. Hier findest du [Information zur Finanzierung der NachDenkSeiten](https://www.nachdenkseiten.de/?p=111414).
 >
 > Hier eine Kostprobe: [Vortrag von General a. D. Harald Kujat in Berlin über Ukraine-Krieg und den geopolitischen Wandel](https://youtu.be/L6dbonhYkDE?t=1210): Kurz vor Beginn der Münchner Sicherheitskonferenz (MSC), am 16.02.2024, hielt der ehemalige Generalinspekteur der Bundeswehr und Vorsitzende des NATO-Militärausschusses, [Harald Kujat](https://de.wikipedia.org/wiki/Harald_Kujat), einen sehr gut besuchten Vortrag zum Thema: "Der Ukrainekrieg, die Rivalität der großen Mächte und die Selbstbehauptung Europas".
 > <blockquote>Der strategische Wendepunkt im Verhältnis der Vereinigten Staaten zu Russland war das Jahr 2002, nämlich die <b>einseitige Kündigung</b> des 1972 geschlossenen und für das nuklearstrategische Gleichgewicht zwischen diesen beiden Supermächten so enorm wichtigen ABM-Abkommens über strategische Raketenabwehrsysteme, denn gleichzeitig wurde in Europa ein Raketenabwehrsystem aufgebaut, das Russland als Bedrohung des nuklearstrategischen Gleichgewichts mit den Vereinigten Staaten verstehen musste. 2019 wurde dann <b>ebenfalls einseitig</b> das für Europas Sicherheit so entscheidende INF-Abkommen über nukleare Mittelstreckenraketen aufgekündigt. Im Grunde genommen haben die Vereinigten Staaten damit Russland die Möglichkeit gegeben, völkerrechtlich und vertragskonform, ein neues eurostrategisches nukleares Bedrohungspotenzial gegen Europa aufzubauen. Ein Jahr später wurde dann der Vertrag über den offenen Himmel, <b>ebenfalls einseitig</b>, gekündigt. Das war ein ganz wichtiger Vertrag, weil er gegenseitige Inspektionen erlaubte und für Transparenz und Vorhersehbarkeit auch des militärischen Handelns da war. Dagegen wurde 2021 das Abkommen über interkontinentalstrategische Waffensysteme, also amerikanische und russische Waffenabkommen, das sogenannte New-START-Abkommen mit Russland um 5 Jahre <b>einvernehmlich verlängert</b>. Es hat dann auch Verhandlungen sogar während des Ukraine-Krieges gegeben, bis Russland dann wegen der massiven Unterstützung der Vereinigten Staaten die Verhandlungen unterbrochen hat.</blockquote>
@@ -1559,6 +1559,9 @@ Vor diesem Hintergrund sind auch die zahlreichen staatlichen Meldestellen, die S
 
 Es gibt noch viele weitere Beispiele, die jedem auffallen werden, der die Augen offen hält.
 
+In [Synthetic Sentience: Can Artificial Intelligence become conscious?](../aufklärung-plus/#synthetic-sentience%3A-can-artificial-intelligence-become-conscious%3F) beschreibe ich Joscha Bachs Überlegungen
+zum Thema Moral, angelehnt an die Philosophie von [Thomas von Aquin](https://de.wikipedia.org/wiki/Thomas_von_Aquin).
+
 #### Checks and Balances
 
 Das Ziel der vorgeschlagenen "Checks and Balances" ist der Schutz der Grundfreiheiten der Bürger unseres Landes:
@@ -1610,17 +1613,79 @@ Allerdings sollte die Effektivität der implementierten Maßnahmen für jeden in
 
 In der Logik der Datenschutz-Grundverordnung wäre der Staat in dieser Public-Private-Partnership der [Verantwortliche](https://de.wikipedia.org/wiki/Verantwortlicher_(Datenschutz)) und die verschiedenen privaten Dienstleister wie Plattformen oder Banken die [Auftragsverarbeiter](https://de.wikipedia.org/wiki/Auftragsverarbeitung).
 Bei Fehlleistungen, wie z.B. der Zensur von legitimen Meinungsbeiträgen oder bei Kontensperrungen aufgrund falscher Geldwäsche-Meldungen, sollte der betroffene Bürger ein Klagerecht gegen den Staat als Verantwortlichen erhalten, mit empfindlichen Geldstrafen, z.B. pro Tag, an dem ein Konto fälschlicherweise gesperrt ist,
-eine Strafe von mindestens 50.000 Euro oder 10-mal den Kontobetrag, je nachdem, welcher Wert höher ist.
+eine Strafe von mindestens 50'000 Euro oder 10-mal den Kontobetrag, je nachdem, welcher Wert höher ist.
 Durch diese Verankerung der Verantwortung beim Staat, inklusive juristisch einklagbarer empfindlicher Schadensersatzansprüche, sollte ein Gleichgewicht zwischen den verschiedenen Interessenslagen geschaffen werden.
 Zudem darf es dem Staat nicht möglich sein, sich über den Umweg dieser Public-Private-Partnerships aus der Verantwortung zu stehlen.
 
-#### Guter Treuhänder
+#### (Steuergeld-)Einsparungen
+
+Ein guter Vormund, der treuhänderisch für das Vermögen eines Mündels verantwortlich ist, sollte verschiedene Eigenschaften und Fähigkeiten besitzen, um diese Rolle effektiv und im besten Interesse des Kindes auszuüben.
+Aus einem ähnlichen Mindset heraus sollten die Staatsvertreter handeln, wenn sie über die Verwendung der Steuereinnahmen der Bürger entscheiden.
+
+##### Von Fernethik zu Nahethik
+
+Zur Steuergeldeinsparung erscheinen mir alle Fernethikprojekte, die nicht in direktem Zusammenhang mit einer unmittelbaren humanitären Katastrophe stehen, als sofortige Kandidaten.
+Anders ausgedrückt: Ethisch begründete Projekte im Ausland sollten nur dann mit Steuergeldern unterstützt werden, wenn sie in direktem Zusammenhang mit einer unmittelbaren humanitären Katastrophe, wie einer Hungersnot oder einem Erdbeben, stehen.
+Dabei sollte der Begriff "Katastrophe" grundsätzlich auf zwei Jahre beschränkt werden, um Anreize zu schaffen, das bereitgestellte Geld zur Stabilisierung der Situation zu nutzen und nicht zur Verstetigung der Geldflüsse.
+
+##### Vom Konflikt zur Begegnung
+
+Sowohl im Anhang zum Thema [Pluralismus](../aufklärung-plus/#pluralismus) in meinem Blogbeitrag "Aufklärung-Plus" als auch hier in diesem Beitrag zu "Kulturschaffenden" habe ich bereits erörtert,
+dass eine wesentliche Quelle für Konflikte in unserer Gesellschaft Kulturschaffende im Sinne der Ideologiebildung sind. Aus diesem Grund plädiere ich für den Stopp von staatlichen Geldern für:
+
+* Geisteswissenschaften an staatlichen Universitäten
+* Kunst- und Kulturförderung
+* NGOs
+* Faktenchecker
+* Verlage, Zeitungen, Journalismus
+* Religionsgemeinschaften (Abschaffung der Kirchensteuer)
+* Parteinahe Stiftungen
+* ...
+
+Religion, Ethik, Moral und Kultur sind in einem [laizistischen](https://de.wikipedia.org/wiki/Laizismus) Staat Privatsache und sollten daher auch ausschließlich aus privaten Mitteln gefördert werden.
+Um bei dieser privaten Förderung ein [Zensuswahlrecht](https://de.wikipedia.org/wiki/Zensuswahlrecht) zu vermeiden, fordere ich absolute Spendentransparenz, das Verbot von Spenden durch juristische Personen, das Verbot von Spenden aus dem Ausland, also von Personen, die nicht ihren gemeldeten Hauptwohnsitz in Deutschland haben,
+sowie eine Obergrenze pro Spende von beispielsweise 5'000 Euro.
+
+Frei werdende staatliche Gelder sind meiner Ansicht nach für den gesellschaftlichen Zusammenhalt besser investiert, wenn wir die Begegnung, z.B. die [abrahamische Ökumene](https://de.wikipedia.org/wiki/J%C3%BCdisch-christlich-islamischer_Dialog#Abrahamitische_%C3%96kumene), fördern,
+statt die Ideologien, Weltanschauungen und politischen Richtungen selbst.
+
+##### Cradle-to-Cradle im Energiemarkt
+
+[Cradle-to-Cradle](https://www.youtube.com/watch?v=ITAJ_cjNI2s) ist ein Konzept von [Prof. Michael Braungart](https://de.wikipedia.org/wiki/Michael_Braungart) und beschreibt eine ganzheitliche Betrachtungsweise.
+Es erscheint mir als ein ausgezeichnetes Leitmotiv für die Gestaltung unserer zukünftigen Wirtschaftsform.
+
+Ein konkreter Punkt, der uns aktuell als Bürger sehr viel Geld kostet, sind die Investitionen in die Stabilisierung unseres Stromnetzes.
+Dies ist notwendig, weil durch Wind- und Solarenergie immer mehr nicht regelbare Energiequellen hinzukommen, die dann teuer an anderer Stelle ausgeglichen werden müssen.
+Ich fordere daher, dass in Zukunft nur noch Energiequellen gefördert werden, die als "Komplettsysteme" regelbare Energie liefern.
+
+Zur öffentlichen Anhörung des [Ausschusses für Klimaschutz und Energie](https://www.bundestag.de/ausschuesse/a25_klimaschutz_und_energie/anhoerungen/986486-986486) am Montag, den 29. Januar 2024, liest man in der
+[Stellungnahme](https://www.bundestag.de/resource/blob/987896/63ddee39f6057493934bbe284eb3abbd/20-25-554_Stellungnahme_SV_Frank_Hennig.pdf) von Dipl.-Ing. Frank Hennig Folgendes:
+
+> … vorgeschlagen, die Einspeisevergütung nach EEG an konstante oder regelfähige Einspeisung zu binden und so genannte Kombikraftwerke, die bedarfsgerecht produzieren, zu fördern.
+> Dies wäre der einzig gangbare Weg, die ausufernden Systemkosten zu beherrschen und kostenerhöhende Stromspeicherung zu minimieren.
+> Wenn das Ziel "100-Prozent-Erneuerbar" lautet, ist es längst überfällig, diesen Erzeugern auch Systemverantwortung zu übertragen.
+> Gleichzeitig müssen die Regularien zugunsten von Stromspeichern geändert werden, um eventuell private Investoren zu finden.
+> Gelingt dies nicht, bleibt nur die Option, andere Flexibilitätsoptionen kostenintensiv einzusetzen.
+
+Mehr dazu im Podcast [Der Irrtum des Wirtschaftsministers](https://think-beyondtheobvious.com/der-irrtum-des-wirtschaftsministers/).
+
 
 #### Leistungsstark
 
 #### Effizient
 
 #### Daten
+
+#### Compliance-Regeln zur Vermeidung von Interessenskonflikten in politischen Parteien
+
+Die Finanzindustrie hat in der Vergangenheit eine Reihe von [Skandalen](https://www.finanzwende.de/) erlebt, die zum Nachteil der Kunden waren. Als
+Reaktion darauf wurden die Compliance-Regeln, insbesondere im Hinblick auf Interessenskonflikte, erheblich erweitert. Es überrascht mich, dass bisher
+keine politische Partei es für notwendig erachtet hat, ähnlich strenge Compliance-Regeln für ihre Mitglieder, oder zumindest für ihre gewählten
+Vertreter in öffentlichen Ämtern, einzuführen. Eine verpflichtende jährliche Schulung, gefolgt von einem Test und einer Unterschrift, sowie ein
+Compliance-Beauftragter mit der Befugnis, Hinweisen von Whistleblowern nachzugehen, könnten einen wesentlichen Beitrag dazu leisten, zukünftige
+Skandale zu verhindern oder zumindest frühzeitig zu erkennen und zu stoppen. Dies könnte dazu beitragen, das Vertrauen der Bevölkerung in unsere
+Demokratie zu stärken.
+
 
 ## Fußnoten
 
