@@ -676,7 +676,7 @@ Dieses würde die Entwicklungen rund um die Woke-Bewegung beobachten und als ins
 
 ### Doppelmoral
 
-In meinem Beitrag "Leben und leben lassen" habe ich die Problematik der [Doppelmoral](../leben-und-leben-lassen/#doppelmoralverbot) aus einer liberalen ethischen Perspektive erörtert.
+In meinem Beitrag "Leben und leben lassen" habe ich die Problematik der [Doppelmoral](../leben-und-leben-lassen/#doppelmoralverbot)[^luisaneubauerdoppelmoral] aus einer liberalen ethischen Perspektive erörtert.
 
 Geht man jedoch davon aus, dass wir es mit einer Ideologie zu tun haben, zeigt sich ein differenzierteres Bild.
 Es scheint, dass Doppelmoral oft eine inhärente Komponente von Ideologien ist, eine Falle, die dazu dient, Kritiker zu entlarven und gezielt anzugehen.
@@ -1447,17 +1447,178 @@ Stagnation ist bei Erik H. Erikson das Gegenteil von Generativität: sich um sic
 Das ist in meinen Augen alles, was man an Metaphysik "braucht".
 Von hier an kann man mit der Physik und unter Zuhilfenahme der wissenschaftlichen Methode, in deren Zentrum das reproduzierbare Experiment steht, die Welt ergründen.
 
+### Leistungsfeindlichkeit
+
+Der Neurologe und Psychiater [Viktor Frankl](https://de.wikipedia.org/wiki/Viktor_Frankl) beschreibt drei Hauptstraßen zum Sinn:
+1. etwas Sinnvolles oder Wertvolles zu tun oder zu schaffen – Schaffenswerte;
+1. etwas Sinnvolles oder Wertvolles zu erleben (zum Beispiel lieben) – Erlebenswerte; und
+1. dem Leiden einen Sinn und damit einen Wert zu geben – Einstellungswerte.
+
+Die links-grüne Woke-Bewegung hat, meiner Meinung nach, die zunehmende Vermeidungshaltung gegenüber Arbeit noch einen Schritt weiter getrieben.
+Sie stellt sich aktiv jeder Art von Schaffenswerten in den Weg. Sie möchte jedem, der seine Arbeit gerne tut, die Arbeit verleiden durch z. B. eine Flut von Papier, Regulierung und Bürokratie.
+
+> Die aktuellen [Bauernproteste](https://www.agrarheute.com/politik/bauernproteste-kundgebung-parteizentralen-berlin-geplant-615570), unterstützt von Handwerkern, Spediteuren, Fischern und vielen anderen aus der arbeitenden Bevölkerung, betrachte ich als Zeichen des Widerstands gegen diesen Verfall,
+> gegen die politische Gängelung, und dagegen, die finanziellen Lasten unverhältnismäßig auf die "produktiven" Teile der Gesellschaft abzuwälzen.
+
+Die Situation erinnert mich auch an einen Artikel von [David Graeber](https://en.wikipedia.org/wiki/David_Graeber).
+In [On the phenomenon of bullshit jobs](https://libcom.org/article/phenomenon-bullshit-jobs-david-graeber) beleuchtet er ein interessantes Phänomen: Menschen, die essenzielle Arbeiten verrichten, sind oft schlecht bezahlt.
+Er definiert "wichtige Arbeit" als Arbeit, die für die Gesellschaft unverzichtbar ist und deren Ausfall sofort bemerkt würde.
+Graeber stellt fest, dass die Wahrscheinlichkeit, dass jemand für seine Arbeit gut bezahlt wird, umso geringer ist, je offensichtlicher diese Arbeit anderen Menschen einen Nutzen bringt.
+
+Aber ich lasse am besten David Graeber selbst zu Wort kommen:
+
+> In unserer Gesellschaft scheint es eine allgemeine Regel zu geben, dass die Wahrscheinlichkeit, dass jemand dafür bezahlt wird, umso geringer ist, je offensichtlicher die eigene Arbeit anderen Menschen einen Nutzen bringt.
+> Auch hier ist es schwer, ein objektives Maß zu finden, aber eine einfache Möglichkeit, ein Gefühl dafür zu bekommen, besteht darin, zu fragen: Was würde passieren, wenn diese ganze Klasse von Menschen einfach verschwinden würde?
+> Sagen Sie, was Sie über Krankenschwestern, Müllmänner oder Mechaniker wollen: Es ist klar, dass die Folgen unmittelbar und katastrophal wären, wenn sie in einer Rauchwolke verschwinden würden.
+> Eine Welt ohne Lehrer oder Hafenarbeiter würde bald in Schwierigkeiten geraten, und selbst eine Welt ohne Science-Fiction-Autoren oder Ska-Musiker wäre eindeutig ein schlechterer Ort.
+> Es ist nicht ganz klar, wie sehr die Menschheit leiden würde, wenn alle CEOs, Lobbyisten, PR-Forscher, Aktuare, Telemarketer, Gerichtsvollzieher oder Rechtsberater von Private-Equity-Unternehmen auf ähnliche Weise verschwinden würden (viele vermuten, dass es eine deutliche Verbesserung geben könnte).
+> Doch abgesehen von einer Handvoll vielgepriesener Ausnahmen (Ärzte) gilt die Regel überraschend gut.<br>
+> ...<br>
+> Es ist, als ob jemand zu ihnen (den Leuten die "echte" Arbeit erledigen) sagen würde: "Aber du darfst Kinder unterrichten! Oder Autos bauen! Du bekommst echte Jobs! Und obendrein erdreistest du dich auch noch eine angemessene Rente und Krankenversicherung zu erwarten?"
+
+David Graeber sieht den Kapitalismus als treibende Kraft hinter der Geringschätzung von Menschen, die echte Arbeit leisten.
+Meiner Ansicht nach zeigt die links-grüne Woke-Bewegung eine mindestens ebenbürtige Verachtung gegenüber der produktiven Bevölkerung[^linkseinkommen].
+Im Bestfall ersetzt der Woke-Mensch die Bürokratie des Kapitals lediglich durch die Politbürokratie und die Bürokratie der Regelungs- und Kontrollwut.
+Im schlechtesten Fall trifft man direkt auf die kindliche Geisteshaltung "ich habe Anspruch auf Ansprüche" und man unterlasse es, den erhabenen Träger dieser Geisteshaltung, mit den profanen Belangen der materiellen Versorgung zu behelligen.
+Das hat auch etwas mit Status zu tun. Ich hatte das folgende Zitat aus  [Das Reiss Profile: Die 16 Lebensmotive](https://www.amazon.de/Das-Reiss-Profile-Lebensmotive-Bed%C3%BCrfnisse/dp/3869360003) bereits im Blogbeitrag [Aufklärung-Plus](../aufkl%C3%A4rung-plus) erwähnt:
+
+> Menschen, die etwas geleistet haben, betrachten diejenigen, die ihren Status ihrer Familie verdanken, als Personen, die keinen großen Respekt
+> verdient haben, während die Letzteren auf die Leistungsmenschen herabblicken, weil sie arbeiten müssen, um zu wichtigen Menschen zu werden. Sie
+> rühmen sich ihrer Untätigkeit genau deswegen, weil sie hervorheben wollen, sie seien so wichtig, dass sie noch nicht einmal arbeiten müssen.
+
+Über die Ursache dieses missionarischen Eifers, die Produktivkräfte der Gesellschaft zu ersticken und zu lähmen, bin ich mir unklar.
+Vielleicht folgt dieses Handeln einer ähnlichen Logik wie die [Abschaffung der Bundesjugendspiele](https://www.zeit.de/2023/30/bundesjugendspiele-reform-leistung-paedagogik), um zu verhindern, dass sich die Nichtleister oder die Schlechtleister minderwertig fühlen.
+Es könnte sich aber auch ganz einfach um einen Ressentimentreflex handeln: Wer in der Gesellschaft keine Anerkennung findet sucht sie gegen sie.
+
+Ich habe bereits in meinem Blogbeitrag [Energiewende](../energy-transition) auf die folgenden beiden Querverweise hingewiesen. Sie scheinen auch an dieser Stelle gut zu passen:
+
+> In [The Dystopia We Fear Is Keeping Us From the Utopia We Deserve](https://www.nytimes.com/2023/01/08/opinion/nuclear-fusion-flying-cars.html) wird
+> aus [Where Is My Flying Car?](https://press.stripe.com/where-is-my-flying-car) von J. Storrs Hall zitiert, der davon ausgeht, dass wir eine
+> "ergophobische" Gesellschaft geworden sind, die sich definiert als eine Gesellschaft, die "von dem fast unerklärlichen Glauben erfasst ist, dass mit
+> der Energienutzung etwas nicht stimmt." Die Gesellschaft teilt sich auf in die Macher und in die "do-nots", die die Stagnation befürworten und aus
+> unserer Zivilisation ein kollektives "couch potato" machen. Und aus seiner Sicht gewinnen die "do-nots".<br><br> An dieser Stelle passt auch ein
+> Hinweis auf das [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/) von Marc Andreessen, wobei mir persönlich der
+> Standpunkt von Ezra Klein, den er in seinem Artikel [The Chief Ideologist of the Silicon Valley Elite Has Some Strange
+> Ideas](https://www.nytimes.com/2023/10/26/opinion/marc-andreessen-reactionary-futurism.html) ausformuliert, besser gefällt: That, in a way, is my
+> core disagreement with Andreessen. Reactionary futurism is accelerationist in affect but decelerationist in practice. Treating so much of society
+> with such withering contempt will not speed up a better future. It will turn people against the politics and policies of growth, just as it did
+> before.
+
+In einigen Teilen unserer Gesellschaft hat sich eine Leistungsfeindlichkeit breitgemacht, die versucht, die Produktivkräfte der Gesellschaft zu ersticken.
+
+Zum Abschluß noch ein Zitat von [Professor Christian Kreiß](https://youtu.be/xna-BAS6lDI?t=837):
+
+> Wo fließt denn der gesamte Wohlstand hin? … Und drittens, er fließt in Security, Überwachung, Kontrolle, Zwang, Steuerberater, Wirtschaftsprüfer, Kontrolle, die alle nicht schaffen, nicht produktiv sind.
+> Sie machen keinen Laib Brot, sie machen keinen Pullover, sie machen kein Dach überm Kopf, gar nichts.
+> Mindestens die Hälfte unserer Tätigkeit ist, um mit [David Graeber](https://de.wikipedia.org/wiki/David_Graeber) zu sprechen, [Bullshit-Jobs](https://libcom.org/article/phenomenon-bullshit-jobs-david-graeber).
+> Das ist ein britischer Soziologe, der gesagt hat, mindestens die Hälfte unserer Erwerbstätigkeit besteht aus Bullshit-Jobs, die nichts schaffen, die keinen Mehrwert whatsoever bieten.
+> Sie kontrollieren und machen Marketing, machen Werbung, machen heiße Luft, aber arbeiten nicht produktiv. Das ist das Dilemma.
+
+
 ### Sachebene und utilitaristische Interessen
 
-... Fortsetzung folgt ...
+... in Arbeit ...
+
+#### Moral
+
+[Luisa Neubauer](https://www.rnd.de/politik/luisa-neubauer-in-podcast-von-kurt-kroemer-klimaaktivistin-sieht-ego-problem-in-der-generation-XEJJBBXGAFD4JH36TGU7RBNE3Q.html) meint:
+
+> Besser Doppelmoral als gar keine Moral!
+
+Hier ist meine Sicht auf die Welt:
+
+> +1: Moral<br>
+> &nbsp;0: keine Moral<br>
+> -1: Doppelmoral
+
+Doppelmoral ist eine gravierende Verschlechterung gegenüber der Abwesenheit von Moral.
+Für mich ist Doppelmoral gleichbedeutend mit Willkür.
+Daher ist eine meiner zentralen Forderungen an die Politik, sich wieder an moralische Grundregeln zu halten.
+Die [Landeszentrale für politische Bildung Baden-Württemberg](https://www.lpb-bw.de/rechtsstaat) formuliert:
+
+> Was ist das Gegenteil eines Rechtsstaats?
+>
+> Das Gegenteil eines Rechtsstaats ist ein Unrechtsstaat? Wir wissen aus unserer eigenen historischen Erfahrung, was ein Unrechtsstaat bedeutet. Die NS-Willkürherrschaft war das genaue Gegenteil eines Rechtsstaats. Auch das Regime in der DDR trat viele rechtsstaatliche Grundsätze mit Füßen.
+>
+> Der **Rechtsstaatsbegriff** hat sich aus der **Abgrenzung zu willkürlich handelnden Staaten**, Diktaturen oder Polizeistaaten heraus entwickelt, die das Gegenteil eines Rechtsstaats sind.
+> ...
+>
+> In einem Rechtsstaat geht man davon aus, dass **alles, was nicht verboten ist, erlaubt ist**.
+> Ein Polizeistaat oder eine Diktatur geht eher von dem Prinzip aus, dass alles, was nicht erlaubt ist, verboten ist.
+
+In meinem Abschnitt zum [Doppelmoralverbot](../leben-und-leben-lassen/#doppelmoralverbot) habe ich bereits einige Gedanken zu diesem Thema formuliert.
+Soweit ich verstehe, beziehen sich die Begriffe Doppelmoralverbot, Symmetriegebot und das Allgemeinheitsgebot in [Artikel 19](https://www.gesetze-im-internet.de/gg/art_19.html) des Grundgesetzes auf denselben Grundsatz.
+
+Meine Forderung konkretisiert sich darin, dass sich die Politik wieder streng an moralische Grundregeln halten soll, einschließlich einer symmetrischen Behandlung von Extremismus sowohl auf der rechten, linken als auch auf religiöser Seite.
+Wir hören regelmäßig, dass sich Demonstranten, die sich regierungskritisch äußern, bei ihren Demonstrationen vor einer Unterwanderung von rechtsextremen Interessensgruppen in Acht nehmen sollen.
+Gleichzeitig nehmen Regierungsvertreter ohne Bedenken an Demonstrationen "gegen rechts" teil, ohne die mögliche Präsenz von linksextremen Gruppen zu hinterfragen.
+
+In einem Rechtsstaat gilt der Grundsatz, dass alles, was nicht verboten ist, erlaubt ist.
+Auf dieser Basis müssen allen Gruppen, die sich im Rahmen des Erlaubten bewegen, gleiche Rechte eingeräumt werden, und gleiches Handeln, unabhängig von der politischen Richtung, muss von Staat und Gesellschaft gleich behandelt werden.
+Vor diesem Hintergrund sind auch die zahlreichen staatlichen Meldestellen, die Statistiken über *Nicht-Straftaten* führen und Akten von *Nicht-Straftätern* anlegen, abzulehnen.
+
+Es gibt noch viele weitere Beispiele, die jedem auffallen werden, der die Augen offen hält.
+
+#### Checks and Balances
+
+Das Ziel der vorgeschlagenen "Checks and Balances" ist der Schutz der Grundfreiheiten der Bürger unseres Landes:
+
+* Freizügigkeit
+* Meinungsfreiheit
+* Eigentum
+* Finanzielle Freiheit
+
+Eine zentrale Methode, die sich in den letzten Jahren eingeschlichen hat, um die Freiheiten der Bürger einzuschränken, und die seither kontinuierlich ausgebaut wird, ist eine Art [Public-Private-Partnership](https://de.wikipedia.org/wiki/%C3%96ffentlich-private_Partnerschaft) (PPP),
+bei der der Staat Aufgaben an private Dienstleister über Regulierung auslagert und sich somit aus der Verantwortung mit dem Verweis auf "Fehler Fachabteilung" stehlen kann.
+
+Um das durch [Artikel 5](https://www.gesetze-im-internet.de/gg/art_5.html) des Grundgesetzes festgelegte Zensurverbot zu umgehen, bedient sich der Staat einer Public-Private-Partnership mit Plattformanbietern,
+wie es durch den [Digital Services Act](https://www.welt.de/kultur/plus248189090/Digital-Service-Act-der-EU-DSA-Eine-umfassende-Datenanalyse-der-Zensur.html) oder die [Chatkontrolle](https://digitalcourage.de/chatkontrolle) praktiziert wird.
+
+Das generelle Vorgehen ist stets dasselbe. Man konstruiert eine Gefahr, sei es "Hass im Internet", "Kindesmissbrauch" oder "organisiertes Verbrechen", die Art der Bedrohung spielt keine Rolle.
+Auf Basis dieser behaupteten Gefahr werden Gesetze erarbeitet, die dann über eine Public-Private-Partnership umgesetzt werden und die Freiheit jedes einzelnen Bürgers einschränken.
+
+In [Falsche Geldwäsche-Meldung trifft immer mehr Bankkunden](https://www.n-tv.de/mediathek/videos/wirtschaft/Falsche-Geldwaesche-Meldung-trifft-immer-mehr-Bankkunden-article24617586.html) wird beschrieben,
+wie unbescholtene Bürger den Zugriff auf ihr Konto verlieren, obwohl sie kein Gesetz gebrochen haben.
+Es scheint, als wolle man die Bürger bereits an zukünftige [De-Banking](https://en.wikipedia.org/wiki/De-banking)-Maßnahmen[^afdspende] gegen Kritiker gewöhnen, damit es dann als ein "gewohntes" Muster erscheint: "Reg dich nicht auf, das ist lediglich ein Versehen."
+
+Hier ist ein Artikel zum De-Banking-Fall des Brexit-Politikers [Nigel Farage](https://en.wikipedia.org/wiki/Nigel_Farage) vom 21. Februar 2024: [Farage hatte recht!](https://www.politico.eu/article/debunking-debanking/).
+<!--
+Farage was right! An investigation by MPs today partly blames the Financial Conduct Authority for an "unprecedented rise" in banks shutting customers' accounts in the last 5-10 years. The regulator encouraged banks to prioritize reputation rather than serving a wide array of customers, according to the report by the All-Party Parliamentary Group on Fair Business Banking, in conjunction with law firm Humphries Kerstetter. In their own words: "Egged on by their regulator, banks have created a whole industry around reputation management."
+
+Last summer Nigel Farage was “debanked” by NatWest’s Coutts because of concerns about his views. Today's report finds that was actually an extreme example where a lot of analysis was undertaken before kicking Farage out — usually it’s more of a blunt tool that banks utilize to get rid of clients that don’t fit their image.
+
+Not just Nigel: MPs found data showing that hundreds of thousands of accounts are shuttered each year under the auspices of financial crime: "The case studies provided to us and many more reported in the press expose an awkward truth — that the financial, regulatory and reputational pressures facing banks are prompting more and more firms to decide that many clients, and some whole industry sectors, are simply not worth the candle."
+-->
+
+> Farage hatte recht! Eine Untersuchung von Abgeordneten heute macht die Financial Conduct Authority teilweise für einen "beispiellosen Anstieg" der Banken verantwortlich, die in den letzten fünf bis zehn Jahren Kundenkonten geschlossen haben.
+> Laut dem Bericht der All-Party Parliamentary Group on Fair Business Banking in Zusammenarbeit mit der Anwaltskanzlei Humphries Kerstetter ermutigte die Regulierungsbehörde die Banken, der Reputation Vorrang vor der Betreuung eines breiten Kundenspektrums zu geben.
+>
+> In ihren eigenen Worten: "Angetrieben von ihrer Regulierungsbehörde haben Banken ein ganzes Aktionsfeld rund um das Reputationsmanagement geschaffen."
+>
+> Letzten Sommer wurde Nigel Farage von NatWests Coutts wegen Bedenken hinsichtlich seiner Ansichten "aus dem Bankkonto entlassen" (De-Banked).
+> Der heutige Bericht stellt fest, dass dies tatsächlich ein extremes Beispiel war, bei dem viele Analysen durchgeführt wurden, bevor Farage rausgeschmissen wurde – normalerweise ist es eher ein stumpfes Werkzeug, das Banken nutzen, um Kunden loszuwerden, die nicht zu ihrem Image passen.
+>
+> Nicht nur Nigel: Abgeordnete fanden Daten, die zeigen, dass jedes Jahr Hunderttausende Konten unter dem Vorwand der Finanzkriminalität geschlossen werden ...
+
+In diesem Gesamtkontext, der den Schutz der zentralen Freiheitsrechte der Bürger unseres Landes betrifft, stelle ich zwei Forderungen:
+
+1. Über [Open Reproducible Science](https://en.wikipedia.org/wiki/Open_science) für jeden Bürger nachvollziehbare, jährliche Auswertungen über die Effektivität und Fehlleistungen der implementierten Maßnahmen.
+1. Analog zur [Datenschutz-Grundverordnung](https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung) ein Recht einzuführen, um den Staat als [Verantwortlichen](https://www.wko.at/datenschutz/eu-dsgvo-rechtsdurchsetzung-strafen) in Haftung zu nehmen.
+
+Die proklamierte Gefahr kann durchaus real sein, und die daraus resultierenden Schutzmaßnahmen, einschließlich der Einschränkungen der Freiheitsrechte der Bürger, können legitim sein.
+Allerdings sollte die Effektivität der implementierten Maßnahmen für jeden interessierten Bürger auf jährlicher Basis nachvollziehbar gemacht werden.
+
+In der Logik der Datenschutz-Grundverordnung wäre der Staat in dieser Public-Private-Partnership der [Verantwortliche](https://de.wikipedia.org/wiki/Verantwortlicher_(Datenschutz)) und die verschiedenen privaten Dienstleister wie Plattformen oder Banken die [Auftragsverarbeiter](https://de.wikipedia.org/wiki/Auftragsverarbeitung).
+Bei Fehlleistungen, wie z.B. der Zensur von legitimen Meinungsbeiträgen oder bei Kontensperrungen aufgrund falscher Geldwäsche-Meldungen, sollte der betroffene Bürger ein Klagerecht gegen den Staat als Verantwortlichen erhalten, mit empfindlichen Geldstrafen, z.B. pro Tag, an dem ein Konto fälschlicherweise gesperrt ist,
+eine Strafe von mindestens 50.000 Euro oder 10-mal den Kontobetrag, je nachdem, welcher Wert höher ist.
+Durch diese Verankerung der Verantwortung beim Staat, inklusive juristisch einklagbarer empfindlicher Schadensersatzansprüche, sollte ein Gleichgewicht zwischen den verschiedenen Interessenslagen geschaffen werden.
+Zudem darf es dem Staat nicht möglich sein, sich über den Umweg dieser Public-Private-Partnerships aus der Verantwortung zu stehlen.
 
 #### Guter Treuhänder
 
 #### Leistungsstark
 
 #### Effizient
-
-#### Checks and Balances
 
 #### Daten
 
@@ -1489,3 +1650,6 @@ Achten Sie auch auf das Aktualisierungsdatum des T-Online Berichts: 28. August 2
 [^alignment]: [AI-Alignment](https://en.wikipedia.org/wiki/AI_alignment): Ich bin bisher davon ausgegangen, dass es beim AI-Alignment darum geht, sicherzustellen, dass künstliche Intelligenz im Dienste der Menschheit steht und deren Wohl fördert. Mittlerweile bin ich jedoch der Meinung, dass AI-Alignment auch in umgekehrter Richtung verstanden werden kann und künstliche Intelligenz durch Messaging über Social-Media und andere Kanäle in der Lage ist, eine innerliche Einfarbigkeit bzw. eine moralische [Gleichschaltung](https://de.wikipedia.org/wiki/Gleichschaltung) langfristig über Jahrzehnte aufrechtzuerhalten, wodurch Menschen lediglich zu Bienen in einem Schwarm werden, die einheitlich das Lied mitsummen.
 [^spiesser]: [Spießer](https://de.wikipedia.org/wiki/Spie%C3%9Fb%C3%BCrger): Bisher konnte ich mit dem Wort Spießer nie etwas anfangen. Jetzt denke ich, dass mit Spießer eine innere Einfarbigkeit bzw. eine moralische [Gleichschaltung](https://de.wikipedia.org/wiki/Gleichschaltung) gemeint ist.
 [^sexbinary]: [Why The Sex Binary Matters - Dr. Colin Wright](https://www.youtube.com/watch?v=-4WV9xv62f4) ist ein weiteres gutes Video von [Genspect](https://en.wikipedia.org/wiki/Genspect).
+[^linkseinkommen]: [Alles, was die westliche Gesellschaft wertvoll macht, steht auf dem Spiel](https://www.tichyseinblick.de/feuilleton/buecher/alles-was-die-westliche-gesellschaft-wertvoll-macht-steht-auf-dem-spiel): Wer Menschen vor allem als Träger einer Hautfarbe und einer Herkunft sehen will, darf sich nicht für ihr Einkommen interessieren. Denn nur dann fügt sich der zum Mindestlohn bezahlte Kraftfahrer als Träger des weißen Privilegs in das Gesellschaftsbild ein, während die Staatssekretärin, deren Eltern als arabische Einwanderer kamen, lebenslänglich zu den Marginalisierten und potenziell Diskriminierten zählt, unabhängig von Status und Gehalt. Sie kehren damit die linke Klassik um.
+[^luisaneubauerdoppelmoral]: [Luisa Neubauer](https://www.rnd.de/politik/luisa-neubauer-in-podcast-von-kurt-kroemer-klimaaktivistin-sieht-ego-problem-in-der-generation-XEJJBBXGAFD4JH36TGU7RBNE3Q.html): "Besser Doppelmoral als gar keine Moral!"
+[^afdspende]: Siehe auch: [Wegen Spende an AfD: Sparkasse schickt Brief an Kunden](https://www.br.de/nachrichten/bayern/wegen-spende-an-afd-sparkasse-schickt-brief-an-kunden,U4BcxV1)
