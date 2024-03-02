@@ -99,7 +99,7 @@ Diese Halluzinationen entstehen dort, wo es kein Korrektiv zur Realität gibt. U
 Es gibt nur einen eng begrenzten Bereich, in dem die naturwissenschaftliche Methode – das Experiment in das Zentrum der Wahrheitsfindung zu stellen – gut funktioniert.
 Alle Bereiche, in denen diese Methode schlecht bis gar nicht funktioniert, nenne ich "maximal schwach gekoppelt" an die Realität, in Anlehnung an das Konzept der [Kopplungskonstante](https://de.wikipedia.org/wiki/Kopplungskonstante) in der Physik.
 Dabei beinhaltet der Begriff "maximal schwach gekoppelt" auch die vollständige Loslösung von [entscheidbaren](https://de.wikipedia.org/wiki/Entscheidbar) Sachverhalten der Realität, wie die metaphysischen Fragen nach einem Leben nach dem Tod.
-Diese Halluzinationen identifiziere ich in einem menschlichen Umfeld als [Ideologien](aufklärung-plus/#eigenschaften-von-ideologien), die in unterschiedlichsten [Varianten](../aufklärung-plus/#pluralismus) auftreten können.
+Diese Halluzinationen identifiziere ich in einem menschlichen Umfeld als [Ideologien](../aufklärung-plus/#eigenschaften-von-ideologien), die in unterschiedlichsten [Varianten](../aufklärung-plus/#pluralismus) auftreten können.
 
 <a href="/img/aufklärung-plus-pluralismus.jpg" target="about:blank"><img src="/img/aufklärung-plus-pluralismus.jpg" alt="Pluralismus" style="max-height: 400px; max-width: 100%"></a>
 
@@ -125,7 +125,7 @@ Im Studium belächelten wir oft wissenschaftliche Arbeiten aus der Informatik (I
 > Ein Informatiker beschreibt in seinen Veröffentlichungen, wie er Erkenntnisse wiederentdeckt, die jemand anderes schon lange vor ihm wusste.
 
 Ich bin mir sicher, dass ich mich hier auf einem ähnlichen Weg befinde und lediglich Dinge wiederentdecke, die Leute vor mir bereits wussten.
-Mittlerweile bin ich bei meiner Suche nach früheren Arbeiten zu diesem Thema bei [Julien Benda](https://de.wikipedia.org/wiki/Julien_Benda) und seinem Werk "Der Verrat der Intellektuellen" aus dem Jahr 1927 angelangt, das ich in seiner englischen Übersetzung lese: [Treason of the Intellectuals](https://www.amazon.de/Treason-Intellectuals-Julien-Benda/dp/1912475316).
+Mittlerweile bin ich bei meiner Suche nach früheren Arbeiten zu diesem Thema bei [Julien Benda](https://de.wikipedia.org/wiki/Julien_Benda) und seinem Werk "Der Verrat der Intellektuellen" aus dem Jahr 1927 angelangt, das ich in seiner englischen Übersetzung lese: [Treason of the Intellectuals](https://www.amazon.de/Treason-Intellectuals-Julien-Benda/dp/1912475316)[^niallfergusonuatx].
 Julien Benda spricht von [Scribes](https://dict.leo.org/german-english/scribes) oder im französischen Original von [Clercs](https://dict.leo.org/franz%C3%B6sisch-deutsch/clerc).
 Mittlerweile bin ich mir sicher, dass er mit seinem Begriff des Clerc das gleiche meint, was ich als Kulturschaffende bezeichne.
 Für Julien Benda besteht der Verrat der Intellektuellen, also der Verrat der Kulturschaffenden, darin, nicht mehr als Korrektiv zu Massenwahn wie Nationalismus zu fungieren, sondern sogar in das aktivistische Geheul der Wölfe einzustimmen und damit die Massen aufzupeitschen.
@@ -140,7 +140,7 @@ Ich denke, wovon er spricht, würde man heute unter anderem als [Haltungsjournal
 Unsere neuzeitlichen Schriftgelehrten bzw. Kulturschaffenden fördern nicht mehr den Totalitarismus auf Basis des Nationalismus, sondern sie fördern einen [Totalitarismus des 21 Jahrhunderts](../kulturschaffende/#totalitarismus-des-21-jahrhunderts) auf Basis der links-grün-woken Ideologie.
 Der Vorwurf des Verrats an den Idealen der Gerechtigkeit und Wahrheit ist aber wieder aktueller denn je, wie man an den verschiedenen Rufmordkampagnen, unter anderem [Der Fall Ulrike Guérot: Versuche einer öffentlichen Hinrichtung](https://www.amazon.de/Fall-Ulrike-Gu%C3%A9rot-%C3%B6ffentlichen-Hinrichtung/dp/3864894506), sehen kann.
 
-Julien Benda hat ein zuverlässiges Kriterium gefunden, um Kulturschaffende zu identifizieren, die sich entgegen der Prinzipien der Gerechtigkeit und Wahrheit verhalten:
+Julien Benda hat ein zuverlässiges Kriterium gefunden[^bbchughgreene], um Kulturschaffende zu identifizieren, die sich entgegen der Prinzipien der Gerechtigkeit und Wahrheit verhalten:
 
 <!--
 And there is a very reliable criterion for knowing whether the scribe who intervenes in public life is, indeed, doing so in conformity with his office; namely, that if he does do so, he will immediately be reviled by laymen, whose interests he will thereby trouble.
@@ -219,3 +219,5 @@ um die Menschen damit zu beseelen und zu steuern, gewinnen diese Warnungen auch 
 [^tolstoi]: Dazu passt auch das Zitat von [Leo Tolstoi](https://de.wikipedia.org/wiki/Lew_Nikolajewitsch_Tolstoi), das ich im Artikel [Typisch deutsch -- typisch grün](https://vera-lengsfeld.de/2024/02/24/typisch-deutsch-typisch-gruen/) gefunden habe: "Herr Haber war einer jener Leute mit einem unerschütterlichen, fanatischen Selbstvertrauen, wie man sie nur unter den Deutschen findet, weil nur die Deutschen Selbstvertrauen haben auf Grund einer abstrakten Idee – der Wissenschaft, das heißt, der angeblichen **Erkenntnis der vollkommenen Wahrheit**. Der Franzose hat Selbstvertrauen, weil ... . Der Engländer hat Stolz und Selbstvertrauen darum, weil ... . Der Italiener hat Selbstvertrauen, weil ... . Der Russe hat Selbstvertrauen eben deshalb, weil er nichts weiß und nichts wissen will, weil er nicht glaubt, dass man irgend etwas sicher wissen könne. Der Deutsche besitzt ein stärkeres und widerlicheres Selbstvertrauen als alle anderen, **weil er sich einbildet, er wisse die Wahrheit**, die Wissenschaft, die er sich selbst erdacht hat, aber für absolute Wahrheit hält."
 [^ferdinandkirchhof]: Siehe auch: [Bis zur Vernichtung sozialer Existenzen – Die Methoden der woken Cancel Culture](https://www.welt.de/debatte/kommentare/plus246514102/Cancel-Culture-Bis-zur-Vernichtung-sozialer-Existenzen.html)
 [^standstill]: [Violent enough to stand still](https://woodfromeden.substack.com/p/violent-enough-to-stand-still) - by Tove K - Wood From Eden
+[^bbchughgreene]: Siehe auch [Hugh Carleton Greene](https://de.wikipedia.org/wiki/Hugh_Greene), britischer Journalist und BBC Reporter und sein [Zitat](https://www.zitate.de/autor/greene%2c+hugh+carleton): "Nennen Sie mir ein Land, in dem Journalisten und Politiker sich vertragen, und ich sage Ihnen, da ist keine Demokratie".
+[^niallfergusonuatx]: [Niall Ferguson](https://de.wikipedia.org/wiki/Niall_Ferguson): [After the Treason of the Intellectuals](https://youtu.be/z5QID4HVUTY)
