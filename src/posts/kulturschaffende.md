@@ -895,7 +895,7 @@ keine Rolle, aber er bietet Stoff für mythologische Geschichten.
   </tbody>
 </table>
 
-In [James Lindsay shatters Woke Ideology: EU Parliament Speech](https://www.youtube.com/watch?v=Aviyl1eiC1s) geht James Lindsay sogar so weit, die Links-Grün-Woke Bewegung als eine Form des Nationalismus zu bezeichnen. Er [sagt](https://youtu.be/Aviyl1eiC1s?t=1562):
+In [James Lindsay shatters Woke Ideology: EU Parliament Speech](https://www.youtube.com/watch?v=Aviyl1eiC1s) geht [James Lindsay](https://en.wikipedia.org/wiki/James_A._Lindsay) sogar so weit, die Links-Grün-Woke Bewegung als eine Form des Nationalismus zu bezeichnen. Er [sagt](https://youtu.be/Aviyl1eiC1s?t=1562):
 
 <!--
 > And we ended up with woke a form of identity-based Marxism. A constellation of marxist species that all work with the same operating premise but locate themselves in different and I'll use the German term here for this Volk.

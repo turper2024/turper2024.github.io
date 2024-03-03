@@ -214,6 +214,111 @@ Bisher war ich beim Thema künstliche Intelligenz sehr entspannt und habe die Hy
 Aber aus der Perspektive, dass eine künstliche Intelligenz die menschliche Veranlagung und das Bedürfnis, sich einem Multi-Mind-Self anzuschließen, ausnutzen könnte, indem sie eine Ideologie mit Alpha- oder [Apex](https://en.wikipedia.org/wiki/Apex_predator)-Eigenschaften kreiert,
 um die Menschen damit zu beseelen und zu steuern, gewinnen diese Warnungen auch für mich an extremer Brisanz!
 
+## Die Machtfrage
+
+Es folgt ein Ausschnitt aus einer Rede von Dr. Markus Krall, die er vor der Friedrich August von Hayek Gesellschaft in Berlin am 26. Oktober 2023 hielt: [Sarrazin/Kelle/Schuler/Krall - Moral als Keule](https://youtu.be/PiGc5NwyOXo?t=2917):
+
+> Erlauben Sie mir, am Ende meiner Ausführung noch auf eine Sache einzugehen, nämlich auf die Frage der Wissenschaftsfreiheit und ob es so eine gute Idee ist, wenn der Staat etwas finanziert oder nicht finanziert.
+> An der Stelle, als Sie das referiert haben, dass der Staat, sozusagen wenn die AfD dran wäre, die Gender-Lehrstühle nicht mehr vom Staat finanziert werden, ist mir in einem Moment klar geworden, wie unglaublich weit schon in den Grundlagen die Pole unserer Gesellschaft - wir auf der einen und die Sozialisten auf der anderen Seite - mittlerweile voneinander entfernt sind.
+> Weil ich mir doch denke, dass die Wissenschaftsfreiheit überhaupt nicht gewährleistet sein kann, wenn der Staat sich auch nur einmischt.
+>
+> Der Staat wird nie die Wissenschaft bedienen, der wird Interessen bedienen.
+> Deswegen hält der Staat ja z.B. die Ökonomie für eine Wissenschaft der Töpfe.
+> Es werden Töpfe gefüllt und verteilt, davon lebt die Politik.
+>
+> Die Ökonomie ist aber keine Wissenschaft der Töpfe. Von Hayek wusste es, von Mises wusste es, andere der österreichischen Schule wissen es auch ganz genau:
+> Die Ökonomie ist eine Wissenschaft der Knappheiten und der Anreize, nicht eine Wissenschaft der Töpfe.
+>
+> **Die komplette Machtfrage**, die gestellt wird, ist, wenn sich Menschen durchsetzen, die die Ökonomie nicht für eine Wissenschaft der Töpfe halten, sondern der Anreize.
+> Wo bleiben denn all die Töpfe der Genderisten, der Woken, der Klimabesessenen, alles, was da aufgefüllt wird mit den Steuermitteln, die sie erwirtschaften, bis zum Hals, und wo neue Stellen geschaffen werden?
+> Und vorhin habe ich das gehört: also NGOs in Serie, in Briefkastenfirmen, im Wohnzimmer.
+> Ja, diese ganzen Töpfe, das wird aufgefüllt.
+> Und hier geht’s, meine Damen und Herren, auch nicht um Wissenschaft, nicht um Erkenntnis. Es geht um Korruption.
+>
+> Und die Korruption frisst sich über das Geld des Staates von oben durch in die Wissenschaft rein, korrumpiert die Wissenschaft und am Ende unser Denken.
+> Und zwar deswegen, **weil die Leute, die von den Töpfen leben, die haben gar keine andere Wahl, als alle, die das ablehnen und die Meinungsfreiheit vertreten, zu bekämpfen,
+> weil die sind nicht der Gegner in einem wissenschaftlichen Diskurs, die sind der Gegner im Kampf um den Topf, von dem sie leben**[^vonkonfliktzubegegnung].
+>
+> Deswegen glaube ich, dass die wissenschaftliche Freiheit und der wissenschaftliche Diskurs am besten in einem Minimalstaat herzustellen ist, indem die Universitäten wieder das tun, was sie dazu sind:
+> Forschung und Lehre, und in der Angebot und Nachfrage nach diesem Phänomen, das einzelnen was geforscht und gelehrt wird, das antreiben, was geforscht und gelehrt wird, weil nämlich alles, was nicht wirklich zu Erkenntnis führt, dann auf der Strecke bleibt, und das ist nicht schade drum.
+
+## Arbeiterklasse irrelevant für Marxisten, die nach der Macht streben
+
+In [James Lindsay shatters Woke Ideology: EU Parliament Speech](https://youtu.be/Aviyl1eiC1s?t=1379) geht [James Lindsay](https://en.wikipedia.org/wiki/James_A._Lindsay) auf die Evolution des Marxismus ein, um sich an die westlichen Gesellschaften anzupassen und als Basis für eine marxistische Revolution zu taugen:
+
+<!--
+[Max Horkheimer](https://de.wikipedia.org/wiki/Max_Horkheimer), who designed the critical theory, explained the critical theory and what did he say?
+He said, well, what we came to realize was that Marx was wrong about one thing: capitalism does not immiserate the worker. It allows him to build a better life.
+So, I developed the critical theory, because it is not possible to articulate the vision of a good society on the terms of the existing society.
+So, critical Marxism criticizes the entirety of the existing society.
+Everything is somehow needing to be subjected to Marxist conflict analysis.
+But how is that to be done?
+They sought an answer through the middle part of the 20th century, and World War II breaks out.
+The [Frankfurt School](https://en.wikipedia.org/wiki/Frankfurt_School) comes to America, which in this metaphor is the Wuhan Institute of Virology because gain of function began to happen on the Marxist virus very quickly in America.
+American universities adopted these professors from Germany, and [Herbert Marcuse](https://de.wikipedia.org/wiki/Herbert_Marcuse), writing in the 1960s, said extremely clearly, this writing in 1969, not only did he say capitalism delivers the goods, gives people a good life, makes them wealthy and comfortable and happy.
+He also said that the working class is no longer going to be the base of the revolution because of these things.
+In other words, we don’t have to be responsible to the working class anymore, which opens up the ability for Marxists who are seeking power to make friends with the corporations.
+The bosses are no longer the enemy.
+They’re an opportunity because the working class is irrelevant, he said.
+The energy is somewhere else, he said.
+It’s in the racial minorities, the sexual minorities, the feminists, the outsiders, that’s who he said have the energy for a Marxist revolution in the West, not the working class, and so Marxism was able to evolve to abandon the working class.
+And so, what did they do? Well, all they had studied for 30 years was what they called the culture industry, an industry that commodifies and packages culture and sells it back to people, stripped of what it actually is, an empty abstract noun.
+So, what of course did they do? They seized the means of production of the culture industry because that’s what they do, and so they started to transform the culture industry to sell racial, sexual, gender, sexuality-based agitprop as though that were genuine culture.
+So, we get concepts like cultural appropriation, we get concepts like cultural relevance.
+Cultural this, cultural that, cultural everything, and it’s all provided in pastiche; it’s all provided as a mockery of what’s really going on.
+-->
+
+> [Max Horkheimer](https://de.wikipedia.org/wiki/Max_Horkheimer), der die "Critical Theory" entworfen hat, hat die "Critical Theory" erklärt. Er sagte:
+>
+> Nun, wir kamen zu der Erkenntnis, dass **Marx in einer Sache falsch lag: Der Kapitalismus verelendet den Arbeiter nicht. Er ermöglicht ihm, ein besseres Leben aufzubauen**.
+> Deshalb habe ich die "Critical Theory" entwickelt, weil es nicht möglich ist, die Vision einer guten Gesellschaft auf der Grundlage der Bedingungen der bestehenden Gesellschaft zu artikulieren.
+> Der kritische Marxismus kritisiert also die Gesamtheit der bestehenden Gesellschaft. Alles muss irgendwie einer marxistischen Konfliktanalyse unterzogen werden.
+>
+> Aber wie geht das?
+>
+> Mitte des 20. Jahrhunderts suchten sie nach einer Antwort, als der Zweite Weltkrieg ausbrach.
+> Die [Frankfurter Schule](https://en.wikipedia.org/wiki/Frankfurt_School) kommt nach Amerika, das in dieser Metapher das Wuhan-Institut für Virologie ist, weil in Amerika sehr schnell ein "Gain of Function" beim marxistischen Virus zu verzeichnen war.
+>
+> Amerikanische Universitäten haben diese Professoren aus Deutschland aufgenommen, und [Herbert Marcuse](https://de.wikipedia.org/wiki/Herbert_Marcuse) hat in seinen Schriften aus den 1960er-Jahren sehr deutlich gesagt, dass **der Kapitalismus nicht nur die Waren liefert, den Menschen ein gutes Leben gibt, sie wohlhabend, komfortabel und glücklich macht**.
+> Er sagte auch, dass die Arbeiterklasse aufgrund dieser Dinge nicht länger die Basis der Revolution sein werde.
+>
+> Mit anderen Worten: **Wir müssen nicht mehr der Arbeiterklasse gegenüber verantwortlich sein**, was den **Marxisten, die nach der Macht streben, die Möglichkeit eröffnet, sich mit den Konzernen anzufreunden**.
+> Die Bosse sind nicht mehr der Feind. Sie seien eine Chance, weil die Arbeiterklasse irrelevant sei, sagte er.
+>
+> **Die Energie sei woanders**, sagte er.
+>
+> Es sind die **Rassenminderheiten**, die **sexuellen Minderheiten**, die **Feministinnen**, die **Außenseiter**, die seiner Meinung nach **die Energie für eine marxistische Revolution im Westen haben**, nicht die Arbeiterklasse, und so konnte sich der Marxismus weiterentwickeln, um die Arbeiterklasse im Stich zu lassen.
+>
+> Und was haben sie getan?
+>
+> Nun, alles, was sie 30 Jahre lang studiert hatten, war das, was sie die **Kulturindustrie** nannten, eine Industrie, die Kultur kommerzialisiert, verpackt und an die Menschen zurückverkauft, ohne das, was sie eigentlich ist, ein leeres abstraktes Substantiv.
+>
+> Was haben sie also getan?
+>
+> Sie übernahgmen die Produktionsmittel der Kulturindustrie, weil sie genau das tun.
+> Und so begannen sie, die Kulturindustrie umzugestalten, um rassistische, sexuelle, geschlechtsspezifische und sexualitätsbasierte [Agitprop](https://de.wikipedia.org/wiki/Agitprop) zu verkaufen, als ob das echte Kultur wäre.
+>
+> Wir bekommen also Konzepte wie kulturelle Aneignung, wir bekommen Konzepte wie kulturelle Relevanz. Kulturelles Dies, kulturelles Jenes, kulturelles Alles und alles wird in Pastiche dargestellt; Es wird alles nur als Verspottung dessen dargestellt, was wirklich vor sich geht.
+
+## November 1819 auf Hawaii
+
+Im Artikel [Ist Peak Woke schon erreicht?](https://www.achgut.com/artikel/ist_peak_woke_schon_erreicht) wird das Buch [Verachtung nach unten](https://www.kopp-verlag.de/a/verachtung-nach-unten-1) von Alexander Wendt vorgestellt. Dort wird aus dem Ende des Buches zitiert:
+
+> "Die Zukunft ist offen, auch für ein neues bürgerliches Zeitalter", schreibt Wendt am Ende seiner luziden Betrachtung.
+> Und er erzählt ausführlich, was im November 1819 auf Hawaii geschah.
+> Da ließ der Sohn des verstorbenen Königs bei einem Fest in seinem Palast Schweinefleisch zu jenen Tischen bringen, die ausschließlich für Frauen reserviert waren.
+> Zu denen setzte er sich zum gemeinsamen Mahl, brach damit gleich zwei Tabus der überkommenen [kapu](https://en.wikipedia.org/wiki/Kapu_(Hawaiian_culture))-Ordnung.
+> Nach der war Schweinefleisch für Frauen streng verboten. Und Männer durften nicht mit Frauen essen.
+>
+> Was geschah?
+>
+> Es erfolgte kein Aufstand der Priesterkaste, kein Aufruhr im Volk.
+> Im Gegenteil.
+> Da war ein großes Aufatmen über den Bruch mit dem hochkomplizierten kapu-System, das ungezählte sinnfreie Regeln aufgestellt hatte, auf deren Übertretung die Todesstrafe stand.
+> Alle Frauen aßen an diesem Tag Schweinefleisch.
+> Anschließend brannte das Volk die Tempel nieder.
+> "Innerhalb kürzester Zeit entglitt den Priestern ihre Machtbasis, nämlich der Glaube, nur kapu sei in der Lage, die Gesellschaft zusammenzuhalten", schreibt Wendt.
+
 ## Fußnoten
 
 [^tolstoi]: Dazu passt auch das Zitat von [Leo Tolstoi](https://de.wikipedia.org/wiki/Lew_Nikolajewitsch_Tolstoi), das ich im Artikel [Typisch deutsch -- typisch grün](https://vera-lengsfeld.de/2024/02/24/typisch-deutsch-typisch-gruen/) gefunden habe: "Herr Haber war einer jener Leute mit einem unerschütterlichen, fanatischen Selbstvertrauen, wie man sie nur unter den Deutschen findet, weil nur die Deutschen Selbstvertrauen haben auf Grund einer abstrakten Idee – der Wissenschaft, das heißt, der angeblichen **Erkenntnis der vollkommenen Wahrheit**. Der Franzose hat Selbstvertrauen, weil ... . Der Engländer hat Stolz und Selbstvertrauen darum, weil ... . Der Italiener hat Selbstvertrauen, weil ... . Der Russe hat Selbstvertrauen eben deshalb, weil er nichts weiß und nichts wissen will, weil er nicht glaubt, dass man irgend etwas sicher wissen könne. Der Deutsche besitzt ein stärkeres und widerlicheres Selbstvertrauen als alle anderen, **weil er sich einbildet, er wisse die Wahrheit**, die Wissenschaft, die er sich selbst erdacht hat, aber für absolute Wahrheit hält."
@@ -221,3 +326,4 @@ um die Menschen damit zu beseelen und zu steuern, gewinnen diese Warnungen auch 
 [^standstill]: [Violent enough to stand still](https://woodfromeden.substack.com/p/violent-enough-to-stand-still) - by Tove K - Wood From Eden
 [^bbchughgreene]: Siehe auch [Hugh Carleton Greene](https://de.wikipedia.org/wiki/Hugh_Greene), britischer Journalist und BBC Reporter und sein [Zitat](https://www.zitate.de/autor/greene%2c+hugh+carleton): "Nennen Sie mir ein Land, in dem Journalisten und Politiker sich vertragen, und ich sage Ihnen, da ist keine Demokratie".
 [^niallfergusonuatx]: [Niall Ferguson](https://de.wikipedia.org/wiki/Niall_Ferguson): [After the Treason of the Intellectuals](https://youtu.be/z5QID4HVUTY)
+[^vonkonfliktzubegegnung]: Siehe auch meine Forderung in [Vom Konflikt zur Begegnung](../kulturschaffende/#vom-konflikt-zur-begegnung).
