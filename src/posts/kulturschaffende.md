@@ -895,6 +895,66 @@ keine Rolle, aber er bietet Stoff für mythologische Geschichten.
   </tbody>
 </table>
 
+In [James Lindsay shatters Woke Ideology: EU Parliament Speech](https://www.youtube.com/watch?v=Aviyl1eiC1s) geht James Lindsay sogar so weit, die Links-Grün-Woke Bewegung als eine Form des Nationalismus zu bezeichnen. Er [sagt](https://youtu.be/Aviyl1eiC1s?t=1562):
+
+<!--
+> And we ended up with woke a form of identity-based Marxism. A constellation of marxist species that all work with the same operating premise but locate themselves in different and I'll use the German term here for this Volk.
+-->
+> Und am Ende haben wir mit Woke eine Form des identitätsbasierten Marxismus.
+> Eine Konstellation marxistischer Spezies, die alle mit der gleichen Arbeitsprämisse arbeiten, sich aber in unterschiedlichen, und ich werde hier den deutschen Begriff "Völker" verwenden, verorten.
+
+Und [weiter](https://youtu.be/Aviyl1eiC1s?t=1727):
+
+<!--
+> LGBTQ is a Volk, and they gain a folkish identity there and become activists.
+> The Black community is a Volk as well.
+> How do I know this? That's what [W.E.B. Du Bois](https://de.wikipedia.org/wiki/W._E._B._Du_Bois) said it would be when he laid down the foundations that later became critical race theory.
+> They think of themselves as nations.
+> Don't they all have flags?
+> Don't they place them on your buildings like colonizers?
+> Don't they hang them in your streets?
+> They view themselves as occupying nations but see themselves as bound together, just like various colonized nations around the world, and seeking liberation from Western Civilization.
+> Thus, we end up with Western Marxism taking many forms, but with one overarching approach, and the approach that they use, I started off by saying, is Maoist, not merely Marxist.
+> Now you know the theory is Marx's.
+> It has just evolved into different species to attack the West at its weakest points: through our tolerance, through our acceptance, through our openness, through our generosity, through our best traits, actually.
+> The things that we should be proud of being.
+> The things that we are proud of being.
+> But Mao Zedong knew how to use identity politics.
+> I don't know how you study in Europe, but in America, we have what we might call a very redwashed education.
+> The Communists have stripped out all education about communism entirely; you don't learn about it in America at all.
+> So, we don't learn anything about Mao, and maybe you don't know this, but I tell this to American audiences, and they're shocked.
+> Mao used identity politics; he created 10 identities in China, five he labeled red for communist, five he labeled black for fascist, and he categorized people into these.
+> ...
+-->
+
+> LGBTQ ist ein Volk, und sie erlangen eine völkische Identität und werden Aktivisten.
+> Auch die schwarze Gemeinschaft ist ein Volk.
+>
+> Woher weiß ich das?
+> Das ist es, was [W.E.B. Du Bois](https://de.wikipedia.org/wiki/W._E._B._Du_Bois) sagte, dass es sein würde, als er die Grundlagen legte, die später zur kritischen Rassentheorie wurden.
+>
+> Sie verstehen sich als Nationen.
+> Haben sie nicht alle Flaggen?
+> Platzieren sie sie nicht wie Kolonisatoren auf Ihren Gebäuden?
+> Hängen sie sie nicht in euren Straßen auf?
+> Sie betrachten sich selbst als Besatzungsnationen, sehen sich aber als miteinander verbunden, genau wie verschiedene kolonisierte Nationen auf der ganzen Welt, und streben nach Befreiung von der westlichen Zivilisation.
+>
+> Am Ende haben wir also den westlichen Marxismus in vielen Formen, aber mit einem übergreifenden Ansatz, und der Ansatz, den sie verwenden, ist, wie ich gleich zu Beginn sagte, maoistisch und nicht nur marxistisch.
+> Jetzt wissen Sie, dass die Theorie von Marx stammt.
+>
+> Es hat sich gerade zu verschiedenen Spezies entwickelt, die den Westen an seinen schwächsten Punkten angreifen: durch unsere Toleranz, durch unsere Akzeptanz, durch unsere Offenheit, durch unsere Großzügigkeit, eigentlich durch unsere besten Eigenschaften.
+> Die Dinge, auf die wir stolz sein sollten.
+> Die Dinge, auf die wir stolz sind.
+>
+> Aber Mao Zedong wusste, wie man Identitätspolitik nutzt.
+> Ich weiß nicht, was man in Europa über Geschichte lernt, aber in Amerika haben wir eine, wie wir sagen könnten, sehr "redwashed" Schulbildung.
+> Die Kommunisten haben jegliche Aufklärung über den Kommunismus völlig abgeschafft; In Amerika erfährt man davon überhaupt nichts.
+> Wir erfahren also nichts über Mao.
+>
+> Vielleicht wissen Sie das nicht, aber ich erzähle es dem amerikanischen Publikum, und es ist schockiert.
+> Mao nutzte Identitätspolitik;
+> Er schuf in China zehn Identitäten, fünf bezeichnete er als rot für kommunistisch, fünf bezeichnete er als schwarz für faschistisch und er kategorisierte die Menschen in diese Kategorien.
+
 ### Autoimmunerkrankung
 
 Zu einem weniger dramatischen, aber genauso schädlichen Bild kommen wir, wenn wir annehmen, dass Fanatiker die Rolle eines Immunsystems übernehmen, die eine Ideologie bzw. Kultur gegen fremde Ideologien bzw. Kulturen verteidigen.
@@ -1302,6 +1362,23 @@ In einem [Interview](https://www.lifesitenews.com/de/news/exklusiv-cdl-muller-ma
 > Das globalistische System sei jedoch eine Mischung aus Kapitalismus und Kommunismus.
 > Totalitarismus verschmelze in diesem System mit dem Materialismus. "Und wer das meiste Geld hat, ist an der Macht und kontrolliert und bezahlt die Medien."
 
+[Mathias von Gersdorff](https://mathias-von-gersdorff.blogspot.com/) kommentiert auf YouTube die Geschehnisse in der katholischen Kirche.
+In seinem Video [Jüngste Papst-Kritik könnte entscheidend Gespräche zwischen Synodal-Bischöfe und Vatikan bestimmen](https://youtu.be/U-Ryk4-jht8) beleuchtet er den Konflikt zwischen den deutschen Bischöfen und deren [synodalem Weg](https://de.wikipedia.org/wiki/Synodaler_Weg), angeführt von [Georg Bätzing](https://de.wikipedia.org/wiki/Georg_B%C3%A4tzing),
+dem Bischof von Limburg, und dem Papst.
+Dabei vertritt der synodale Weg eine äußerst linke Geisteshaltung und unterstützt die Woke-Bewegung – eine Haltung, die sich von der des Papstes unterscheidet, wie man in [Erkrankter Papst Franziskus wettert gegen "Gender-Ideologie"](https://www.katholisch.de/artikel/51517-erkrankter-papst-franziskus-wettert-gegen-gender-ideologie) nachlesen kann:
+
+> Dabei bezeichnete er die "Gender-Ideologie" als "hässlichste Gefahr" heutzutage.
+> "Ich habe um Studien über diese hässliche Ideologie unserer Zeit gebeten, die Unterschiede auslöscht und alles gleich macht", wiederholte er seine Kritik.
+> "Unterschiede auszulöschen bedeutet, die Menschheit auszulöschen", so Franziskus.
+> Mann und Frau hingegen stünden in einer fruchtbaren Spannung.
+> Das Kirchenoberhaupt warnt regelmäßig vor der "Gender-Ideologie" als eine der "gefährlichsten ideologischen Kolonisationen", weil es um eine über das Geschlechtliche hinausgehende Gleichmacherei gehe.
+
+In [Brauchen Eliten den großen Krieg?](https://youtu.be/Vc-RKRVC_C4) interviewt [Milena Preradovic](https://punkt-preradovic.com/) den Autor [Tom-Oliver Regenauer](https://www.regenauer.press) zu seinem neuen Buch [Truman Show](https://www.regenauer.press).
+Dort baut er auf die Vorarbeiten von [Antony C. Sutton](https://de.wikipedia.org/wiki/Antony_C._Sutton), einem britischen Ökonomen, Historiker und Schriftsteller, und [Carroll Quigley](https://de.wikipedia.org/wiki/Carroll_Quigley), einem US-amerikanischen Historiker und Zivilisationstheoretiker, auf und beschreibt, wie es zum Ersten Weltkrieg kam.
+Ein Großteil der Vorarbeiten wurde von Carroll Quigley in seinem Buch [Tragedy and Hope](https://en.wikipedia.org/wiki/Tragedy_and_Hope) recherchiert.
+Der Kern der Geschichte ist, dass ein sehr kleiner Kreis von etwa fünf Personen, die man heute als "Globalisten" bezeichnen würde – um [Cecil Rhodes](https://en.wikipedia.org/wiki/Cecil_Rhodes) und [Alfred Milner](https://en.wikipedia.org/wiki/Alfred_Milner,_1st_Viscount_Milner) – sich anmaßte, Weltgeschichte zu spielen
+und die Welt in den Ersten Weltkrieg zu treiben. Tom-Oliver Regenauer sieht Parallelen zur heutigen Weltentwicklung und betrachtet vor allem Corporates und das Großkapital als Akteure,
+die im Hintergrund die Schalthebel der Macht an den demokratischen Institutionen vorbei bedienen.
 
 Michael Andrick gibt meiner Meinung nach in [Spaltung verstehen und überwinden](#widerstandselement-im-schwingkreis) die korrekte Antwort auf die Frage nach einer Gegenstrategie:
 
@@ -1669,6 +1746,29 @@ Zur öffentlichen Anhörung des [Ausschusses für Klimaschutz und Energie](https
 
 Mehr dazu im Podcast [Der Irrtum des Wirtschaftsministers](https://think-beyondtheobvious.com/der-irrtum-des-wirtschaftsministers/).
 
+##### Radikale Vereinfachung unseres Steuersystems
+
+[Dr. Markus Krall](https://twitter.com/Markus_Krall/status/1760631849414529095),  22. Februar 2024:
+
+> Wir brauchen ein übersichtliches, gerechtes und leistungsfreundliches Steuersystem.
+> Wir fordern eine deutliche Vereinfachung des Steuersystems und den Rückbau der gegenüber dem Bürger übergriffigen Steuerbürokratie.
+> Weit über 100 Milliarden Euro gibt dieses Land in Bund und Ländern allein dafür aus, die Bürokratie zu betreiben, die die Steuern bei den Bürgern eintreibt.
+> Dazu kommen Kosten in Höhe von zig-Milliarden für Steuerberatung und Steueroptimierung eines Systems auf Seiten der Steuerpflichtigen.
+> Die Komplexität des Steuersystems ist für niemanden mehr beherrschbar kann daher auch nicht mehr gerecht gestaltet werden.
+
+Die Älteren unter uns erinnern sich vielleicht noch an [das Konzept von Finanzexperte Paul Kirchhof](https://www.handelsblatt.com/politik/deutschland/kritische-stimmen-in-der-union-merkel-lehnt-kirchhof-steuermodell-ab/2541346.html), der im Wahlkampfteam von Angela Merkel im Jahr 2005 eine radikale Vereinfachung unseres Steuersystems vorschlug.
+
+Der emeritierte Finanzforscher Albert Rädler ist der Frage nachgegangen, wie viel Prozent der weltweiten [Steuerliteratur aus Deutschland](https://www.steuermanufaktur.com/2013/01/ein-mythos-entlarvt-kommen-23-der-steuerliteratur-aus-deutschland/) stammt, und kam zu folgendem Ergebnis:
+
+> Das Ergebnis: ..., also zehn Prozent. Eine Auswertung der elektronischen Bestände ergab einen Anteil von knapp 15 Prozent.
+
+Die aktuelle Weltbevölkerung beträgt etwa 8 Milliarden Menschen, von denen rund 80 Millionen, also 1%, in Deutschland leben.
+Dies bedeutet, dass Deutschland im Verhältnis zur Bevölkerungsgröße überproportional viele Steuergesetze hat.
+
+Wie Dr. Markus Krall hervorhebt, gibt die Bundesrepublik Deutschland derzeit auf Bundes-, Landes- und kommunaler Ebene zusammen mehr als 100 Milliarden Euro pro Jahr für die Finanzverwaltung, d.h., für die Verwaltung unseres komplexen Steuersystems, aus.
+Insgesamt waren es [829,77 Milliarden Euro](https://www.tagesschau.de/inland/innenpolitik/steuereinnahmen-bund-laender-104.html) auf der Einnahmenseite, was bedeutet, dass mehr als 12% dieser Einnahmen in die Organisation und Verwaltung der Strukturen fließen, um diese Einnahmen zu generieren.
+Hinzu kommen schätzungsweise ähnliche Aufwendungen auf der privaten Seite für Steuerberatung, die Steuerpflichtige bei der Bewältigung ihrer Steuerangelegenheiten unterstützen.
+Durch eine Vereinfachung der Steuergesetze könnte man die deutschen Steuerzahler erheblich entlasten und den Wirtschaftsstandort Deutschland international deutlich stärken.
 
 #### Leistungsstark
 
