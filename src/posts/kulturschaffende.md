@@ -1373,6 +1373,56 @@ Dabei vertritt der synodale Weg eine äußerst linke Geisteshaltung und unterst�
 > Mann und Frau hingegen stünden in einer fruchtbaren Spannung.
 > Das Kirchenoberhaupt warnt regelmäßig vor der "Gender-Ideologie" als eine der "gefährlichsten ideologischen Kolonisationen", weil es um eine über das Geschlechtliche hinausgehende Gleichmacherei gehe.
 
+[Mike Benz](https://twitter.com/FFO_Freedom) von der [Foundation for Freedom Online](https://foundationforfreedomonline.com/) spricht in [The Man Unmasking The American Censorship Empire](https://www.youtube.com/watch?v=5RVrg62wSWg) vom sogenannten Blob:
+<!--
+36:59
+The Blob, this is a term from Ben Rhodes, who was Obama’s Deputy National Security Adviser, and he used this term to describe the foreign policy establishment.
+You know, this is this diplomacy defense intelligence nexus, State Department, Pentagon, CIA, plus all the NGOs, and all their little funded cutouts and shell entities.
+-->
+
+> Der "Blob" ist ein Begriff von [Ben Rhodes](https://de.wikipedia.org/wiki/Ben_Rhodes), dem stellvertretenden nationalen Sicherheitsberater Obamas, und er verwendete diesen Begriff, um das außenpolitische Establishment zu beschreiben.
+> Wissen Sie, das ist dieser diplomatische, verteidigungs- und geheimdienstliche Komplex, das Außenministerium, das Pentagon, die CIA und all die NGOs und all ihre kleinen finanzierten "Cutouts" und Scheinfirmen.
+
+Nach Ansicht von Mike Benz ist der "Blob" für die Zensur im Internet verantwortlich, wobei die [Cybersecurity & Infrastructure Security Agency](https://www.cisa.gov/) (CISA), eine Unterabteilung des [Department of Homeland Security](https://www.dhs.gov), eine führende Rolle einnimmt.
+Ursprünglich als "Countering Foreign Influence Task Force" bekannt, wurde diese Gruppe nach dem Amtsantritt von Joe Biden in "Office of Mis-, Dis- and Malinformation" umbenannt und fungiert seither als eine Art "Wahrheitsministerium".
+Laut Mike Benz beschäftigen sich aktuell acht verschiedene Kongressausschüsse - darunter das House Judiciary, House Oversight, Weaponization, House Homeland Security, House Science Space and Technology, House Foreign Affairs und House Energy and Commerce - mit der Zensur von US-Bürgern im Internet, unter anderem:
+
+<!-- https://youtu.be/5RVrg62wSWg?t=2070
+34:30
+eight different congressional committees
+House Judiciary
+House oversight
+Weaponization
+House Homeland Security Committee
+Science Space and Technology
+House Foreign Affairs
+Energy and Commerce
+-->
+
+* [House Judiciary](https://judiciary.house.gov): [New Report Reveals CISA Tried to Cover Up Censorship Practices](https://judiciary.house.gov/media/press-releases/new-report-reveals-cisa-tried-cover-censorship-practices)
+  * [The Weaponization of CISA: How a 'Cybersecurity' Agency Colluded with Big Tech and 'Disinformation' Partners to Censor Americans](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/cisa-staff-report6-26-23.pdf)
+  * [House committee claims cybersecurity agency engaged in censorship](https://www.washingtonexaminer.com/opinion/124442/house-committee-claims-cybersecurity-agency-engaged-in-censorship/)
+  * [GOP-led House panel accuses cybersecurity agency of violating citizens' civil liberties](https://www.cbsnews.com/news/gop-led-house-panel-accuses-cybersecurity-agency-of-violating-citizens-civil-liberties/)
+* [House Oversight Committee](https://oversight.house.gov)
+  * [Comer: We Must Protect Americans from Censorship](https://oversight.house.gov/release/comer-we-must-protect-americans-from-censorshi/)
+* [Select Subcommittee on the Weaponization of the Federal Government](https://judiciary.house.gov/subcommittees/committee-judiciary-118th-congress/select-subcommittee-weaponization-federal)
+  * [New Report Details How the Federal Government Partnered with Universities to Censor Americans' Speech](https://judiciary.house.gov/media/press-releases/new-report-details-how-federal-government-partnered-universities-censor)
+* [House Committee on Homeland Security](https://homeland.house.gov)
+  * [Chairmen Green, Bishop Uncover New Evidence of DHS, Big Tech Collaborating to Censor Americans ](https://homeland.house.gov/2023/11/06/chairmen-green-bishop-uncover-new-evidence-of-dhs-big-tech-collaborating-to-censor-americans/)
+* [House Science Space and Technology](https://science.house.gov/)
+  * [Science Committee Finds Evidence of Inappropriate Influence in Biden Administration Contracting Rulemaking ](https://science.house.gov/press-releases?ID=B88A5C8F-2308-4BC1-B4B3-FA1E3714809C)
+* [House Foreign Affairs](https://foreignaffairs.house.gov)
+  * [McCaul, HFAC Members Demand Answers on GEC’s Role in Censorship](https://foreignaffairs.house.gov/press-release/mccaul-hfac-members-demand-answers-on-gecs-role-in-censorship/)
+* [House Energy and Commerce](https://energycommerce.house.gov)
+  * [Chairs Rodgers, Latta Announce Hearing on Protecting Americans from Big Tech Censorship](https://energycommerce.house.gov/posts/chairs-rodgers-latta-announce-hearing-on-protecting-americans-from-big-tech-censorship)
+
+Die Aktivitäten der CISA könnten die Zensur bestimmter Meinungen im Internet erklären, also das Unterdrücken einiger als unerwünscht betrachteter Ansichten. Sie erklären jedoch nicht die Zielstrebigkeit des Programms und die aktive Förderung einer links-grün-woken Agenda.
+
+> Nebenbemerkung: In [Eine umfassende Analyse der Zensur](https://www.welt.de/kultur/plus248189090/Digital-Service-Act-der-EU-DSA-Eine-umfassende-Datenanalyse-der-Zensur.html) wird auf die nächste Stufe an Risiken für die Meinungsfreiheit durch den [Digital Services Act](https://de.wikipedia.org/wiki/Gesetz_%C3%BCber_digitale_Dienste) aufmerksam gemacht:
+> <blockquote>Bei genauer Betrachtung jedoch wird schnell deutlich: Tief im Gesetzestext lauern Fallstricke, die nicht nur die Meinungs- und Pressefreiheit gefährden, sondern auch aktiv zur Zensur missbraucht werden können.</blockquote>
+> Vor dem Hintergrund der Enthüllungen aus den USA sollte meiner Meinung nach auch in der EU der <a href="https://de.wikipedia.org/wiki/Gesetz_%C3%BCber_digitale_Dienste">Digital Services Act</a> erneut überprüft und detailliert auf potenzielle Gefahren für die Meinungsfreiheit untersucht werden.
+
+
 In [Brauchen Eliten den großen Krieg?](https://youtu.be/Vc-RKRVC_C4) interviewt [Milena Preradovic](https://punkt-preradovic.com/) den Autor [Tom-Oliver Regenauer](https://www.regenauer.press) zu seinem neuen Buch [Truman Show](https://www.regenauer.press).
 Dort baut er auf die Vorarbeiten von [Antony C. Sutton](https://de.wikipedia.org/wiki/Antony_C._Sutton), einem britischen Ökonomen, Historiker und Schriftsteller, und [Carroll Quigley](https://de.wikipedia.org/wiki/Carroll_Quigley), einem US-amerikanischen Historiker und Zivilisationstheoretiker, auf und beschreibt, wie es zum Ersten Weltkrieg kam.
 Ein Großteil der Vorarbeiten wurde von Carroll Quigley in seinem Buch [Tragedy and Hope](https://en.wikipedia.org/wiki/Tragedy_and_Hope) recherchiert.
