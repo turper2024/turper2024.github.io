@@ -4,8 +4,8 @@
         <title>Turmalin Peridot</title>
         <description>Blog über Dinge die das Leben bewegen.</description>
         <link>https://turper2024.github.io/</link>
-        <lastBuildDate>Thu, 29 Feb 2024 01:00:00 +0100</lastBuildDate>
-        <pubDate>Thu, 29 Feb 2024 01:00:00 +0100</pubDate>
+        <lastBuildDate>Fri, 19 Apr 2024 02:00:00 +0200</lastBuildDate>
+        <pubDate>Fri, 19 Apr 2024 02:00:00 +0200</pubDate>
         <language>de</language>
         <atom:link href="https://turper2024.github.io/feed/feed.xml" rel="self" type="application/rss+xml"/>
             
@@ -57,6 +57,16 @@
                 <title>Theorie des Totalitarismus des 21. Jahrhunderts</title>
                 <description>Dokumentation meines gedanklichen Wegs zur Theorie des Totalitarismus des 21. Jahrhunderts</description>
                 <content:encoded><![CDATA[<a href="https://turper2024.github.io/posts/history/">Theorie des Totalitarismus des 21. Jahrhunderts</a>]]></content:encoded>
+            </item>
+            
+            <item>
+                <guid isPermaLink="true">https://turper2024.github.io/posts/grundlagen-der-ethik/</guid>
+                <pubDate>Fri, 19 Apr 2024 00:00:00 +0200</pubDate>
+                <link>https://turper2024.github.io/posts/grundlagen-der-ethik/</link>
+                <atom:link rel="alternate" type="text/html" href="https://turper2024.github.io/posts/grundlagen-der-ethik/"/>
+                <title>Gundlagen der Ethik und Moral</title>
+                <description>Oder wie uns unsere Intellektuellen erneut verraten.</description>
+                <content:encoded><![CDATA[<a href="https://turper2024.github.io/posts/grundlagen-der-ethik/">Gundlagen der Ethik und Moral</a>]]></content:encoded>
             </item>
     </channel>
 </rss>
