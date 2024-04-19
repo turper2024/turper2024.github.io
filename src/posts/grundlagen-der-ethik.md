@@ -16,9 +16,17 @@ categories:
 ## Kontext
 
 In meinem Blogbeitrag [Kulturschaffende: Wer hat mir in den Kopf gemacht?](../kulturschaffende) identifiziere ich die Zunft der Kulturschaffenden als Ursprung zahlreicher gegenwärtiger Probleme in unserer Gesellschaft. Weiterhin erläuterte ich meinen [gedanklichen Weg](../history) zu dieser Theorie.
-Da selten jemand der Erste ist, der eine bestimmte Idee verfolgt, bin ich überzeugt, auf einem Pfad unterwegs zu sein, den andere bereits vor mir gegangen sind.
+
+Unter Kulturschaffenden verstehe ich dabei Menschen, die hauptberuflich mit Narrativen arbeiten, etwa Philosophen, Autoren, Journalisten und auch Politiker.
+Narrative sind Mythologien, die aus einer Mischung aus Mythos (Geschichten mit emotionalem Inhalt) und Logos (Rationalität) bestehen.
+Sie zielen darauf ab, Annahmen über Verhaltensweisen, die moralisch positiv oder negativ bewertet werden, zu kommunizieren. Dabei spielt Wahrheit eine untergeordnete Rolle.
+Menschen einer Kultur teilen gemeinsame Mythologien, die Geschichten, die von guten bzw. schlechten Begebenheiten handeln und so das Weltbild formen.
+
+Da selten jemand der Erste ist, der eine bestimmte Idee verfolgt, bin ich überzeugt, auf einem Weg zu sein, den andere bereits vor mir gegangen sind.
 Ich entdecke lediglich neu, was Leute vor mir bereits wussten.
 Auf meiner Suche nach früheren Arbeiten zu diesem Thema stieß ich auf [Julien Benda](https://de.wikipedia.org/wiki/Julien_Benda), einen französischen Philosophen und Schriftsteller, und sein Essay [Der Verrat der Intellektuellen](https://www.amazon.de/Treason-Intellectuals-Julien-Benda/dp/1912475316) aus dem Jahr 1927.
+Julien Benda spricht im französischen Original von [Clercs](https://dict.leo.org/franz%C3%B6sisch-deutsch/clerc) (Schriftgelehrten), was eine etwas andere Bedeutung als das deutsche Wort Intellektuelle aufweist.
+Mittlerweile bin ich mir sicher, dass Benda mit seinem Begriff des Clerc das gleiche meint, was ich als [Kulturschaffende](../kulturschaffende) bezeichne.
 Dieser Blogbeitrag ist vorrangig eine Neubearbeitung und Aktualisierung der Einsichten Bendas für die Gegenwart und unser modernes Vokabular.
 
 Nachdem ich auf Julien Benda gestoßen war, führten mich meine weiteren Recherchen zu zahlreichen YouTube-Videos. Ich kann mich leider nicht mehr genau an deren Ursprung erinnern, aber in einem dieser Videos äußerte ein Diskussionsteilnehmer die Meinung:
@@ -27,10 +35,27 @@ Nachdem ich auf Julien Benda gestoßen war, führten mich meine weiteren Recherc
 
 Was ich als "schlechte Ideen von deutschen Philosophen, aufgehäuft auf noch mehr schlechten Ideen von deutschen Philosophen" übersetzen würde.
 In [Kulturschaffende: Wer hat mir in den Kopf gemacht?](../kulturschaffende#warnung) habe ich bereits vor Philosophen gewarnt.
-Doch diese Aussage fasst die Erkenntnisse von Julien Benda und den Kern dieses nun folgenden Blogbeitrags prägnant zusammen.
+Die Aussage "schlechte Ideen von deutschen Philosophen, aufgehäuft auf noch mehr schlechten Ideen von deutschen Philosophen" fasst die Erkenntnisse von Julien Benda und den Kern dieses nun folgenden Blogbeitrags prägnant zusammen.
 
-Diese Philosophen beanspruchen mit unerschütterlichem Selbstbewusstsein -- man könnte auch von einer dreisten und schamlosen Anmaßung sprechen -- , die Wahrheit für sich gepachtet zu haben.
-Es zeugt von einer unglaublichen Arroganz, wenn Philosophen ihre unerprobten Theorien und geistigen Exkremente der Menschheit als ultimative Wahrheiten aufdrängen, um der Menschheit "das gute Leben" zu bescheren, ohne ihre Theorien jemals experimentell zu prüfen und gegenüber der Realität[^hegeltatsachen] zu validieren.
+Zur Zeit Bendas waren die philosophischen Hauptströmungen der Nationalismus und der Marxismus. Beide teilen ein gemeinsames philosophisches Fundament, das primär auf Gruppenstärke abzielt.
+Der Nationalismus definierte die Gruppengrenzen entlang nationaler Linien, während der Marxismus sie um die Arbeiterklasse zog.
+Beide Strömungen zeigen wenig Respekt für die Interessen anderer und streben nicht danach, dem politischen Gegner das ihm Gebührende zu geben, und wollen ganz bestimmt nicht gemeinsam mit ihm ein System der Gerechtigkeit und Harmonie errichten.
+Beide Strömungen lehren, dass sein Wille insofern moralisch ist, als es ein Wille "zur Macht" ist.
+Bei beiden Strömungen handelt es sich um Herrschaftsideologien, die ihre Anhänger durch ihre Narrative bzw. Mythologien von ihrer moralischen Überlegenheit überzeugen wollen.
+
+Nur der Marxismus hat bis in die heutige Zeit, beispielsweise in Form des Maoismus in China, überdauert.
+Aber auch im Westen hat sich eine Variante des Marxismus bzw. Maoismus herausgebildet, die unter verschiedenen Namen firmiert, wie [Postmoderne](https://www.amazon.de/Explaining-Postmodernism-Skepticism-Socialism-Rousseau-ebook/dp/B005D53DG0/) oder kritische Gesellschaftstheorie,
+einschließlich kritischer Kultur-, Queer-, Rassen-, Geschlechter-, Fett- und Sexualitätstheorie.
+Im Folgenden spreche ich oft ganz einfach von der links-grün-woken Bewegung.
+
+Diese Philosophen der links-grün-woken Bewegung beanspruchen nun mit unerschütterlichem Selbstbewusstsein -- man könnte auch von einer dreisten und schamlosen Anmaßung sprechen -- , die Wahrheit für sich gepachtet zu haben.
+Es zeugt von einer unglaublichen Arroganz, wenn Philosophen ihre unerprobten Theorien und geistigen Exkremente der Menschheit als ultimative Wahrheiten aufdrängen, um der Menschheit "das gute Leben" zu bescheren, ohne ihre Theorien jemals experimentell zu prüfen und gegenüber der Realität zu validieren.
+
+Zu dieser Gelegenheit passt ein Zitat von [Hegel](https://gutezitate.com/zitat/242530), der einer der geistigen Väter der links-grün-woken Ideologie ist:
+> Wenn die Tatsachen nicht mit der Theorie übereinstimmen, umso schlimmer für die Tatsachen.
+
+Diese Kulturschaffenden der links-grün-woken Bewegung erwecken den Anschein von Wissenschaftlichkeit[^sokalandsquared], arbeiten aber mit Narrativen, die als Mythologien eine Mischung aus Mythos (Geschichten mit emotionalem Inhalt) und Logos (Rationalität) darstellen und Ethik sowie Moral vermitteln wollen.
+Dabei folgen sie den gleichen Spuren wie die Clercs zur Zeit Bendas und verraten uns erneut.
 
 Doch lesen Sie selbst und bilden Sie sich Ihre eigene Meinung.
 
@@ -705,10 +730,11 @@ Ein allgemeiner Mechanismus besteht darin, nur auf den Effekt oder nur auf die N
 ##### Überhöhung eines (peripheren) Wertes
 
 Eine spezielle Form der selektiven Fokussierung auf nur den Effekt ist die [Überhöhung eines (peripheren) Wertes](../leben-und-leben-lassen/#teil-1%3A-überhöhung-eines-(peripheren)-wertes-bzw.-die-dosis-macht-das-gift), ohne die Auswirkungen auf andere Werte im Wertesystem zu berücksichtigen.
-Ein Beispiel hierfür hatte ich bereits im Abschnitt zu [Gleichheit (Equality vs. Equity)](#gleichheit-(equality-vs.-equity)) angeführt, wo der Fokus allein auf Gleichheit liegt, ohne die negativen Konsequenzen für die anderen Werte der Parole der französischen Revolution – Freiheit, Gleichheit, Brüderlichkeit – zu beachten.
-In meinen Erläuterungen zur [Überhöhung eines (peripheren) Wertes](../leben-und-leben-lassen/#teil-1%3A-überhöhung-eines-(peripheren)-wertes-bzw.-die-dosis-macht-das-gift) bezog ich mich auf ein paraphrasiertes Zitat von Paracelsus: "Die Dosis macht das Gift."
-Links-grün-woke orientierte Ideologen argumentieren gerne mit dem Wert der Sicherheit (Safety) und
-vergessen dabei geflissentlich zum einen die negativen Auswirkungen auf die anderen Werte im Wertegefüge und überdehnen zum anderen den Begriff Sicherheit, der ursprünglich die körperliche Unversehrtheit meint, auf den mentalen Bereich.
+Ein Beispiel hierfür führe ich später im Abschnitt zu [Gleichheit (Equality vs. Equity)](#gleichheit-(equality-vs.-equity)) an, wo der Fokus allein auf Gleichheit liegt, ohne die negativen Konsequenzen für die anderen Werte der Parole der französischen Revolution – Freiheit, Gleichheit, Brüderlichkeit – zu beachten.
+In meinen Erläuterungen zur [Überhöhung eines (peripheren) Wertes](../leben-und-leben-lassen/#teil-1%3A-überhöhung-eines-(peripheren)-wertes-bzw.-die-dosis-macht-das-gift) bezog ich mich auf ein paraphrasiertes Zitat von Paracelsus:
+> Die Dosis macht das Gift.
+
+Links-grün-woke orientierte Ideologen argumentieren gerne mit dem Wert der Sicherheit (Safety) und vergessen dabei geflissentlich zum einen die negativen Auswirkungen auf die anderen Werte im Wertegefüge und überdehnen zum anderen den Begriff Sicherheit, der ursprünglich die körperliche Unversehrtheit meint, auf den mentalen Bereich.
 
 <!--
 > Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.
@@ -1583,7 +1609,8 @@ sie dienen als [Rechtfertigungen](https://youtu.be/sd6nYjRSqG4?t=2787) dafür, w
 ## Zusammenfassung
 
 Die [Alliance for Responsible Citizenship (ARC)](https://www.arcforum.com/about)[^konstantinkisinarcconference] fordert eine [Better-Story](https://www.arcforum.com/a-better-story) ("besseres Geschichte") als jene der links-grün-woken Ideologie.
-James Lindsay diskutiert ebenfalls einige [Probleme des klassischen Aufklärungsliberalismus](https://newdiscourses.com/2023/12/the-problems-with-classical-liberalism/) und identifiziert dabei den Angriff der links-grün-woken Ideologie – auch bekannt als Postmodernismus und kultureller Marxismus – auf die westlichen Zivilisationen als Hauptproblem.
+James Lindsay diskutiert ebenfalls einige [Probleme des klassischen Aufklärungsliberalismus](https://newdiscourses.com/2023/12/the-problems-with-classical-liberalism/) und identifiziert dabei den Angriff der links-grün-woken Ideologie – auch bekannt als Postmodernismus und [kultureller Marxismus](https://newdiscourses.com/tftw-cultural-marxism/) –
+auf die westlichen Zivilisationen als Hauptproblem.
 Zudem präsentiert James Lindsay in diesem Podcast ein leidenschaftliches Plädoyer für den klassischen Aufklärungsliberalismus, dem ich mich gerne anschließe.
 
 Eine These des Buches [Explaining Postmodernism: Skepticism and Socialism from Rousseau to Foucault](https://www.amazon.de/Explaining-Postmodernism-Skepticism-Socialism-Rousseau-ebook/dp/B005D53DG0/) des Philosophen [Stephen R. C. Hicks](https://de.wikipedia.org/wiki/Stephen_Hicks_(Philosoph)) ist,
@@ -1697,3 +1724,4 @@ Ich plane, diese Grundprinzipien einer verantwortungsvollen und integren Regieru
 [^determinismus]: In der Physik ist die zeitliche Entwicklung des elektromagnetischen Feldes determiniert, sobald man die Anfangsbedingungen kennt. Dieser [Determinismus](https://de.wikipedia.org/wiki/Freier_Wille#Vereinbarkeit_von_Determinismus_und_Willensfreiheit) wirft die Frage auf, wie die links-grün-woke Ideologie zum Thema Willensfreiheit steht.
 [^methaphysik]: Siehe auch [Metaphysik](../kulturschaffende/#metaphysik).
 [^willezurmacht]: Siehe auch: [Ricarda Lang: Ich will Macht!](https://youtu.be/0R6GOMUYyD4?t=70)
+[^sokalandsquared]:  Siehe [Sokal Hoax](https://en.wikipedia.org/wiki/Sokal_affair) und [Sokal zum Quadrat](https://en.wikipedia.org/wiki/Grievance_studies_affair).
