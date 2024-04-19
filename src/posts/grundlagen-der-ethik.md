@@ -78,39 +78,10 @@ Law is – oh, come on, you know this one.
 -->
 
 Axiologie ist das Studium dessen, was gut ist. Moral ist die Lehre davon, was das Richtige ist. Gesetze sind die Gesamtheit genereller Verhaltensregeln, die von der Gemeinschaft gewährleistet werden.
+Für den interessierten Leser gehe ich im [Anhang](#anhang%3A-axiologie%2C-moral%2C-recht) noch ausführlicher auf dieses Thema ein.
 
-Im Blogbeitrag [Axiology, Morality, Law](http://slatestarcodex.com/2017/08/28/contra-askell-on-moral-offsets) heißt es weiter:
-<!--
-These three concepts are pretty similar; they’re all about some vague sense of what is or isn’t desirable. But most societies stop short of making them exactly the same.
-Only the purest act-utilitarianesque consequentialists say that axiology exactly equals morality, and I’m not sure there is anybody quite that pure.
-And only the harshest of Puritans try to legislate the state law to be exactly identical to the moral one.
-To bridge the whole distance – to directly connect axiology to law and make it illegal to do anything other than the most utility-maximizing action at any given time – is such a mind-bogglingly bad idea that I don’t think anyone’s even considered it in all of human history.
 
-These concepts stay separate because they each make different compromises between goodness, implementation, and coordination.
-
-...
-
-So fundamentally, what is the difference between axiology, morality, and law?
-
-Axiology is just our beliefs about what is good. If you defy axiology, you make the world worse.
-
-At least from a rule-utilitarianesque perspective, morality is an attempt to triage the infinite demands of axiology, in order to make them implementable by specific people living in specific communities.
-
-Law is an attempt to formalize the complicated demands of morality, in order to make them implementable by a state with police officers and law courts.
--->
-> Diese drei Konzepte sind ziemlich ähnlich; Bei ihnen geht es um eine vage Vorstellung davon, was wünschenswert ist und was nicht. Aber die meisten Gesellschaften schrecken davor zurück, sie genau gleich zu machen.
-> Nur die reinsten aktutilitaristischen Konsequentialisten sagen, dass Axiologie genau gleichbedeutend mit Moral ist, und ich bin mir nicht sicher, ob es jemanden gibt, der so rein ist.
-> Und nur die schärfsten Puritaner versuchen, das staatliche Gesetz so zu erlassen, dass es genau mit dem moralischen Gesetz übereinstimmt.
-> Die ganze Distanz zu überbrücken – die Axiologie direkt mit dem Recht zu verbinden und es illegal zu machen, etwas anderes als die nützlichste Handlung zu einem bestimmten Zeitpunkt zu tun – ist eine so umwerfend schlechte Idee, dass ich glaube, dass noch niemand in der gesamten Menschheitsgeschichte darüber nachgedacht hat.
->
-> Diese Konzepte bleiben getrennt, da sie jeweils unterschiedliche Kompromisse[^kompromisse] zwischen Güte ("Goodness"), Umsetzung und Koordination eingehen.
-
-> Was ist also grundsätzlich der Unterschied zwischen Axiologie, Moral und Recht?
-> * Axiologie ist einfach unsere Überzeugung darüber, was gut ist. Wenn Sie sich der Axiologie widersetzen, machen Sie die Welt zu einem schlechteren Ort.
-> * Zumindest aus einer regelutilitaristischen Perspektive ist Moral ein Versuch, die unendlichen Anforderungen der Axiologie zu triagieren, um sie für bestimmte Menschen, die in bestimmten Gemeinschaften leben, umsetzbar zu machen.
-> * Das Recht ist ein Versuch, die komplizierten Anforderungen der Moral zu formalisieren, um sie durch einen Staat mit Polizeibeamten und Gerichten umsetzbar zu machen.
-
-Noch ein letzter Punkt bevor wir zum Thema Doppelmoral komme können. Im Vortrag [Der Konservativismus der Zukunft - Deutschland in der permanenten Revolution](https://youtu.be/8JTuhNkBa9Q?t=2848) in der [Bibliothek des Konservatismus](https://www.youtube.com/@bdkBerlin) geht der Jurist [Ulrich Vosgerau](https://de.wikipedia.org/wiki/Ulrich_Vosgerau)
+Noch ein letzter Punkt bevor wir zum Thema Doppelmoral komme können. Im Vortrag [Der Konservativismus der Zukunft](https://youtu.be/8JTuhNkBa9Q?t=2848)[^bibliothekdeskonservatismus] geht der Jurist [Ulrich Vosgerau](https://de.wikipedia.org/wiki/Ulrich_Vosgerau)
 auf die unterschiede der neuen und der alten Linken ein und stellt die Bedeutung des Rechts für die Methoden der neuen Linken in den Mittelpunkt:
 <!--
 Und hier kommen wir langsam zum entscheidenden Unterschied zwischen der neuen und der alten linken ich greife mal kurz vor es ist der Unterschied dass Utopie zu normativismus
@@ -154,7 +125,7 @@ Wenn sich die Doppelmoral auf der Ebene der Axiologie abspielt, wie ein Beispiel
 aber selbst auf Instagram Bilder seiner Reisen nach Irland, Israel, Kuba, Malta, Marokko, Mexiko, Taiwan und Vietnam zeigt,
 dann könnte man darüber hinwegsehen mit dem Hinweis, dass Menschen eben unvollkommen sind.
 
-Das Thema Doppelmoral[^linkemoralischloki] erhält aber eine ganz andere Bedeutung auf der Ebene des Rechts[^ebenedesrechts].
+Das Thema Doppelmoral erhält aber eine ganz andere Bedeutung auf der Ebene des Rechts[^ebenedesrechts].
 Und auch in der Sphäre der Moral und Ethik ist Vorsicht geboten, denn die moderne Linke versucht als eine Art neuer [Puritanismus](https://de.wikipedia.org/wiki/Puritanismus), staatliche Gesetze so zu gestalten, dass sie exakt mit ihrem moralischen Kodex übereinstimmen.
 An [anderer Stelle](../kulturschaffende/#wokes-kalifat) hatte ich zu diesem Thema noch etwas mehr gesagt.
 
@@ -1700,6 +1671,42 @@ Aus einem ähnlichen Mindset heraus sollten die Staatsvertreter handeln, wenn si
 
 Ich plane, diese Grundprinzipien einer verantwortungsvollen und integren Regierungsführung in einem zukünftigen Blogbeitrag weiter auszuformulieren.
 
+## Anhang
+
+### Anhang: Axiologie, Moral, Recht
+
+Im Blogbeitrag [Axiology, Morality, Law](http://slatestarcodex.com/2017/08/28/contra-askell-on-moral-offsets) heißt es weiter:
+<!--
+These three concepts are pretty similar; they’re all about some vague sense of what is or isn’t desirable. But most societies stop short of making them exactly the same.
+Only the purest act-utilitarianesque consequentialists say that axiology exactly equals morality, and I’m not sure there is anybody quite that pure.
+And only the harshest of Puritans try to legislate the state law to be exactly identical to the moral one.
+To bridge the whole distance – to directly connect axiology to law and make it illegal to do anything other than the most utility-maximizing action at any given time – is such a mind-bogglingly bad idea that I don’t think anyone’s even considered it in all of human history.
+
+These concepts stay separate because they each make different compromises between goodness, implementation, and coordination.
+
+...
+
+So fundamentally, what is the difference between axiology, morality, and law?
+
+Axiology is just our beliefs about what is good. If you defy axiology, you make the world worse.
+
+At least from a rule-utilitarianesque perspective, morality is an attempt to triage the infinite demands of axiology, in order to make them implementable by specific people living in specific communities.
+
+Law is an attempt to formalize the complicated demands of morality, in order to make them implementable by a state with police officers and law courts.
+-->
+> Diese drei Konzepte sind ziemlich ähnlich; Bei ihnen geht es um eine vage Vorstellung davon, was wünschenswert ist und was nicht. Aber die meisten Gesellschaften schrecken davor zurück, sie genau gleich zu machen.
+> Nur die reinsten aktutilitaristischen Konsequentialisten sagen, dass Axiologie genau gleichbedeutend mit Moral ist, und ich bin mir nicht sicher, ob es jemanden gibt, der so rein ist.
+> Und nur die schärfsten Puritaner versuchen, das staatliche Gesetz so zu erlassen, dass es genau mit dem moralischen Gesetz übereinstimmt.
+> Die ganze Distanz zu überbrücken – die Axiologie direkt mit dem Recht zu verbinden und es illegal zu machen, etwas anderes als die nützlichste Handlung zu einem bestimmten Zeitpunkt zu tun – ist eine so umwerfend schlechte Idee, dass ich glaube, dass noch niemand in der gesamten Menschheitsgeschichte darüber nachgedacht hat.
+>
+> Diese Konzepte bleiben getrennt, da sie jeweils unterschiedliche Kompromisse[^kompromisse] zwischen Güte ("Goodness"), Umsetzung und Koordination eingehen.
+
+> Was ist also grundsätzlich der Unterschied zwischen Axiologie, Moral und Recht?
+> * Axiologie ist einfach unsere Überzeugung darüber, was gut ist. Wenn Sie sich der Axiologie widersetzen, machen Sie die Welt zu einem schlechteren Ort.
+> * Zumindest aus einer regelutilitaristischen Perspektive ist Moral ein Versuch, die unendlichen Anforderungen der Axiologie zu triagieren, um sie für bestimmte Menschen, die in bestimmten Gemeinschaften leben, umsetzbar zu machen.
+> * Das Recht ist ein Versuch, die komplizierten Anforderungen der Moral zu formalisieren, um sie durch einen Staat mit Polizeibeamten und Gerichten umsetzbar zu machen.
+
+
 ## Fußnoten
 
 [^rechtsphilosophie]: Siehe auch [Rechtsphilosophie](https://de.wikipedia.org/wiki/Rechtsphilosophie).
@@ -1725,3 +1732,4 @@ Ich plane, diese Grundprinzipien einer verantwortungsvollen und integren Regieru
 [^methaphysik]: Siehe auch [Metaphysik](../kulturschaffende/#metaphysik).
 [^willezurmacht]: Siehe auch: [Ricarda Lang: Ich will Macht!](https://youtu.be/0R6GOMUYyD4?t=70)
 [^sokalandsquared]:  Siehe [Sokal Hoax](https://en.wikipedia.org/wiki/Sokal_affair) und [Sokal zum Quadrat](https://en.wikipedia.org/wiki/Grievance_studies_affair).
+[^bibliothekdeskonservatismus]: In der [Bibliothek des Konservatismus](https://www.youtube.com/@bdkBerlin).
