@@ -242,64 +242,6 @@ Es folgt ein Ausschnitt aus einer Rede von Dr. Markus Krall, die er vor der Frie
 > Deswegen glaube ich, dass die wissenschaftliche Freiheit und der wissenschaftliche Diskurs am besten in einem Minimalstaat herzustellen ist, indem die Universitäten wieder das tun, was sie dazu sind:
 > Forschung und Lehre, und in der Angebot und Nachfrage nach diesem Phänomen, das einzelnen was geforscht und gelehrt wird, das antreiben, was geforscht und gelehrt wird, weil nämlich alles, was nicht wirklich zu Erkenntnis führt, dann auf der Strecke bleibt, und das ist nicht schade drum.
 
-## Arbeiterklasse irrelevant für Marxisten, die nach der Macht streben
-
-In [James Lindsay shatters Woke Ideology: EU Parliament Speech](https://youtu.be/Aviyl1eiC1s?t=1379) geht [James Lindsay](https://en.wikipedia.org/wiki/James_A._Lindsay) auf die Evolution des Marxismus ein, um sich an die westlichen Gesellschaften anzupassen und als Basis für eine marxistische Revolution zu taugen:
-
-<!--
-[Max Horkheimer](https://de.wikipedia.org/wiki/Max_Horkheimer), who designed the critical theory, explained the critical theory and what did he say?
-He said, well, what we came to realize was that Marx was wrong about one thing: capitalism does not immiserate the worker. It allows him to build a better life.
-So, I developed the critical theory, because it is not possible to articulate the vision of a good society on the terms of the existing society.
-So, critical Marxism criticizes the entirety of the existing society.
-Everything is somehow needing to be subjected to Marxist conflict analysis.
-But how is that to be done?
-They sought an answer through the middle part of the 20th century, and World War II breaks out.
-The [Frankfurt School](https://en.wikipedia.org/wiki/Frankfurt_School) comes to America, which in this metaphor is the Wuhan Institute of Virology because gain of function began to happen on the Marxist virus very quickly in America.
-American universities adopted these professors from Germany, and [Herbert Marcuse](https://de.wikipedia.org/wiki/Herbert_Marcuse), writing in the 1960s, said extremely clearly, this writing in 1969, not only did he say capitalism delivers the goods, gives people a good life, makes them wealthy and comfortable and happy.
-He also said that the working class is no longer going to be the base of the revolution because of these things.
-In other words, we don’t have to be responsible to the working class anymore, which opens up the ability for Marxists who are seeking power to make friends with the corporations.
-The bosses are no longer the enemy.
-They’re an opportunity because the working class is irrelevant, he said.
-The energy is somewhere else, he said.
-It’s in the racial minorities, the sexual minorities, the feminists, the outsiders, that’s who he said have the energy for a Marxist revolution in the West, not the working class, and so Marxism was able to evolve to abandon the working class.
-And so, what did they do? Well, all they had studied for 30 years was what they called the culture industry, an industry that commodifies and packages culture and sells it back to people, stripped of what it actually is, an empty abstract noun.
-So, what of course did they do? They seized the means of production of the culture industry because that’s what they do, and so they started to transform the culture industry to sell racial, sexual, gender, sexuality-based agitprop as though that were genuine culture.
-So, we get concepts like cultural appropriation, we get concepts like cultural relevance.
-Cultural this, cultural that, cultural everything, and it’s all provided in pastiche; it’s all provided as a mockery of what’s really going on.
--->
-
-> [Max Horkheimer](https://de.wikipedia.org/wiki/Max_Horkheimer), der die "Critical Theory" entworfen hat, hat die "Critical Theory" erklärt. Er sagte:
->
-> Nun, wir kamen zu der Erkenntnis, dass **Marx in einer Sache falsch lag: Der Kapitalismus verelendet den Arbeiter nicht. Er ermöglicht ihm, ein besseres Leben aufzubauen**.
-> Deshalb habe ich die "Critical Theory" entwickelt, weil es nicht möglich ist, die Vision einer guten Gesellschaft auf der Grundlage der Bedingungen der bestehenden Gesellschaft zu artikulieren.
-> Der kritische Marxismus kritisiert also die Gesamtheit der bestehenden Gesellschaft. Alles muss irgendwie einer marxistischen Konfliktanalyse unterzogen werden.
->
-> Aber wie geht das?
->
-> Mitte des 20. Jahrhunderts suchten sie nach einer Antwort, als der Zweite Weltkrieg ausbrach.
-> Die [Frankfurter Schule](https://en.wikipedia.org/wiki/Frankfurt_School) kommt nach Amerika, das in dieser Metapher das Wuhan-Institut für Virologie ist, weil in Amerika sehr schnell ein "Gain of Function" beim marxistischen Virus zu verzeichnen war.
->
-> Amerikanische Universitäten haben diese Professoren aus Deutschland aufgenommen, und [Herbert Marcuse](https://de.wikipedia.org/wiki/Herbert_Marcuse) hat in seinen Schriften aus den 1960er-Jahren sehr deutlich gesagt, dass **der Kapitalismus nicht nur die Waren liefert, den Menschen ein gutes Leben gibt, sie wohlhabend, komfortabel und glücklich macht**.
-> Er sagte auch, dass die Arbeiterklasse aufgrund dieser Dinge nicht länger die Basis der Revolution sein werde.
->
-> Mit anderen Worten: **Wir müssen nicht mehr der Arbeiterklasse gegenüber verantwortlich sein**, was den **Marxisten, die nach der Macht streben, die Möglichkeit eröffnet, sich mit den Konzernen anzufreunden**.
-> Die Bosse sind nicht mehr der Feind. Sie seien eine Chance, weil die Arbeiterklasse irrelevant sei, sagte er.
->
-> **Die Energie sei woanders**, sagte er.
->
-> Es sind die **Rassenminderheiten**, die **sexuellen Minderheiten**, die **Feministinnen**, die **Außenseiter**, die seiner Meinung nach **die Energie für eine marxistische Revolution im Westen haben**, nicht die Arbeiterklasse, und so konnte sich der Marxismus weiterentwickeln, um die Arbeiterklasse im Stich zu lassen.
->
-> Und was haben sie getan?
->
-> Nun, alles, was sie 30 Jahre lang studiert hatten, war das, was sie die **Kulturindustrie** nannten, eine Industrie, die Kultur kommerzialisiert, verpackt und an die Menschen zurückverkauft, ohne das, was sie eigentlich ist, ein leeres abstraktes Substantiv.
->
-> Was haben sie also getan?
->
-> Sie übernahgmen die Produktionsmittel der Kulturindustrie, weil sie genau das tun.
-> Und so begannen sie, die Kulturindustrie umzugestalten, um rassistische, sexuelle, geschlechtsspezifische und sexualitätsbasierte [Agitprop](https://de.wikipedia.org/wiki/Agitprop) zu verkaufen, als ob das echte Kultur wäre.
->
-> Wir bekommen also Konzepte wie kulturelle Aneignung, wir bekommen Konzepte wie kulturelle Relevanz. Kulturelles Dies, kulturelles Jenes, kulturelles Alles und alles wird in Pastiche dargestellt; Es wird alles nur als Verspottung dessen dargestellt, was wirklich vor sich geht.
-
 ## November 1819 auf Hawaii
 
 Im Artikel [Ist Peak Woke schon erreicht?](https://www.achgut.com/artikel/ist_peak_woke_schon_erreicht) wird das Buch [Verachtung nach unten](https://www.kopp-verlag.de/a/verachtung-nach-unten-1) von Alexander Wendt vorgestellt. Dort wird aus dem Ende des Buches zitiert:

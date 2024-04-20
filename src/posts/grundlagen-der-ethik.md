@@ -1,5 +1,5 @@
 ---
-title: "Gundlagen der Ethik und Moral"
+title: "Grundlagen der Ethik und Moral"
 description: "Oder wie uns unsere Intellektuellen erneut verraten."
 date: "2024-04-19"
 keywords: "Ethik,Moral,Politik,Kultur,Ideologien"

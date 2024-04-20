@@ -864,6 +864,8 @@ in our civilization.
 
 <hr>
 
+[Jonathan Pageau](https://www.pageaucarvings.com/index.html) spricht in seinem Vortrag [What is the Supreme Good?](https://www.youtube.com/watch?v=Fsmqhu8-L1E) über ähnliche Überlegungen.
+
 ### Bike-Shedding und Parkinsons Law
 
 Der Artikel [Soziale Verbesserungen, die keine gegenläufigen negativen Kräfte erzeugen](https://marginalrevolution.com/marginalrevolution/2024/01/social-improvements-that-dont-create-countervailing-forces.html) postuliert:

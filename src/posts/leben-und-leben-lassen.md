@@ -797,6 +797,13 @@ seine Einschätzung zur aktuellen Lage der Meinungsfreiheit in Deutschland mit d
 
 Diese Schlussfolgerung stützt er auf den Freiheitsindex[^freiheitsindex] des [Instituts für Demoskopie in Allensbach](https://de.wikipedia.org/wiki/Institut_f%C3%BCr_Demoskopie_Allensbach), der für das Jahr 2023 den niedrigsten Stand seit [70 Jahren](https://www.nius.de/gesellschaft/schlechtester-wert-seit-70-jahren-mehrheit-der-deutschen-traut-sich-nicht-die-politische-meinung-frei-zu-sagen/f0d9ce69-0596-4c44-89ab-f4428687f760) verzeichnet.
 
+[Prof. Martin Schwab](https://de.wikipedia.org/wiki/Martin_Schwab_(Jurist)), der seit Oktober 2015 an der Universität Bielefeld lehrt und den Lehrstuhl für Bürgerliches Recht, Verfahrens- und Unternehmensrecht innehat, äußert sich im Artikel [Thomas Haldenwang und Nancy Faeser verkörpern die personifizierte Bedrohung für unsere Demokratie](https://www.tichyseinblick.de/interviews/haldenwangfaeser-verkoerpern-bedrohung-demokratie-schwab) noch deutlicher:
+
+> Thomas Haldenwang und Nancy Faeser verkörpern die personifizierte Bedrohung für unsere Demokratie.
+> Sollte mich jemand für diese Aussage disziplinarrechtlich belangen, werde ich sämtliche Angriffe, die von Frau Faeser und Herrn Haldenwang gegen unsere Verfassung geführt werden, vor Gericht ausbreiten.
+> Die Versuche dieser beiden Personen, den demokratischen Diskurs abzutöten, lassen sich glasklar und gerichtsfest belegen.
+
+
 In diesem Anhang zu [Leben und leben lassen](./) möchte ich meine Perspektive auf die aktuelle Situation präsentieren.
 
 Wir befinden uns in einer Gemengelage zwischen [Meinungsfreiheit](https://de.wikipedia.org/wiki/Artikel_5_des_Grundgesetzes_f%C3%BCr_die_Bundesrepublik_Deutschland#Normierung),
@@ -1027,6 +1034,14 @@ Zudem ist die Bloggerin Mitherausgeberin der Elternbroschüre "Wegweiser aus dem
 
 Die Gesetzgebung, die ursprünglich geschaffen wurde, um der Hassrede entgegenzuwirken, wird nun dazu verwendet um Kritiker aus der Debatte zu drängen.
 
+Hierbei handelt es sich um ein gesamteuropäisches Phänomen. [Andrew Doyle](https://en.wikipedia.org/wiki/Andrew_Doyle_(comedian)) äußert sich dazu in seinem Kommentar: [Why We Should Abolish Hate Speech Laws](https://youtube.com/watch?v=n2uOxftwgZg).
+
+Relevant in diesem Kontext ist auch der Artikel [Die Erziehung von Untertanen](https://www.cicero.de/innenpolitik/hassrede-gesetze-die-erziehung-von-untertanen) aus dem Cicero Magazin für politische Kultur. [Bernd Stegemann](https://www.cicero.de/autoren/bernd-stegemann) äußert sich hierzu folgendermaßen:
+
+> Die jüngsten Aussagen des Leiters des Verfassungsschutzes erinnern mich an einen juristischen Schachzug, mit dem die Nationalsozialisten 1933 und 34 ihre Macht gesichert haben.
+> Das "Heimtückegesetz" kriminalisierte alle Meinungsäußerungen, die das Ansehen des Reiches, der Regierung oder der NSDAP beschädigen konnten.<br>...<br>
+> Die Werturteile "gehässige, hetzerische oder von niedriger Gesinnung" sind so schwammig formuliert, dass damit jede Meinungsäußerung kriminalisiert werden konnte.
+
 #### Slippery Slope: Faktenchecker
 
 Ein weiterer Weg, der nun in Zensur zu münden scheint, sind die Bemühungen, [Fake News](https://de.wikipedia.org/wiki/Fake_News) und [alternative Fakten](https://de.wikipedia.org/wiki/Alternative_Fakten) einzudämmen.
@@ -1084,6 +1099,15 @@ Weitere Einzelheiten sind im Bericht [Der kafkaeske Prozess gegen C. J. Hopkins]
 
 Das Buch [Freiheit in Gefahr: Warum unsere Freiheitsrechte bedroht sind und wie wir sie schützen können](https://www.penguin.de/Buch/Freiheit-in-Gefahr/Hans-Juergen-Papier/Heyne/e586261.rhd) ist ein Plädoyer von [Hans-Jürgen Papier](https://de.wikipedia.org/wiki/Hans-J%C3%BCrgen_Papier),
 dem ehemaligen Präsidenten des Bundesverfassungsgerichts und Deutschlands höchstem Richter a.D., für den Schutz unserer Freiheitsrechte.
+
+<!--
+https://en.wikiquote.org/wiki/Noam_Chomsky
+
+The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum - even encourage the more critical and dissident views.
+That gives people the sense that there's free thinking going on, while all the time the presuppositions of the system are being reinforced by the limits put on the range of the debate.
+ -->
+Dazu vielleicht noch ein Zitat des berühmten amerikanischen Linguisten [Noam Chomsky](https://en.wikiquote.org/wiki/Noam_Chomsky):
+> Der schlaueste Weg, Menschen passiv und folgsam zu halten, ist, das Spektrum akzeptierter Meinungen strikt zu limitieren, aber innerhalb dieses Spektrums sehr lebhafte Debatten zu erlauben.
 
 #### Gegenbewegung: Initiative für Freiheit
 

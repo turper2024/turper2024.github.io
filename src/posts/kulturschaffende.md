@@ -296,6 +296,8 @@ Ausnahmeerscheinung ist. Siehe dazu auch: [Bug oder Feature](../aufklärung-plus
 
 Wäre es leicht, Menschen von ihren Halluzinationen (Ideologien) zu befreien, müsste ich meine Kinder nicht vor Philosophen warnen.
 
+> You can sway a thousand men by appealing to their prejudices quicker than you can convince one man by logic. ([Robert A. Heinlein](https://www.azquotes.com/author/6509-Robert_A_Heinlein))
+
 #### Ethik und Moral
 
 In einem [laizistischen](https://de.wikipedia.org/wiki/Laizismus) Staat, in dem die Trennung zwischen Religion und Staat etabliert ist, orientieren sich Ethik und Moral an den Prinzipien einer Strategie,
@@ -551,6 +553,8 @@ die sich gegen die einheitliche moralische Gleichschaltung des Landes stellen.
 In beiden Fällen steht der Begriff "Nazi" für Menschen, die sich dieser moralischen Gleichschaltung widersetzen und eine innere Diversität, eine pluralistische und offene Gesellschaft sowie moralische Vielfalt fordern.
 Es handelt sich um eine Form des [Doublethink](https://en.wikipedia.org/wiki/Doublethink), wo der Begriff "Nazi" genau für sein Gegenteil verwendet wird.
 
+> Wenn der Faschismus wiederkehrt, wird er nicht sagen: 'Ich bin der Faschismus'. Nein, er wird sagen: 'Ich bin der Antifaschismus'. ([Ignazio Silone](https://beruhmte-zitate.de/autoren/ignazio-silone/))
+
 Die Druckmittel dieses Totalitarismus des 21. Jahrhunderts sind nicht mehr physische Gewalt oder Folter, die offen sichtbar sind, sondern subtilere Methoden wie
 jemanden umstritten machen, [Rufmord](https://www.routledge.com/Routledge-Handbook-of-Character-Assassination-and-Reputation-Management/Samoilenko-Icks-Keohane-Shiraev/p/book/9781032081779),
 [Deplatforming](https://en.wikipedia.org/wiki/Deplatforming) bis hin zum [Debanking](https://en.wikipedia.org/wiki/De-banking), die darauf abzielen, Menschen von der Teilnahme am öffentlichen Leben auszuschließen.
@@ -563,8 +567,6 @@ Dort versuche ich, meine Assoziationen zur Woke-Ideologie zu artikulieren.
 Ich gebe dem Konstrukt den Namen [Loki](https://de.wikipedia.org/wiki/Loki).
 Ich spreche von einem **[Loki](https://de.wikipedia.org/wiki/Loki) im [Gaia](https://de.wikipedia.org/wiki/Gaia_(Mythologie))kostüm**.
 Details hierzu sind für die Allgemeinheit im [Anhang](#loki-im-gaiakostüm) dokumentiert.
-
-
 
 ### Rationale Kritik
 
@@ -658,8 +660,12 @@ Ich habe hierzu eine Kommunikationsstrategie entwickelt, die ich hier als Beispi
 > <blockquote>Der strategische Wendepunkt im Verhältnis der Vereinigten Staaten zu Russland war das Jahr 2002, nämlich die <b>einseitige Kündigung</b> des 1972 geschlossenen und für das nuklearstrategische Gleichgewicht zwischen diesen beiden Supermächten so enorm wichtigen ABM-Abkommens über strategische Raketenabwehrsysteme, denn gleichzeitig wurde in Europa ein Raketenabwehrsystem aufgebaut, das Russland als Bedrohung des nuklearstrategischen Gleichgewichts mit den Vereinigten Staaten verstehen musste. 2019 wurde dann <b>ebenfalls einseitig</b> das für Europas Sicherheit so entscheidende INF-Abkommen über nukleare Mittelstreckenraketen aufgekündigt. Im Grunde genommen haben die Vereinigten Staaten damit Russland die Möglichkeit gegeben, völkerrechtlich und vertragskonform, ein neues eurostrategisches nukleares Bedrohungspotenzial gegen Europa aufzubauen. Ein Jahr später wurde dann der Vertrag über den offenen Himmel, <b>ebenfalls einseitig</b>, gekündigt. Das war ein ganz wichtiger Vertrag, weil er gegenseitige Inspektionen erlaubte und für Transparenz und Vorhersehbarkeit auch des militärischen Handelns da war. Dagegen wurde 2021 das Abkommen über interkontinentalstrategische Waffensysteme, also amerikanische und russische Waffenabkommen, das sogenannte New-START-Abkommen mit Russland um 5 Jahre <b>einvernehmlich verlängert</b>. Es hat dann auch Verhandlungen sogar während des Ukraine-Krieges gegeben, bis Russland dann wegen der massiven Unterstützung der Vereinigten Staaten die Verhandlungen unterbrochen hat.</blockquote>
 
 Die dargelegten Punkte bieten eine solide Grundlage, um Freunde und Familie zu motivieren, ihre Mediendiät um ein kritisches Medium wie die [NachDenkSeiten](https://www.nachdenkseiten.de/) zu erweitern.
-Durch die Nutzung der NachDenkSeiten können sie Einblicke in globale Geschehnisse gewinnen, die durch den [Zensur-industriellen Komplex](https://twitterfiles.substack.com/p/the-censorship-industrial-complex) und die [Lückenpresse](../leben-und-leben-lassen/#slippery-slope%3A-lückenpresse) oft unberichtet bleiben.
+Durch die Nutzung der NachDenkSeiten können sie Einblicke in globale Geschehnisse gewinnen, die durch den [Zensur-industriellen Komplex](https://twitterfiles.substack.com/p/the-censorship-industrial-complex)[^privatepubliccensorship] und die [Lückenpresse](../leben-und-leben-lassen/#slippery-slope%3A-lückenpresse) oft unberichtet bleiben.
 Im Anhang [Man muss mittlerweile sehr genau hinschauen](#man-muss-mittlerweile-sehr-genau-hinschauen) gehe ich auf weitere Aspekte der Verstümmelung unserer Meinungsbildung ein.
+
+> Eine größere Auswahl an unabhängigen Online-Medien zeigt die folgende Grafik:
+>
+> <a href="/img/kulturschaffende-online-medien.png" target="about:blank"><img src="/img/kulturschaffende-online-medien.png" alt="Pluralismus" style="max-height: 100px; max-width: 100%"></a>
 
 Ein nächster Schritt in die richtige Richtung wäre, sich wieder intensiver mit den Menschen, die uns am Herzen liegen, auszutauschen und zu synchronisieren.
 Kurz gesagt: Miteinander reden und sich der Spaltung verweigern. Ziel sollte es sein, Menschen behutsam zurück in einen liberalen und aufgeklärten [Aggregatzustand](#änderung-des-gesellschaftlichen-aggregatzustands) zu führen.
@@ -675,6 +681,10 @@ Dieses würde die Entwicklungen rund um die Woke-Bewegung beobachten und als ins
 ## Anhang
 
 ### Doppelmoral
+
+Ich hatte angefangen, an dieser Stelle über das Thema Doppelmoral zu schreiben. Das Thema wurde aber so umfangreich, dass ich mich dazu entschlossen habe, dem Thema einen eigenen Blogbeitrag zu widmen: [Grundlagen der Ethik und Moral](../grundlagen-der-ethik).
+
+#### Doppelmoral als Kultpraxis
 
 In meinem Beitrag "Leben und leben lassen" habe ich die Problematik der [Doppelmoral](../leben-und-leben-lassen/#doppelmoralverbot)[^luisaneubauerdoppelmoral] aus einer liberalen ethischen Perspektive erörtert.
 
@@ -819,6 +829,92 @@ Realitätsbezug lose, da man sich auf sehr komplexe und komplizierte Eigenschaft
 wechselwirken.  Auch hier gibt es eine Analogie zu den nordischen Göttern, wie etwa die Erklärung des Donners (ein Element der
 objektiven Realität) durch den Donnergott [Thor](https://de.wikipedia.org/wiki/Thor). Für das tägliche Leben spielt der Mechanismus hinter dem Donner
 keine Rolle, aber er bietet Stoff für mythologische Geschichten.
+
+#### Efeu bzw. Verknöcherung
+
+In einer Sekundärliteratur zu Max Frischs [Homo faber](https://www.amazon.de/Homo-faber-Bericht-Max-Frisch/dp/3518368540) las ich, dass Faber in seiner Aussage "Ivy heißt Efeu, und so heißen für mich eigentlich alle Frauen" metaphorisch beschreibt, wie Frauen sich wie Kletterpflanze an ihm hochziehen und ihn umklammern wollen.
+Faber meint, Ivy, wie alle Frauen, versucht, ihn zu umschlingen, ihn gefügig zu machen und dabei symbolisiert das Efeu eine Art Fesselung und Einschränkung der Freiheit.
+
+Wenn ich an die Woke-Bewegung denke, dann beschleicht mich ein Gefühl von "Efeu":
+* Efeu ist ein Symbol für Erstickung und Kontrolle: Efeu ist bekannt dafür, dass er die Strukturen, an denen er wächst, überwuchert und manchmal sogar beschädigt.
+* Efeu symbolisiert auch den Verfall: Efeu wird oft mit alten, verfallenen Gebäuden in Verbindung gebracht und kennzeichnet einen Zustand des Verfalls.
+* Efeu drückt ein gefühl der Unentrinnbarkeit und Unerbittlichkeit aus: Efeu ist bekannt für sein hartnäckiges Wachstum und seine Fähigkeit, fast jeden Raum zu besetzen. Das Ranken des Efeus ist unausweichlich und allumfassend.
+
+Der Neurologe und Psychiater [Viktor Frankl](https://de.wikipedia.org/wiki/Viktor_Frankl) beschreibt drei Hauptstraßen zum Sinn:
+1. etwas Sinnvolles oder Wertvolles zu tun oder zu schaffen – Schaffenswerte;
+1. etwas Sinnvolles oder Wertvolles zu erleben (zum Beispiel lieben) – Erlebenswerte; und
+1. dem Leiden einen Sinn und damit einen Wert zu geben – Einstellungswerte.
+
+<!--
+> Somehow, over the past decade, we've gone from a useful heuristic ("focus on your strengths" and "find flow") down a **slippery slope** of **use-with-caution** ideas ("work smart, not hard" and "follow your passion") to the idea of work as a kind of consumption that should be chosen based on the pleasure one can derive from it.
+-->
+In [You Are Not an Artisan](https://www.ribbonfarm.com/2013/07/10/you-are-not-an-artisan/) beschreibt [Venkatesh Rao](https://www.ribbonfarm.com/about/), der Hauptautor des [Ribbonfarm Blogs](https://www.ribbonfarm.com), das Konzept der Rutschgefahr bzw. der "Slippery Slopes":
+> Irgendwie sind wir im Laufe des letzten Jahrzehnts von einer nützlichen Heuristik ("Konzentriere dich auf deine Stärken" und "Finde Flow") auf einen schlüpfrigen Abhang (**slippery slope**) mit Ideen, bei denen Vorsicht geboten ist ("Arbeite klug, nicht hart" und "Folge deiner Leidenschaft"; **use-with-caution** ideas),
+> hin zur Vorstellung von Arbeit als einer Art Konsum geraten, die auf Basis des Vergnügens, das man daraus ziehen kann, ausgewählt wird.
+
+Dieser Artikel ist aus dem Jahr 2013. Mitlerweile sind wir weiter. Es geht nicht mehr darum sich Arbeit so bequem wie möglich zu machen, sondern darum sich vor Arbeit zu drücken was an Begriffen wie Work-Life-Balance oder Steigerungen davon wie dem [Lazy-Girl Job](https://www.wsj.com/articles/the-career-goal-of-the-moment-is-a-lazy-girl-job-f5075c4e) Movement deutlich wird.
+
+Die Woke-Bewegung hat, meiner Meinung nach, diese "Slippery Slope" - eine zunehmende Vermeidungshaltung gegenüber der Arbeit einzunehmen, die zwar auf persönlicher Ebene nachvollziehbar sein mag - noch einen Schritt weiter getrieben.
+Sie stellt sich aktiv jeder Art von Schaffenswerten in den Weg. Sie möchte jedem, der seine Arbeit gerne tut, die Arbeit verleiden durch z. B. eine Flut von Papier, Regulierung und Bürokratie.
+
+> Die aktuellen [Bauernproteste](https://www.agrarheute.com/politik/bauernproteste-kundgebung-parteizentralen-berlin-geplant-615570), unterstützt von Handwerkern, Spediteuren, Fischern und vielen anderen aus der arbeitenden Bevölkerung, betrachte ich als Zeichen des Widerstands gegen diesen "Efeu",
+> gegen die politische Gängelung, und dagegen, die finanziellen Lasten unverhältnismäßig auf die "produktiven" Teile der Gesellschaft abzuwälzen, während die unproduktiven Gruppen, oft die eigene Wählerschaft, verschont bleiben.
+> Die Politik holt sich das Geld bei den Produktiven, weil sie es bei den Unproduktiven gar nicht holen kann.
+
+Die Situation erinnert mich auch an einen Artikel von [David Graeber](https://en.wikipedia.org/wiki/David_Graeber).
+In [On the phenomenon of bullshit jobs](https://libcom.org/article/phenomenon-bullshit-jobs-david-graeber) beleuchtet er ein interessantes Phänomen: Menschen, die essenzielle Arbeiten verrichten, sind oft schlecht bezahlt.
+Er definiert "wichtige Arbeit" als Arbeit, die für die Gesellschaft unverzichtbar ist und deren Ausfall sofort bemerkt würde.
+Graeber stellt fest, dass die Wahrscheinlichkeit, dass jemand für seine Arbeit gut bezahlt wird, umso geringer ist, je offensichtlicher diese Arbeit anderen Menschen einen Nutzen bringt.
+
+Aber ich lasse am besten David Graeber selbst zu Wort kommen:
+
+> In unserer Gesellschaft scheint es eine allgemeine Regel zu geben, dass die Wahrscheinlichkeit, dass jemand dafür bezahlt wird, umso geringer ist, je offensichtlicher die eigene Arbeit anderen Menschen einen Nutzen bringt.
+> Auch hier ist es schwer, ein objektives Maß zu finden, aber eine einfache Möglichkeit, ein Gefühl dafür zu bekommen, besteht darin, zu fragen: Was würde passieren, wenn diese ganze Klasse von Menschen einfach verschwinden würde?
+> Sagen Sie, was Sie über Krankenschwestern, Müllmänner oder Mechaniker wollen: Es ist klar, dass die Folgen unmittelbar und katastrophal wären, wenn sie in einer Rauchwolke verschwinden würden.
+> Eine Welt ohne Lehrer oder Hafenarbeiter würde bald in Schwierigkeiten geraten, und selbst eine Welt ohne Science-Fiction-Autoren oder Ska-Musiker wäre eindeutig ein schlechterer Ort.
+> Es ist nicht ganz klar, wie sehr die Menschheit leiden würde, wenn alle CEOs, Lobbyisten, PR-Forscher, Aktuare, Telemarketer, Gerichtsvollzieher oder Rechtsberater von Private-Equity-Unternehmen auf ähnliche Weise verschwinden würden (viele vermuten, dass es eine deutliche Verbesserung geben könnte).
+> Doch abgesehen von einer Handvoll vielgepriesener Ausnahmen (Ärzte) gilt die Regel überraschend gut.<br>
+> ...<br>
+> Es ist, als ob jemand zu ihnen (den Leuten die "echte" Arbeit erledigen) sagen würde: "Aber du darfst Kinder unterrichten! Oder Autos bauen! Du bekommst echte Jobs! Und obendrein erdreistest du dich auch noch eine angemessene Rente und Krankenversicherung zu erwarten?"
+
+David Graeber sieht den Kapitalismus als treibende Kraft hinter der Geringschätzung von Menschen, die echte Arbeit leisten.
+Meiner Ansicht nach zeigt die Woke-Bewegung eine mindestens ebenbürtige Verachtung gegenüber der produktiven Bevölkerung[^linkseinkommen].
+Im Bestfall ersetzt der Woke-Mensch die Bürokratie des Kapitals lediglich durch die Politbürokratie und die Bürokratie der Regelungs- und Kontrollwut.
+Im schlechtesten Fall trifft man direkt auf die kindliche Geisteshaltung "ich habe Anspruch auf Ansprüche" und man unterlasse es, den erhabenen Träger dieser Geisteshaltung, mit den profanen Belangen der materiellen Versorgung zu behelligen.
+Das hat auch etwas mit Status zu tun. Ich hatte das folgende Zitat aus  [Das Reiss Profile: Die 16 Lebensmotive. Welche Werte und Bedürfnisse unserem Verhalten zugrunde liegen](https://www.amazon.de/Das-Reiss-Profile-Lebensmotive-Bed%C3%BCrfnisse/dp/3869360003) bereits im Blogbeitrag [Aufklärung-Plus](../aufkl%C3%A4rung-plus) erwähnt:
+
+> Menschen, die etwas geleistet haben, betrachten diejenigen, die ihren Status ihrer Familie verdanken, als Personen, die keinen großen Respekt
+> verdient haben, während die Letzteren auf die Leistungsmenschen herabblicken, weil sie arbeiten müssen, um zu wichtigen Menschen zu werden. Sie
+> rühmen sich ihrer Untätigkeit genau deswegen, weil sie hervorheben wollen, sie seien so wichtig, dass sie noch nicht einmal arbeiten müssen.
+
+
+Über die Ursache dieses missionarischen Eifers, die Produktivkräfte der Gesellschaft zu ersticken und zu lähmen, bin ich mir unklar.
+Vielleicht folgt dieses Handeln einer ähnlichen Logik wie die [Abschaffung der Bundesjugendspiele](https://www.zeit.de/2023/30/bundesjugendspiele-reform-leistung-paedagogik), um zu verhindern, dass sich die Nichtleister oder die Schlechtleister minderwertig fühlen.
+Es könnte sich aber auch ganz einfach um einen Ressentimentreflex handeln: Wer in der Gesellschaft keine Anerkennung findet sucht sie gegen sie.
+
+Ich habe bereits in meinem Blogbeitrag [Energiewende](../energy-transition) auf die folgenden beiden Querverweise hingewiesen. Sie scheinen auch an dieser Stelle gut zu passen:
+
+> In [The Dystopia We Fear Is Keeping Us From the Utopia We Deserve](https://www.nytimes.com/2023/01/08/opinion/nuclear-fusion-flying-cars.html) wird
+> aus [Where Is My Flying Car?](https://press.stripe.com/where-is-my-flying-car) von J. Storrs Hall zitiert, der davon ausgeht, dass wir eine
+> "ergophobische" Gesellschaft geworden sind, die sich definiert als eine Gesellschaft, die "von dem fast unerklärlichen Glauben erfasst ist, dass mit
+> der Energienutzung etwas nicht stimmt." Die Gesellschaft teilt sich auf in die Macher und in die "do-nots", die die Stagnation befürworten und aus
+> unserer Zivilisation ein kollektives "couch potato" machen. Und aus seiner Sicht gewinnen die "do-nots".<br><br> An dieser Stelle passt auch ein
+> Hinweis auf das [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/) von Marc Andreessen, wobei mir persönlich der
+> Standpunkt von Ezra Klein, den er in seinem Artikel [The Chief Ideologist of the Silicon Valley Elite Has Some Strange
+> Ideas](https://www.nytimes.com/2023/10/26/opinion/marc-andreessen-reactionary-futurism.html) ausformuliert, besser gefällt: That, in a way, is my
+> core disagreement with Andreessen. Reactionary futurism is accelerationist in affect but decelerationist in practice. Treating so much of society
+> with such withering contempt will not speed up a better future. It will turn people against the politics and policies of growth, just as it did
+> before.
+
+In einigen Teilen unserer Gesellschaft hat sich eine Leistungsfeindlichkeit breitgemacht, die versucht, die Produktivkräfte der Gesellschaft zu ersticken.
+
+Hier sind einige Beispiele aufgezählt:
+
+* Ulrike Herrmann und ihr [grünes Schrumpfen](https://www.philomag.de/artikel/ulrike-herrmann-es-laeuft-auf-gruenes-schrumpfen-hinaus-nicht-auf-gruenes-wachstum): [Das Ende des Kapitalismus: Warum Wachstum und Klimaschutz nicht vereinbar sind – und wie wir in Zukunft leben werden](https://www.amazon.de/Das-Ende-Kapitalismus-Klimaschutz-vereinbar/dp/3462002554)
+* Regulationsflut wie z.B. das [Lieferkettengesetz](https://de.wikipedia.org/wiki/Lieferkettengesetz)
+* [Tempo 30 vs Verkehrsfluss: Experten kritisieren geplante StVG-Novelle](https://www.heise.de/news/Tempo-30-vs-Leichtigkeit-des-Verkehrs-Experten-beurteilen-geplante-StVG-Novelle-9336348.html) und die "Vision Zero", die besagt, dass niemand durch einen Verkehrsunfall getötet oder schwer verletzt werden soll.
+* [4-Tage-Woche im Handwerk](https://www.haustec.de/management/betriebsfuehrung/4-tage-woche-im-handwerk-machbar-oder-spinnerei)
+* ...
 
 #### Gegenüberstellung
 
@@ -984,8 +1080,23 @@ Im Buch [Kognitive Kriegsführung: Neueste Manipulationstechniken als Waffengatt
 > Die effizienteste Art und Weise, um einen Gegner zu überwältigen ist, ihre [sic] Gedanken und Glaubenssätze zu beeinflussen, und sie so gegen sich selbst zu richten.
 
 Angenommen, die Woke-Ideologie ist kein natürliches Phänomen, sondern eine konstruierte Halluzination – ein entlaufenes Laborexperiment oder ein
-erster Test der kognitiven Kriegsführung.  Es könnte sich sowohl um "Friendly Fire"[^kognitivekriegsfuhrung] als auch um "Enemy Fire" handeln. Wenn ich mir also vorstelle, der
-Ingenieur hinter einer Selbstzerstörungsideologie zu sein, wie würde ich vorgehen?
+erster Test der kognitiven Kriegsführung.  Es könnte sich sowohl um "Friendly Fire"[^kognitivekriegsfuhrung] als auch um "Enemy Fire" handeln.
+
+<!--
+https://en.wikiquote.org/wiki/Noam_Chomsky
+
+The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum - even encourage the more critical and dissident views.
+That gives people the sense that there's free thinking going on, while all the time the presuppositions of the system are being reinforced by the limits put on the range of the debate.
+ -->
+Hierzu ein Zitat des berühmten amerikanischen Linguisten [Noam Chomsky](https://en.wikiquote.org/wiki/Noam_Chomsky):
+> Der schlaueste Weg, Menschen passiv und folgsam zu halten, ist, das Spektrum akzeptierter Meinungen strikt zu limitieren, aber innerhalb dieses Spektrums sehr lebhafte Debatten zu erlauben.
+
+"Friendly Fire" wäre also darauf aus, die Menschen passiv und folgsam zu halten. [Norbert Bolz](https://de.wikipedia.org/wiki/Norbert_Bolz) hat es so ausgedrückt:
+> Wokeness ist die Nostalgie nach den Ungerechtigkeiten aus der Vergangenheit.
+
+Das würde erklären, warum man die lebhaften Debatten auf ein Gebiet lenkt, das aus objektiver Sicht heute irrelevant ist, jedoch genügend emotionales Potenzial besitzt, um die Aufmerksamkeit der Menschen zu fesseln.
+
+Wenn ich mir aber vorstelle, der Ingenieur hinter einer Selbstzerstörungsideologie zu sein, wie würde ich vorgehen?
 
 Nun, ich würde zunächst auf einer bereits bestehenden ideologischen Strömung aufbauen, wie den Ideen von [Jean-Paul Sartre](https://de.wikipedia.org/wiki/Jean-Paul_Sartre) und seinem antirassistischen Rassismus.
 Es ist einfacher, etwas Bestehendes zu verstärken, als etwas völlig Neues in Gang zu setzen.
@@ -1427,7 +1538,7 @@ In [Brauchen Eliten den großen Krieg?](https://youtu.be/Vc-RKRVC_C4) interviewt
 Dort baut er auf die Vorarbeiten von [Antony C. Sutton](https://de.wikipedia.org/wiki/Antony_C._Sutton), einem britischen Ökonomen, Historiker und Schriftsteller, und [Carroll Quigley](https://de.wikipedia.org/wiki/Carroll_Quigley), einem US-amerikanischen Historiker und Zivilisationstheoretiker, auf und beschreibt, wie es zum Ersten Weltkrieg kam.
 Ein Großteil der Vorarbeiten wurde von Carroll Quigley in seinem Buch [Tragedy and Hope](https://en.wikipedia.org/wiki/Tragedy_and_Hope) recherchiert.
 Der Kern der Geschichte ist, dass ein sehr kleiner Kreis von etwa fünf Personen, die man heute als "Globalisten" bezeichnen würde – um [Cecil Rhodes](https://en.wikipedia.org/wiki/Cecil_Rhodes) und [Alfred Milner](https://en.wikipedia.org/wiki/Alfred_Milner,_1st_Viscount_Milner) – sich anmaßte, Weltgeschichte zu spielen
-und die Welt in den Ersten Weltkrieg zu treiben. Tom-Oliver Regenauer sieht Parallelen zur heutigen Weltentwicklung und betrachtet vor allem Corporates und das Großkapital als Akteure,
+und die Welt in den Ersten Weltkrieg zu treiben[^kriegstreiberei]. Tom-Oliver Regenauer sieht Parallelen zur heutigen Weltentwicklung und betrachtet vor allem Corporates und das Großkapital als Akteure,
 die im Hintergrund die Schalthebel der Macht an den demokratischen Institutionen vorbei bedienen.
 
 Michael Andrick gibt meiner Meinung nach in [Spaltung verstehen und überwinden](#widerstandselement-im-schwingkreis) die korrekte Antwort auf die Frage nach einer Gegenstrategie:
@@ -1643,6 +1754,8 @@ Zum Abschluß noch ein Zitat von [Professor Christian Kreiß](https://youtu.be/x
 
 
 ### Sachebene und utilitaristische Interessen
+
+Immer wenn mich der Blick auf die Welt zu deprimieren beginnt, schaue ich mir Konstantin Kisins [Rede auf der ARC Conference 2023](https://www.youtube.com/watch?v=_1MICwdQtfU) an, die mich dann wieder aufbaut.
 
 ... in Arbeit ...
 
@@ -1868,3 +1981,5 @@ Achten Sie auch auf das Aktualisierungsdatum des T-Online Berichts: 28. August 2
 [^linkseinkommen]: [Alles, was die westliche Gesellschaft wertvoll macht, steht auf dem Spiel](https://www.tichyseinblick.de/feuilleton/buecher/alles-was-die-westliche-gesellschaft-wertvoll-macht-steht-auf-dem-spiel): Wer Menschen vor allem als Träger einer Hautfarbe und einer Herkunft sehen will, darf sich nicht für ihr Einkommen interessieren. Denn nur dann fügt sich der zum Mindestlohn bezahlte Kraftfahrer als Träger des weißen Privilegs in das Gesellschaftsbild ein, während die Staatssekretärin, deren Eltern als arabische Einwanderer kamen, lebenslänglich zu den Marginalisierten und potenziell Diskriminierten zählt, unabhängig von Status und Gehalt. Sie kehren damit die linke Klassik um.
 [^luisaneubauerdoppelmoral]: [Luisa Neubauer](https://www.rnd.de/politik/luisa-neubauer-in-podcast-von-kurt-kroemer-klimaaktivistin-sieht-ego-problem-in-der-generation-XEJJBBXGAFD4JH36TGU7RBNE3Q.html): "Besser Doppelmoral als gar keine Moral!"
 [^afdspende]: Siehe auch: [Wegen Spende an AfD: Sparkasse schickt Brief an Kunden](https://www.br.de/nachrichten/bayern/wegen-spende-an-afd-sparkasse-schickt-brief-an-kunden,U4BcxV1)
+[^kriegstreiberei]: Während im deutschen Kinderfernsehen KiKa Kriegspropaganda ausgestrahlt wird ([KiKa und ZDF propagieren Taurus-Lieferungen im Kinderfernsehen](https://www.tichyseinblick.de/daili-es-sentials/kika-taurus-waffenlieferungen-propaganda/)), warnt die New York Times: [The risk of nuclear conflict is rising](https://www.nytimes.com/interactive/2024/03/07/opinion/nuclear-war-prevention.html).
+[^privatepubliccensorship]: Siehe auch den Report des Justizkontrollausschusses ([House Judiciary](https://judiciary.house.gov/)) der US-amerikanischen Regierung: [New Report Details How the Federal Government Partnered with Universities to Censor Americans' Speech](https://judiciary.house.gov/media/press-releases/new-report-details-how-federal-government-partnered-universities-censor).
