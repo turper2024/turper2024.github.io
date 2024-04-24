@@ -82,7 +82,7 @@ Für den interessierten Leser gehe ich im [Anhang](#anhang%3A-axiologie%2C-moral
 
 
 Noch ein letzter Punkt bevor wir zum Thema Doppelmoral komme können. Im Vortrag [Der Konservativismus der Zukunft](https://youtu.be/8JTuhNkBa9Q?t=2848)[^bibliothekdeskonservatismus] geht der Jurist [Ulrich Vosgerau](https://de.wikipedia.org/wiki/Ulrich_Vosgerau)
-auf die unterschiede der neuen und der alten Linken ein und stellt die Bedeutung des Rechts für die Methoden der neuen Linken in den Mittelpunkt:
+auf die Unterschiede der neuen und der alten Linken ein und stellt die Bedeutung des Rechts für die Methoden der neuen Linken in den Mittelpunkt:
 <!--
 Und hier kommen wir langsam zum entscheidenden Unterschied zwischen der neuen und der alten linken ich greife mal kurz vor es ist der Unterschied dass Utopie zu normativismus
 umgestellt wird und das geht eher erkläre ich gleich weiter das geht erst nachdem die radikale Linke das Recht entdeckt hat ich komme drauf zurück die Linke war nicht immer moralisch.
@@ -131,7 +131,7 @@ An [anderer Stelle](../kulturschaffende/#wokes-kalifat) hatte ich zu diesem Them
 
 Zusammenfassend werde ich mich daher beim Thema Doppelmoral auf die Ebenen der Moral und des Rechts konzentrieren.
 
-### Moral und die gemeinschaft der Guten vs. offene pluralistische Gesellschaft
+### Moral und die Gemeinschaft der Guten vs. offene pluralistische Gesellschaft
 
 #### Zweck von Moral
 
@@ -193,7 +193,7 @@ Das Individuum hat im Christentum die Macht und zugleich den Auftrag, mit all se
 
 #### Der asymmetrische Puritanismus = Doppelmoral und Willkür
 
-Demgegenüber steht der Puritanismus der links-grün-woke Ideologie, die Gruppen in das Zentrum ihrer Überlegungen stellt und daraus eine **asymmetrische Doppelmoral** ableitet.
+Demgegenüber steht der Puritanismus der links-grün-woken Ideologie, die Gruppen in das Zentrum ihrer Überlegungen stellt und daraus eine **asymmetrische Doppelmoral** ableitet.
 Die Konsequenzen eines Puritanismus, der auf asymmetrischer Doppelmoral beruht, sind ungleich gravierender als die des christlichen Puritanismus, weil der Einzelne sich nicht einmal mehr zur Wehr setzen kann, indem er die gleiche Behandlung einfordert, die auch allen anderen zuteil wird. Doppelmoral ist gleichbedeutend mit **Willkür**.
 Die [Landeszentrale für politische Bildung Baden-Württemberg](https://www.lpb-bw.de/rechtsstaat) formuliert zum Thema Rechtsstaat und Willkürherrschaft:
 
@@ -562,7 +562,7 @@ Und [weiter](https://youtu.be/Aviyl1eiC1s?t=1727):
 > Vielleicht ist Ihnen das nicht bewusst, aber wenn ich es dem amerikanischen Publikum erzähle, sind sie schockiert.
 > Mao setzte Identitätspolitik ein und schuf in China zehn Identitäten: fünf davon bezeichnete er als rot für kommunistisch, fünf als schwarz für faschistisch, und er ordnete die Menschen diesen Kategorien zu.
 
-Die Vordenker der links-grün-woke Bewegung schneiden die Grenzen des "Nationalismus" lediglich anders, nicht auf territorialer Basis, sondern auf identitätspolitischer Ebene.
+Die Vordenker der links-grün-woken Bewegung schneiden die Grenzen des "Nationalismus" lediglich anders, nicht auf territorialer Basis, sondern auf identitätspolitischer Ebene.
 Somit steht die links-grün-woke Bewegung in der Tradition der Nationalisten und Faschisten der ersten Hälfte des 20. Jahrhunderts.
 Sie adaptieren die Machiavellismus² Prinzipien (die Politik entscheidet über die Moral), die deutsche, italienische und französische faschistische Vordenker zu Beginn des 20. Jahrhunderts entwickelt haben,
 und lehnen die universellen griechisch-römisch-christlichen Tugenden als moralische Basis ab. Sie wollen dem politischen Gegner nicht das ihm Gebührende geben und ganz bestimmt nicht gemeinsam mit ihm ein System der Gerechtigkeit und Harmonie errichten.
@@ -1428,19 +1428,31 @@ Natural Science, he says, is held in great esteem. A theory that claims to be sc
 -->
 > Naturwissenschaften, sagt er, werden hoch geschätzt. Eine Theorie, die vorgibt, wissenschaftlich zu sein, kann das leichtgläubige Publikum viel besser beeinflussen als eine, die offen ihre politische oder ideologische Voreingenommenheit zugibt.
 
-An dieser Stelle passen zwei Einschübe. Erstens ein Zitat Stalins:
+Zu dieser Gelegenheit passt noch einmal das Zitat von [Hegel](https://gutezitate.com/zitat/242530):
+> Wenn die Tatsachen nicht mit der Theorie übereinstimmen, umso schlimmer für die Tatsachen.
+
+Hier noch einige zusätzliche Einschübe. Zuerst ein Zitat Stalins:
 
 > [Vor uns steht eine Festung](https://www.tichyseinblick.de/meinungen/naturwissenschaften-ideologie/). Der Name dieser Festung, ist Wissenschaft mit ihren zahlreichen Wissenszweigen.
 > Diese Festung müssen wir um jeden Preis nehmen.
 > Diese Festung muss die Jugend nehmen, wenn sie der Erbauer eines neuen Lebens sein, wenn sie zu einem wirklichen Nachwuchs der alten Garde werden will.
 
-Zweitens: ein [Videoausschnitt](https://indikativ.jetzt/heinz-bude-und-der-umbau-der-gesellschaft/) in dem [Heinz Bude](https://de.wikipedia.org/wiki/Heinz_Bude), der Soziologe in der COVID-19 Task Force des Bundesministerium des Inneren zur Corona-Zeit war aus dem Nähkästchen plaudert:
+Sodann ein [Videoausschnitt](https://indikativ.jetzt/heinz-bude-und-der-umbau-der-gesellschaft/), in dem [Heinz Bude](https://de.wikipedia.org/wiki/Heinz_Bude), der Soziologe in der COVID-19 Task Force des Bundesministerium des Inneren zur Corona-Zeit war aus dem Nähkästchen plaudert:
 
 > Jetzt noch einmal aus dem Nähkästchen geplaudert. Wir haben gesagt, wir müssen ein Modell finden, um Folgebereitschaft herzustellen, das so ein bisschen wissenschaftsähnlich ist.
 > Und das war diese Formel "Flatten the curve", dass wir gesagt haben: "Wie können wir die Leute überzeugen, mitzumachen?"
 > Wir sagen denen, es sieht so nach Wissenschaft aus. Man sagt, "wenn ihr schön diszipliniert seid, könnt ihr die Kurve verändern“. ...
 > Das haben wir von einem Wissenschaftsjournalisten geklaut, wir haben es nicht selber erfunden.
 > Aber wir fanden es irgendwie toll, dass man so, also dass man so ein quasi Wissenschaftsargument ...
+
+Sehen Sie sich auch [Why Biological Sex Is Being Undermined](https://www.youtube.com/watch?v=-4WV9xv62f4) von Dr. [Colin Wright](https://drcolinwright.com/) an.
+Wenn Sie eine wissenschaftliche Vorbildung haben, dann wird Ihnen übel werden bei dem Gedanken, dass es diese "Voodoo Sciences"[^voodooscience] in die renommiertesten naturwissenschaftlichen Zeitschriften geschafft haben.
+
+Und noch weitere Kommentare von Wissenschaftlern der alten Schule zu ähnlichen Themenfeldern:
+* [Facebook-Kommentar](https://www.ostsachsen-tv.com/ein-statement-auf-facebook-geht-um-die-welt/) von Prof. Dr. Knut Löschke
+* US-Forscherin [Judith A. Curry](https://en.wikipedia.org/wiki/Judith_Curry) gehörte in den USA einst zu den meistgefragten Klimaforschern.
+  Heute ist sich Curry sicher: "Es gibt eine [Klimawandel-Industrie](https://reitschuster.de/post/klimawandel-industrie-belohnt-wissenschaftlichen-alarmismus/), die wissenschaftlichen Alarmismus belohnt."
+  Wer die vermeintliche Gefahr des "menschengemachten Klimawandels" übertreibe, auf den warteten "Ruhm und Reichtum", so die Professorin, die dabei durchaus aus eigener Erfahrung zu berichten weiß.
 
 Aber nun zurück zu den Ausführungen von James Lindsay:<br>
 **Fortschritt**:
@@ -1733,3 +1745,4 @@ Law is an attempt to formalize the complicated demands of morality, in order to 
 [^willezurmacht]: Siehe auch: [Ricarda Lang: Ich will Macht!](https://youtu.be/0R6GOMUYyD4?t=70)
 [^sokalandsquared]:  Siehe [Sokal Hoax](https://en.wikipedia.org/wiki/Sokal_affair) und [Sokal zum Quadrat](https://en.wikipedia.org/wiki/Grievance_studies_affair).
 [^bibliothekdeskonservatismus]: In der [Bibliothek des Konservatismus](https://www.youtube.com/@bdkBerlin).
+[^voodooscience]: [Norbert Bolz](https://de.wikipedia.org/wiki/Norbert_Bolz) bezeichnet das in [Der alte weiße Mann](https://www.amazon.de/alte-wei%C3%9Fe-Mann-S%C3%BCndenbock-Nation/dp/3784436536) als "Voodoo Science".
