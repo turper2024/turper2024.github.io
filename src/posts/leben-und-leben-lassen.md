@@ -1081,6 +1081,14 @@ Sie führt diese Verschiebung auf eine neuen Generation von Journalisten zurück
 
 Birgit Kelle prägt für dieses Phänomen den Begriff [Lückenpresse](https://youtu.be/RlDEjrO9raQ?t=124).
 
+Weitere Artikel zum Thema:
+* [ARD und ZDF müssen grundlegend reformiert werden – endlich regt sich auch in den Anstalten Selbstkritik](https://www.nzz.ch/der-andere-blick/manifest-fuer-ard-und-zdf-endlich-regt-sich-in-den-sendern-selbstkritik-ld.1824732):
+  Ein Manifest will den öffentlichrechtlichen Rundfunk neu begründen. Noch sind die Unterstützer in den Sendern eine Minderheit, aber ein Anfang ist gemacht. Sonst wird aus der Akzeptanz- eine Existenzkrise.
+  * [Manifest für einen neuen öffentlich-rechtlichen Rundfunk in Deutschland](https://meinungsvielfalt.jetzt/manifest.html) + [Petition](https://www.openpetition.de/petition/online/erneuerung-des-oeffentlich-rechtlichen-rundfunks).
+  * [ÖRR: Das Imperium schlägt zurück](https://www.tichyseinblick.de/feuilleton/medien/oerr-manifest-suche-nach-kritikern/)
+* [Französische Zeitung kritisiert deutsche Medien: Für «Le Monde diplomatique» ist klar, Deutschlands Journalisten haben ihren kritischen Kurs weitgehend aufgegeben](https://weltwoche.ch/daily/franzoesische-zeitung-kritisiert-deutsche-medien-fuer-le-monde-diplomatique-ist-klar-deutschlands-journalisten-haben-ihren-kritischen-kurs-weitgehend-aufgegeben/).
+  * [Espoirs et misère de la critique des médias en Allemagne](https://www.monde-diplomatique.fr/2024/03/SCHEIDLER/66637).
+
 #### Slippery Slope: Debanking
 
 Hier ist ein Artikel zum Debanking-Fall des Brexit-Politikers [Nigel Farage](https://en.wikipedia.org/wiki/Nigel_Farage) vom 21. Februar 2024: [Farage hatte recht!](https://www.politico.eu/article/debunking-debanking/)
