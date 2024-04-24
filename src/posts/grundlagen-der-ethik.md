@@ -681,7 +681,7 @@ Paraphrasiert hat [Steven Weinberg](https://de.wikiquote.org/wiki/Steven_Weinber
 
 > Mit oder ohne Moral/Ethik würden gute Menschen Gutes tun und böse Menschen Böses. Aber damit gute Menschen Böses tun, bedarf es der Moral/Ethik.
 
-Wenn man den Mitläufern einreden kann, dass das Merkmal einer erhabenen Seele der Wunsch sei, [politisch Korrekt](https://de.wikipedia.org/wiki/Politische_Korrektheit) zu sein, wohingegen das Merkmal einer geringeren Seele der Wunsch sei, gerecht zu sein, dann kann man diese Mitläufer dazu animieren, gegen die "Gegner" vorzugehen.
+Wenn man den Mitläufern einreden kann, dass das Merkmal einer erhabenen Seele der Wunsch sei, [politisch korrekt](https://de.wikipedia.org/wiki/Politische_Korrektheit) zu sein, wohingegen das Merkmal einer geringeren Seele der Wunsch sei, gerecht zu sein, dann kann man diese Mitläufer dazu animieren, gegen die "Gegner" vorzugehen.
 Hat man den Mitläufern einmal den praktischen Nutzen der [Verachtung](https://www.kopp-verlag.de/a/verachtung-nach-unten) nahegebracht und eine Art Kult der Grausamkeit ([Cancel Culture](https://de.wikipedia.org/wiki/Cancel_Culture)) etabliert, lassen sie sich dazu verleiten, die ersten Schritte auf dem Weg zu den [10 Stufen des Völkermords](https://www.genocidewatch.com/tenstages) zu gehen.
 
 ### Beispiele
