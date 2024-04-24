@@ -1081,6 +1081,18 @@ Sie führt diese Verschiebung auf eine neuen Generation von Journalisten zurück
 
 Birgit Kelle prägt für dieses Phänomen den Begriff [Lückenpresse](https://youtu.be/RlDEjrO9raQ?t=124).
 
+#### Slippery Slope: Debanking
+
+Hier ist ein Artikel zum Debanking-Fall des Brexit-Politikers [Nigel Farage](https://en.wikipedia.org/wiki/Nigel_Farage) vom 21. Februar 2024: [Farage hatte recht!](https://www.politico.eu/article/debunking-debanking/)
+
+Mittlerweile ist es üblich geworden, Personen mit unerwünschten Meinungen, sofern man ihnen nicht anders begegnen kann, den Zugang zum Finanzsystem zu verweigern – ein Vorgang, der auf Neudeutsch als [Debanking](https://en.wikipedia.org/wiki/De-banking) bezeichnet wird.
+
+* [Nigel Farage and NatWest: A timeline of what happened](https://news.sky.com/story/nigel-farages-bank-accounts-whats-it-all-about-and-whats-the-coutts-threshold-12915155).
+* [Die Einschüchterungsstrategie](https://www.manova.news/artikel/die-einschuchterungsstrategie): Banken kündigen Regierungskritikern reihenweise die Konten, um auch "unterhalb der Strafbarkeitsschwelle" Druck auf die Meinungsfreiheit auszuüben. Auch Manova hat es jetzt erwischt.
+* [Inside the 'disinformation' industry](https://www.youtube.com/watch?v=ILEMV0xKGh4): Eine staatlich geförderte Agentur zensiert Journalismus; Freddie Sayers von UnHerd ermittelt.
+  * [Global Disinformation Index (GDI): Die geheimdienstliche Spinne im globalen Zensurnetz](https://norberthaering.de/propaganda-zensur/gdi/).
+* [Facebooks Zensuralgorithmus läuft weiter Amok gegen Regierungskritik](https://norberthaering.de/propaganda-zensur/facebooks-zensuralgorithmus/): Die öffentlich-private Zensurpartnerschaft gegen regierungskritische Inhalte im Netz arbeitet auf Hochtouren. Ein weiteres Mal hat Facebook die Weiterverbreitung eines völlig harmlosen, regierungskritischen Beitrags von mir unterbunden, wieder mit der absurden Begründung des Verdachts auf Gewaltdarstellungen. Diesmal war es ein Beitrag über ein Urteil des Bundesverfassungsgerichts. Dass der Zensuralgorithmus von Facebook nicht nach Gewalt, sondern nach etwas ganz anderem sucht, macht die Zusammenschau der ausgebremsten Beiträge überdeutlich.
+
 #### Moralisierende Diskussionstabus
 
 [Ferdinand Kirchhof](https://de.wikipedia.org/wiki/Ferdinand_Kirchhof)[^ferdinandkirchhof], ehemaliger Vizepräsident des Bundesverfassungsgerichts, stellt in der [Neuen Juristischen Wochenschrift](https://tobias-lib.ub.uni-tuebingen.de/xmlui/handle/10900/143180) fest:
@@ -1189,6 +1201,34 @@ Aus dem liberalen, libertären sowie konservativen Bereich kommen:
 * [Neue Zürcher Zeitung](https://www.nzz.ch)
 * [Ralf Schuler](https://www.youtube.com/@ralf-schuler)
 * [Horst Lüning](https://www.youtube.com/@UnterBlog)
+
+#### Urteil des Bundesverfassungsgerichts vom 16. April 2024 zur Meinungsfreiheit
+
+Am 16. April 2024 meldete die FAZ: [Karlsruhe: Reichelt-Kritik an Bundesregierung ist erlaubt](https://www.faz.net/agenturmeldungen/dpa/karlsruhe-reichelt-kritik-an-bundesregierung-ist-erlaubt-19657008.html).
+Der Rechtsanwalt, der dieses sensationelle Urteil bewirkt hat, [Joachim Nikolaus Steinhöfel](https://de.wikipedia.org/wiki/Joachim_Steinh%C3%B6fel), spricht in [Schulze, Faeser, Paus und Haldenwang sind Verfassungsfeinde!](https://www.youtube.com/watch?v=ZjEY64AKecA) über den Fall.
+
+Der Artikel [Das Bundesverfassungsgericht watscht Faeser und Haldenwang ab](https://www.tichyseinblick.de/meinungen/bundesverfassungsgericht-haldenwang-faeser-meinungsfreiheit) gibt eine Interpretation und Einordnung:
+> Machtkritik und damit Staatskritik sind erlaubt. Mit diesem Urteil stärkt das Bundesverfassungsgericht nicht nur den Wert der Meinungsfreiheit. Es ist eine heftige Niederlage für jene, die von Grenzen der Meinungsfreiheit sprechen, oder Delegitimierungen des Staates als Tatbestand einführen.
+> * Das Gut der Meinungsfreiheit ist in Deutschland so stark geschützt, weil es aus dem "besonderen Schutzbedürfnis der Machtkritik erwachsen ist." Dazu noch ein Zitat: "Dem Staat kommt kein grundrechtlich fundierter Ehrenschutz zu."
+> * Der Staat hat grundsätzlich auch scharfe und polemische Kritik auszuhalten. Zwar dürfen grundsätzlich auch staatliche Einrichtungen vor verbalen Angriffen geschützt werden, da sie ohne ein Mindestmaß an gesellschaftlicher Akzeptanz ihre Funktion nicht zu erfüllen vermögen. Ihr Schutz darf indessen nicht dazu führen, staatliche Einrichtungen gegen öffentliche Kritik – unter Umständen auch in scharfer Form – abzuschirmen, die von dem Grundrecht der Meinungsfreiheit in besonderer Weise gewährleistet werden soll, und der zudem das Recht des Staates gegenübersteht, fehlerhafte Sachdarstellungen oder diskriminierende Werturteile klar und unmissverständlich zurückzuweisen. Das Gewicht des für die freiheitlich-demokratische Ordnung schlechthin konstituierenden Grundrechts der Meinungsfreiheit ist dann besonders hoch zu veranschlagen, da es gerade aus dem besonderen Schutzbedürfnis der Machtkritik erwachsen ist und darin unverändert seine Bedeutung findet.
+> * Jetzt müsste man nur noch den nächsten Schritt gehen: nämlich, dass Machtkritik nicht nur erlaubt ist, sondern für den Bestand eines demokratischen Systems sogar unabdingbar.
+
+Was mich persönlich schockiert und beängstigt, ist, dass es in einem solchen Fall überhaupt ein Urteil des Bundesverfassungsgerichts nötig war.
+Dass eine Ministerin, die ihren [Amtseid](https://de.wikipedia.org/wiki/Amtseid#Bundesrepublik_Deutschland) auf die Verfassung geschworen hat, überhaupt auf die Idee kommt, diese [Ideen](https://www.cicero.de/innenpolitik/attacken-bundesregierung-rechtsordnung-lisa-paus-nancy-faeser) öffentlich anzusprechen und dann auch noch versucht umzusetzen, ohne wesentlichen Widerspruch aus den Leitmedien oder der parlamentarischen Opposition, macht mich sprachlos.
+
+Der Amtseid lautet:
+> Ich schwöre, dass ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. [So wahr mir Gott helfe.]
+
+Als einer der wenigen äußerte sich Prof. [Martin Schwab](https://de.wikipedia.org/wiki/Martin_Schwab_(Jurist)), der seit Oktober 2015 an der Universität Bielefeld lehrt und den Lehrstuhl für Bürgerliches Recht, Verfahrens- und Unternehmensrecht innehat.
+Im Artikel [Thomas Haldenwang und Nancy Faeser verkörpern die personifizierte Bedrohung für unsere Demokratie](https://www.tichyseinblick.de/interviews/haldenwangfaeser-verkoerpern-bedrohung-demokratie-schwab) sprach er sich bereits vor der Entscheidung aus Karlsruhe deutlich aus:
+> Thomas Haldenwang und Nancy Faeser verkörpern die personifizierte Bedrohung für unsere Demokratie.
+> Sollte mich jemand für diese Aussage disziplinarrechtlich belangen, werde ich sämtliche Angriffe, die von Frau Faeser und Herrn Haldenwang gegen unsere Verfassung geführt werden, vor Gericht ausbreiten.
+> Die Versuche dieser beiden Personen, den demokratischen Diskurs abzutöten, lassen sich glasklar und gerichtsfest belegen.
+
+In [Reden, wie wir wollen: gegen Faesers Sprechverbote](https://www.tichyseinblick.de/video/streit-bar/sagen-was-wir-wollen/) diskutieren der Rechtswissenschaftler Professor [Martin Schwab](https://de.wikipedia.org/wiki/Martin_Schwab_(Jurist)) und der freie Journalist sowie Kommentator bei Kontrafunk,
+[Frank Wahlig](https://kontrafunk.radio/de/stimmen/kontrafunker/frank-wahlig), zusammen mit den Gastgebern der Streitbar,
+[Roland Tichy](https://de.wikipedia.org/wiki/Roland_Tichy) und [Diether Dehm](https://de.wikipedia.org/wiki/Diether_Dehm), ob man nicht gegen Frau Faeser als Verfassungsministerin auf Basis des Urteils des Bundesverfassungsgerichts weitere rechtliche Schritte einleiten könnte.
+Sehen Sie sich die Diskussion gerne selbst auf [YouTube](https://www.youtube.com/watch?v=pJbvlzCYC3Q) an.
 
 #### Fazit
 
