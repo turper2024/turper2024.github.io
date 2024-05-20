@@ -1549,6 +1549,9 @@ Der Kern der Geschichte ist, dass ein sehr kleiner Kreis von etwa fünf Personen
 und die Welt in den Ersten Weltkrieg zu treiben[^kriegstreiberei]. Tom-Oliver Regenauer sieht Parallelen zur heutigen Weltentwicklung und betrachtet vor allem Corporates und das Großkapital als Akteure,
 die im Hintergrund die Schalthebel der Macht an den demokratischen Institutionen vorbei bedienen.
 
+[Rainer Mausfeld](https://de.wikipedia.org/wiki/Rainer_Mausfeld) spricht in [Hybris und Nemesis](https://westendverlag.de/Hybris-und-Nemesis/1621) von der Entzivilisierung von Macht. Wenn man diese Idee weiter denkt, dann steht an ihrem Ende das Recht des Stärkeren und das Faustrecht.
+Vielleicht geht es bei der [Verharmlosung von Ausländerkriminalität](https://www.tichyseinblick.de/daili-es-sentials/polizeistatistik-fakten-woke) darum die Bevölkerung an Gewalt und an das Faustrecht zu gewöhnen, damit dann gezielte Maßnahmen gegen Kritiker in der Masse verschwimmen können.
+
 Michael Andrick gibt meiner Meinung nach in [Spaltung verstehen und überwinden](#widerstandselement-im-schwingkreis) die korrekte Antwort auf die Frage nach einer Gegenstrategie:
 
 > Aber wir können die Mitarbeit aufkündigen und uns stattdessen wie aufgeklärte Bürger einer Demokratie verhalten. "Nur wer das Spiel aufgibt, gewinnt" (Chamfort).
