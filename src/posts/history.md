@@ -197,6 +197,35 @@ Ich behaupte, dass die Ideologie, die einem Totalitarismus zugrunde liegt, vom W
 
 > 1. Gebot: Du sollst keine anderen Götter haben neben mir.
 
+## Sheldon Wolin: Invertierter Totalitarismus
+
+Ich lese gerade [Hybris und Nemesis](https://westendverlag.de/Hybris-und-Nemesis/1621) von [Rainer Mausfeld](https://de.wikipedia.org/wiki/Rainer_Mausfeld). Über Querverweise bin ich auf den Begriff des [invertierten Totalitarismus](https://de.wikipedia.org/wiki/Invertierter_Totalitarismus) von [Sheldon Wolin](https://en.wikipedia.org/wiki/Sheldon_Wolin) gestoßen,
+den dieser bereits ab dem Jahr 2003 entwickelt hat. Auf Wikipedia findet man dazu:
+
+> Merkmale des invertiert totalitären Systems sind nach dem Journalisten Elie Mystal im Einzelnen:
+>
+> * eine schwache Legislative: Abgeordnete des Parlaments haben einen geringen Einfluss auf die Gesetzgebung; die Legislative dient der Akklamation der Regierungsentscheidungen.
+> * eine zugleich repressive und die Regierung unterstützende Judikative: Gerichte orientieren sich an den Wünschen der Regierung und unterdrücken Regierungskritik.
+> * eine von außerparlamentarischen Institutionen gesteuerte Exekutive: Die Regierung und ihre Ministerien folgen nicht eigenen Erkenntnissen und Interessen, sondern Lobbyisten und Beratern.
+> * die Aufhebung der Gewaltenkontrolle durch eine übergeordnete Integration der Gewalten mithilfe
+>   * eines uniformen Parteiensystems,
+>   * der Integration von Medien, Universitäten und Großkonzernen durch personelle und institutionelle Vernetzung
+>     * speziell durch strukturelle Integration der Konzernmedien: Medien werden staatlich beaufsichtigt, benutzt und politisch besetzt
+>     * affirmative Integration der Universitäten in das staatliche Kontrollsystem: Universitäten unterstützen staatliche Maßnahmen, weil sie von staatlicher und privater Förderung abhängig sind
+>     * kooperative Integration der Großkonzerne in das staatlich Steuerungssystem: Unternehmen und Staat arbeiten zu gemeinsamen Zielen zusammen
+>   * einer Propagandamaschine aus Think Tanks, Stiftungen und NGOs
+>   * Kooperation von Polizei (Exekutive) und Rechtsbehörden (Judikative) bei der Feststellung terroristischer Umtriebe, verdächtiger Ausländer und Dissidenten.
+>
+> Für Wolin hat der umgekehrte Totalitarismus im Gegensatz zum klassischen Totalitarismus die Einrichtungen von Wissenschaft, Forschung und Bildung nicht nachträglich in seinen Dienst gestellt (Gleichschaltung), sondern sich eine "eigene loyale Intelligenzja kultiviert" und die gesellschaftlichen Kräfte zur Selbstangleichung geführt.
+>
+> Der klassische Totalitarismus habe unabhängige Kritiker systematisch durch Ausstoßung oder Eliminierung zum Schweigen gebracht und von den übrigen Loyalität zu Partei und Regierung verlangt.
+>
+> Hingegen habe der umgekehrte Totalitarismus die Wissenschaftler und Forscher durch eine Kombination von staatlichen Aufträgen, Unternehmens- und Stiftungsgeldern, hohen Gehältern und Vergünstigungen nahtlos in das System integriert und greife nur gelegentlich ein, um Kritiker zu schikanieren und zu diskreditieren.
+
+Zu dieser Sichtweise der Wissenschaft passt auch das Interview [Dutch farmers: Rise of ‘Scientism’ and the ‘Junk’ Climate Models Used by Government to Take Farmers’ Land | Facts Matter](https://www.theepochtimes.com/epochtv/rise-of-scientism-and-the-junk-climate-models-used-by-government-to-take-farmers-land-facts-matter-5652622) mit
+[Dr. Jaap C. Hanekamp](https://www.ucr.nl/academics/academic-program/faculty/academic-staff/dr-jaap-hanekamp/), Professor für Chemie. Er erklärt darin, dass die Maßnahmen der niederländischen Regierung zur Reduktion von Nitrat auf unbrauchbaren wissenschaftlichen Modellen beruhen.
+Diese Tatsache sei allen Beteiligten bekannt, dennoch wird unbeirrt weitergemacht.
+
 ## Künstliche Intelligenz und Alignment
 
 In [Aufklärung-Plus](../aufklärung-plus) stelle ich die These auf:
