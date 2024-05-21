@@ -1558,6 +1558,25 @@ Michael Andrick gibt meiner Meinung nach in [Spaltung verstehen und überwinden]
 
 Wir sollten uns nicht weiter von Nebensächlichkeiten ablenken lassen (siehe auch [Ablenkungsstrategie](#woke-agenda)) und unsere Politiker dazu drängen, wieder das zu tun, wofür wir sie gewählt haben, nämlich qualitativ hochwertige [Sacharbeit](#sachebene-und-utilitaristische-interessen) zu leisten.
 
+#### Versuchter Mord an unserer Gesellschaft und Kultur
+
+Es folgt ein Transkript von Gedanken die [James Lindsay](https://en.wikipedia.org/wiki/James_A._Lindsay) am 20. Mai 2024 [geäußert](https://youtu.be/MNLbI07rAdE?t=3906) hat:
+
+> Ich höre immer wieder diese negative Botschaft: Dies ist der Anblick einer sterbenden Gesellschaft oder Kultur, und ich möchte, dass die Leute ihre Perspektive ändern. Ich höre es die ganze Zeit. Ich sehe Bilder von den verrückten Sachen bei Pride-Veranstaltungen, und die Leute sagen: Das ist der Anblick einer sterbenden Kultur. Oder die verrückten Sachen auf den Campus oder was auch immer.
+
+> Ich möchte, dass die Leute aufhören zu denken, dass dies eine sterbende Kultur ist. Es gibt viele Wege zu sterben. Man kann alt und krank werden. Man kann erschossen werden. Aber dies ist keine sterbende Kultur; dies ist ein versuchter Mord an unserer Gesellschaft und Kultur. Ich möchte, dass die Leute verstehen, dass wir nicht eine sterbende Kultur erleben, die einfach ihr Verfallsdatum erreicht hat oder krank geworden ist.
+
+> Wir erleben einen versuchten Mord an unserer Gesellschaft und Kultur. Wenn wir das nicht realisieren und auf diese Weise darüber nachdenken, arbeiten wir am Problem vorbei.
+
+> Wenn die Leute fragen, warum glaubst du, lassen sie die Leute über die Grenze kommen? Die Antwort ist: Es ist ein versuchter Mord an unserer Gesellschaft und Kultur. Wenn die Leute fragen, warum glaubst du, dass sie das mit unseren Kindern in den Schulen machen, mit den Sex-Sachen und allem anderen? Es ist ein versuchter Mord an unserer Gesellschaft und Kultur. Es ist Absicht. Es ist nicht Unfähigkeit, die dazu geführt hat. Es ist Absicht.
+
+> Stellen Sie sich vor, die Gesellschaft ist wie ein Körper – sie wäre eine Person – und diese Person hat einen Stiefel auf dem Nacken, vielleicht ist eine Waffe auf den Kopf gerichtet. Aber der Körper lebt. Wenn man den Stiefel von seinem Nacken bekommt, dann kann der Körper sich erholen! Vielleicht hat er einige Verletzungen. Vielleicht muss er etwas heilen. Vielleicht braucht er eine Therapie oder etwas Ähnliches, aber der Körper kann sich wieder erholen. Wenn die Gesellschaft einfach stirbt, dann war’s das. Sie ist verloren. Es ist vorbei.
+
+> Die positive Nachricht ist: Diese Feinde, wenn sie das absichtlich tun, können tatsächlich identifiziert und möglicherweise gestoppt werden. Und wenn sie gestoppt werden, dann haben wir es nicht mit einer sterbenden Gesellschaft zu tun, sondern mit einer Gesellschaft, die sich von einem Überfall erholt und danach für den Rest ihres Lebens gedeihen kann.
+
+James Lindsay spricht in seinem Podcast [Action, Reaction, and Beautiful Trouble](https://newdiscourses.com/2023/02/action-reaction-and-beautiful-trouble/) über die Methoden, die angewendet werden. Dabei handelt es sich um eine Weiterentwicklung der [Rules for Radicals](https://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134) von Saul D. Alinsky.
+Man kann eine Anleitung zu diesen Methoden auf der Website [Beautiful Trouble: A Toolbox for Revolution, Study Guide](https://beautifultrouble.org/), erwerben.
+
 #### Absolventen
 
 Es stellt sich die Frage, welche Bedeutung Absolventen der Gender Studies in unserer Gesellschaft künftig einnehmen sollen.
